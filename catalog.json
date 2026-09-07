@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-07T00:00:00Z",
+  "updatedAt": "2026-09-07T06:20:29Z",
   "packs": [
     {
       "id": "official-001",
@@ -13,7 +13,9 @@
       "bytes": 5657870,
       "sha256": "bc521ba1a02d97a9afc3d299215bc37d7656315741143ccd0b9227d6a8e8981a",
       "archiveUrl": "https://github.com/yyh-001/dsh-meme-packs/releases/download/official-001-v1.0.0/official-001-v1.0.0.zip",
-      "homepage": "https://github.com/anka-afk/astrbot-meme-pack-official-01"
+      "homepage": "https://github.com/anka-afk/astrbot-meme-pack-official-01",
+      "preview": "https://raw.githubusercontent.com/yyh-001/dsh-meme/main/memes/official-001/memes/happy/1739434144_1.jpg",
+      "keywords": ["官方", "通用", "starter"]
     },
     {
       "id": "dafeiyu-001",
@@ -26,7 +28,9 @@
       "bytes": 2111076,
       "sha256": "98a6a8a4251caf496be778e782d453b00b5f6d39ff2b600395e89a8ec7b1d99a",
       "archiveUrl": "https://github.com/yyh-001/dsh-meme-packs/releases/download/dafeiyu-001-v1.2.0/dafeiyu-001-v1.2.0.zip",
-      "homepage": "https://github.com/yyh-001/dsh-meme"
+      "homepage": "https://github.com/yyh-001/dsh-meme",
+      "preview": "https://raw.githubusercontent.com/yyh-001/dsh-meme/main/memes/dafeiyu-001/memes/happy/deyi.jpg",
+      "keywords": ["大肥鱼", "DeepSeek", "鲸鱼娘", "chibi"]
     }
   ]
 }
