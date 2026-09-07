@@ -1,0 +1,49 @@
+name: 投稿图库
+description: 提交一个希望收录到 dsh-meme 图库仓库的表情包
+title: "[投稿] "
+labels:
+  - submission
+body:
+  - type: input
+    id: name
+    attributes:
+      label: 图库名称
+      placeholder: 例如：打工人日常
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: 图库说明
+      description: 请说明图片数量、主要风格和适用场景。
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: 图片来源
+      description: 原创请填写“原创”；转载需提供原始链接和授权说明。
+    validations:
+      required: true
+  - type: input
+    id: license
+    attributes:
+      label: 许可方式
+      placeholder: 例如：CC-BY-NC-SA-4.0 / 仅个人使用
+    validations:
+      required: true
+  - type: textarea
+    id: package
+    attributes:
+      label: 图库 ZIP
+      description: 把由 dsh-meme 导出的 ZIP 拖到这里，或者填写可公开下载的链接。
+    validations:
+      required: true
+  - type: checkboxes
+    id: rights
+    attributes:
+      label: 权利确认
+      options:
+        - label: 我确认有权提交和公开分发这些图片，并接受仓库管理员审核或下架。
+          required: true
+

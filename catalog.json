@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-07T00:00:00Z",
+  "packs": [
+    {
+      "id": "official-001",
+      "name": "官方表情包1号",
+      "version": "1.0.0",
+      "description": "Astrbot mememanager 官方初始表情包。",
+      "maintainer": "anka-afk",
+      "license": "CC-BY-NC-SA-4.0",
+      "count": 92,
+      "bytes": 5657870,
+      "sha256": "bc521ba1a02d97a9afc3d299215bc37d7656315741143ccd0b9227d6a8e8981a",
+      "archiveUrl": "https://github.com/yyh-001/dsh-meme-packs/releases/download/official-001-v1.0.0/official-001-v1.0.0.zip",
+      "homepage": "https://github.com/anka-afk/astrbot-meme-pack-official-01"
+    },
+    {
+      "id": "dafeiyu-001",
+      "name": "大肥鱼",
+      "version": "1.2.0",
+      "description": "DeepSeek 鲸鱼娘 chibi 表情包，包含常用情绪与聊天反应。",
+      "maintainer": "yyh-001",
+      "license": "personal",
+      "count": 49,
+      "bytes": 2111076,
+      "sha256": "98a6a8a4251caf496be778e782d453b00b5f6d39ff2b600395e89a8ec7b1d99a",
+      "archiveUrl": "https://github.com/yyh-001/dsh-meme-packs/releases/download/dafeiyu-001-v1.2.0/dafeiyu-001-v1.2.0.zip",
+      "homepage": "https://github.com/yyh-001/dsh-meme"
+    }
+  ]
+}
