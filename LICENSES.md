@@ -21,3 +21,9 @@
 - 许可标记：`personal`
 - 商业使用或再分发前，请先获得权利人许可。
 
+## deepseek-chan
+
+- 名称：DeepSeek酱语录
+- 上游：[`the-beating-light-of-the-nail/deepseek-chan-meme-pack`](https://github.com/the-beating-light-of-the-nail/deepseek-chan-meme-pack) · 站点 [梗鲸 ai-meme](https://ai-meme.cdqyfdbymn.me/)
+- 许可标记：`noncommercial-fan`（非商业二创向，来源与授权以上游仓库为准；作者保留下架请求）
+- 说明：本市场只保存一份**远程清单**（`manifests/deepseek-chan.json`），图片不随本仓库分发——插件安装时直接从作者公开 CDN 拉取（作者 README 明确邀请热链）
