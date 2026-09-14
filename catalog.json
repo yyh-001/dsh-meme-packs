@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-14T07:04:56Z",
+  "updatedAt": "2026-09-14T07:39:40Z",
   "packs": [
     {
       "id": "official-001",
@@ -125,6 +125,45 @@
         "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-learned/23.jpg",
         "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-learned/24.jpg",
         "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-learned/25.jpg"
+      ]
+    },
+    {
+      "id": "deepseek-chan",
+      "name": "DeepSeek酱语录",
+      "version": "1.0.0",
+      "description": "DeepSeek 娘化鲸鱼娘表情包 128 张，台词级 caption（V4 发布、涨价、画饼、吃白饭这些名场面），来自梗鲸 ai-meme 站。",
+      "maintainer": "the-beating-light-of-the-nail",
+      "license": "noncommercial-fan",
+      "count": 128,
+      "manifestUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/manifests/deepseek-chan.json",
+      "homepage": "https://github.com/the-beating-light-of-the-nail/deepseek-chan-meme-pack",
+      "preview": "https://raw.githubusercontent.com/the-beating-light-of-the-nail/deepseek-chan-meme-pack/main/previews/123",
+      "previews": [
+        "https://raw.githubusercontent.com/the-beating-light-of-the-nail/deepseek-chan-meme-pack/main/previews/123",
+        "https://raw.githubusercontent.com/the-beating-light-of-the-nail/deepseek-chan-meme-pack/main/previews/007",
+        "https://raw.githubusercontent.com/the-beating-light-of-the-nail/deepseek-chan-meme-pack/main/previews/022",
+        "https://raw.githubusercontent.com/the-beating-light-of-the-nail/deepseek-chan-meme-pack/main/previews/035",
+        "https://raw.githubusercontent.com/the-beating-light-of-the-nail/deepseek-chan-meme-pack/main/previews/037",
+        "https://raw.githubusercontent.com/the-beating-light-of-the-nail/deepseek-chan-meme-pack/main/previews/040",
+        "https://raw.githubusercontent.com/the-beating-light-of-the-nail/deepseek-chan-meme-pack/main/previews/044",
+        "https://raw.githubusercontent.com/the-beating-light-of-the-nail/deepseek-chan-meme-pack/main/previews/050",
+        "https://raw.githubusercontent.com/the-beating-light-of-the-nail/deepseek-chan-meme-pack/main/previews/052",
+        "https://raw.githubusercontent.com/the-beating-light-of-the-nail/deepseek-chan-meme-pack/main/previews/056",
+        "https://raw.githubusercontent.com/the-beating-light-of-the-nail/deepseek-chan-meme-pack/main/previews/058",
+        "https://raw.githubusercontent.com/the-beating-light-of-the-nail/deepseek-chan-meme-pack/main/previews/070",
+        "https://raw.githubusercontent.com/the-beating-light-of-the-nail/deepseek-chan-meme-pack/main/previews/071",
+        "https://raw.githubusercontent.com/the-beating-light-of-the-nail/deepseek-chan-meme-pack/main/previews/077",
+        "https://raw.githubusercontent.com/the-beating-light-of-the-nail/deepseek-chan-meme-pack/main/previews/081",
+        "https://raw.githubusercontent.com/the-beating-light-of-the-nail/deepseek-chan-meme-pack/main/previews/083",
+        "https://raw.githubusercontent.com/the-beating-light-of-the-nail/deepseek-chan-meme-pack/main/previews/085",
+        "https://raw.githubusercontent.com/the-beating-light-of-the-nail/deepseek-chan-meme-pack/main/previews/087",
+        "https://raw.githubusercontent.com/the-beating-light-of-the-nail/deepseek-chan-meme-pack/main/previews/097"
+      ],
+      "keywords": [
+        "DeepSeek",
+        "鲸鱼娘",
+        "台词",
+        "梗图"
       ]
     }
   ]
