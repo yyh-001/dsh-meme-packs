@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-07T06:20:29Z",
+  "updatedAt": "2026-09-14T07:04:56Z",
   "packs": [
     {
       "id": "official-001",
@@ -15,22 +15,50 @@
       "archiveUrl": "https://github.com/yyh-001/dsh-meme-packs/releases/download/official-001-v1.0.0/official-001-v1.0.0.zip",
       "homepage": "https://github.com/anka-afk/astrbot-meme-pack-official-01",
       "preview": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/official-001.jpg",
-      "keywords": ["官方", "通用", "starter"]
+      "keywords": [
+        "官方",
+        "通用",
+        "starter"
+      ]
     },
     {
       "id": "dafeiyu-001",
       "name": "大肥鱼",
-      "version": "1.2.0",
-      "description": "DeepSeek 鲸鱼娘 chibi 表情包，包含常用情绪与聊天反应。",
+      "version": "1.3.0",
+      "description": "DeepSeek 鲸鱼娘 chibi 表情包，24 张（2026-09 拆分：其中 25 张自动学图表情改为独立的 dafeiyu-learned）。",
       "maintainer": "yyh-001",
       "license": "personal",
-      "count": 49,
-      "bytes": 2111076,
-      "sha256": "98a6a8a4251caf496be778e782d453b00b5f6d39ff2b600395e89a8ec7b1d99a",
-      "archiveUrl": "https://github.com/yyh-001/dsh-meme-packs/releases/download/dafeiyu-001-v1.2.0/dafeiyu-001-v1.2.0.zip",
+      "count": 24,
+      "bytes": 942084,
+      "sha256": "9fca6a4fc101232b39ab79181b9ed1b12289cf4890b3fadac89576545e51b3a4",
+      "archiveUrl": "https://github.com/yyh-001/dsh-meme-packs/releases/download/dafeiyu-001-v1.3.0/dafeiyu-001-v1.3.0.zip",
       "homepage": "https://github.com/yyh-001/dsh-meme",
       "preview": "https://raw.githubusercontent.com/yyh-001/dsh-meme/main/memes/dafeiyu-001/memes/happy/deyi.jpg",
-      "keywords": ["大肥鱼", "DeepSeek", "鲸鱼娘", "chibi"]
+      "keywords": [
+        "大肥鱼",
+        "DeepSeek",
+        "鲸鱼娘",
+        "chibi"
+      ]
+    },
+    {
+      "id": "dafeiyu-learned",
+      "name": "大肥鱼·学图",
+      "version": "1.0.0",
+      "description": "大肥鱼图库「自动学图」新增的 25 张表情，原先并入 dafeiyu-001 v1.2.0，现为独立图库。图片由 hZsFN 贡献。",
+      "maintainer": "hZsFN",
+      "license": "personal",
+      "count": 25,
+      "bytes": 1181739,
+      "sha256": "05104a3e8711076725bf5435a04a071f28f75f9d3bd4192367ef8523440f23d4",
+      "archiveUrl": "https://github.com/yyh-001/dsh-meme-packs/releases/download/dafeiyu-learned-v1.0.0/dafeiyu-learned-v1.0.0.zip",
+      "homepage": "https://github.com/yyh-001/dsh-meme",
+      "preview": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-learned.jpg",
+      "keywords": [
+        "大肥鱼",
+        "学图",
+        "自动学图"
+      ]
     }
   ]
 }
