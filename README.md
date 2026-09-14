@@ -9,7 +9,8 @@
 | 图库 | 版本 | 数量 | 许可 | 下载 |
 | --- | --- | ---: | --- | --- |
 | 官方表情包1号 | 1.0.0 | 92 张 | CC-BY-NC-SA-4.0 | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/official-001-v1.0.0/official-001-v1.0.0.zip) |
-| 大肥鱼 | 1.2.0 | 49 张 | personal | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/dafeiyu-001-v1.2.0/dafeiyu-001-v1.2.0.zip) |
+| 大肥鱼 | 1.3.0 | 24 张 | personal | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/dafeiyu-001-v1.3.0/dafeiyu-001-v1.3.0.zip) |
+| 大肥鱼·学图 | 1.0.0 | 25 张 | personal | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/dafeiyu-learned-v1.0.0/dafeiyu-learned-v1.0.0.zip) |
 
 ## 导入方法
 
