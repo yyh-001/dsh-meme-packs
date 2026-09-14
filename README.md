@@ -11,6 +11,7 @@
 | 官方表情包1号 | 1.0.0 | 92 张 | CC-BY-NC-SA-4.0 | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/official-001-v1.0.0/official-001-v1.0.0.zip) |
 | 大肥鱼 | 1.3.0 | 24 张 | personal | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/dafeiyu-001-v1.3.0/dafeiyu-001-v1.3.0.zip) |
 | 大肥鱼·学图 | 1.0.0 | 25 张 | personal | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/dafeiyu-learned-v1.0.0/dafeiyu-learned-v1.0.0.zip) |
+| DeepSeek酱语录 | 1.0.0 | 128 张 | noncommercial-fan | [上游仓库](https://github.com/the-beating-light-of-the-nail/deepseek-chan-meme-pack)（安装时从作者 CDN 热链下载） |
 
 ## 导入方法
 
