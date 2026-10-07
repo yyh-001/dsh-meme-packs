@@ -12,7 +12,7 @@
 | 大肥鱼 | 1.3.0 | 24 张 | personal | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/dafeiyu-001-v1.3.0/dafeiyu-001-v1.3.0.zip) |
 | 大肥鱼·学图 | 1.1.1 | 31 张 | personal | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/dafeiyu-learned-v1.1.1/dafeiyu-learned-v1.1.1.zip) |
 | 鲸鱼娘表情包 | 1.0.0 | 91 张 | noncommercial-fan | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/whale-girl-emoji-v1.0.0/whale-girl-emoji-v1.0.0.zip) |
-| DeepSeek酱语录 | 1.0.1 | 128 张 | noncommercial-fan | [上游仓库](https://github.com/the-beating-light-of-the-nail/deepseek-chan-meme-pack)（安装时从作者 CDN 热链下载） |
+| DeepSeek酱语录 | 1.0.2 | 128 张 | noncommercial-fan | [上游仓库](https://github.com/the-beating-light-of-the-nail/deepseek-chan-meme-pack)（安装时从作者 CDN 热链下载） |
 
 ## 导入方法
 
@@ -24,6 +24,14 @@
 ## 机器可读目录
 
 [`catalog.json`](./catalog.json) 提供版本、下载地址、文件大小和 SHA-256，可供 dsh-meme 图库市场或其他客户端读取。
+
+## 按内容找图
+
+[`stickers.json`](./stickers.json) 里每条是一张表情。`name` 是画面内容的短名，预览文件也用这个名字。`description` 写画面里有什么，`text` 是图上的字，`keywords` 和 `useWhen` 用来对上对话场合。`path` 仍是已发布图库包里的原文件。有 `imageUrl` 时可以直接取这张图发送。
+
+```bash
+node scripts/search-stickers.mjs 下班了
+```
 
 ## 投稿图库
 
