@@ -28,6 +28,16 @@
 - 许可标记：`noncommercial-fan`（非商业二创向，来源与授权以上游仓库为准；作者保留下架请求）
 - 说明：本市场只保存一份**远程清单**（`manifests/deepseek-chan.json`），图片不随本仓库分发——插件安装时直接从作者公开 CDN 拉取（作者 README 明确邀请热链）
 
+## maid-emoji
+
+- 名称：女仆表情包
+- 投稿：CBEdwin（issue #6）
+- 上游：[`plolpl789/dsh-maid-emoji`](https://github.com/plolpl789/dsh-maid-emoji) 的内置表情包（`assets/emoji`，47 张；插件本体为 MIT）
+- 许可标记：`CC-BY-NC-SA-4.0`
+- 说明：女仆鲸鱼娘形象二次设计由 **ZipZipPipe** 创作，按 CC BY-NC-SA 4.0 授权（需署名、非商业、相同方式共享）。
+  47 张与上游逐字节一致；其中 44 张此前已随 whale-girl-emoji 收录，`生气`/`害羞`/`晚安` 3 张为新收录。
+  维护侧修正：`破防了` 一条 caption/关键词按「破坏」误解，已改正并移入 sad 情绪桶；`拒绝`、`别催` 两条描述改为贴合画面。
+
 ## whale-girl-emoji
 
 - 名称：鲸鱼娘表情包

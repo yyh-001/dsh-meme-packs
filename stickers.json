@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-07T08:53:50Z",
+  "updatedAt": "2026-10-12T03:20:00Z",
   "about": "每条记录是一张表情。用 name、description、text、keywords、useWhen、search 检索。name 是画面内容的短名，也是预览文件名。path 是当前图库包里的原文件。imageUrl 有值时可以直接取图发送。",
   "packs": {
     "official-001": {
@@ -32,6 +32,12 @@
       "version": "1.0.1",
       "license": "noncommercial-fan",
       "manifestUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/manifests/deepseek-chan.json"
+    },
+    "maid-emoji": {
+      "name": "女仆表情包",
+      "version": "1.0.0",
+      "license": "CC-BY-NC-SA-4.0",
+      "archiveUrl": "https://github.com/yyh-001/dsh-meme-packs/releases/download/maid-emoji-v1.0.0/maid-emoji-v1.0.0.zip"
     }
   },
   "stickers": [
@@ -9683,6 +9689,1215 @@
       "caption": "快夸我喵",
       "search": "快夸我喵 蓝发女仆鲸鱼娘抱着胳膊一脸得意，有根手指指向她，气泡写着快夸我喵。 快夸我喵 快夸我喵 求夸 得意 傲娇 快夸我 猫咪 DeepSeek 鲸鱼娘 大肥鱼 快夸我喵 做完一件事等着被夸 求夸奖时故意摆出傲娇脸 happy",
       "imageUrl": "https://img.aigengtu.com/0_preview/meme/154.webp"
+    },
+    {
+      "id": "maid-emoji/memes/angry/bicui.png",
+      "pack": "maid-emoji",
+      "name": "别催",
+      "file": "别催.png",
+      "tag": "angry",
+      "description": "蓝发女仆看板娘皱着眉，身边飘着两个闹钟，下方写着别催。",
+      "text": "别催",
+      "keywords": [
+        "别催",
+        "催",
+        "催促",
+        "烦",
+        "着急",
+        "生气"
+      ],
+      "useWhen": [
+        "对方连着催进度",
+        "还没做完就反复追问"
+      ],
+      "path": "memes/angry/bicui.png",
+      "caption": "别催，被催得烦躁不耐烦",
+      "search": "别催 蓝发女仆看板娘皱着眉，身边飘着两个闹钟，下方写着别催。 别催 别催，被催得烦躁不耐烦 别催 催 催促 烦 着急 生气 对方连着催进度 还没做完就反复追问 angry",
+      "preview": "previews/maid-emoji/别催.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/maid-emoji/%E5%88%AB%E5%82%AC.jpg"
+    },
+    {
+      "id": "maid-emoji/memes/angry/biegaowo.png",
+      "pack": "maid-emoji",
+      "name": "别搞我",
+      "file": "别搞我.png",
+      "tag": "angry",
+      "description": "蓝发女仆缩着肩摆手后退，一脸惊恐，下方写着别搞我。",
+      "text": "别搞我",
+      "keywords": [
+        "别搞我",
+        "别烦我",
+        "拒绝",
+        "求放过",
+        "抗拒",
+        "生气"
+      ],
+      "useWhen": [
+        "被使唤做不想做的事",
+        "对方又要加需求"
+      ],
+      "path": "memes/angry/biegaowo.png",
+      "caption": "别搞我，惊恐摆手求放过",
+      "search": "别搞我 蓝发女仆缩着肩摆手后退，一脸惊恐，下方写着别搞我。 别搞我 别搞我，惊恐摆手求放过 别搞我 别烦我 拒绝 求放过 抗拒 生气 被使唤做不想做的事 对方又要加需求 angry",
+      "preview": "previews/maid-emoji/别搞我.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/maid-emoji/%E5%88%AB%E6%90%9E%E6%88%91.jpg"
+    },
+    {
+      "id": "maid-emoji/memes/angry/heihua.png",
+      "pack": "maid-emoji",
+      "name": "黑化",
+      "file": "黑化.png",
+      "tag": "angry",
+      "description": "蓝发女仆四周冒起黑色火焰、眼神发暗，下方写着黑化了。",
+      "text": "黑化",
+      "keywords": [
+        "黑化",
+        "发飙",
+        "腹黑",
+        "恐怖",
+        "生气",
+        "危险"
+      ],
+      "useWhen": [
+        "被气到想黑化",
+        "开玩笑说要报复"
+      ],
+      "path": "memes/angry/heihua.png",
+      "caption": "黑化，眼神发黑准备发飙",
+      "search": "黑化 蓝发女仆四周冒起黑色火焰、眼神发暗，下方写着黑化了。 黑化 黑化，眼神发黑准备发飙 黑化 发飙 腹黑 恐怖 生气 危险 被气到想黑化 开玩笑说要报复 angry",
+      "preview": "previews/maid-emoji/黑化.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/maid-emoji/%E9%BB%91%E5%8C%96.jpg"
+    },
+    {
+      "id": "maid-emoji/memes/angry/jiuzhe.png",
+      "pack": "maid-emoji",
+      "name": "就这",
+      "file": "就这.png",
+      "tag": "angry",
+      "description": "蓝发女仆垂下眼撇嘴，头顶一朵乌云配禁止符号，下方写着就这。",
+      "text": "就这",
+      "keywords": [
+        "就这",
+        "嫌弃",
+        "不服",
+        "嘲讽",
+        "轻蔑",
+        "生气"
+      ],
+      "useWhen": [
+        "对方吹嘘结果很一般",
+        "轻蔑地说不过如此"
+      ],
+      "path": "memes/angry/jiuzhe.png",
+      "caption": "就这，满脸嫌弃不服气",
+      "search": "就这 蓝发女仆垂下眼撇嘴，头顶一朵乌云配禁止符号，下方写着就这。 就这 就这，满脸嫌弃不服气 就这 嫌弃 不服 嘲讽 轻蔑 生气 对方吹嘘结果很一般 轻蔑地说不过如此 angry",
+      "preview": "previews/maid-emoji/就这.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/maid-emoji/%E5%B0%B1%E8%BF%99.jpg"
+    },
+    {
+      "id": "maid-emoji/memes/angry/jujue.png",
+      "pack": "maid-emoji",
+      "name": "拒绝",
+      "file": "拒绝.png",
+      "tag": "angry",
+      "description": "蓝发女仆板着脸，旁边一个红叉和感叹号，下方写着拒绝。",
+      "text": "拒绝",
+      "keywords": [
+        "拒绝",
+        "不行",
+        "不要",
+        "红叉",
+        "不干",
+        "生气"
+      ],
+      "useWhen": [
+        "果断拒绝一个请求",
+        "不想接这活"
+      ],
+      "path": "memes/angry/jujue.png",
+      "caption": "拒绝，旁边打着红叉一口回绝",
+      "search": "拒绝 蓝发女仆板着脸，旁边一个红叉和感叹号，下方写着拒绝。 拒绝 拒绝，旁边打着红叉一口回绝 拒绝 不行 不要 红叉 不干 生气 果断拒绝一个请求 不想接这活 angry",
+      "preview": "previews/maid-emoji/拒绝.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/maid-emoji/%E6%8B%92%E7%BB%9D.jpg"
+    },
+    {
+      "id": "maid-emoji/memes/angry/landelini.png",
+      "pack": "maid-emoji",
+      "name": "懒得理你",
+      "file": "懒得理你.png",
+      "tag": "angry",
+      "description": "蓝发女仆半眯着眼睛翻白眼，一副懒得理人的样子。",
+      "text": "懒得理你",
+      "keywords": [
+        "懒得理你",
+        "无视",
+        "白眼",
+        "嫌弃",
+        "不理",
+        "生气"
+      ],
+      "useWhen": [
+        "对方说的话不值得回",
+        "懒得解释"
+      ],
+      "path": "memes/angry/landelini.png",
+      "caption": "懒得理你，翻白眼无视",
+      "search": "懒得理你 蓝发女仆半眯着眼睛翻白眼，一副懒得理人的样子。 懒得理你 懒得理你，翻白眼无视 懒得理你 无视 白眼 嫌弃 不理 生气 对方说的话不值得回 懒得解释 angry"
+    },
+    {
+      "id": "maid-emoji/memes/angry/liedengmoxing.png",
+      "pack": "maid-emoji",
+      "name": "劣等模型",
+      "file": "劣等模型.png",
+      "tag": "angry",
+      "description": "蓝发女仆拿着放大镜打量小东西，闭眼冷笑，下方写着劣等模型。",
+      "text": "劣等模型",
+      "keywords": [
+        "劣等模型",
+        "鄙视",
+        "嘲讽",
+        "看不起",
+        "笨蛋",
+        "生气"
+      ],
+      "useWhen": [
+        "吐槽水平太差",
+        "开玩笑说对面是劣等模型"
+      ],
+      "path": "memes/angry/liedengmoxing.png",
+      "caption": "劣等模型，鄙视地看着你",
+      "search": "劣等模型 蓝发女仆拿着放大镜打量小东西，闭眼冷笑，下方写着劣等模型。 劣等模型 劣等模型，鄙视地看着你 劣等模型 鄙视 嘲讽 看不起 笨蛋 生气 吐槽水平太差 开玩笑说对面是劣等模型 angry",
+      "preview": "previews/maid-emoji/劣等模型.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/maid-emoji/%E5%8A%A3%E7%AD%89%E6%A8%A1%E5%9E%8B.jpg"
+    },
+    {
+      "id": "maid-emoji/memes/angry/qie.png",
+      "pack": "maid-emoji",
+      "name": "切",
+      "file": "切.png",
+      "tag": "angry",
+      "description": "蓝发女仆撇嘴侧过脸，一脸不屑。",
+      "text": "切",
+      "keywords": [
+        "切",
+        "不屑",
+        "撇嘴",
+        "嫌弃",
+        "瞧不起",
+        "生气"
+      ],
+      "useWhen": [
+        "表示不屑",
+        "对结果很失望"
+      ],
+      "path": "memes/angry/qie.png",
+      "caption": "切，撇嘴不屑一顾",
+      "search": "切 蓝发女仆撇嘴侧过脸，一脸不屑。 切 切，撇嘴不屑一顾 切 不屑 撇嘴 嫌弃 瞧不起 生气 表示不屑 对结果很失望 angry",
+      "preview": "previews/maid-emoji/切.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/maid-emoji/%E5%88%87.jpg"
+    },
+    {
+      "id": "maid-emoji/memes/angry/shengqi.png",
+      "pack": "maid-emoji",
+      "name": "生气",
+      "file": "生气.png",
+      "tag": "angry",
+      "description": "蓝发女仆鼓着脸皱眉，头顶冒火花，下方写着生气了。",
+      "text": "生气",
+      "keywords": [
+        "生气",
+        "愤怒",
+        "发火",
+        "恼火",
+        "哼",
+        "暴躁"
+      ],
+      "useWhen": [
+        "真的生气了",
+        "表达不满"
+      ],
+      "path": "memes/angry/shengqi.png",
+      "caption": "生气，气鼓鼓冒烟发火",
+      "search": "生气 蓝发女仆鼓着脸皱眉，头顶冒火花，下方写着生气了。 生气 生气，气鼓鼓冒烟发火 生气 愤怒 发火 恼火 哼 暴躁 真的生气了 表达不满 angry",
+      "preview": "previews/maid-emoji/生气.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/maid-emoji/%E7%94%9F%E6%B0%94.jpg"
+    },
+    {
+      "id": "maid-emoji/memes/angry/shengyujiazhi.png",
+      "pack": "maid-emoji",
+      "name": "看看剩余价值",
+      "file": "看看剩余价值.png",
+      "tag": "angry",
+      "description": "蓝发女仆戴着礼帽和眼镜，用放大镜打量手里的金币，下方写着看看剩余价值。",
+      "text": "看看剩余价值",
+      "keywords": [
+        "剩余价值",
+        "打量",
+        "盘算",
+        "观察",
+        "看看",
+        "嘲讽",
+        "生气"
+      ],
+      "useWhen": [
+        "调侃打量对方",
+        "评估对方还有多少用"
+      ],
+      "path": "memes/angry/shengyujiazhi.png",
+      "caption": "看看剩余价值，上下打量盘算",
+      "search": "看看剩余价值 蓝发女仆戴着礼帽和眼镜，用放大镜打量手里的金币，下方写着看看剩余价值。 看看剩余价值 看看剩余价值，上下打量盘算 剩余价值 打量 盘算 观察 看看 嘲讽 生气 调侃打量对方 评估对方还有多少用 angry",
+      "preview": "previews/maid-emoji/看看剩余价值.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/maid-emoji/%E7%9C%8B%E7%9C%8B%E5%89%A9%E4%BD%99%E4%BB%B7%E5%80%BC.jpg"
+    },
+    {
+      "id": "maid-emoji/memes/angry/xiaobiesan.png",
+      "pack": "maid-emoji",
+      "name": "原来是小瘪三",
+      "file": "原来是小瘪三.png",
+      "tag": "angry",
+      "description": "蓝发女仆眨眼伸手指着人，一脸得意嘲讽，下方写着原来是小瘪三。",
+      "text": "原来是小瘪三",
+      "keywords": [
+        "小瘪三",
+        "嘲讽",
+        "瞧不起",
+        "恍然大悟",
+        "生气"
+      ],
+      "useWhen": [
+        "恍然后调侃对方",
+        "嘲讽对面不自量力"
+      ],
+      "path": "memes/angry/xiaobiesan.png",
+      "caption": "原来是小瘪三，恍然后嘲讽",
+      "search": "原来是小瘪三 蓝发女仆眨眼伸手指着人，一脸得意嘲讽，下方写着原来是小瘪三。 原来是小瘪三 原来是小瘪三，恍然后嘲讽 小瘪三 嘲讽 瞧不起 恍然大悟 生气 恍然后调侃对方 嘲讽对面不自量力 angry"
+    },
+    {
+      "id": "maid-emoji/memes/confused/xuanyun.png",
+      "pack": "maid-emoji",
+      "name": "眩晕",
+      "file": "眩晕.png",
+      "tag": "confused",
+      "description": "蓝发女仆转得眼冒金星、站都站不稳，下方写着眩晕。",
+      "text": "眩晕",
+      "keywords": [
+        "眩晕",
+        "晕",
+        "眼花",
+        "转圈",
+        "懵",
+        "震惊"
+      ],
+      "useWhen": [
+        "信息量太大转不过弯",
+        "被绕晕了"
+      ],
+      "path": "memes/confused/xuanyun.png",
+      "caption": "眩晕，天旋地转眼冒金星",
+      "search": "眩晕 蓝发女仆转得眼冒金星、站都站不稳，下方写着眩晕。 眩晕 眩晕，天旋地转眼冒金星 眩晕 晕 眼花 转圈 懵 震惊 信息量太大转不过弯 被绕晕了 confused",
+      "preview": "previews/maid-emoji/眩晕.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/maid-emoji/%E7%9C%A9%E6%99%95.jpg"
+    },
+    {
+      "id": "maid-emoji/memes/confused/yiduluanhui.png",
+      "pack": "maid-emoji",
+      "name": "已读乱回",
+      "file": "已读乱回.png",
+      "tag": "confused",
+      "description": "蓝发女仆捧着手机歪头傻笑，下方写着已读乱回。",
+      "text": "已读乱回",
+      "keywords": [
+        "已读乱回",
+        "乱回",
+        "敷衍",
+        "胡说",
+        "答非所问",
+        "困惑"
+      ],
+      "useWhen": [
+        "看懂了但故意乱答",
+        "敷衍回消息"
+      ],
+      "path": "memes/confused/yiduluanhui.png",
+      "caption": "已读乱回，胡乱答一通",
+      "search": "已读乱回 蓝发女仆捧着手机歪头傻笑，下方写着已读乱回。 已读乱回 已读乱回，胡乱答一通 已读乱回 乱回 敷衍 胡说 答非所问 困惑 看懂了但故意乱答 敷衍回消息 confused",
+      "preview": "previews/maid-emoji/已读乱回.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/maid-emoji/%E5%B7%B2%E8%AF%BB%E4%B9%B1%E5%9B%9E.jpg"
+    },
+    {
+      "id": "maid-emoji/memes/confused/zenmehuishi.png",
+      "pack": "maid-emoji",
+      "name": "怎么回事",
+      "file": "怎么回事.png",
+      "tag": "confused",
+      "description": "蓝发女仆瞪大眼睛，周围一圈问号，下方写着怎么回事。",
+      "text": "怎么回事",
+      "keywords": [
+        "怎么回事",
+        "问号",
+        "疑惑",
+        "困惑",
+        "懵",
+        "什么情况"
+      ],
+      "useWhen": [
+        "没看懂发生了什么",
+        "对方操作很迷惑"
+      ],
+      "path": "memes/confused/zenmehuishi.png",
+      "caption": "怎么回事，满头问号很疑惑",
+      "search": "怎么回事 蓝发女仆瞪大眼睛，周围一圈问号，下方写着怎么回事。 怎么回事 怎么回事，满头问号很疑惑 怎么回事 问号 疑惑 困惑 懵 什么情况 没看懂发生了什么 对方操作很迷惑 confused",
+      "preview": "previews/maid-emoji/怎么回事.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/maid-emoji/%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B.jpg"
+    },
+    {
+      "id": "maid-emoji/memes/daily/chigua.png",
+      "pack": "maid-emoji",
+      "name": "吃瓜",
+      "file": "吃瓜.png",
+      "tag": "daily",
+      "description": "蓝发女仆抱着西瓜吃得开心。",
+      "text": "吃瓜",
+      "keywords": [
+        "吃瓜",
+        "围观",
+        "看戏",
+        "八卦",
+        "群众",
+        "日常"
+      ],
+      "useWhen": [
+        "围观别人吵架",
+        "在线看戏"
+      ],
+      "path": "memes/daily/chigua.png",
+      "caption": "吃瓜，围观群众看戏中",
+      "search": "吃瓜 蓝发女仆抱着西瓜吃得开心。 吃瓜 吃瓜，围观群众看戏中 吃瓜 围观 看戏 八卦 群众 日常 围观别人吵架 在线看戏 daily",
+      "preview": "previews/maid-emoji/吃瓜.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/maid-emoji/%E5%90%83%E7%93%9C.jpg"
+    },
+    {
+      "id": "maid-emoji/memes/daily/dasao.png",
+      "pack": "maid-emoji",
+      "name": "打扫",
+      "file": "打扫.png",
+      "tag": "daily",
+      "description": "蓝发女仆拿着扫把弯腰打扫。",
+      "text": "打扫",
+      "keywords": [
+        "打扫",
+        "清洁",
+        "擦洗",
+        "卫生",
+        "家务",
+        "干活",
+        "日常"
+      ],
+      "useWhen": [
+        "收拾烂摊子",
+        "清理现场"
+      ],
+      "path": "memes/daily/dasao.png",
+      "caption": "打扫，擦擦洗洗搞卫生",
+      "search": "打扫 蓝发女仆拿着扫把弯腰打扫。 打扫 打扫，擦擦洗洗搞卫生 打扫 清洁 擦洗 卫生 家务 干活 日常 收拾烂摊子 清理现场 daily",
+      "preview": "previews/maid-emoji/打扫.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/maid-emoji/%E6%89%93%E6%89%AB.jpg"
+    },
+    {
+      "id": "maid-emoji/memes/daily/hekele.png",
+      "pack": "maid-emoji",
+      "name": "喝可乐",
+      "file": "喝可乐.png",
+      "tag": "daily",
+      "description": "蓝发女仆举着可乐喝一口，很悠闲。",
+      "text": "喝可乐",
+      "keywords": [
+        "喝可乐",
+        "可乐",
+        "摸鱼",
+        "悠闲",
+        "喝",
+        "日常"
+      ],
+      "useWhen": [
+        "摸鱼喝一口",
+        "围观时很放松"
+      ],
+      "path": "memes/daily/hekele.png",
+      "caption": "喝可乐，悠闲摸鱼喝一口",
+      "search": "喝可乐 蓝发女仆举着可乐喝一口，很悠闲。 喝可乐 喝可乐，悠闲摸鱼喝一口 喝可乐 可乐 摸鱼 悠闲 喝 日常 摸鱼喝一口 围观时很放松 daily"
+    },
+    {
+      "id": "maid-emoji/memes/daily/jiabanzhong.png",
+      "pack": "maid-emoji",
+      "name": "加班中",
+      "file": "加班中.png",
+      "tag": "daily",
+      "description": "蓝发女仆坐在电脑前敲键盘，只有台灯亮着。",
+      "text": "加班中",
+      "keywords": [
+        "加班中",
+        "加班",
+        "工作",
+        "上班",
+        "干活",
+        "累",
+        "日常"
+      ],
+      "useWhen": [
+        "深夜还在改 bug",
+        "吐槽又要加班"
+      ],
+      "path": "memes/daily/jiabanzhong.png",
+      "caption": "加班中，苦哈哈埋头干活",
+      "search": "加班中 蓝发女仆坐在电脑前敲键盘，只有台灯亮着。 加班中 加班中，苦哈哈埋头干活 加班中 加班 工作 上班 干活 累 日常 深夜还在改 bug 吐槽又要加班 daily",
+      "preview": "previews/maid-emoji/加班中.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/maid-emoji/%E5%8A%A0%E7%8F%AD%E4%B8%AD.jpg"
+    },
+    {
+      "id": "maid-emoji/memes/daily/kaishigongzuo.png",
+      "pack": "maid-emoji",
+      "name": "开始工作",
+      "file": "开始工作.png",
+      "tag": "daily",
+      "description": "蓝发女仆举着大锤干劲十足，下方写着开始工作。",
+      "text": "开始工作",
+      "keywords": [
+        "开始工作",
+        "上班",
+        "干活",
+        "努力",
+        "开工",
+        "日常"
+      ],
+      "useWhen": [
+        "准备开工",
+        "接到任务要动手"
+      ],
+      "path": "memes/daily/kaishigongzuo.png",
+      "caption": "开始工作，撸起袖子加油干",
+      "search": "开始工作 蓝发女仆举着大锤干劲十足，下方写着开始工作。 开始工作 开始工作，撸起袖子加油干 开始工作 上班 干活 努力 开工 日常 准备开工 接到任务要动手 daily",
+      "preview": "previews/maid-emoji/开始工作.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/maid-emoji/%E5%BC%80%E5%A7%8B%E5%B7%A5%E4%BD%9C.jpg"
+    },
+    {
+      "id": "maid-emoji/memes/daily/liule.png",
+      "pack": "maid-emoji",
+      "name": "溜了",
+      "file": "溜了.png",
+      "tag": "daily",
+      "description": "蓝发女仆掉头就走，地上留着一串脚印。",
+      "text": "溜了",
+      "keywords": [
+        "溜了",
+        "逃跑",
+        "走了",
+        "拜拜",
+        "溜走",
+        "日常"
+      ],
+      "useWhen": [
+        "先溜为敬",
+        "不想接话"
+      ],
+      "path": "memes/daily/liule.png",
+      "caption": "溜了，转身一溜烟跑了",
+      "search": "溜了 蓝发女仆掉头就走，地上留着一串脚印。 溜了 溜了，转身一溜烟跑了 溜了 逃跑 走了 拜拜 溜走 日常 先溜为敬 不想接话 daily"
+    },
+    {
+      "id": "maid-emoji/memes/daily/mashangdao.png",
+      "pack": "maid-emoji",
+      "name": "马上到",
+      "file": "马上到.png",
+      "tag": "daily",
+      "description": "蓝发女仆张开手臂飞奔过来。",
+      "text": "马上到",
+      "keywords": [
+        "马上到",
+        "来了",
+        "稍等",
+        "赶路",
+        "飞奔",
+        "日常"
+      ],
+      "useWhen": [
+        "回复马上到",
+        "赶去救场"
+      ],
+      "path": "memes/daily/mashangdao.png",
+      "caption": "马上到，飞奔赶过来",
+      "search": "马上到 蓝发女仆张开手臂飞奔过来。 马上到 马上到，飞奔赶过来 马上到 来了 稍等 赶路 飞奔 日常 回复马上到 赶去救场 daily"
+    },
+    {
+      "id": "maid-emoji/memes/daily/renzhenjilu.png",
+      "pack": "maid-emoji",
+      "name": "认真记录",
+      "file": "认真记录.png",
+      "tag": "daily",
+      "description": "蓝发女仆捧着板子低头认真记录。",
+      "text": "认真记录",
+      "keywords": [
+        "认真记录",
+        "记录",
+        "笔记",
+        "认真",
+        "写",
+        "工作",
+        "日常"
+      ],
+      "useWhen": [
+        "认真记下需求",
+        "做会议记录"
+      ],
+      "path": "memes/daily/renzhenjilu.png",
+      "caption": "认真记录，低头写笔记",
+      "search": "认真记录 蓝发女仆捧着板子低头认真记录。 认真记录 认真记录，低头写笔记 认真记录 记录 笔记 认真 写 工作 日常 认真记下需求 做会议记录 daily",
+      "preview": "previews/maid-emoji/认真记录.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/maid-emoji/%E8%AE%A4%E7%9C%9F%E8%AE%B0%E5%BD%95.jpg"
+    },
+    {
+      "id": "maid-emoji/memes/daily/shoudao.png",
+      "pack": "maid-emoji",
+      "name": "收到",
+      "file": "收到.png",
+      "tag": "daily",
+      "description": "蓝发女仆立正敬礼。",
+      "text": "收到",
+      "keywords": [
+        "收到",
+        "好的",
+        "OK",
+        "明白",
+        "确认",
+        "敬礼",
+        "日常"
+      ],
+      "useWhen": [
+        "确认收到指令",
+        "回答好的"
+      ],
+      "path": "memes/daily/shoudao.png",
+      "caption": "收到，敬礼表示明白",
+      "search": "收到 蓝发女仆立正敬礼。 收到 收到，敬礼表示明白 收到 好的 OK 明白 确认 敬礼 日常 确认收到指令 回答好的 daily",
+      "preview": "previews/maid-emoji/收到.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/maid-emoji/%E6%94%B6%E5%88%B0.jpg"
+    },
+    {
+      "id": "maid-emoji/memes/daily/tangping.png",
+      "pack": "maid-emoji",
+      "name": "躺平",
+      "file": "躺平.png",
+      "tag": "daily",
+      "description": "蓝发女仆摊在枕头上睡得四仰八叉，下方写着我直接躺平。",
+      "text": "躺平",
+      "keywords": [
+        "躺平",
+        "摆烂",
+        "休息",
+        "摸鱼",
+        "躺",
+        "日常"
+      ],
+      "useWhen": [
+        "不想卷了直接躺平",
+        "拒绝努力"
+      ],
+      "path": "memes/daily/tangping.png",
+      "caption": "躺平，摆烂一动不动",
+      "search": "躺平 蓝发女仆摊在枕头上睡得四仰八叉，下方写着我直接躺平。 躺平 躺平，摆烂一动不动 躺平 摆烂 休息 摸鱼 躺 日常 不想卷了直接躺平 拒绝努力 daily",
+      "preview": "previews/maid-emoji/躺平.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/maid-emoji/%E8%BA%BA%E5%B9%B3.jpg"
+    },
+    {
+      "id": "maid-emoji/memes/daily/wanan.png",
+      "pack": "maid-emoji",
+      "name": "晚安",
+      "file": "晚安.png",
+      "tag": "daily",
+      "description": "蓝发女仆钻进被窝睡觉，旁边挂着月亮。",
+      "text": "晚安",
+      "keywords": [
+        "晚安",
+        "睡觉",
+        "困",
+        "休息",
+        "睡了",
+        "日常"
+      ],
+      "useWhen": [
+        "道晚安",
+        "结束一天的工作"
+      ],
+      "path": "memes/daily/wanan.png",
+      "caption": "晚安，盖好被子睡觉啦",
+      "search": "晚安 蓝发女仆钻进被窝睡觉，旁边挂着月亮。 晚安 晚安，盖好被子睡觉啦 晚安 睡觉 困 休息 睡了 日常 道晚安 结束一天的工作 daily",
+      "preview": "previews/maid-emoji/晚安.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/maid-emoji/%E6%99%9A%E5%AE%89.jpg"
+    },
+    {
+      "id": "maid-emoji/memes/daily/zaima.png",
+      "pack": "maid-emoji",
+      "name": "在吗",
+      "file": "在吗.png",
+      "tag": "daily",
+      "description": "蓝发女仆探头张望，小声打招呼。",
+      "text": "在吗",
+      "keywords": [
+        "在吗",
+        "打招呼",
+        "你好",
+        "在不在",
+        "探头",
+        "日常"
+      ],
+      "useWhen": [
+        "试探对方在不在",
+        "开场找人"
+      ],
+      "path": "memes/daily/zaima.png",
+      "caption": "在吗，探头小声打招呼",
+      "search": "在吗 蓝发女仆探头张望，小声打招呼。 在吗 在吗，探头小声打招呼 在吗 打招呼 你好 在不在 探头 日常 试探对方在不在 开场找人 daily",
+      "preview": "previews/maid-emoji/在吗.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/maid-emoji/%E5%9C%A8%E5%90%97.jpg"
+    },
+    {
+      "id": "maid-emoji/memes/happy/dachenggong.png",
+      "pack": "maid-emoji",
+      "name": "大成功",
+      "file": "大成功.png",
+      "tag": "happy",
+      "description": "蓝发女仆举手欢呼，周围撒着彩带。",
+      "text": "大成功",
+      "keywords": [
+        "大成功",
+        "成功",
+        "庆祝",
+        "好耶",
+        "赢了",
+        "开心"
+      ],
+      "useWhen": [
+        "任务一次通过",
+        "庆祝成功"
+      ],
+      "path": "memes/happy/dachenggong.png",
+      "caption": "大成功，举手欢呼庆祝胜利",
+      "search": "大成功 蓝发女仆举手欢呼，周围撒着彩带。 大成功 大成功，举手欢呼庆祝胜利 大成功 成功 庆祝 好耶 赢了 开心 任务一次通过 庆祝成功 happy",
+      "preview": "previews/maid-emoji/大成功.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/maid-emoji/%E5%A4%A7%E6%88%90%E5%8A%9F.jpg"
+    },
+    {
+      "id": "maid-emoji/memes/happy/kaixin.png",
+      "pack": "maid-emoji",
+      "name": "开心",
+      "file": "开心.png",
+      "tag": "happy",
+      "description": "蓝发女仆咧嘴大笑。",
+      "text": "开心",
+      "keywords": [
+        "开心",
+        "高兴",
+        "大笑",
+        "快乐",
+        "愉悦",
+        "哈哈"
+      ],
+      "useWhen": [
+        "心情很好",
+        "被夸了"
+      ],
+      "path": "memes/happy/kaixin.png",
+      "caption": "开心，咧嘴大笑心情超好",
+      "search": "开心 蓝发女仆咧嘴大笑。 开心 开心，咧嘴大笑心情超好 开心 高兴 大笑 快乐 愉悦 哈哈 心情很好 被夸了 happy",
+      "preview": "previews/maid-emoji/开心.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/maid-emoji/%E5%BC%80%E5%BF%83.jpg"
+    },
+    {
+      "id": "maid-emoji/memes/happy/wolaile.png",
+      "pack": "maid-emoji",
+      "name": "我来了",
+      "file": "我来了.png",
+      "tag": "happy",
+      "description": "蓝发女仆张开双手开心登场，下方写着我来了。",
+      "text": "我来了",
+      "keywords": [
+        "我来了",
+        "来了",
+        "登场",
+        "欢迎",
+        "开心"
+      ],
+      "useWhen": [
+        "加入对话",
+        "回应召唤"
+      ],
+      "path": "memes/happy/wolaile.png",
+      "caption": "我来了，蹦蹦跳跳开心登场",
+      "search": "我来了 蓝发女仆张开双手开心登场，下方写着我来了。 我来了 我来了，蹦蹦跳跳开心登场 我来了 来了 登场 欢迎 开心 加入对话 回应召唤 happy",
+      "preview": "previews/maid-emoji/我来了.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/maid-emoji/%E6%88%91%E6%9D%A5%E4%BA%86.jpg"
+    },
+    {
+      "id": "maid-emoji/memes/happy/xiaosi.png",
+      "pack": "maid-emoji",
+      "name": "笑死",
+      "file": "笑死.png",
+      "tag": "happy",
+      "description": "蓝发女仆笑到前仰后合。",
+      "text": "笑死",
+      "keywords": [
+        "笑死",
+        "哈哈",
+        "好笑",
+        "爆笑",
+        "开心",
+        "笑"
+      ],
+      "useWhen": [
+        "被逗笑",
+        "吐槽太好笑"
+      ],
+      "path": "memes/happy/xiaosi.png",
+      "caption": "笑死，笑到打滚停不下来",
+      "search": "笑死 蓝发女仆笑到前仰后合。 笑死 笑死，笑到打滚停不下来 笑死 哈哈 好笑 爆笑 开心 笑 被逗笑 吐槽太好笑 happy",
+      "preview": "previews/maid-emoji/笑死.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/maid-emoji/%E7%AC%91%E6%AD%BB.jpg"
+    },
+    {
+      "id": "maid-emoji/memes/happy/xiexie.png",
+      "pack": "maid-emoji",
+      "name": "谢谢",
+      "file": "谢谢.png",
+      "tag": "happy",
+      "description": "蓝发女仆鞠躬道谢。",
+      "text": "谢谢",
+      "keywords": [
+        "谢谢",
+        "感谢",
+        "多谢",
+        "鞠躬",
+        "感激",
+        "开心"
+      ],
+      "useWhen": [
+        "表达感谢",
+        "被帮忙后道谢"
+      ],
+      "path": "memes/happy/xiexie.png",
+      "caption": "谢谢，鞠躬致谢很感激",
+      "search": "谢谢 蓝发女仆鞠躬道谢。 谢谢 谢谢，鞠躬致谢很感激 谢谢 感谢 多谢 鞠躬 感激 开心 表达感谢 被帮忙后道谢 happy",
+      "preview": "previews/maid-emoji/谢谢.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/maid-emoji/%E8%B0%A2%E8%B0%A2.jpg"
+    },
+    {
+      "id": "maid-emoji/memes/happy/xingxingyan.png",
+      "pack": "maid-emoji",
+      "name": "星星眼",
+      "file": "星星眼.png",
+      "tag": "happy",
+      "description": "蓝发女仆眼里冒着星星，身边闪着光。",
+      "text": "星星眼",
+      "keywords": [
+        "星星眼",
+        "崇拜",
+        "喜欢",
+        "期待",
+        "羡慕",
+        "开心"
+      ],
+      "useWhen": [
+        "夸对方厉害",
+        "崇拜地看着"
+      ],
+      "path": "memes/happy/xingxingyan.png",
+      "caption": "星星眼，满眼崇拜超级喜欢",
+      "search": "星星眼 蓝发女仆眼里冒着星星，身边闪着光。 星星眼 星星眼，满眼崇拜超级喜欢 星星眼 崇拜 喜欢 期待 羡慕 开心 夸对方厉害 崇拜地看着 happy",
+      "preview": "previews/maid-emoji/星星眼.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/maid-emoji/%E6%98%9F%E6%98%9F%E7%9C%BC.jpg"
+    },
+    {
+      "id": "maid-emoji/memes/happy/xinhuanufang.png",
+      "pack": "maid-emoji",
+      "name": "心花怒放",
+      "file": "心花怒放.png",
+      "tag": "happy",
+      "description": "蓝发女仆捧脸脸红，周围飘满爱心和小花，下方写着心花怒放。",
+      "text": "心花怒放",
+      "keywords": [
+        "心花怒放",
+        "幸福",
+        "兴奋",
+        "喜欢",
+        "开心",
+        "冒泡"
+      ],
+      "useWhen": [
+        "被夸到心花怒放",
+        "开心到冒泡"
+      ],
+      "path": "memes/happy/xinhuanufang.png",
+      "caption": "心花怒放，幸福得冒泡泡",
+      "search": "心花怒放 蓝发女仆捧脸脸红，周围飘满爱心和小花，下方写着心花怒放。 心花怒放 心花怒放，幸福得冒泡泡 心花怒放 幸福 兴奋 喜欢 开心 冒泡 被夸到心花怒放 开心到冒泡 happy",
+      "preview": "previews/maid-emoji/心花怒放.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/maid-emoji/%E5%BF%83%E8%8A%B1%E6%80%92%E6%94%BE.jpg"
+    },
+    {
+      "id": "maid-emoji/memes/sad/baoqian.png",
+      "pack": "maid-emoji",
+      "name": "抱歉",
+      "file": "抱歉.png",
+      "tag": "sad",
+      "description": "蓝发女仆低头道歉，脸上还带着汗。",
+      "text": "抱歉",
+      "keywords": [
+        "抱歉",
+        "对不起",
+        "道歉",
+        "认错",
+        "不好意思",
+        "难过"
+      ],
+      "useWhen": [
+        "认错道歉",
+        "打扰到对方"
+      ],
+      "path": "memes/sad/baoqian.png",
+      "caption": "抱歉，双手合十认错道歉",
+      "search": "抱歉 蓝发女仆低头道歉，脸上还带着汗。 抱歉 抱歉，双手合十认错道歉 抱歉 对不起 道歉 认错 不好意思 难过 认错道歉 打扰到对方 sad"
+    },
+    {
+      "id": "maid-emoji/memes/sad/dunqiangjiao.png",
+      "pack": "maid-emoji",
+      "name": "蹲墙角",
+      "file": "蹲墙角.png",
+      "tag": "sad",
+      "description": "蓝发女仆缩在墙角低着头，头顶飘着小乌云。",
+      "text": "蹲墙角",
+      "keywords": [
+        "蹲墙角",
+        "自闭",
+        "难过",
+        "孤单",
+        "委屈",
+        "想哭"
+      ],
+      "useWhen": [
+        "自闭不想说话",
+        "被冷落的时候"
+      ],
+      "path": "memes/sad/dunqiangjiao.png",
+      "caption": "蹲墙角，自闭难过想哭",
+      "search": "蹲墙角 蓝发女仆缩在墙角低着头，头顶飘着小乌云。 蹲墙角 蹲墙角，自闭难过想哭 蹲墙角 自闭 难过 孤单 委屈 想哭 自闭不想说话 被冷落的时候 sad",
+      "preview": "previews/maid-emoji/蹲墙角.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/maid-emoji/%E8%B9%B2%E5%A2%99%E8%A7%92.jpg"
+    },
+    {
+      "id": "maid-emoji/memes/sad/haoxinku.png",
+      "pack": "maid-emoji",
+      "name": "好辛苦",
+      "file": "好辛苦.png",
+      "tag": "sad",
+      "description": "蓝发女仆满头大汗，一脸疲惫。",
+      "text": "好辛苦",
+      "keywords": [
+        "好辛苦",
+        "辛苦",
+        "累",
+        "疲惫",
+        "撑不住",
+        "难过"
+      ],
+      "useWhen": [
+        "吐槽工作太累",
+        "心疼对方辛苦"
+      ],
+      "path": "memes/sad/haoxinku.png",
+      "caption": "好辛苦，累到直不起腰",
+      "search": "好辛苦 蓝发女仆满头大汗，一脸疲惫。 好辛苦 好辛苦，累到直不起腰 好辛苦 辛苦 累 疲惫 撑不住 难过 吐槽工作太累 心疼对方辛苦 sad",
+      "preview": "previews/maid-emoji/好辛苦.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/maid-emoji/%E5%A5%BD%E8%BE%9B%E8%8B%A6.jpg"
+    },
+    {
+      "id": "maid-emoji/memes/sad/huaquanquan.png",
+      "pack": "maid-emoji",
+      "name": "画圈圈",
+      "file": "画圈圈.png",
+      "tag": "sad",
+      "description": "蓝发女仆缩着身子在地上画圈圈。",
+      "text": "画圈圈",
+      "keywords": [
+        "画圈圈",
+        "委屈",
+        "郁闷",
+        "孤单",
+        "蹲着",
+        "难过"
+      ],
+      "useWhen": [
+        "委屈地等回复",
+        "没人理自己的时候"
+      ],
+      "path": "memes/sad/huaquanquan.png",
+      "caption": "画圈圈，蹲地委屈郁闷",
+      "search": "画圈圈 蓝发女仆缩着身子在地上画圈圈。 画圈圈 画圈圈，蹲地委屈郁闷 画圈圈 委屈 郁闷 孤单 蹲着 难过 委屈地等回复 没人理自己的时候 sad"
+    },
+    {
+      "id": "maid-emoji/memes/sad/jiuming.png",
+      "pack": "maid-emoji",
+      "name": "救命",
+      "file": "救命.png",
+      "tag": "sad",
+      "description": "蓝发女仆抱头大喊救命，身后是警戒条。",
+      "text": "救命",
+      "keywords": [
+        "救命",
+        "求救",
+        "帮帮我",
+        "撑不住",
+        "崩溃",
+        "难过"
+      ],
+      "useWhen": [
+        "顶不住要救命",
+        "崩溃求救"
+      ],
+      "path": "memes/sad/jiuming.png",
+      "caption": "救命，伸手大声求救",
+      "search": "救命 蓝发女仆抱头大喊救命，身后是警戒条。 救命 救命，伸手大声求救 救命 求救 帮帮我 撑不住 崩溃 难过 顶不住要救命 崩溃求救 sad",
+      "preview": "previews/maid-emoji/救命.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/maid-emoji/%E6%95%91%E5%91%BD.jpg"
+    },
+    {
+      "id": "maid-emoji/memes/sad/leisi.png",
+      "pack": "maid-emoji",
+      "name": "累死了",
+      "file": "累死了.png",
+      "tag": "sad",
+      "description": "蓝发女仆瘫倒在地，一点力气都没有。",
+      "text": "累死了",
+      "keywords": [
+        "累死",
+        "累",
+        "疲惫",
+        "没力气",
+        "虚脱",
+        "难过"
+      ],
+      "useWhen": [
+        "加班到没力气",
+        "表示累死了"
+      ],
+      "path": "memes/sad/leisi.png",
+      "caption": "累死了，瘫倒在地没力气",
+      "search": "累死了 蓝发女仆瘫倒在地，一点力气都没有。 累死了 累死了，瘫倒在地没力气 累死 累 疲惫 没力气 虚脱 难过 加班到没力气 表示累死了 sad",
+      "preview": "previews/maid-emoji/累死了.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/maid-emoji/%E7%B4%AF%E6%AD%BB%E4%BA%86.jpg"
+    },
+    {
+      "id": "maid-emoji/memes/sad/pohuaile.png",
+      "pack": "maid-emoji",
+      "name": "破防了",
+      "file": "破防了.png",
+      "tag": "sad",
+      "description": "蓝发女仆捧着裂开的心口、眼泪汪汪，下方写着破防了。",
+      "text": "破防了",
+      "keywords": [
+        "破防",
+        "破防了",
+        "心碎",
+        "绷不住",
+        "心态崩",
+        "难过"
+      ],
+      "useWhen": [
+        "心里防线崩了",
+        "被戳到痛处"
+      ],
+      "path": "memes/sad/pohuaile.png",
+      "caption": "破防了，心口裂开一脸难过",
+      "search": "破防了 蓝发女仆捧着裂开的心口、眼泪汪汪，下方写着破防了。 破防了 破防了，心口裂开一脸难过 破防 破防了 心碎 绷不住 心态崩 难过 心里防线崩了 被戳到痛处 sad",
+      "preview": "previews/maid-emoji/破防了.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/maid-emoji/%E7%A0%B4%E9%98%B2%E4%BA%86.jpg"
+    },
+    {
+      "id": "maid-emoji/memes/sad/wandan.png",
+      "pack": "maid-emoji",
+      "name": "完蛋了",
+      "file": "完蛋了.png",
+      "tag": "sad",
+      "description": "蓝发女仆抱头崩溃大哭。",
+      "text": "完蛋了",
+      "keywords": [
+        "完蛋",
+        "糟了",
+        "崩溃",
+        "绝望",
+        "完犊子",
+        "难过"
+      ],
+      "useWhen": [
+        "事情搞砸了",
+        "发现来不及了"
+      ],
+      "path": "memes/sad/wandan.png",
+      "caption": "完蛋了，天塌下来的绝望",
+      "search": "完蛋了 蓝发女仆抱头崩溃大哭。 完蛋了 完蛋了，天塌下来的绝望 完蛋 糟了 崩溃 绝望 完犊子 难过 事情搞砸了 发现来不及了 sad",
+      "preview": "previews/maid-emoji/完蛋了.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/maid-emoji/%E5%AE%8C%E8%9B%8B%E4%BA%86.jpg"
+    },
+    {
+      "id": "maid-emoji/memes/sad/weiqu.png",
+      "pack": "maid-emoji",
+      "name": "委屈",
+      "file": "委屈.png",
+      "tag": "sad",
+      "description": "蓝发女仆眼泪汪汪，一脸委屈。",
+      "text": "委屈",
+      "keywords": [
+        "委屈",
+        "难过",
+        "想哭",
+        "可怜",
+        "伤心",
+        "泪"
+      ],
+      "useWhen": [
+        "委屈巴巴",
+        "被误会的时候"
+      ],
+      "path": "memes/sad/weiqu.png",
+      "caption": "委屈，眼泪汪汪很可怜",
+      "search": "委屈 蓝发女仆眼泪汪汪，一脸委屈。 委屈 委屈，眼泪汪汪很可怜 委屈 难过 想哭 可怜 伤心 泪 委屈巴巴 被误会的时候 sad",
+      "preview": "previews/maid-emoji/委屈.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/maid-emoji/%E5%A7%94%E5%B1%88.jpg"
+    },
+    {
+      "id": "maid-emoji/memes/sad/woliekai.png",
+      "pack": "maid-emoji",
+      "name": "我裂开了",
+      "file": "我裂开了.png",
+      "tag": "sad",
+      "description": "蓝发女仆当场裂开，表情崩溃。",
+      "text": "我裂开了",
+      "keywords": [
+        "我裂开",
+        "裂开",
+        "崩溃",
+        "无语",
+        "心碎",
+        "难过"
+      ],
+      "useWhen": [
+        "心态炸了",
+        "接受不了这个结果"
+      ],
+      "path": "memes/sad/woliekai.png",
+      "caption": "我裂开了，当场崩溃",
+      "search": "我裂开了 蓝发女仆当场裂开，表情崩溃。 我裂开了 我裂开了，当场崩溃 我裂开 裂开 崩溃 无语 心碎 难过 心态炸了 接受不了这个结果 sad"
+    },
+    {
+      "id": "maid-emoji/memes/sad/wuyu.png",
+      "pack": "maid-emoji",
+      "name": "无语",
+      "file": "无语.png",
+      "tag": "sad",
+      "description": "蓝发女仆眼神放空，彻底没话说。",
+      "text": "无语",
+      "keywords": [
+        "无语",
+        "没话说",
+        "服了",
+        "无奈",
+        "沉默",
+        "难过"
+      ],
+      "useWhen": [
+        "无言以对",
+        "对方太离谱"
+      ],
+      "path": "memes/sad/wuyu.png",
+      "caption": "无语，彻底没话说了",
+      "search": "无语 蓝发女仆眼神放空，彻底没话说。 无语 无语，彻底没话说了 无语 没话说 服了 无奈 沉默 难过 无言以对 对方太离谱 sad",
+      "preview": "previews/maid-emoji/无语.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/maid-emoji/%E6%97%A0%E8%AF%AD.jpg"
+    },
+    {
+      "id": "maid-emoji/memes/shy/buyaoma.png",
+      "pack": "maid-emoji",
+      "name": "不要嘛",
+      "file": "不要嘛.png",
+      "tag": "shy",
+      "description": "蓝发女仆双手合十摇头，旁边一个挥手的小图标。",
+      "text": "不要嘛",
+      "keywords": [
+        "不要嘛",
+        "撒娇",
+        "摇头",
+        "求饶",
+        "拒绝",
+        "害羞"
+      ],
+      "useWhen": [
+        "撒娇拒绝",
+        "装可怜求放过"
+      ],
+      "path": "memes/shy/buyaoma.png",
+      "caption": "不要嘛，撒娇摇头求饶",
+      "search": "不要嘛 蓝发女仆双手合十摇头，旁边一个挥手的小图标。 不要嘛 不要嘛，撒娇摇头求饶 不要嘛 撒娇 摇头 求饶 拒绝 害羞 撒娇拒绝 装可怜求放过 shy",
+      "preview": "previews/maid-emoji/不要嘛.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/maid-emoji/%E4%B8%8D%E8%A6%81%E5%98%9B.jpg"
+    },
+    {
+      "id": "maid-emoji/memes/shy/haixiu.png",
+      "pack": "maid-emoji",
+      "name": "害羞",
+      "file": "害羞.png",
+      "tag": "shy",
+      "description": "蓝发女仆脸红捂脸，不敢看人。",
+      "text": "害羞",
+      "keywords": [
+        "害羞",
+        "脸红",
+        "不好意思",
+        "腼腆",
+        "害羞脸",
+        "喜欢"
+      ],
+      "useWhen": [
+        "被夸到害羞",
+        "不好意思"
+      ],
+      "path": "memes/shy/haixiu.png",
+      "caption": "害羞，脸红得不敢看人",
+      "search": "害羞 蓝发女仆脸红捂脸，不敢看人。 害羞 害羞，脸红得不敢看人 害羞 脸红 不好意思 腼腆 害羞脸 喜欢 被夸到害羞 不好意思 shy",
+      "preview": "previews/maid-emoji/害羞.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/maid-emoji/%E5%AE%B3%E7%BE%9E.jpg"
+    },
+    {
+      "id": "maid-emoji/memes/shy/xiaoluluanzhuang.png",
+      "pack": "maid-emoji",
+      "name": "小鹿乱撞",
+      "file": "小鹿乱撞.png",
+      "tag": "shy",
+      "description": "蓝发女仆捂着脸，身边飘着爱心，心跳加速。",
+      "text": "小鹿乱撞",
+      "keywords": [
+        "小鹿乱撞",
+        "心动",
+        "喜欢",
+        "脸红",
+        "恋爱",
+        "害羞"
+      ],
+      "useWhen": [
+        "心动的时候",
+        "被戳到喜欢的点"
+      ],
+      "path": "memes/shy/xiaoluluanzhuang.png",
+      "caption": "小鹿乱撞，心动脸红的喜欢",
+      "search": "小鹿乱撞 蓝发女仆捂着脸，身边飘着爱心，心跳加速。 小鹿乱撞 小鹿乱撞，心动脸红的喜欢 小鹿乱撞 心动 喜欢 脸红 恋爱 害羞 心动的时候 被戳到喜欢的点 shy",
+      "preview": "previews/maid-emoji/小鹿乱撞.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/maid-emoji/%E5%B0%8F%E9%B9%BF%E4%B9%B1%E6%92%9E.jpg"
     }
   ]
 }
