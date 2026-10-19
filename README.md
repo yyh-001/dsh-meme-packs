@@ -14,6 +14,7 @@
 | 鲸鱼娘表情包 | 1.0.0 | 91 张 | noncommercial-fan | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/whale-girl-emoji-v1.0.0/whale-girl-emoji-v1.0.0.zip) |
 | DeepSeek酱语录 | 1.0.2 | 128 张 | noncommercial-fan | [上游仓库](https://github.com/the-beating-light-of-the-nail/deepseek-chan-meme-pack)（安装时从作者 CDN 热链下载） |
 | 女仆表情包 | 1.0.0 | 47 张 | CC-BY-NC-SA-4.0 | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/maid-emoji-v1.0.0/maid-emoji-v1.0.0.zip) |
+| GPT生大肥鱼 | 1.0.0 | 18 张 | CC-BY-NC-SA-4.0 | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/pack-mvc2p5cv-v1.0.0/pack-mvc2p5cv-v1.0.0.zip) |
 
 ## 导入方法
 

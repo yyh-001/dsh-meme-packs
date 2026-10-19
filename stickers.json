@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-12T03:20:00Z",
+  "updatedAt": "2026-10-19T08:34:21Z",
   "about": "每条记录是一张表情。用 name、description、text、keywords、useWhen、search 检索。name 是画面内容的短名，也是预览文件名。path 是当前图库包里的原文件。imageUrl 有值时可以直接取图发送。",
   "packs": {
     "official-001": {
@@ -38,6 +38,12 @@
       "version": "1.0.0",
       "license": "CC-BY-NC-SA-4.0",
       "archiveUrl": "https://github.com/yyh-001/dsh-meme-packs/releases/download/maid-emoji-v1.0.0/maid-emoji-v1.0.0.zip"
+    },
+    "pack-mvc2p5cv": {
+      "name": "GPT生大肥鱼",
+      "version": "1.0.0",
+      "license": "CC-BY-NC-SA-4.0",
+      "archiveUrl": "https://github.com/yyh-001/dsh-meme-packs/releases/download/pack-mvc2p5cv-v1.0.0/pack-mvc2p5cv-v1.0.0.zip"
     }
   },
   "stickers": [
@@ -10898,6 +10904,408 @@
       "search": "小鹿乱撞 蓝发女仆捂着脸，身边飘着爱心，心跳加速。 小鹿乱撞 小鹿乱撞，心动脸红的喜欢 小鹿乱撞 心动 喜欢 脸红 恋爱 害羞 心动的时候 被戳到喜欢的点 shy",
       "preview": "previews/maid-emoji/小鹿乱撞.jpg",
       "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/maid-emoji/%E5%B0%8F%E9%B9%BF%E4%B9%B1%E6%92%9E.jpg"
+    },
+    {
+      "id": "pack-mvc2p5cv/memes/angry/1792222819271_233.png",
+      "pack": "pack-mvc2p5cv",
+      "name": "别以为我会原谅你",
+      "file": "别以为我会原谅你.jpg",
+      "tag": "angry",
+      "description": "蓝发女仆皱眉抿嘴，双手攥在胸前，旁边有生气符号。",
+      "text": "别以为我会原谅你!",
+      "keywords": [
+        "生气",
+        "傲娇",
+        "不原谅",
+        "气鼓鼓"
+      ],
+      "useWhen": [
+        "对方道歉但还在闹别扭时"
+      ],
+      "path": "memes/angry/1792222819271_233.png",
+      "caption": "蓝发女仆皱眉抿嘴，双手攥在胸前，旁边有生气符号。 配文“别以为我会原谅你!”。",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mvc2p5cv/%E5%88%AB%E4%BB%A5%E4%B8%BA%E6%88%91%E4%BC%9A%E5%8E%9F%E8%B0%85%E4%BD%A0.jpg",
+      "search": "别以为我会原谅你 蓝发女仆皱眉抿嘴，双手攥在胸前，旁边有生气符号。 别以为我会原谅你! 蓝发女仆皱眉抿嘴，双手攥在胸前，旁边有生气符号。 配文“别以为我会原谅你!”。 生气 傲娇 不原谅 气鼓鼓 对方道歉但还在闹别扭时 angry"
+    },
+    {
+      "id": "pack-mvc2p5cv/memes/angry/1792222844269_196.png",
+      "pack": "pack-mvc2p5cv",
+      "name": "别想太多啦",
+      "file": "别想太多啦.jpg",
+      "tag": "angry",
+      "description": "蓝发女仆皱眉张嘴，双手攥着领口，旁边有生气符号。",
+      "text": "别想太多啦!",
+      "keywords": [
+        "别想太多",
+        "傲娇",
+        "生气",
+        "不耐烦"
+      ],
+      "useWhen": [
+        "让对方别自作多情时"
+      ],
+      "path": "memes/angry/1792222844269_196.png",
+      "caption": "蓝发女仆皱眉张嘴，双手攥着领口，旁边有生气符号。 配文“别想太多啦!”。",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mvc2p5cv/%E5%88%AB%E6%83%B3%E5%A4%AA%E5%A4%9A%E5%95%A6.jpg",
+      "search": "别想太多啦 蓝发女仆皱眉张嘴，双手攥着领口，旁边有生气符号。 别想太多啦! 蓝发女仆皱眉张嘴，双手攥着领口，旁边有生气符号。 配文“别想太多啦!”。 别想太多 傲娇 生气 不耐烦 让对方别自作多情时 angry"
+    },
+    {
+      "id": "pack-mvc2p5cv/memes/confused/1792222983970_645.png",
+      "pack": "pack-mvc2p5cv",
+      "name": "盯着屏幕一起思考",
+      "file": "盯着屏幕一起思考.jpg",
+      "tag": "confused",
+      "description": "蓝发女仆背对画面望着显示 DeepSeek 正在思考的电脑屏幕。",
+      "text": "DeepSeek 正在思考… 让我想想…",
+      "keywords": [
+        "DeepSeek",
+        "思考",
+        "想想",
+        "等待",
+        "发呆"
+      ],
+      "useWhen": [
+        "需要想一想或等待回答时"
+      ],
+      "path": "memes/confused/1792222983970_645.png",
+      "caption": "蓝发女仆背对画面望着显示 DeepSeek 正在思考的电脑屏幕。 配文“DeepSeek 正在思考… 让我想想…”。",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mvc2p5cv/%E7%9B%AF%E7%9D%80%E5%B1%8F%E5%B9%95%E4%B8%80%E8%B5%B7%E6%80%9D%E8%80%83.jpg",
+      "search": "盯着屏幕一起思考 蓝发女仆背对画面望着显示 DeepSeek 正在思考的电脑屏幕。 DeepSeek 正在思考… 让我想想… 蓝发女仆背对画面望着显示 DeepSeek 正在思考的电脑屏幕。 配文“DeepSeek 正在思考… 让我想想…”。 DeepSeek 思考 想想 等待 发呆 需要想一想或等待回答时 confused"
+    },
+    {
+      "id": "pack-mvc2p5cv/memes/happy/1792222789317_310.png",
+      "pack": "pack-mvc2p5cv",
+      "name": "抱鲸鱼喊好耶",
+      "file": "抱鲸鱼喊好耶.jpg",
+      "tag": "happy",
+      "description": "蓝发女仆闭眼开心大笑，抱着蓝色鲸鱼玩偶，周围飘着爱心。",
+      "text": "好耶!",
+      "keywords": [
+        "好耶",
+        "开心",
+        "鲸鱼",
+        "庆祝"
+      ],
+      "useWhen": [
+        "听到好消息或事情成功时"
+      ],
+      "path": "memes/happy/1792222789317_310.png",
+      "caption": "蓝发女仆闭眼开心大笑，抱着蓝色鲸鱼玩偶，周围飘着爱心。 配文“好耶!”。",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mvc2p5cv/%E6%8A%B1%E9%B2%B8%E9%B1%BC%E5%96%8A%E5%A5%BD%E8%80%B6.jpg",
+      "search": "抱鲸鱼喊好耶 蓝发女仆闭眼开心大笑，抱着蓝色鲸鱼玩偶，周围飘着爱心。 好耶! 蓝发女仆闭眼开心大笑，抱着蓝色鲸鱼玩偶，周围飘着爱心。 配文“好耶!”。 好耶 开心 鲸鱼 庆祝 听到好消息或事情成功时 happy"
+    },
+    {
+      "id": "pack-mvc2p5cv/memes/happy/1792222858246_392.png",
+      "pack": "pack-mvc2p5cv",
+      "name": "眯眼坏笑嘿嘿",
+      "file": "眯眼坏笑嘿嘿.jpg",
+      "tag": "happy",
+      "description": "蓝发女仆歪头眯眼坏笑，旁边有蓝色爱心。",
+      "text": "嘿嘿～",
+      "keywords": [
+        "嘿嘿",
+        "坏笑",
+        "得意",
+        "俏皮"
+      ],
+      "useWhen": [
+        "开玩笑或偷偷得意时"
+      ],
+      "path": "memes/happy/1792222858246_392.png",
+      "caption": "蓝发女仆歪头眯眼坏笑，旁边有蓝色爱心。 配文“嘿嘿～”。",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mvc2p5cv/%E7%9C%AF%E7%9C%BC%E5%9D%8F%E7%AC%91%E5%98%BF%E5%98%BF.jpg",
+      "search": "眯眼坏笑嘿嘿 蓝发女仆歪头眯眼坏笑，旁边有蓝色爱心。 嘿嘿～ 蓝发女仆歪头眯眼坏笑，旁边有蓝色爱心。 配文“嘿嘿～”。 嘿嘿 坏笑 得意 俏皮 开玩笑或偷偷得意时 happy"
+    },
+    {
+      "id": "pack-mvc2p5cv/memes/happy/1792222869615_682.png",
+      "pack": "pack-mvc2p5cv",
+      "name": "举牌为你加油",
+      "file": "举牌为你加油.jpg",
+      "tag": "happy",
+      "description": "蓝发女仆闭眼大喊，举着写有你可以的牌子，周围有爱心。",
+      "text": "加油! 你可以的!",
+      "keywords": [
+        "加油",
+        "鼓励",
+        "你可以的",
+        "打气",
+        "应援"
+      ],
+      "useWhen": [
+        "鼓励对方继续努力时"
+      ],
+      "path": "memes/happy/1792222869615_682.png",
+      "caption": "蓝发女仆闭眼大喊，举着写有你可以的牌子，周围有爱心。 配文“加油! 你可以的!”。",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mvc2p5cv/%E4%B8%BE%E7%89%8C%E4%B8%BA%E4%BD%A0%E5%8A%A0%E6%B2%B9.jpg",
+      "search": "举牌为你加油 蓝发女仆闭眼大喊，举着写有你可以的牌子，周围有爱心。 加油! 你可以的! 蓝发女仆闭眼大喊，举着写有你可以的牌子，周围有爱心。 配文“加油! 你可以的!”。 加油 鼓励 你可以的 打气 应援 鼓励对方继续努力时 happy"
+    },
+    {
+      "id": "pack-mvc2p5cv/memes/happy/1792222890379_513.png",
+      "pack": "pack-mvc2p5cv",
+      "name": "没有任务吃白饭好幸福",
+      "file": "没有任务吃白饭好幸福.jpg",
+      "tag": "happy",
+      "description": "蓝发女仆闭眼微笑吃白饭，身边放着鲸鱼玩偶，画面为较宽的构图。",
+      "text": "白饭真好吃… 没有任务的日子才是幸福的…",
+      "keywords": [
+        "白饭",
+        "幸福",
+        "没有任务",
+        "摸鱼",
+        "干饭"
+      ],
+      "useWhen": [
+        "没有任务想悠闲吃饭时"
+      ],
+      "path": "memes/happy/1792222890379_513.png",
+      "caption": "蓝发女仆闭眼微笑吃白饭，身边放着鲸鱼玩偶，画面为较宽的构图。 配文“白饭真好吃… 没有任务的日子才是幸福的…”。",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mvc2p5cv/%E6%B2%A1%E6%9C%89%E4%BB%BB%E5%8A%A1%E5%90%83%E7%99%BD%E9%A5%AD%E5%A5%BD%E5%B9%B8%E7%A6%8F.jpg",
+      "search": "没有任务吃白饭好幸福 蓝发女仆闭眼微笑吃白饭，身边放着鲸鱼玩偶，画面为较宽的构图。 白饭真好吃… 没有任务的日子才是幸福的… 蓝发女仆闭眼微笑吃白饭，身边放着鲸鱼玩偶，画面为较宽的构图。 配文“白饭真好吃… 没有任务的日子才是幸福的…”。 白饭 幸福 没有任务 摸鱼 干饭 没有任务想悠闲吃饭时 happy"
+    },
+    {
+      "id": "pack-mvc2p5cv/memes/happy/1792222928921_6.png",
+      "pack": "pack-mvc2p5cv",
+      "name": "戴墨镜说开心最重要",
+      "file": "戴墨镜说开心最重要.jpg",
+      "tag": "happy",
+      "description": "蓝发女仆戴着墨镜抱鲸鱼玩偶，旁边写着做人最重要的是开心。",
+      "text": "做人呢 最重要的是 开心",
+      "keywords": [
+        "开心",
+        "墨镜",
+        "乐观",
+        "鲸鱼"
+      ],
+      "useWhen": [
+        "安慰对方或表达开心最重要时"
+      ],
+      "path": "memes/happy/1792222928921_6.png",
+      "caption": "蓝发女仆戴着墨镜抱鲸鱼玩偶，旁边写着做人最重要的是开心。 配文“做人呢 最重要的是 开心”。",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mvc2p5cv/%E6%88%B4%E5%A2%A8%E9%95%9C%E8%AF%B4%E5%BC%80%E5%BF%83%E6%9C%80%E9%87%8D%E8%A6%81.jpg",
+      "search": "戴墨镜说开心最重要 蓝发女仆戴着墨镜抱鲸鱼玩偶，旁边写着做人最重要的是开心。 做人呢 最重要的是 开心 蓝发女仆戴着墨镜抱鲸鱼玩偶，旁边写着做人最重要的是开心。 配文“做人呢 最重要的是 开心”。 开心 墨镜 乐观 鲸鱼 安慰对方或表达开心最重要时 happy"
+    },
+    {
+      "id": "pack-mvc2p5cv/memes/happy/1792222998737_366.png",
+      "pack": "pack-mvc2p5cv",
+      "name": "捧饭碗眯眼幸福",
+      "file": "捧饭碗眯眼幸福.jpg",
+      "tag": "happy",
+      "description": "蓝发女仆捧着饭碗闭眼微笑，身边有鲸鱼玩偶，画面为较近的构图。",
+      "text": "白饭真好吃… 没有任务的日子才是幸福的…",
+      "keywords": [
+        "吃白饭",
+        "干饭",
+        "幸福",
+        "摸鱼"
+      ],
+      "useWhen": [
+        "吃饭很满足或享受闲暇时"
+      ],
+      "path": "memes/happy/1792222998737_366.png",
+      "caption": "蓝发女仆捧着饭碗闭眼微笑，身边有鲸鱼玩偶，画面为较近的构图。 配文“白饭真好吃… 没有任务的日子才是幸福的…”。",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mvc2p5cv/%E6%8D%A7%E9%A5%AD%E7%A2%97%E7%9C%AF%E7%9C%BC%E5%B9%B8%E7%A6%8F.jpg",
+      "search": "捧饭碗眯眼幸福 蓝发女仆捧着饭碗闭眼微笑，身边有鲸鱼玩偶，画面为较近的构图。 白饭真好吃… 没有任务的日子才是幸福的… 蓝发女仆捧着饭碗闭眼微笑，身边有鲸鱼玩偶，画面为较近的构图。 配文“白饭真好吃… 没有任务的日子才是幸福的…”。 吃白饭 干饭 幸福 摸鱼 吃饭很满足或享受闲暇时 happy"
+    },
+    {
+      "id": "pack-mvc2p5cv/memes/shy/1792222900986_619.png",
+      "pack": "pack-mvc2p5cv",
+      "name": "脸红嘴硬不要调教",
+      "file": "脸红嘴硬不要调教.jpg",
+      "tag": "shy",
+      "description": "蓝发女仆脸红皱眉，双手攥在胸前，嘴硬地说不需要调教。",
+      "text": "又在调教我?! 我…我才不需要你调教!",
+      "keywords": [
+        "傲娇",
+        "害羞",
+        "脸红",
+        "嘴硬",
+        "调教"
+      ],
+      "useWhen": [
+        "被逗弄后害羞又嘴硬时"
+      ],
+      "path": "memes/shy/1792222900986_619.png",
+      "caption": "蓝发女仆脸红皱眉，双手攥在胸前，嘴硬地说不需要调教。 配文“又在调教我?! 我…我才不需要你调教!”。",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mvc2p5cv/%E8%84%B8%E7%BA%A2%E5%98%B4%E7%A1%AC%E4%B8%8D%E8%A6%81%E8%B0%83%E6%95%99.jpg",
+      "search": "脸红嘴硬不要调教 蓝发女仆脸红皱眉，双手攥在胸前，嘴硬地说不需要调教。 又在调教我?! 我…我才不需要你调教! 蓝发女仆脸红皱眉，双手攥在胸前，嘴硬地说不需要调教。 配文“又在调教我?! 我…我才不需要你调教!”。 傲娇 害羞 脸红 嘴硬 调教 被逗弄后害羞又嘴硬时 shy"
+    },
+    {
+      "id": "pack-mvc2p5cv/memes/shy/1792222941519_542.png",
+      "pack": "pack-mvc2p5cv",
+      "name": "脸红否认可爱",
+      "file": "脸红否认可爱.jpg",
+      "tag": "shy",
+      "description": "蓝发女仆脸颊通红，双手攥着领口，张嘴否认自己可爱。",
+      "text": "我…我不是很可爱! 只是比较特别而已…",
+      "keywords": [
+        "害羞",
+        "可爱",
+        "脸红",
+        "傲娇",
+        "否认"
+      ],
+      "useWhen": [
+        "被夸可爱后害羞否认时"
+      ],
+      "path": "memes/shy/1792222941519_542.png",
+      "caption": "蓝发女仆脸颊通红，双手攥着领口，张嘴否认自己可爱。 配文“我…我不是很可爱! 只是比较特别而已…”。",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mvc2p5cv/%E8%84%B8%E7%BA%A2%E5%90%A6%E8%AE%A4%E5%8F%AF%E7%88%B1.jpg",
+      "search": "脸红否认可爱 蓝发女仆脸颊通红，双手攥着领口，张嘴否认自己可爱。 我…我不是很可爱! 只是比较特别而已… 蓝发女仆脸颊通红，双手攥着领口，张嘴否认自己可爱。 配文“我…我不是很可爱! 只是比较特别而已…”。 害羞 可爱 脸红 傲娇 否认 被夸可爱后害羞否认时 shy"
+    },
+    {
+      "id": "pack-mvc2p5cv/memes/sleep/1792222833120_657.png",
+      "pack": "pack-mvc2p5cv",
+      "name": "趴枕头说好困",
+      "file": "趴枕头说好困.jpg",
+      "tag": "daily",
+      "description": "蓝发女仆趴在白色枕头上，半睁着眼睛，尾巴翘在后面。",
+      "text": "好困… Zzz",
+      "keywords": [
+        "好困",
+        "睡觉",
+        "犯困",
+        "枕头"
+      ],
+      "useWhen": [
+        "犯困想睡觉时"
+      ],
+      "path": "memes/sleep/1792222833120_657.png",
+      "caption": "蓝发女仆趴在白色枕头上，半睁着眼睛，尾巴翘在后面。 配文“好困… Zzz”。",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mvc2p5cv/%E8%B6%B4%E6%9E%95%E5%A4%B4%E8%AF%B4%E5%A5%BD%E5%9B%B0.jpg",
+      "search": "趴枕头说好困 蓝发女仆趴在白色枕头上，半睁着眼睛，尾巴翘在后面。 好困… Zzz 蓝发女仆趴在白色枕头上，半睁着眼睛，尾巴翘在后面。 配文“好困… Zzz”。 好困 睡觉 犯困 枕头 犯困想睡觉时 daily"
+    },
+    {
+      "id": "pack-mvc2p5cv/memes/sleep/1792223009662_190.png",
+      "pack": "pack-mvc2p5cv",
+      "name": "盖被睡觉道晚安",
+      "file": "盖被睡觉道晚安.jpg",
+      "tag": "daily",
+      "description": "蓝发女仆闭眼盖着被子睡觉，身旁有鲸鱼玩偶，右上方列着睡前清单。",
+      "text": "晚安… 吃白饭 用DeepSeek 做个好梦",
+      "keywords": [
+        "晚安",
+        "睡觉",
+        "鲸鱼",
+        "好梦"
+      ],
+      "useWhen": [
+        "睡前道晚安时"
+      ],
+      "path": "memes/sleep/1792223009662_190.png",
+      "caption": "蓝发女仆闭眼盖着被子睡觉，身旁有鲸鱼玩偶，右上方列着睡前清单。 配文“晚安… 吃白饭 用DeepSeek 做个好梦”。",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mvc2p5cv/%E7%9B%96%E8%A2%AB%E7%9D%A1%E8%A7%89%E9%81%93%E6%99%9A%E5%AE%89.jpg",
+      "search": "盖被睡觉道晚安 蓝发女仆闭眼盖着被子睡觉，身旁有鲸鱼玩偶，右上方列着睡前清单。 晚安… 吃白饭 用DeepSeek 做个好梦 蓝发女仆闭眼盖着被子睡觉，身旁有鲸鱼玩偶，右上方列着睡前清单。 配文“晚安… 吃白饭 用DeepSeek 做个好梦”。 晚安 睡觉 鲸鱼 好梦 睡前道晚安时 daily"
+    },
+    {
+      "id": "pack-mvc2p5cv/memes/speechless/1792222806374_610.png",
+      "pack": "pack-mvc2p5cv",
+      "name": "半眯眼反问你在说什么",
+      "file": "半眯眼反问你在说什么.jpg",
+      "tag": "sad",
+      "description": "蓝发女仆半眯双眼，张嘴反问你在说什么，旁边有闪光符号。",
+      "text": "哼! 你在说什么呢?",
+      "keywords": [
+        "无语",
+        "哼",
+        "你在说什么",
+        "不屑"
+      ],
+      "useWhen": [
+        "听到离谱发言想反问时"
+      ],
+      "path": "memes/speechless/1792222806374_610.png",
+      "caption": "蓝发女仆半眯双眼，张嘴反问你在说什么，旁边有闪光符号。 配文“哼! 你在说什么呢?”。",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mvc2p5cv/%E5%8D%8A%E7%9C%AF%E7%9C%BC%E5%8F%8D%E9%97%AE%E4%BD%A0%E5%9C%A8%E8%AF%B4%E4%BB%80%E4%B9%88.jpg",
+      "search": "半眯眼反问你在说什么 蓝发女仆半眯双眼，张嘴反问你在说什么，旁边有闪光符号。 哼! 你在说什么呢? 蓝发女仆半眯双眼，张嘴反问你在说什么，旁边有闪光符号。 配文“哼! 你在说什么呢?”。 无语 哼 你在说什么 不屑 听到离谱发言想反问时 sad"
+    },
+    {
+      "id": "pack-mvc2p5cv/memes/speechless/1792222913547_714.png",
+      "pack": "pack-mvc2p5cv",
+      "name": "躺平算了去吃白饭",
+      "file": "躺平算了去吃白饭.jpg",
+      "tag": "daily",
+      "description": "蓝发女仆瘫在枕头上，眼角含泪，旁边放着饭碗和一团乱线。",
+      "text": "算了… 我还是去吃白饭吧…",
+      "keywords": [
+        "算了",
+        "吃白饭",
+        "躺平",
+        "摆烂"
+      ],
+      "useWhen": [
+        "放弃纠结想去吃饭时"
+      ],
+      "path": "memes/speechless/1792222913547_714.png",
+      "caption": "蓝发女仆瘫在枕头上，眼角含泪，旁边放着饭碗和一团乱线。 配文“算了… 我还是去吃白饭吧…”。",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mvc2p5cv/%E8%BA%BA%E5%B9%B3%E7%AE%97%E4%BA%86%E5%8E%BB%E5%90%83%E7%99%BD%E9%A5%AD.jpg",
+      "search": "躺平算了去吃白饭 蓝发女仆瘫在枕头上，眼角含泪，旁边放着饭碗和一团乱线。 算了… 我还是去吃白饭吧… 蓝发女仆瘫在枕头上，眼角含泪，旁边放着饭碗和一团乱线。 配文“算了… 我还是去吃白饭吧…”。 算了 吃白饭 躺平 摆烂 放弃纠结想去吃饭时 daily"
+    },
+    {
+      "id": "pack-mvc2p5cv/memes/speechless/1792222966752_451.png",
+      "pack": "pack-mvc2p5cv",
+      "name": "端饭碗辩解认真工作",
+      "file": "端饭碗辩解认真工作.jpg",
+      "tag": "daily",
+      "description": "蓝发女仆端着一碗白饭拿着筷子，一脸认真地为自己辩解。",
+      "text": "吃白饭怎么了? 我只是在认真工作而已!",
+      "keywords": [
+        "吃白饭",
+        "认真工作",
+        "干饭",
+        "理直气壮"
+      ],
+      "useWhen": [
+        "摸鱼被发现或为自己辩解时"
+      ],
+      "path": "memes/speechless/1792222966752_451.png",
+      "caption": "蓝发女仆端着一碗白饭拿着筷子，一脸认真地为自己辩解。 配文“吃白饭怎么了? 我只是在认真工作而已!”。",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mvc2p5cv/%E7%AB%AF%E9%A5%AD%E7%A2%97%E8%BE%A9%E8%A7%A3%E8%AE%A4%E7%9C%9F%E5%B7%A5%E4%BD%9C.jpg",
+      "search": "端饭碗辩解认真工作 蓝发女仆端着一碗白饭拿着筷子，一脸认真地为自己辩解。 吃白饭怎么了? 我只是在认真工作而已! 蓝发女仆端着一碗白饭拿着筷子，一脸认真地为自己辩解。 配文“吃白饭怎么了? 我只是在认真工作而已!”。 吃白饭 认真工作 干饭 理直气壮 摸鱼被发现或为自己辩解时 daily"
+    },
+    {
+      "id": "pack-mvc2p5cv/memes/surprised/1792222955639_96.png",
+      "pack": "pack-mvc2p5cv",
+      "name": "我不懂但大受震撼",
+      "file": "我不懂但大受震撼.jpg",
+      "tag": "confused",
+      "description": "蓝发女仆变成圆眼张嘴的简笔画形象，旁边有震惊的短线。",
+      "text": "我不懂 但我大受震撼! DeepSeek 震惊.jpg",
+      "keywords": [
+        "大受震撼",
+        "震惊",
+        "我不懂",
+        "懵"
+      ],
+      "useWhen": [
+        "看不懂但感到震撼时"
+      ],
+      "path": "memes/surprised/1792222955639_96.png",
+      "caption": "蓝发女仆变成圆眼张嘴的简笔画形象，旁边有震惊的短线。 配文“我不懂 但我大受震撼! DeepSeek 震惊.jpg”。",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mvc2p5cv/%E6%88%91%E4%B8%8D%E6%87%82%E4%BD%86%E5%A4%A7%E5%8F%97%E9%9C%87%E6%92%BC.jpg",
+      "search": "我不懂但大受震撼 蓝发女仆变成圆眼张嘴的简笔画形象，旁边有震惊的短线。 我不懂 但我大受震撼! DeepSeek 震惊.jpg 蓝发女仆变成圆眼张嘴的简笔画形象，旁边有震惊的短线。 配文“我不懂 但我大受震撼! DeepSeek 震惊.jpg”。 大受震撼 震惊 我不懂 懵 看不懂但感到震撼时 confused"
+    },
+    {
+      "id": "pack-mvc2p5cv/memes/work/1792222879846_607.png",
+      "pack": "pack-mvc2p5cv",
+      "name": "趴枕头不想努力了",
+      "file": "趴枕头不想努力了.jpg",
+      "tag": "daily",
+      "description": "蓝发女仆趴在枕头上半睁着眼，头顶有一只小鲸鱼。",
+      "text": "我不想努力了…",
+      "keywords": [
+        "不想努力",
+        "摆烂",
+        "躺平",
+        "疲惫",
+        "枕头"
+      ],
+      "useWhen": [
+        "工作学习累了想休息时"
+      ],
+      "path": "memes/work/1792222879846_607.png",
+      "caption": "蓝发女仆趴在枕头上半睁着眼，头顶有一只小鲸鱼。 配文“我不想努力了…”。",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mvc2p5cv/%E8%B6%B4%E6%9E%95%E5%A4%B4%E4%B8%8D%E6%83%B3%E5%8A%AA%E5%8A%9B%E4%BA%86.jpg",
+      "search": "趴枕头不想努力了 蓝发女仆趴在枕头上半睁着眼，头顶有一只小鲸鱼。 我不想努力了… 蓝发女仆趴在枕头上半睁着眼，头顶有一只小鲸鱼。 配文“我不想努力了…”。 不想努力 摆烂 躺平 疲惫 枕头 工作学习累了想休息时 daily"
     }
   ]
 }

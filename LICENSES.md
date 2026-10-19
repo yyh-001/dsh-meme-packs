@@ -47,3 +47,11 @@
   - 大肥鱼 47 张：[`EDMOK/blue-fish-archive`](https://github.com/EDMOK/blue-fish-archive) 的预览图，来源站点[蓝色大肥鱼档案馆](https://fisharchive.pages.dev/)
 - 许可标记：`noncommercial-fan`（非商业使用，需署名；演绎作品按相同方式共享）
 - 说明：鲸鱼娘角色形象原作「上善无形」。大肥鱼部分为同人整理合集，各作品权利归各自创作者，本仓库不代为授权——商业使用前请先取得权利人许可；权利人如不希望作品在此分发，可提 issue 要求下架。
+
+## pack-mvc2p5cv
+
+- 名称：GPT生大肥鱼
+- 投稿与署名：[Anterique0](https://github.com/Anterique0)（[issue #7](https://github.com/yyh-001/dsh-meme-packs/issues/7)）
+- 来源：投稿者声明为 GPT-image AI 生成，共 18 张；投稿者已勾选有权提交与公开分发的确认。
+- 许可标记：`CC-BY-NC-SA-4.0`（按投稿者声明；署名、非商业、相同方式共享）。
+- 维护说明：保留图库 ID、图片原文件及索引路径；补齐包内署名、许可与投稿来源，按画面校订描述，并将情绪 tag 归入插件支持的六个情绪桶。两张吃白饭图片构图相近，字节不同，均保留。
