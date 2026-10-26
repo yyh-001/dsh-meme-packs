@@ -55,3 +55,11 @@
 - 来源：投稿者声明为 GPT-image AI 生成，共 18 张；投稿者已勾选有权提交与公开分发的确认。
 - 许可标记：`CC-BY-NC-SA-4.0`（按投稿者声明；署名、非商业、相同方式共享）。
 - 维护说明：保留图库 ID、图片原文件及索引路径；补齐包内署名、许可与投稿来源，按画面校订描述，并将情绪 tag 归入插件支持的六个情绪桶。两张吃白饭图片构图相近，字节不同，均保留。
+
+## paopao-whale-girl
+
+- 名称：泡泡表情包
+- 投稿与署名：[Bolumaile](https://github.com/Bolumaile)（Ayhhbin，[issue #8](https://github.com/yyh-001/dsh-meme-packs/issues/8)）
+- 上游：基于开源形象「鲸鱼娘」资产库 [treapgogo.github.io/deepseek-whale-girl](https://treapgogo.github.io/deepseek-whale-girl/)（设计者 **ZipZipPipe**）的二次创作；图像由 AI 生成，经投稿者挑选、切分与命名。非官方作品。
+- 许可标记：`CC-BY-NC-SA-4.0`（按投稿者声明；署名、非商业、相同方式共享）。
+- 维护说明：保留 55 张透明底 PNG 原文件；导出 ZIP 混入的 24 张内置大肥鱼图与 dafeiyu-001 逐字节相同，按投稿说明未收录。补齐 maintainer/license/source，按画面校订 7 条 caption，并将 `speechless` 归入插件支持的 `sigh`（sad 桶）。

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T08:34:21Z",
+  "updatedAt": "2026-10-26T07:54:03Z",
   "about": "每条记录是一张表情。用 name、description、text、keywords、useWhen、search 检索。name 是画面内容的短名，也是预览文件名。path 是当前图库包里的原文件。imageUrl 有值时可以直接取图发送。",
   "packs": {
     "official-001": {
@@ -44,6 +44,12 @@
       "version": "1.0.0",
       "license": "CC-BY-NC-SA-4.0",
       "archiveUrl": "https://github.com/yyh-001/dsh-meme-packs/releases/download/pack-mvc2p5cv-v1.0.0/pack-mvc2p5cv-v1.0.0.zip"
+    },
+    "paopao-whale-girl": {
+      "name": "泡泡表情包",
+      "version": "1.0.0",
+      "license": "CC-BY-NC-SA-4.0",
+      "archiveUrl": "https://github.com/yyh-001/dsh-meme-packs/releases/download/paopao-whale-girl-v1.0.0/paopao-whale-girl-v1.0.0.zip"
     }
   },
   "stickers": [
@@ -11306,6 +11312,1366 @@
       "caption": "蓝发女仆趴在枕头上半睁着眼，头顶有一只小鲸鱼。 配文“我不想努力了…”。",
       "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mvc2p5cv/%E8%B6%B4%E6%9E%95%E5%A4%B4%E4%B8%8D%E6%83%B3%E5%8A%AA%E5%8A%9B%E4%BA%86.jpg",
       "search": "趴枕头不想努力了 蓝发女仆趴在枕头上半睁着眼，头顶有一只小鲸鱼。 我不想努力了… 蓝发女仆趴在枕头上半睁着眼，头顶有一只小鲸鱼。 配文“我不想努力了…”。 不想努力 摆烂 躺平 疲惫 枕头 工作学习累了想休息时 daily"
+    },
+    {
+      "id": "paopao-whale-girl/memes/angry/1792846581811_969.png",
+      "pack": "paopao-whale-girl",
+      "name": "瞪眼生闷气",
+      "file": "瞪眼生闷气.jpg",
+      "tag": "angry",
+      "description": "蓝发鲸鱼娘泡泡抱着鲸鱼玩偶，皱眉瞪眼，头顶冒着怒气符号。",
+      "text": "",
+      "keywords": [
+        "委屈",
+        "生气",
+        "瞪眼",
+        "抱鲸鱼",
+        "怒气"
+      ],
+      "useWhen": [
+        "闹小脾气时",
+        "嘴上不说但明显不高兴时"
+      ],
+      "path": "memes/angry/1792846581811_969.png",
+      "caption": "抱着鲸鱼玩偶，皱眉瞪眼，头顶冒着怒气符号",
+      "search": "瞪眼生闷气 蓝发鲸鱼娘泡泡抱着鲸鱼玩偶，皱眉瞪眼，头顶冒着怒气符号。 抱着鲸鱼玩偶，皱眉瞪眼，头顶冒着怒气符号 委屈 生气 瞪眼 抱鲸鱼 怒气 闹小脾气时 嘴上不说但明显不高兴时 angry",
+      "preview": "previews/paopao-whale-girl/瞪眼生闷气.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E7%9E%AA%E7%9C%BC%E7%94%9F%E9%97%B7%E6%B0%94.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/angry/1792924197634_811.png",
+      "pack": "paopao-whale-girl",
+      "name": "按呆毛不服",
+      "file": "按呆毛不服.jpg",
+      "tag": "angry",
+      "description": "蓝发鲸鱼娘泡泡一只手用力按住头顶的呆毛，皱着小眉头。",
+      "text": "",
+      "keywords": [
+        "按呆毛",
+        "不服气",
+        "小脾气",
+        "皱眉",
+        "头发"
+      ],
+      "useWhen": [
+        "不服气时",
+        "被惹毛又不想认输时"
+      ],
+      "path": "memes/angry/1792924197634_811.png",
+      "caption": "一只手用力按住头顶的呆毛，皱着小眉头",
+      "search": "按呆毛不服 蓝发鲸鱼娘泡泡一只手用力按住头顶的呆毛，皱着小眉头。 一只手用力按住头顶的呆毛，皱着小眉头 按呆毛 不服气 小脾气 皱眉 头发 不服气时 被惹毛又不想认输时 angry",
+      "preview": "previews/paopao-whale-girl/按呆毛不服.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E6%8C%89%E5%91%86%E6%AF%9B%E4%B8%8D%E6%9C%8D.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/confused/1792846581862_31.png",
+      "pack": "paopao-whale-girl",
+      "name": "托腮问号",
+      "file": "托腮问号.jpg",
+      "tag": "confused",
+      "description": "蓝发鲸鱼娘泡泡托着下巴一脸疑惑，头顶一个大问号。",
+      "text": "",
+      "keywords": [
+        "疑惑",
+        "问号",
+        "不懂",
+        "思考",
+        "托腮"
+      ],
+      "useWhen": [
+        "没听懂对方在说什么时",
+        "想追问时"
+      ],
+      "path": "memes/confused/1792846581862_31.png",
+      "caption": "托着下巴一脸疑惑，头顶一个大问号",
+      "search": "托腮问号 蓝发鲸鱼娘泡泡托着下巴一脸疑惑，头顶一个大问号。 托着下巴一脸疑惑，头顶一个大问号 疑惑 问号 不懂 思考 托腮 没听懂对方在说什么时 想追问时 confused",
+      "preview": "previews/paopao-whale-girl/托腮问号.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E6%89%98%E8%85%AE%E9%97%AE%E5%8F%B7.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/confused/1792846587520_692.png",
+      "pack": "paopao-whale-girl",
+      "name": "睁眼疑惑",
+      "file": "睁眼疑惑.jpg",
+      "tag": "confused",
+      "description": "蓝发鲸鱼娘泡泡双手在下巴前交握，睁大眼睛一脸疑惑，头顶一个问号。",
+      "text": "",
+      "keywords": [
+        "疑惑",
+        "问号",
+        "不懂",
+        "思考",
+        "睁眼"
+      ],
+      "useWhen": [
+        "对方说了奇怪的话时",
+        "表示不理解时"
+      ],
+      "path": "memes/confused/1792846587520_692.png",
+      "caption": "双手在下巴前交握，睁大眼睛一脸疑惑，头顶一个问号",
+      "search": "睁眼疑惑 蓝发鲸鱼娘泡泡双手在下巴前交握，睁大眼睛一脸疑惑，头顶一个问号。 双手在下巴前交握，睁大眼睛一脸疑惑，头顶一个问号 疑惑 问号 不懂 思考 睁眼 对方说了奇怪的话时 表示不理解时 confused",
+      "preview": "previews/paopao-whale-girl/睁眼疑惑.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E7%9D%81%E7%9C%BC%E7%96%91%E6%83%91.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/confused/1792846603310_814.png",
+      "pack": "paopao-whale-girl",
+      "name": "歪头问号",
+      "file": "歪头问号.jpg",
+      "tag": "confused",
+      "description": "蓝发鲸鱼娘泡泡双手在下巴前交握，歪头疑惑，头顶一个问号。",
+      "text": "",
+      "keywords": [
+        "疑惑",
+        "问号",
+        "不懂",
+        "歪头",
+        "呆"
+      ],
+      "useWhen": [
+        "歪头表示疑惑时",
+        "装傻充愣时"
+      ],
+      "path": "memes/confused/1792846603310_814.png",
+      "caption": "双手在下巴前交握，歪头疑惑，头顶一个问号",
+      "search": "歪头问号 蓝发鲸鱼娘泡泡双手在下巴前交握，歪头疑惑，头顶一个问号。 双手在下巴前交握，歪头疑惑，头顶一个问号 疑惑 问号 不懂 歪头 呆 歪头表示疑惑时 装傻充愣时 confused",
+      "preview": "previews/paopao-whale-girl/歪头问号.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E6%AD%AA%E5%A4%B4%E9%97%AE%E5%8F%B7.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/daily/1792924195827_874.png",
+      "pack": "paopao-whale-girl",
+      "name": "弯腰系鞋带",
+      "file": "弯腰系鞋带.jpg",
+      "tag": "daily",
+      "description": "蓝发鲸鱼娘泡泡弯腰系鞋带，一只脚踩在盒子上，尾巴翘着保持平衡。",
+      "text": "",
+      "keywords": [
+        "系鞋带",
+        "出门",
+        "准备",
+        "日常",
+        "弯腰",
+        "盒子"
+      ],
+      "useWhen": [
+        "准备出门时",
+        "聊日常琐事时"
+      ],
+      "path": "memes/daily/1792924195827_874.png",
+      "caption": "弯腰系鞋带，一只脚踩在盒子上，尾巴翘着保持平衡",
+      "search": "弯腰系鞋带 蓝发鲸鱼娘泡泡弯腰系鞋带，一只脚踩在盒子上，尾巴翘着保持平衡。 弯腰系鞋带，一只脚踩在盒子上，尾巴翘着保持平衡 系鞋带 出门 准备 日常 弯腰 盒子 准备出门时 聊日常琐事时 daily",
+      "preview": "previews/paopao-whale-girl/弯腰系鞋带.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E5%BC%AF%E8%85%B0%E7%B3%BB%E9%9E%8B%E5%B8%A6.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/happy/1792846581787_713.png",
+      "pack": "paopao-whale-girl",
+      "name": "抱鲸鱼呆萌",
+      "file": "抱鲸鱼呆萌.jpg",
+      "tag": "happy",
+      "description": "蓝发鲸鱼娘泡泡抱着蓝鲸玩偶，睁大眼睛呆萌地看着你。",
+      "text": "",
+      "keywords": [
+        "抱鲸鱼",
+        "呆萌",
+        "期待",
+        "可爱",
+        "蓝鲸"
+      ],
+      "useWhen": [
+        "想卖萌时",
+        "眼巴巴等对方回应时"
+      ],
+      "path": "memes/happy/1792846581787_713.png",
+      "caption": "抱着蓝鲸玩偶，睁大眼睛呆萌地看着你",
+      "search": "抱鲸鱼呆萌 蓝发鲸鱼娘泡泡抱着蓝鲸玩偶，睁大眼睛呆萌地看着你。 抱着蓝鲸玩偶，睁大眼睛呆萌地看着你 抱鲸鱼 呆萌 期待 可爱 蓝鲸 想卖萌时 眼巴巴等对方回应时 happy",
+      "preview": "previews/paopao-whale-girl/抱鲸鱼呆萌.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E6%8A%B1%E9%B2%B8%E9%B1%BC%E5%91%86%E8%90%8C.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/happy/1792846581801_527.png",
+      "pack": "paopao-whale-girl",
+      "name": "闭眼笑爱心",
+      "file": "闭眼笑爱心.jpg",
+      "tag": "happy",
+      "description": "蓝发鲸鱼娘泡泡闭着眼睛笑，飘着爱心。",
+      "text": "",
+      "keywords": [
+        "开心",
+        "笑",
+        "爱心",
+        "喜欢",
+        "眯眼"
+      ],
+      "useWhen": [
+        "心情很好时",
+        "表达喜欢时"
+      ],
+      "path": "memes/happy/1792846581801_527.png",
+      "caption": "闭着眼睛笑，飘着爱心",
+      "search": "闭眼笑爱心 蓝发鲸鱼娘泡泡闭着眼睛笑，飘着爱心。 闭着眼睛笑，飘着爱心 开心 笑 爱心 喜欢 眯眼 心情很好时 表达喜欢时 happy",
+      "preview": "previews/paopao-whale-girl/闭眼笑爱心.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E9%97%AD%E7%9C%BC%E7%AC%91%E7%88%B1%E5%BF%83.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/happy/1792846581849_689.png",
+      "pack": "paopao-whale-girl",
+      "name": "眨眼小星星",
+      "file": "眨眼小星星.jpg",
+      "tag": "happy",
+      "description": "蓝发鲸鱼娘泡泡眨眼卖萌，旁边闪着小星星。",
+      "text": "",
+      "keywords": [
+        "眨眼",
+        "卖萌",
+        "调皮",
+        "星星",
+        "可爱"
+      ],
+      "useWhen": [
+        "俏皮打招呼时",
+        "逗对方开心时"
+      ],
+      "path": "memes/happy/1792846581849_689.png",
+      "caption": "眨眼卖萌，旁边闪着小星星",
+      "search": "眨眼小星星 蓝发鲸鱼娘泡泡眨眼卖萌，旁边闪着小星星。 眨眼卖萌，旁边闪着小星星 眨眼 卖萌 调皮 星星 可爱 俏皮打招呼时 逗对方开心时 happy",
+      "preview": "previews/paopao-whale-girl/眨眼小星星.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E7%9C%A8%E7%9C%BC%E5%B0%8F%E6%98%9F%E6%98%9F.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/happy/1792846587477_231.png",
+      "pack": "paopao-whale-girl",
+      "name": "张开手大笑",
+      "file": "张开手大笑.jpg",
+      "tag": "happy",
+      "description": "蓝发鲸鱼娘泡泡张开双手开心大笑。",
+      "text": "",
+      "keywords": [
+        "开心",
+        "伸手",
+        "大笑",
+        "欢迎"
+      ],
+      "useWhen": [
+        "欢迎对方时",
+        "听到好消息时"
+      ],
+      "path": "memes/happy/1792846587477_231.png",
+      "caption": "张开双手开心大笑",
+      "search": "张开手大笑 蓝发鲸鱼娘泡泡张开双手开心大笑。 张开双手开心大笑 开心 伸手 大笑 欢迎 欢迎对方时 听到好消息时 happy",
+      "preview": "previews/paopao-whale-girl/张开手大笑.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E5%BC%A0%E5%BC%80%E6%89%8B%E5%A4%A7%E7%AC%91.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/happy/1792846587492_848.png",
+      "pack": "paopao-whale-girl",
+      "name": "闭眼甜笑",
+      "file": "闭眼甜笑.jpg",
+      "tag": "happy",
+      "description": "蓝发鲸鱼娘泡泡闭眼笑，飘着爱心。",
+      "text": "",
+      "keywords": [
+        "开心",
+        "笑",
+        "爱心",
+        "甜"
+      ],
+      "useWhen": [
+        "表达开心时",
+        "撒娇时"
+      ],
+      "path": "memes/happy/1792846587492_848.png",
+      "caption": "闭眼笑，飘着爱心",
+      "search": "闭眼甜笑 蓝发鲸鱼娘泡泡闭眼笑，飘着爱心。 闭眼笑，飘着爱心 开心 笑 爱心 甜 表达开心时 撒娇时 happy",
+      "preview": "previews/paopao-whale-girl/闭眼甜笑.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E9%97%AD%E7%9C%BC%E7%94%9C%E7%AC%91.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/happy/1792846593073_506.png",
+      "pack": "paopao-whale-girl",
+      "name": "竖食指卖萌",
+      "file": "竖食指卖萌.jpg",
+      "tag": "happy",
+      "description": "蓝发鲸鱼娘泡泡眨眼竖起食指卖萌，旁边闪着星星。",
+      "text": "",
+      "keywords": [
+        "眨眼",
+        "卖萌",
+        "调皮",
+        "星星",
+        "食指"
+      ],
+      "useWhen": [
+        "想到好主意时",
+        "俏皮卖萌时"
+      ],
+      "path": "memes/happy/1792846593073_506.png",
+      "caption": "眨眼竖起食指卖萌，旁边闪着星星",
+      "search": "竖食指卖萌 蓝发鲸鱼娘泡泡眨眼竖起食指卖萌，旁边闪着星星。 眨眼竖起食指卖萌，旁边闪着星星 眨眼 卖萌 调皮 星星 食指 想到好主意时 俏皮卖萌时 happy",
+      "preview": "previews/paopao-whale-girl/竖食指卖萌.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E7%AB%96%E9%A3%9F%E6%8C%87%E5%8D%96%E8%90%8C.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/happy/1792846593178_101.png",
+      "pack": "paopao-whale-girl",
+      "name": "捧杯喝饮料",
+      "file": "捧杯喝饮料.jpg",
+      "tag": "happy",
+      "description": "蓝发鲸鱼娘泡泡捧着杯子喝饮料。",
+      "text": "",
+      "keywords": [
+        "喝",
+        "饮料",
+        "杯子",
+        "日常",
+        "安静"
+      ],
+      "useWhen": [
+        "悠闲喝东西时",
+        "聊日常时"
+      ],
+      "path": "memes/happy/1792846593178_101.png",
+      "caption": "捧着杯子喝饮料",
+      "search": "捧杯喝饮料 蓝发鲸鱼娘泡泡捧着杯子喝饮料。 捧着杯子喝饮料 喝 饮料 杯子 日常 安静 悠闲喝东西时 聊日常时 happy",
+      "preview": "previews/paopao-whale-girl/捧杯喝饮料.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E6%8D%A7%E6%9D%AF%E5%96%9D%E9%A5%AE%E6%96%99.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/happy/1792846597488_899.png",
+      "pack": "paopao-whale-girl",
+      "name": "吃草莓蛋糕",
+      "file": "吃草莓蛋糕.jpg",
+      "tag": "happy",
+      "description": "蓝发鲸鱼娘泡泡开心地吃草莓蛋糕。",
+      "text": "",
+      "keywords": [
+        "吃",
+        "蛋糕",
+        "开心",
+        "甜",
+        "草莓"
+      ],
+      "useWhen": [
+        "吃到好吃的时",
+        "庆祝时"
+      ],
+      "path": "memes/happy/1792846597488_899.png",
+      "caption": "开心地吃草莓蛋糕",
+      "search": "吃草莓蛋糕 蓝发鲸鱼娘泡泡开心地吃草莓蛋糕。 开心地吃草莓蛋糕 吃 蛋糕 开心 甜 草莓 吃到好吃的时 庆祝时 happy",
+      "preview": "previews/paopao-whale-girl/吃草莓蛋糕.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E5%90%83%E8%8D%89%E8%8E%93%E8%9B%8B%E7%B3%95.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/happy/1792846597531_41.png",
+      "pack": "paopao-whale-girl",
+      "name": "眨眼冒星星",
+      "file": "眨眼冒星星.jpg",
+      "tag": "happy",
+      "description": "蓝发鲸鱼娘泡泡眨眼卖萌，旁边一颗星星。",
+      "text": "",
+      "keywords": [
+        "眨眼",
+        "星星",
+        "可爱",
+        "调皮"
+      ],
+      "useWhen": [
+        "卖萌时",
+        "开玩笑时"
+      ],
+      "path": "memes/happy/1792846597531_41.png",
+      "caption": "眨眼卖萌，旁边一颗星星",
+      "search": "眨眼冒星星 蓝发鲸鱼娘泡泡眨眼卖萌，旁边一颗星星。 眨眼卖萌，旁边一颗星星 眨眼 星星 可爱 调皮 卖萌时 开玩笑时 happy",
+      "preview": "previews/paopao-whale-girl/眨眼冒星星.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E7%9C%A8%E7%9C%BC%E5%86%92%E6%98%9F%E6%98%9F.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/happy/1792846597542_76.png",
+      "pack": "paopao-whale-girl",
+      "name": "抱鲸鱼卖萌",
+      "file": "抱鲸鱼卖萌.jpg",
+      "tag": "happy",
+      "description": "蓝发鲸鱼娘泡泡抱着鲸鱼玩偶睁大眼睛。",
+      "text": "",
+      "keywords": [
+        "抱",
+        "鲸鱼",
+        "呆萌",
+        "看"
+      ],
+      "useWhen": [
+        "乖巧看着对方时",
+        "卖萌时"
+      ],
+      "path": "memes/happy/1792846597542_76.png",
+      "caption": "抱着鲸鱼玩偶睁大眼睛",
+      "search": "抱鲸鱼卖萌 蓝发鲸鱼娘泡泡抱着鲸鱼玩偶睁大眼睛。 抱着鲸鱼玩偶睁大眼睛 抱 鲸鱼 呆萌 看 乖巧看着对方时 卖萌时 happy",
+      "preview": "previews/paopao-whale-girl/抱鲸鱼卖萌.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E6%8A%B1%E9%B2%B8%E9%B1%BC%E5%8D%96%E8%90%8C.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/happy/1792846603270_753.png",
+      "pack": "paopao-whale-girl",
+      "name": "张开手欢迎",
+      "file": "张开手欢迎.jpg",
+      "tag": "happy",
+      "description": "蓝发鲸鱼娘泡泡张开双手开心大笑。",
+      "text": "",
+      "keywords": [
+        "开心",
+        "伸手",
+        "大笑",
+        "欢迎"
+      ],
+      "useWhen": [
+        "欢迎对方时",
+        "热情回应时"
+      ],
+      "path": "memes/happy/1792846603270_753.png",
+      "caption": "张开双手开心大笑",
+      "search": "张开手欢迎 蓝发鲸鱼娘泡泡张开双手开心大笑。 张开双手开心大笑 开心 伸手 大笑 欢迎 欢迎对方时 热情回应时 happy",
+      "preview": "previews/paopao-whale-girl/张开手欢迎.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E5%BC%A0%E5%BC%80%E6%89%8B%E6%AC%A2%E8%BF%8E.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/happy/1792846603284_992.png",
+      "pack": "paopao-whale-girl",
+      "name": "闭眼笑开花",
+      "file": "闭眼笑开花.jpg",
+      "tag": "happy",
+      "description": "蓝发鲸鱼娘泡泡闭眼笑，飘着爱心。",
+      "text": "",
+      "keywords": [
+        "开心",
+        "笑",
+        "爱心",
+        "甜"
+      ],
+      "useWhen": [
+        "开心到冒泡时",
+        "表达喜欢时"
+      ],
+      "path": "memes/happy/1792846603284_992.png",
+      "caption": "闭眼笑，飘着爱心",
+      "search": "闭眼笑开花 蓝发鲸鱼娘泡泡闭眼笑，飘着爱心。 闭眼笑，飘着爱心 开心 笑 爱心 甜 开心到冒泡时 表达喜欢时 happy",
+      "preview": "previews/paopao-whale-girl/闭眼笑开花.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E9%97%AD%E7%9C%BC%E7%AC%91%E5%BC%80%E8%8A%B1.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/happy/1792846606639_49.png",
+      "pack": "paopao-whale-girl",
+      "name": "指方向开心",
+      "file": "指方向开心.jpg",
+      "tag": "happy",
+      "description": "蓝发鲸鱼娘泡泡伸手指着方向笑得很开心。",
+      "text": "",
+      "keywords": [
+        "开心",
+        "指",
+        "笑",
+        "俏皮"
+      ],
+      "useWhen": [
+        "让对方看某处时",
+        "发现好东西时"
+      ],
+      "path": "memes/happy/1792846606639_49.png",
+      "caption": "伸手指着方向笑得很开心",
+      "search": "指方向开心 蓝发鲸鱼娘泡泡伸手指着方向笑得很开心。 伸手指着方向笑得很开心 开心 指 笑 俏皮 让对方看某处时 发现好东西时 happy",
+      "preview": "previews/paopao-whale-girl/指方向开心.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E6%8C%87%E6%96%B9%E5%90%91%E5%BC%80%E5%BF%83.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/happy/1792846606664_603.png",
+      "pack": "paopao-whale-girl",
+      "name": "捧鲸鱼杯子",
+      "file": "捧鲸鱼杯子.jpg",
+      "tag": "happy",
+      "description": "蓝发鲸鱼娘泡泡捧着鲸鱼图案的杯子微笑。",
+      "text": "",
+      "keywords": [
+        "杯子",
+        "喝水",
+        "微笑",
+        "日常"
+      ],
+      "useWhen": [
+        "安静微笑时",
+        "聊日常时"
+      ],
+      "path": "memes/happy/1792846606664_603.png",
+      "caption": "捧着鲸鱼图案的杯子微笑",
+      "search": "捧鲸鱼杯子 蓝发鲸鱼娘泡泡捧着鲸鱼图案的杯子微笑。 捧着鲸鱼图案的杯子微笑 杯子 喝水 微笑 日常 安静微笑时 聊日常时 happy",
+      "preview": "previews/paopao-whale-girl/捧鲸鱼杯子.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E6%8D%A7%E9%B2%B8%E9%B1%BC%E6%9D%AF%E5%AD%90.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/happy/1792854766092_130.png",
+      "pack": "paopao-whale-girl",
+      "name": "叉腰小得意",
+      "file": "叉腰小得意.jpg",
+      "tag": "happy",
+      "description": "蓝发鲸鱼娘泡泡叉着腰眨眼笑，尾巴翘起来，斗图赢了的小得意。",
+      "text": "",
+      "keywords": [
+        "得意",
+        "叉腰",
+        "斗图",
+        "赢了",
+        "尾巴",
+        "眨眼",
+        "俏皮"
+      ],
+      "useWhen": [
+        "赢了斗图时",
+        "小得意时"
+      ],
+      "path": "memes/happy/1792854766092_130.png",
+      "caption": "叉着腰眨眼笑，尾巴翘起来，斗图赢了的小得意",
+      "search": "叉腰小得意 蓝发鲸鱼娘泡泡叉着腰眨眼笑，尾巴翘起来，斗图赢了的小得意。 叉着腰眨眼笑，尾巴翘起来，斗图赢了的小得意 得意 叉腰 斗图 赢了 尾巴 眨眼 俏皮 赢了斗图时 小得意时 happy",
+      "preview": "previews/paopao-whale-girl/叉腰小得意.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E5%8F%89%E8%85%B0%E5%B0%8F%E5%BE%97%E6%84%8F.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/happy/1792854766111_132.png",
+      "pack": "paopao-whale-girl",
+      "name": "台阶等你",
+      "file": "台阶等你.jpg",
+      "tag": "happy",
+      "description": "蓝发鲸鱼娘泡泡坐在台阶上抱着膝盖，草帽放在旁边，抬头看到你时眼睛亮起来。",
+      "text": "",
+      "keywords": [
+        "等",
+        "台阶",
+        "抱膝",
+        "抬头",
+        "期待",
+        "草帽",
+        "回来"
+      ],
+      "useWhen": [
+        "等对方回来时",
+        "见到对方很开心时"
+      ],
+      "path": "memes/happy/1792854766111_132.png",
+      "caption": "坐在台阶上抱着膝盖，草帽放在旁边，抬头看到你时眼睛亮起来",
+      "search": "台阶等你 蓝发鲸鱼娘泡泡坐在台阶上抱着膝盖，草帽放在旁边，抬头看到你时眼睛亮起来。 坐在台阶上抱着膝盖，草帽放在旁边，抬头看到你时眼睛亮起来 等 台阶 抱膝 抬头 期待 草帽 回来 等对方回来时 见到对方很开心时 happy",
+      "preview": "previews/paopao-whale-girl/台阶等你.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E5%8F%B0%E9%98%B6%E7%AD%89%E4%BD%A0.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/happy/1792924201985_514.png",
+      "pack": "paopao-whale-girl",
+      "name": "举鲸鱼炫耀",
+      "file": "举鲸鱼炫耀.jpg",
+      "tag": "happy",
+      "description": "蓝发鲸鱼娘泡泡双手把蓝鲸玩偶举过头顶，仰头笑得眼睛发亮。",
+      "text": "",
+      "keywords": [
+        "举玩偶",
+        "鲸鱼",
+        "开心",
+        "举过头顶",
+        "炫耀"
+      ],
+      "useWhen": [
+        "炫耀战利品时",
+        "开心到想举高高时"
+      ],
+      "path": "memes/happy/1792924201985_514.png",
+      "caption": "双手把蓝鲸玩偶举过头顶，仰头笑得眼睛发亮",
+      "search": "举鲸鱼炫耀 蓝发鲸鱼娘泡泡双手把蓝鲸玩偶举过头顶，仰头笑得眼睛发亮。 双手把蓝鲸玩偶举过头顶，仰头笑得眼睛发亮 举玩偶 鲸鱼 开心 举过头顶 炫耀 炫耀战利品时 开心到想举高高时 happy",
+      "preview": "previews/paopao-whale-girl/举鲸鱼炫耀.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E4%B8%BE%E9%B2%B8%E9%B1%BC%E7%82%AB%E8%80%80.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/happy/1792924204409_521.png",
+      "pack": "paopao-whale-girl",
+      "name": "蹲着戳水洼",
+      "file": "蹲着戳水洼.jpg",
+      "tag": "happy",
+      "description": "蓝发鲸鱼娘泡泡蹲在水洼边伸一根手指戳水面，水花溅起来。",
+      "text": "",
+      "keywords": [
+        "戳水洼",
+        "水花",
+        "蹲着",
+        "好奇",
+        "雨天"
+      ],
+      "useWhen": [
+        "下雨天玩水时",
+        "好奇心发作时"
+      ],
+      "path": "memes/happy/1792924204409_521.png",
+      "caption": "蹲在水洼边伸一根手指戳水面，水花溅起来",
+      "search": "蹲着戳水洼 蓝发鲸鱼娘泡泡蹲在水洼边伸一根手指戳水面，水花溅起来。 蹲在水洼边伸一根手指戳水面，水花溅起来 戳水洼 水花 蹲着 好奇 雨天 下雨天玩水时 好奇心发作时 happy",
+      "preview": "previews/paopao-whale-girl/蹲着戳水洼.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E8%B9%B2%E7%9D%80%E6%88%B3%E6%B0%B4%E6%B4%BC.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/like/1792846587462_182.png",
+      "pack": "paopao-whale-girl",
+      "name": "抱鲸鱼蹭蹭",
+      "file": "抱鲸鱼蹭蹭.jpg",
+      "tag": "like",
+      "description": "蓝发鲸鱼娘泡泡抱着鲸鱼玩偶闭眼蹭，飘着爱心。",
+      "text": "",
+      "keywords": [
+        "喜欢",
+        "抱",
+        "安心",
+        "爱心",
+        "蹭"
+      ],
+      "useWhen": [
+        "表达依赖时",
+        "撒娇蹭蹭时"
+      ],
+      "path": "memes/like/1792846587462_182.png",
+      "caption": "抱着鲸鱼玩偶闭眼蹭，飘着爱心",
+      "search": "抱鲸鱼蹭蹭 蓝发鲸鱼娘泡泡抱着鲸鱼玩偶闭眼蹭，飘着爱心。 抱着鲸鱼玩偶闭眼蹭，飘着爱心 喜欢 抱 安心 爱心 蹭 表达依赖时 撒娇蹭蹭时 like",
+      "preview": "previews/paopao-whale-girl/抱鲸鱼蹭蹭.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E6%8A%B1%E9%B2%B8%E9%B1%BC%E8%B9%AD%E8%B9%AD.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/like/1792846593125_576.png",
+      "pack": "paopao-whale-girl",
+      "name": "抱大爱心",
+      "file": "抱大爱心.jpg",
+      "tag": "like",
+      "description": "蓝发鲸鱼娘泡泡闭眼抱着大爱心笑。",
+      "text": "",
+      "keywords": [
+        "喜欢",
+        "爱心",
+        "开心",
+        "抱"
+      ],
+      "useWhen": [
+        "表达喜欢时",
+        "收到礼物时"
+      ],
+      "path": "memes/like/1792846593125_576.png",
+      "caption": "闭眼抱着大爱心笑",
+      "search": "抱大爱心 蓝发鲸鱼娘泡泡闭眼抱着大爱心笑。 闭眼抱着大爱心笑 喜欢 爱心 开心 抱 表达喜欢时 收到礼物时 like",
+      "preview": "previews/paopao-whale-girl/抱大爱心.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E6%8A%B1%E5%A4%A7%E7%88%B1%E5%BF%83.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/like/1792846593206_657.png",
+      "pack": "paopao-whale-girl",
+      "name": "抱鲸鱼比心",
+      "file": "抱鲸鱼比心.jpg",
+      "tag": "like",
+      "description": "蓝发鲸鱼娘泡泡抱着鲸鱼玩偶眨眼，飘着爱心。",
+      "text": "",
+      "keywords": [
+        "喜欢",
+        "抱",
+        "鲸鱼",
+        "眨眼",
+        "爱心"
+      ],
+      "useWhen": [
+        "卖萌表达喜欢时",
+        "撒娇时"
+      ],
+      "path": "memes/like/1792846593206_657.png",
+      "caption": "抱着鲸鱼玩偶眨眼，飘着爱心",
+      "search": "抱鲸鱼比心 蓝发鲸鱼娘泡泡抱着鲸鱼玩偶眨眼，飘着爱心。 抱着鲸鱼玩偶眨眼，飘着爱心 喜欢 抱 鲸鱼 眨眼 爱心 卖萌表达喜欢时 撒娇时 like",
+      "preview": "previews/paopao-whale-girl/抱鲸鱼比心.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E6%8A%B1%E9%B2%B8%E9%B1%BC%E6%AF%94%E5%BF%83.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/like/1792846597552_668.png",
+      "pack": "paopao-whale-girl",
+      "name": "抱鲸鱼安心",
+      "file": "抱鲸鱼安心.jpg",
+      "tag": "like",
+      "description": "蓝发鲸鱼娘泡泡闭眼抱着鲸鱼玩偶，飘着爱心。",
+      "text": "",
+      "keywords": [
+        "喜欢",
+        "抱",
+        "鲸鱼",
+        "安心"
+      ],
+      "useWhen": [
+        "安心满足时",
+        "表达依赖时"
+      ],
+      "path": "memes/like/1792846597552_668.png",
+      "caption": "闭眼抱着鲸鱼玩偶，飘着爱心",
+      "search": "抱鲸鱼安心 蓝发鲸鱼娘泡泡闭眼抱着鲸鱼玩偶，飘着爱心。 闭眼抱着鲸鱼玩偶，飘着爱心 喜欢 抱 鲸鱼 安心 安心满足时 表达依赖时 like",
+      "preview": "previews/paopao-whale-girl/抱鲸鱼安心.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E6%8A%B1%E9%B2%B8%E9%B1%BC%E5%AE%89%E5%BF%83.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/like/1792846606652_901.png",
+      "pack": "paopao-whale-girl",
+      "name": "双手捧爱心",
+      "file": "双手捧爱心.jpg",
+      "tag": "like",
+      "description": "蓝发鲸鱼娘泡泡双手捧着大爱心。",
+      "text": "",
+      "keywords": [
+        "爱心",
+        "喜欢",
+        "抱",
+        "甜"
+      ],
+      "useWhen": [
+        "告白时",
+        "表达爱意时"
+      ],
+      "path": "memes/like/1792846606652_901.png",
+      "caption": "双手捧着大爱心",
+      "search": "双手捧爱心 蓝发鲸鱼娘泡泡双手捧着大爱心。 双手捧着大爱心 爱心 喜欢 抱 甜 告白时 表达爱意时 like",
+      "preview": "previews/paopao-whale-girl/双手捧爱心.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E5%8F%8C%E6%89%8B%E6%8D%A7%E7%88%B1%E5%BF%83.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/sad/1792846587445_89.png",
+      "pack": "paopao-whale-girl",
+      "name": "闭眼大哭",
+      "file": "闭眼大哭.jpg",
+      "tag": "sad",
+      "description": "蓝发鲸鱼娘泡泡闭眼大哭，眼泪哗哗往下掉。",
+      "text": "",
+      "keywords": [
+        "哭",
+        "难过",
+        "眼泪",
+        "委屈",
+        "大哭"
+      ],
+      "useWhen": [
+        "求安慰时",
+        "委屈到不行时"
+      ],
+      "path": "memes/sad/1792846587445_89.png",
+      "caption": "闭眼大哭，眼泪哗哗往下掉",
+      "search": "闭眼大哭 蓝发鲸鱼娘泡泡闭眼大哭，眼泪哗哗往下掉。 闭眼大哭，眼泪哗哗往下掉 哭 难过 眼泪 委屈 大哭 求安慰时 委屈到不行时 sad",
+      "preview": "previews/paopao-whale-girl/闭眼大哭.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E9%97%AD%E7%9C%BC%E5%A4%A7%E5%93%AD.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/sad/1792846593113_740.png",
+      "pack": "paopao-whale-girl",
+      "name": "张嘴大哭",
+      "file": "张嘴大哭.jpg",
+      "tag": "sad",
+      "description": "蓝发鲸鱼娘泡泡张大嘴哭，眼泪直流。",
+      "text": "",
+      "keywords": [
+        "大哭",
+        "难过",
+        "眼泪",
+        "委屈"
+      ],
+      "useWhen": [
+        "情绪崩溃时",
+        "嚎啕大哭时"
+      ],
+      "path": "memes/sad/1792846593113_740.png",
+      "caption": "张大嘴哭，眼泪直流",
+      "search": "张嘴大哭 蓝发鲸鱼娘泡泡张大嘴哭，眼泪直流。 张大嘴哭，眼泪直流 大哭 难过 眼泪 委屈 情绪崩溃时 嚎啕大哭时 sad",
+      "preview": "previews/paopao-whale-girl/张嘴大哭.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E5%BC%A0%E5%98%B4%E5%A4%A7%E5%93%AD.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/sad/1792846603350_731.png",
+      "pack": "paopao-whale-girl",
+      "name": "抹泪大哭",
+      "file": "抹泪大哭.jpg",
+      "tag": "sad",
+      "description": "蓝发鲸鱼娘泡泡哭得眼泪直流。",
+      "text": "",
+      "keywords": [
+        "哭",
+        "难过",
+        "眼泪",
+        "委屈"
+      ],
+      "useWhen": [
+        "抹眼泪时",
+        "难过想哭时"
+      ],
+      "path": "memes/sad/1792846603350_731.png",
+      "caption": "哭得眼泪直流",
+      "search": "抹泪大哭 蓝发鲸鱼娘泡泡哭得眼泪直流。 哭得眼泪直流 哭 难过 眼泪 委屈 抹眼泪时 难过想哭时 sad",
+      "preview": "previews/paopao-whale-girl/抹泪大哭.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E6%8A%B9%E6%B3%AA%E5%A4%A7%E5%93%AD.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/see/1792846581824_343.png",
+      "pack": "paopao-whale-girl",
+      "name": "抱鲸鱼盯你",
+      "file": "抱鲸鱼盯你.jpg",
+      "tag": "see",
+      "description": "蓝发鲸鱼娘泡泡抱着鲸鱼玩偶睁着大眼睛看你。",
+      "text": "",
+      "keywords": [
+        "看",
+        "呆",
+        "好奇",
+        "抱鲸鱼",
+        "蓝鲸"
+      ],
+      "useWhen": [
+        "盯着对方看时",
+        "好奇时"
+      ],
+      "path": "memes/see/1792846581824_343.png",
+      "caption": "抱着鲸鱼玩偶睁着大眼睛看你",
+      "search": "抱鲸鱼盯你 蓝发鲸鱼娘泡泡抱着鲸鱼玩偶睁着大眼睛看你。 抱着鲸鱼玩偶睁着大眼睛看你 看 呆 好奇 抱鲸鱼 蓝鲸 盯着对方看时 好奇时 see",
+      "preview": "previews/paopao-whale-girl/抱鲸鱼盯你.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E6%8A%B1%E9%B2%B8%E9%B1%BC%E7%9B%AF%E4%BD%A0.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/see/1792846587505_54.png",
+      "pack": "paopao-whale-girl",
+      "name": "躲后面偷看",
+      "file": "躲后面偷看.jpg",
+      "tag": "see",
+      "description": "蓝发鲸鱼娘泡泡躲在后面探出半个头，双手托腮看着你。",
+      "text": "",
+      "keywords": [
+        "探头",
+        "偷看",
+        "托腮",
+        "观察"
+      ],
+      "useWhen": [
+        "偷偷围观时",
+        "暗中观察时"
+      ],
+      "path": "memes/see/1792846587505_54.png",
+      "caption": "躲在后面探出半个头，双手托腮看着你",
+      "search": "躲后面偷看 蓝发鲸鱼娘泡泡躲在后面探出半个头，双手托腮看着你。 躲在后面探出半个头，双手托腮看着你 探头 偷看 托腮 观察 偷偷围观时 暗中观察时 see",
+      "preview": "previews/paopao-whale-girl/躲后面偷看.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E8%BA%B2%E5%90%8E%E9%9D%A2%E5%81%B7%E7%9C%8B.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/see/1792846593194_404.png",
+      "pack": "paopao-whale-girl",
+      "name": "看泡泡日报",
+      "file": "看泡泡日报.jpg",
+      "tag": "see",
+      "description": "蓝发鲸鱼娘泡泡举着《泡泡日报》看得眼睛发亮。",
+      "text": "泡泡日报",
+      "keywords": [
+        "看报",
+        "泡泡日报",
+        "惊讶",
+        "认真",
+        "亮眼"
+      ],
+      "useWhen": [
+        "看到大新闻时",
+        "认真吃瓜时"
+      ],
+      "path": "memes/see/1792846593194_404.png",
+      "caption": "举着《泡泡日报》看得眼睛发亮",
+      "search": "看泡泡日报 蓝发鲸鱼娘泡泡举着《泡泡日报》看得眼睛发亮。 泡泡日报 举着《泡泡日报》看得眼睛发亮 看报 泡泡日报 惊讶 认真 亮眼 看到大新闻时 认真吃瓜时 see",
+      "preview": "previews/paopao-whale-girl/看泡泡日报.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E7%9C%8B%E6%B3%A1%E6%B3%A1%E6%97%A5%E6%8A%A5.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/see/1792846603296_348.png",
+      "pack": "paopao-whale-girl",
+      "name": "探头暗中观察",
+      "file": "探头暗中观察.jpg",
+      "tag": "see",
+      "description": "蓝发鲸鱼娘泡泡探出半个头看着你。",
+      "text": "",
+      "keywords": [
+        "探头",
+        "偷看",
+        "观察",
+        "好奇"
+      ],
+      "useWhen": [
+        "从角落里探头时",
+        "想看看发生了什么时"
+      ],
+      "path": "memes/see/1792846603296_348.png",
+      "caption": "探出半个头看着你",
+      "search": "探头暗中观察 蓝发鲸鱼娘泡泡探出半个头看着你。 探出半个头看着你 探头 偷看 观察 好奇 从角落里探头时 想看看发生了什么时 see",
+      "preview": "previews/paopao-whale-girl/探头暗中观察.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E6%8E%A2%E5%A4%B4%E6%9A%97%E4%B8%AD%E8%A7%82%E5%AF%9F.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/see/1792846606676_776.png",
+      "pack": "paopao-whale-girl",
+      "name": "举泡泡日报",
+      "file": "举泡泡日报.jpg",
+      "tag": "see",
+      "description": "蓝发鲸鱼娘泡泡举着《泡泡日报》眨眼。",
+      "text": "泡泡日报",
+      "keywords": [
+        "看报",
+        "泡泡日报",
+        "眨眼",
+        "认真"
+      ],
+      "useWhen": [
+        "边看报边卖萌时",
+        "分享八卦时"
+      ],
+      "path": "memes/see/1792846606676_776.png",
+      "caption": "举着《泡泡日报》眨眼",
+      "search": "举泡泡日报 蓝发鲸鱼娘泡泡举着《泡泡日报》眨眼。 泡泡日报 举着《泡泡日报》眨眼 看报 泡泡日报 眨眼 认真 边看报边卖萌时 分享八卦时 see",
+      "preview": "previews/paopao-whale-girl/举泡泡日报.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E4%B8%BE%E6%B3%A1%E6%B3%A1%E6%97%A5%E6%8A%A5.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/shy/1792846587427_894.png",
+      "pack": "paopao-whale-girl",
+      "name": "低头害羞笑",
+      "file": "低头害羞笑.jpg",
+      "tag": "shy",
+      "description": "蓝发鲸鱼娘泡泡闭着眼低头笑，脸颊微红。",
+      "text": "",
+      "keywords": [
+        "害羞",
+        "笑",
+        "温柔",
+        "低头",
+        "脸红"
+      ],
+      "useWhen": [
+        "被夸时",
+        "不好意思时"
+      ],
+      "path": "memes/shy/1792846587427_894.png",
+      "caption": "闭着眼低头笑，脸颊微红",
+      "search": "低头害羞笑 蓝发鲸鱼娘泡泡闭着眼低头笑，脸颊微红。 闭着眼低头笑，脸颊微红 害羞 笑 温柔 低头 脸红 被夸时 不好意思时 shy",
+      "preview": "previews/paopao-whale-girl/低头害羞笑.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E4%BD%8E%E5%A4%B4%E5%AE%B3%E7%BE%9E%E7%AC%91.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/shy/1792846597499_771.png",
+      "pack": "paopao-whale-girl",
+      "name": "侧脸垂眼",
+      "file": "侧脸垂眼.jpg",
+      "tag": "shy",
+      "description": "蓝发鲸鱼娘泡泡侧过脸低头，安静地垂眼看着别处。",
+      "text": "",
+      "keywords": [
+        "侧脸",
+        "低头",
+        "安静",
+        "腼腆",
+        "垂眼"
+      ],
+      "useWhen": [
+        "安静不说话时",
+        "有点不好意思时"
+      ],
+      "path": "memes/shy/1792846597499_771.png",
+      "caption": "侧过脸低头，安静地垂眼看着别处",
+      "search": "侧脸垂眼 蓝发鲸鱼娘泡泡侧过脸低头，安静地垂眼看着别处。 侧过脸低头，安静地垂眼看着别处 侧脸 低头 安静 腼腆 垂眼 安静不说话时 有点不好意思时 shy",
+      "preview": "previews/paopao-whale-girl/侧脸垂眼.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E4%BE%A7%E8%84%B8%E5%9E%82%E7%9C%BC.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/shy/1792846597563_944.png",
+      "pack": "paopao-whale-girl",
+      "name": "脸红缩肩膀",
+      "file": "脸红缩肩膀.jpg",
+      "tag": "shy",
+      "description": "蓝发鲸鱼娘泡泡闭着眼脸红，害羞地缩着肩膀。",
+      "text": "",
+      "keywords": [
+        "害羞",
+        "脸红",
+        "缩肩",
+        "不好意思"
+      ],
+      "useWhen": [
+        "害羞到想躲起来时",
+        "被围观时"
+      ],
+      "path": "memes/shy/1792846597563_944.png",
+      "caption": "闭着眼脸红，害羞地缩着肩膀",
+      "search": "脸红缩肩膀 蓝发鲸鱼娘泡泡闭着眼脸红，害羞地缩着肩膀。 闭着眼脸红，害羞地缩着肩膀 害羞 脸红 缩肩 不好意思 害羞到想躲起来时 被围观时 shy",
+      "preview": "previews/paopao-whale-girl/脸红缩肩膀.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E8%84%B8%E7%BA%A2%E7%BC%A9%E8%82%A9%E8%86%80.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/shy/1792854766127_101.png",
+      "pack": "paopao-whale-girl",
+      "name": "被看穿心虚",
+      "file": "被看穿心虚.jpg",
+      "tag": "shy",
+      "description": "蓝发鲸鱼娘泡泡脸红到耳朵，眼神躲开，手指绞着围裙角，被看穿了。",
+      "text": "",
+      "keywords": [
+        "被看穿",
+        "害羞",
+        "脸红",
+        "围裙",
+        "躲眼神",
+        "心虚",
+        "抿嘴"
+      ],
+      "useWhen": [
+        "小心思被看穿时",
+        "心虚时"
+      ],
+      "path": "memes/shy/1792854766127_101.png",
+      "caption": "脸红到耳朵，眼神躲开，手指绞着围裙角，被看穿了",
+      "search": "被看穿心虚 蓝发鲸鱼娘泡泡脸红到耳朵，眼神躲开，手指绞着围裙角，被看穿了。 脸红到耳朵，眼神躲开，手指绞着围裙角，被看穿了 被看穿 害羞 脸红 围裙 躲眼神 心虚 抿嘴 小心思被看穿时 心虚时 shy",
+      "preview": "previews/paopao-whale-girl/被看穿心虚.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E8%A2%AB%E7%9C%8B%E7%A9%BF%E5%BF%83%E8%99%9A.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/shy/1792924211251_729.png",
+      "pack": "paopao-whale-girl",
+      "name": "别头发害羞",
+      "file": "别头发害羞.jpg",
+      "tag": "shy",
+      "description": "蓝发鲸鱼娘泡泡低头把长发别到耳后，手指穿过发丝。",
+      "text": "",
+      "keywords": [
+        "别头发",
+        "低头",
+        "安静",
+        "害羞",
+        "长发"
+      ],
+      "useWhen": [
+        "不好意思地整理头发时",
+        "害羞时"
+      ],
+      "path": "memes/shy/1792924211251_729.png",
+      "caption": "低头把长发别到耳后，手指穿过发丝",
+      "search": "别头发害羞 蓝发鲸鱼娘泡泡低头把长发别到耳后，手指穿过发丝。 低头把长发别到耳后，手指穿过发丝 别头发 低头 安静 害羞 长发 不好意思地整理头发时 害羞时 shy",
+      "preview": "previews/paopao-whale-girl/别头发害羞.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E5%88%AB%E5%A4%B4%E5%8F%91%E5%AE%B3%E7%BE%9E.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/shy/1792924214485_708.png",
+      "pack": "paopao-whale-girl",
+      "name": "被摸头愣住",
+      "file": "被摸头愣住.jpg",
+      "tag": "shy",
+      "description": "蓝发鲸鱼娘泡泡被一只手摸着头顶，双手握在胸前愣住。",
+      "text": "",
+      "keywords": [
+        "被摸头",
+        "摸头",
+        "愣住",
+        "害羞",
+        "手"
+      ],
+      "useWhen": [
+        "被摸头时",
+        "突然被宠溺时"
+      ],
+      "path": "memes/shy/1792924214485_708.png",
+      "caption": "被一只手摸着头顶，双手握在胸前愣住",
+      "search": "被摸头愣住 蓝发鲸鱼娘泡泡被一只手摸着头顶，双手握在胸前愣住。 被一只手摸着头顶，双手握在胸前愣住 被摸头 摸头 愣住 害羞 手 被摸头时 突然被宠溺时 shy",
+      "preview": "previews/paopao-whale-girl/被摸头愣住.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E8%A2%AB%E6%91%B8%E5%A4%B4%E6%84%A3%E4%BD%8F.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/shy/1792924218624_322.png",
+      "pack": "paopao-whale-girl",
+      "name": "被捏脸鼓脸",
+      "file": "被捏脸鼓脸.jpg",
+      "tag": "shy",
+      "description": "蓝发鲸鱼娘泡泡被两只手捏住脸颊，鼓着脸颊眼睛圆圆的。",
+      "text": "",
+      "keywords": [
+        "被捏脸",
+        "捏脸",
+        "鼓脸",
+        "害羞",
+        "手"
+      ],
+      "useWhen": [
+        "被捏脸时",
+        "脸被揉来揉去时"
+      ],
+      "path": "memes/shy/1792924218624_322.png",
+      "caption": "被两只手捏住脸颊，鼓着脸颊眼睛圆圆的",
+      "search": "被捏脸鼓脸 蓝发鲸鱼娘泡泡被两只手捏住脸颊，鼓着脸颊眼睛圆圆的。 被两只手捏住脸颊，鼓着脸颊眼睛圆圆的 被捏脸 捏脸 鼓脸 害羞 手 被捏脸时 脸被揉来揉去时 shy",
+      "preview": "previews/paopao-whale-girl/被捏脸鼓脸.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E8%A2%AB%E6%8D%8F%E8%84%B8%E9%BC%93%E8%84%B8.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/sleep/1792846581837_910.png",
+      "pack": "paopao-whale-girl",
+      "name": "趴着睡香香",
+      "file": "趴着睡香香.jpg",
+      "tag": "sleep",
+      "description": "蓝发鲸鱼娘泡泡抱着鲸鱼玩偶趴着睡着，旁边飘着 Zzz。",
+      "text": "",
+      "keywords": [
+        "睡觉",
+        "困",
+        "趴着",
+        "zzz",
+        "睡香"
+      ],
+      "useWhen": [
+        "困了想睡时",
+        "道晚安时"
+      ],
+      "path": "memes/sleep/1792846581837_910.png",
+      "caption": "抱着鲸鱼玩偶趴着睡着，旁边飘着 Zzz",
+      "search": "趴着睡香香 蓝发鲸鱼娘泡泡抱着鲸鱼玩偶趴着睡着，旁边飘着 Zzz。 抱着鲸鱼玩偶趴着睡着，旁边飘着 Zzz 睡觉 困 趴着 zzz 睡香 困了想睡时 道晚安时 sleep",
+      "preview": "previews/paopao-whale-girl/趴着睡香香.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E8%B6%B4%E7%9D%80%E7%9D%A1%E9%A6%99%E9%A6%99.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/sleep/1792846593087_719.png",
+      "pack": "paopao-whale-girl",
+      "name": "抱鲸鱼睡觉",
+      "file": "抱鲸鱼睡觉.jpg",
+      "tag": "sleep",
+      "description": "蓝发鲸鱼娘泡泡抱着鲸鱼玩偶睡得很香，旁边 Zzz。",
+      "text": "",
+      "keywords": [
+        "睡觉",
+        "困",
+        "抱着",
+        "睡香"
+      ],
+      "useWhen": [
+        "准备睡觉时",
+        "说困了时"
+      ],
+      "path": "memes/sleep/1792846593087_719.png",
+      "caption": "抱着鲸鱼玩偶睡得很香，旁边 Zzz",
+      "search": "抱鲸鱼睡觉 蓝发鲸鱼娘泡泡抱着鲸鱼玩偶睡得很香，旁边 Zzz。 抱着鲸鱼玩偶睡得很香，旁边 Zzz 睡觉 困 抱着 睡香 准备睡觉时 说困了时 sleep",
+      "preview": "previews/paopao-whale-girl/抱鲸鱼睡觉.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E6%8A%B1%E9%B2%B8%E9%B1%BC%E7%9D%A1%E8%A7%89.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/sleep/1792846597510_377.png",
+      "pack": "paopao-whale-girl",
+      "name": "趴鲸鱼睡着",
+      "file": "趴鲸鱼睡着.jpg",
+      "tag": "sleep",
+      "description": "蓝发鲸鱼娘泡泡趴在鲸鱼玩偶上睡着，尾巴翘起来。",
+      "text": "",
+      "keywords": [
+        "睡觉",
+        "趴着",
+        "尾巴",
+        "鲸鱼",
+        "困"
+      ],
+      "useWhen": [
+        "趴着睡着了时",
+        "睡得四仰八叉时"
+      ],
+      "path": "memes/sleep/1792846597510_377.png",
+      "caption": "趴在鲸鱼玩偶上睡着，尾巴翘起来",
+      "search": "趴鲸鱼睡着 蓝发鲸鱼娘泡泡趴在鲸鱼玩偶上睡着，尾巴翘起来。 趴在鲸鱼玩偶上睡着，尾巴翘起来 睡觉 趴着 尾巴 鲸鱼 困 趴着睡着了时 睡得四仰八叉时 sleep",
+      "preview": "previews/paopao-whale-girl/趴鲸鱼睡着.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E8%B6%B4%E9%B2%B8%E9%B1%BC%E7%9D%A1%E7%9D%80.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/sleep/1792846603324_245.png",
+      "pack": "paopao-whale-girl",
+      "name": "抱鲸鱼打盹",
+      "file": "抱鲸鱼打盹.jpg",
+      "tag": "sleep",
+      "description": "蓝发鲸鱼娘泡泡抱着鲸鱼玩偶睡着，旁边 Zzz。",
+      "text": "",
+      "keywords": [
+        "睡觉",
+        "困",
+        "zzz",
+        "抱着"
+      ],
+      "useWhen": [
+        "打盹时",
+        "说晚安时"
+      ],
+      "path": "memes/sleep/1792846603324_245.png",
+      "caption": "抱着鲸鱼玩偶睡着，旁边 Zzz",
+      "search": "抱鲸鱼打盹 蓝发鲸鱼娘泡泡抱着鲸鱼玩偶睡着，旁边 Zzz。 抱着鲸鱼玩偶睡着，旁边 Zzz 睡觉 困 zzz 抱着 打盹时 说晚安时 sleep",
+      "preview": "previews/paopao-whale-girl/抱鲸鱼打盹.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E6%8A%B1%E9%B2%B8%E9%B1%BC%E6%89%93%E7%9B%B9.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/sleep/1792924207808_125.png",
+      "pack": "paopao-whale-girl",
+      "name": "桌上打瞌睡",
+      "file": "桌上打瞌睡.jpg",
+      "tag": "sleep",
+      "description": "蓝发鲸鱼娘泡泡趴在桌面上打瞌睡，抹布还压在手下。",
+      "text": "",
+      "keywords": [
+        "犯困",
+        "趴桌子",
+        "擦桌子",
+        "打瞌睡",
+        "累"
+      ],
+      "useWhen": [
+        "干活干困了时",
+        "上课犯困时"
+      ],
+      "path": "memes/sleep/1792924207808_125.png",
+      "caption": "趴在桌面上打瞌睡，抹布还压在手下",
+      "search": "桌上打瞌睡 蓝发鲸鱼娘泡泡趴在桌面上打瞌睡，抹布还压在手下。 趴在桌面上打瞌睡，抹布还压在手下 犯困 趴桌子 擦桌子 打瞌睡 累 干活干困了时 上课犯困时 sleep",
+      "preview": "previews/paopao-whale-girl/桌上打瞌睡.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E6%A1%8C%E4%B8%8A%E6%89%93%E7%9E%8C%E7%9D%A1.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/sigh/1792846587413_747.png",
+      "pack": "paopao-whale-girl",
+      "name": "无语流汗",
+      "file": "无语流汗.jpg",
+      "tag": "sigh",
+      "description": "蓝发鲸鱼娘泡泡半睁着眼一脸无语，旁边有汗滴。",
+      "text": "",
+      "keywords": [
+        "无语",
+        "汗",
+        "嫌弃",
+        "无奈",
+        "敷衍"
+      ],
+      "useWhen": [
+        "被对方无语到时",
+        "表示无奈时"
+      ],
+      "path": "memes/sigh/1792846587413_747.png",
+      "caption": "半睁着眼一脸无语，旁边有汗滴",
+      "search": "无语流汗 蓝发鲸鱼娘泡泡半睁着眼一脸无语，旁边有汗滴。 半睁着眼一脸无语，旁边有汗滴 无语 汗 嫌弃 无奈 敷衍 被对方无语到时 表示无奈时 sigh",
+      "preview": "previews/paopao-whale-girl/无语流汗.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E6%97%A0%E8%AF%AD%E6%B5%81%E6%B1%97.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/sigh/1792846593100_975.png",
+      "pack": "paopao-whale-girl",
+      "name": "无语叹气",
+      "file": "无语叹气.jpg",
+      "tag": "sigh",
+      "description": "蓝发鲸鱼娘泡泡半睁着眼一脸无语，旁边冒出一团气。",
+      "text": "",
+      "keywords": [
+        "无语",
+        "无奈",
+        "叹气",
+        "嫌弃"
+      ],
+      "useWhen": [
+        "叹气时",
+        "懒得反驳时"
+      ],
+      "path": "memes/sigh/1792846593100_975.png",
+      "caption": "半睁着眼一脸无语，旁边冒出一团气",
+      "search": "无语叹气 蓝发鲸鱼娘泡泡半睁着眼一脸无语，旁边冒出一团气。 半睁着眼一脸无语，旁边冒出一团气 无语 无奈 叹气 嫌弃 叹气时 懒得反驳时 sigh",
+      "preview": "previews/paopao-whale-girl/无语叹气.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E6%97%A0%E8%AF%AD%E5%8F%B9%E6%B0%94.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/sigh/1792846603337_766.png",
+      "pack": "paopao-whale-girl",
+      "name": "无奈呼气",
+      "file": "无奈呼气.jpg",
+      "tag": "sigh",
+      "description": "蓝发鲸鱼娘泡泡半睁眼无语，冒出呼气团。",
+      "text": "",
+      "keywords": [
+        "无语",
+        "无奈",
+        "嫌弃",
+        "呼气"
+      ],
+      "useWhen": [
+        "无奈呼出一口气时",
+        "拿对方没办法时"
+      ],
+      "path": "memes/sigh/1792846603337_766.png",
+      "caption": "半睁眼无语，冒出呼气团",
+      "search": "无奈呼气 蓝发鲸鱼娘泡泡半睁眼无语，冒出呼气团。 半睁眼无语，冒出呼气团 无语 无奈 嫌弃 呼气 无奈呼出一口气时 拿对方没办法时 sigh",
+      "preview": "previews/paopao-whale-girl/无奈呼气.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E6%97%A0%E5%A5%88%E5%91%BC%E6%B0%94.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/surprised/1792846581874_922.png",
+      "pack": "paopao-whale-girl",
+      "name": "惊讶举手",
+      "file": "惊讶举手.jpg",
+      "tag": "surprised",
+      "description": "蓝发鲸鱼娘泡泡睁大眼睛举起手，被惊到了。",
+      "text": "",
+      "keywords": [
+        "惊讶",
+        "吓到",
+        "举手",
+        "感叹号",
+        "震惊"
+      ],
+      "useWhen": [
+        "被吓到时",
+        "听到意外消息时"
+      ],
+      "path": "memes/surprised/1792846581874_922.png",
+      "caption": "睁大眼睛举起手，被惊到了",
+      "search": "惊讶举手 蓝发鲸鱼娘泡泡睁大眼睛举起手，被惊到了。 睁大眼睛举起手，被惊到了 惊讶 吓到 举手 感叹号 震惊 被吓到时 听到意外消息时 surprised",
+      "preview": "previews/paopao-whale-girl/惊讶举手.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E6%83%8A%E8%AE%B6%E4%B8%BE%E6%89%8B.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/surprised/1792846597520_188.png",
+      "pack": "paopao-whale-girl",
+      "name": "大惊失色",
+      "file": "大惊失色.jpg",
+      "tag": "surprised",
+      "description": "蓝发鲸鱼娘泡泡睁大眼睛张着嘴大惊，旁边两个蓝色感叹号。",
+      "text": "",
+      "keywords": [
+        "惊讶",
+        "吓到",
+        "感叹号",
+        "震惊",
+        "张嘴"
+      ],
+      "useWhen": [
+        "大受震撼时",
+        "被惊到说不出话时"
+      ],
+      "path": "memes/surprised/1792846597520_188.png",
+      "caption": "睁大眼睛张着嘴大惊，旁边两个蓝色感叹号",
+      "search": "大惊失色 蓝发鲸鱼娘泡泡睁大眼睛张着嘴大惊，旁边两个蓝色感叹号。 睁大眼睛张着嘴大惊，旁边两个蓝色感叹号 惊讶 吓到 感叹号 震惊 张嘴 大受震撼时 被惊到说不出话时 surprised",
+      "preview": "previews/paopao-whale-girl/大惊失色.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E5%A4%A7%E6%83%8A%E5%A4%B1%E8%89%B2.jpg"
+    },
+    {
+      "id": "paopao-whale-girl/memes/surprised/1792846603362_673.png",
+      "pack": "paopao-whale-girl",
+      "name": "震惊感叹号",
+      "file": "震惊感叹号.jpg",
+      "tag": "surprised",
+      "description": "蓝发鲸鱼娘泡泡瞪大眼睛大惊，红色感叹号。",
+      "text": "",
+      "keywords": [
+        "惊讶",
+        "震惊",
+        "感叹号",
+        "吓到"
+      ],
+      "useWhen": [
+        "震惊到瞪眼时",
+        "遇到离谱事时"
+      ],
+      "path": "memes/surprised/1792846603362_673.png",
+      "caption": "瞪大眼睛大惊，红色感叹号",
+      "search": "震惊感叹号 蓝发鲸鱼娘泡泡瞪大眼睛大惊，红色感叹号。 瞪大眼睛大惊，红色感叹号 惊讶 震惊 感叹号 吓到 震惊到瞪眼时 遇到离谱事时 surprised",
+      "preview": "previews/paopao-whale-girl/震惊感叹号.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E9%9C%87%E6%83%8A%E6%84%9F%E5%8F%B9%E5%8F%B7.jpg"
     }
   ]
 }
