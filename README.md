@@ -18,6 +18,7 @@
 | 泡泡表情包 | 1.0.0 | 55 张 | CC-BY-NC-SA-4.0 | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/paopao-whale-girl-v1.0.0/paopao-whale-girl-v1.0.0.zip) |
 | 短发鲸鱼娘泡泡表情包 | 1.0.0 | 45 张 | CC-BY-NC-SA-4.0 | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/paopao-short-v1.0.0/paopao-short-v1.0.0.zip) |
 | DeepSeek娘动态表情包 | 1.0.0 | 161 张 | noncommercial-fan | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/deepseek-chan-emotes-v1.0.0/deepseek-chan-emotes-v1.0.0.zip)（256px 转码，原包见[上游](https://github.com/BrickAZ/deepseek-chan-emotes)） |
+| 猫鲸表情包 | 1.0.0 | 64 张 | CC0-1.0 | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/deepseek-maojing-v1.0.0/deepseek-maojing-v1.0.0.zip)（上游专题 65 件，去重 1 件） |
 
 ## 导入方法
 

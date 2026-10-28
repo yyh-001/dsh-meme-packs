@@ -80,3 +80,12 @@
 - 许可标记：`noncommercial-fan`（非商业同人向；角色形象、模型与 EmoteLab 内置动画的权利归各自权利人，本仓库不额外授权；权利人如不希望作品在此分发，可提 issue 要求下架）
 - 维护说明：上游原包为 500×500 / 30fps，ZIP 约 593MB，超过 dsh-meme 远程包 100MB 上限；本市场版本转码为 256×256 / 15fps / 128 色 GIF（87,271,781 bytes），保留全部 161 个动作与原始文件名。逐张核对画面后补齐中文短名、caption、关键词与情绪桶；需要原画质请下载上游 v1.0.0。
 - 使用条件：请遵守上游 README 与 [EmoteLab EULA](https://emotelab.app/eula/)，保留角色来源和 EmoteLab 制作说明，不要将原始角色设计或内置动画宣称为独立创作。
+
+## deepseek-maojing
+
+- 名称：猫鲸表情包
+- 投稿与署名：[1cyberlangke1](https://github.com/1cyberlangke1)
+- 上游：[蓝色大肥鱼 · AI 娘开放档案 — 猫鲸专题](https://xn--pssy23gqgbz2d718b.com/topics/maojing.html)
+- 许可标记：`CC0-1.0`（专题页与投稿记录标注 CC0 公共领域；本仓库按 CC0 收录，作者与来源信息保留作致谢）
+- 维护说明：上游专题共 65 件（54 WEBP + 11 GIF）。其中「尾巴立了」与 whale-girl-emoji 已有作品为同一图的不同分辨率版本（dHash 距离 0，480px），按去重规则未重复收录；本包含 64 件（53 WEBP + 11 GIF）。原图字节未改动，按画面内容重命名；逐张补齐中文短名、caption、关键词与插件支持的情绪桶。
+- 说明：角色形象为 DeepSeek娘 / 蓝色大肥鱼的二创；CC0 标注以上游投稿记录为准，如权利人有不同意见可提 issue 要求下架。

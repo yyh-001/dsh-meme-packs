@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-28T16:08:10Z",
+  "updatedAt": "2026-10-28T16:29:34Z",
   "packs": [
     {
       "id": "official-001",
@@ -528,6 +528,58 @@
         "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%B0%94%E9%BC%93%E9%BC%93.jpg",
         "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E7%9D%A1%E7%9D%80%E4%BA%86.jpg",
         "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%AF%94%E8%80%B6.jpg"
+      ]
+    },
+    {
+      "id": "deepseek-maojing",
+      "name": "猫鲸表情包",
+      "version": "1.0.0",
+      "description": "1cyberlangke1 的 DeepSeek娘「猫鲸」系列 64 张：害羞、哭哭、生气、摸头、被窝、吃瓜、比心等 Q 版表情与 GIF 动图，来自「蓝色大肥鱼」AI 娘开放档案，投稿标注 CC0。",
+      "maintainer": "1cyberlangke1",
+      "license": "CC0-1.0",
+      "count": 64,
+      "bytes": 10670724,
+      "sha256": "cc6c257255a7ec957e655a8503eefa4485436c8f6fd62c73554fad487bdc67d5",
+      "archiveUrl": "https://github.com/yyh-001/dsh-meme-packs/releases/download/deepseek-maojing-v1.0.0/deepseek-maojing-v1.0.0.zip",
+      "homepage": "https://xn--pssy23gqgbz2d718b.com/topics/maojing.html",
+      "source": "https://xn--pssy23gqgbz2d718b.com/topics/maojing.html",
+      "preview": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-maojing.jpg",
+      "keywords": [
+        "猫鲸",
+        "DeepSeek娘",
+        "鲸鱼娘",
+        "Q版",
+        "CC0",
+        "表情包",
+        "GIF"
+      ],
+      "previews": [
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-maojing/%E5%AE%B3%E7%BE%9E%E5%A4%B1%E8%AF%AD.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-maojing/%E9%B2%B8%E9%B1%BC%E6%80%9D%E8%80%83.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-maojing/%E9%B2%B8%E7%8C%AB%E5%93%AD%E5%93%AD.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-maojing/%E9%B2%B8%E7%8C%AB%E5%90%90%E8%88%8C.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-maojing/%E9%A6%8B.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-maojing/%E9%85%B7.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-maojing/%E8%A2%AB%E7%AA%9D.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-maojing/%E8%8A%B1%E8%8A%B1.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-maojing/%E7%BD%91%E7%BB%9C%E5%AF%B9%E7%BA%BF.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-maojing/%E7%BB%99%E5%BF%83%E5%BF%83.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-maojing/%E6%91%B8%E6%91%B8%E5%A4%B4.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-maojing/%E6%99%95%E6%99%95.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-maojing/%E6%90%81%E6%B5%85.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-maojing/%E6%8A%B1%E6%8A%B1%E7%8C%AA%E7%8C%AA.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-maojing/%E6%89%93%E4%BD%A0.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-maojing/%E5%B0%8F%E8%9B%8B%E7%B3%95.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-maojing/%E5%AE%B3%E6%80%95.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-maojing/%E5%A4%A7%E5%93%AD.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-maojing/%E5%9B%B0%E9%B2%B8%E9%B1%BC.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-maojing/%E5%96%B5.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-maojing/%E5%90%83%E7%93%9C.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-maojing/%E4%B9%A6%E5%91%86%E5%AD%90.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-maojing/%E6%AF%94%E5%BF%83%E5%AE%B3%E7%BE%9E.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-maojing/%E8%B9%AD%E8%B9%AD%E6%89%8B.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-maojing/%E4%BA%B2%E4%BA%B2.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-maojing/%E7%A2%8E%E7%A2%8E%E5%BF%B5.jpg"
       ]
     }
   ]
