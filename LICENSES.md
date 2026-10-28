@@ -70,4 +70,4 @@
 - 投稿与署名：[Bolumaile](https://github.com/Bolumaile)（Ayhhbin，[issue #9](https://github.com/yyh-001/dsh-meme-packs/issues/9)）
 - 上游：基于开源形象「鲸鱼娘」资产库 [treapgogo.github.io/deepseek-whale-girl](https://treapgogo.github.io/deepseek-whale-girl/)（设计者 **ZipZipPipe**）的二次创作；图像由 AI 生成，经投稿者挑选、切分与命名。非官方作品。
 - 许可标记：`CC-BY-NC-SA-4.0`（按投稿者声明；署名、非商业、相同方式共享）。
-- 维护说明：保留投稿声明的 45 张透明底 PNG 原文件；与仓库内现有 7 个图库逐字节比对，无重复收录。补齐 maintainer/license/source，按画面校订 13 条短名/caption（原「鼓腮冒火」「侧躺」「捧着喝」「趴着睡着」「蹲着抱团」等描述与画面不符），情绪 tag 均已在插件支持的六个桶内。
+- 维护说明：保留投稿声明的 45 张透明底 PNG 原文件；与仓库内现有 8 个图库（含 deepseek-chan 热链图）逐字节比对，无重复收录。补齐 maintainer/license/source，按画面校订 13 条短名/caption（原「鼓腮冒火」「侧躺」「捧着喝」「趴着睡着」「蹲着抱团」等描述与画面不符），情绪 tag 均已在插件支持的六个桶内。
