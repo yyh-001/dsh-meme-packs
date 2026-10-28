@@ -16,6 +16,7 @@
 | 女仆表情包 | 1.0.0 | 47 张 | CC-BY-NC-SA-4.0 | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/maid-emoji-v1.0.0/maid-emoji-v1.0.0.zip) |
 | GPT生大肥鱼 | 1.0.0 | 18 张 | CC-BY-NC-SA-4.0 | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/pack-mvc2p5cv-v1.0.0/pack-mvc2p5cv-v1.0.0.zip) |
 | 泡泡表情包 | 1.0.0 | 55 张 | CC-BY-NC-SA-4.0 | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/paopao-whale-girl-v1.0.0/paopao-whale-girl-v1.0.0.zip) |
+| 短发鲸鱼娘泡泡表情包 | 1.0.0 | 45 张 | CC-BY-NC-SA-4.0 | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/paopao-short-v1.0.0/paopao-short-v1.0.0.zip) |
 
 ## 导入方法
 

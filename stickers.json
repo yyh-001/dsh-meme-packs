@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-26T07:54:03Z",
+  "updatedAt": "2026-10-28T13:13:33Z",
   "about": "每条记录是一张表情。用 name、description、text、keywords、useWhen、search 检索。name 是画面内容的短名，也是预览文件名。path 是当前图库包里的原文件。imageUrl 有值时可以直接取图发送。",
   "packs": {
     "official-001": {
@@ -50,6 +50,12 @@
       "version": "1.0.0",
       "license": "CC-BY-NC-SA-4.0",
       "archiveUrl": "https://github.com/yyh-001/dsh-meme-packs/releases/download/paopao-whale-girl-v1.0.0/paopao-whale-girl-v1.0.0.zip"
+    },
+    "paopao-short": {
+      "name": "短发鲸鱼娘泡泡表情包",
+      "version": "1.0.0",
+      "license": "CC-BY-NC-SA-4.0",
+      "archiveUrl": "https://github.com/yyh-001/dsh-meme-packs/releases/download/paopao-short-v1.0.0/paopao-short-v1.0.0.zip"
     }
   },
   "stickers": [
@@ -12672,6 +12678,1132 @@
       "search": "震惊感叹号 蓝发鲸鱼娘泡泡瞪大眼睛大惊，红色感叹号。 瞪大眼睛大惊，红色感叹号 惊讶 震惊 感叹号 吓到 震惊到瞪眼时 遇到离谱事时 surprised",
       "preview": "previews/paopao-whale-girl/震惊感叹号.jpg",
       "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-whale-girl/%E9%9C%87%E6%83%8A%E6%84%9F%E5%8F%B9%E5%8F%B7.jpg"
+    },
+    {
+      "id": "paopao-short/memes/angry/泡泡表情-套10-07-生气-鼓腮跪坐.png",
+      "pack": "paopao-short",
+      "name": "鼓腮憋气",
+      "file": "鼓腮憋气.jpg",
+      "tag": "angry",
+      "description": "短发鲸鱼娘泡泡伏在身前，双手撑地，鼓着腮帮子闭眼憋气，四周飘着粉白色的生气云朵。",
+      "text": "",
+      "keywords": [
+        "生气",
+        "鼓腮",
+        "憋气",
+        "趴着",
+        "闹脾气",
+        "短发"
+      ],
+      "useWhen": [
+        "生闷气不想说话时",
+        "被气到鼓脸时"
+      ],
+      "path": "memes/angry/泡泡表情-套10-07-生气-鼓腮跪坐.png",
+      "caption": "趴着鼓起腮帮子，闭紧眼睛憋气，周围冒出生气的小云朵",
+      "search": "鼓腮憋气 短发鲸鱼娘泡泡伏在身前，双手撑地，鼓着腮帮子闭眼憋气，四周飘着粉白色的生气云朵。 趴着鼓起腮帮子，闭紧眼睛憋气，周围冒出生气的小云朵 生气 鼓腮 憋气 趴着 闹脾气 短发 生闷气不想说话时 被气到鼓脸时 angry",
+      "preview": "previews/paopao-short/鼓腮憋气.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E9%BC%93%E8%85%AE%E6%86%8B%E6%B0%94.jpg"
+    },
+    {
+      "id": "paopao-short/memes/angry/泡泡表情-套6-03-生气-鼓腮.png",
+      "pack": "paopao-short",
+      "name": "坐着鼓腮",
+      "file": "坐着鼓腮.jpg",
+      "tag": "angry",
+      "description": "泡泡短发微卷，坐在地上双手收在身前，鼓着腮帮子瞪前方，头顶冒出一小团怒气。",
+      "text": "",
+      "keywords": [
+        "生气",
+        "鼓腮",
+        "不服气",
+        "坐着",
+        "闹脾气"
+      ],
+      "useWhen": [
+        "嘴上不说但心里不服时",
+        "撒娇式生气时"
+      ],
+      "path": "memes/angry/泡泡表情-套6-03-生气-鼓腮.png",
+      "caption": "坐在地上鼓起腮帮子，一脸不服气",
+      "search": "坐着鼓腮 泡泡短发微卷，坐在地上双手收在身前，鼓着腮帮子瞪前方，头顶冒出一小团怒气。 坐在地上鼓起腮帮子，一脸不服气 生气 鼓腮 不服气 坐着 闹脾气 嘴上不说但心里不服时 撒娇式生气时 angry",
+      "preview": "previews/paopao-short/坐着鼓腮.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E5%9D%90%E7%9D%80%E9%BC%93%E8%85%AE.jpg"
+    },
+    {
+      "id": "paopao-short/memes/angry/泡泡表情-套7-05-生气-鼓腮冒火.png",
+      "pack": "paopao-short",
+      "name": "抱臂鼓腮",
+      "file": "抱臂鼓腮.jpg",
+      "tag": "angry",
+      "description": "泡泡双手抱胸站着，鼓着腮帮子皱眉瞪人，嘴边冒出一团气呼呼的白烟。",
+      "text": "",
+      "keywords": [
+        "生气",
+        "抱臂",
+        "鼓腮",
+        "气呼呼",
+        "瞪人"
+      ],
+      "useWhen": [
+        "真的有点生气时",
+        "想表示强烈不满时"
+      ],
+      "path": "memes/angry/泡泡表情-套7-05-生气-鼓腮冒火.png",
+      "caption": "抱着手臂鼓起腮帮子，气呼呼地瞪人",
+      "search": "抱臂鼓腮 泡泡双手抱胸站着，鼓着腮帮子皱眉瞪人，嘴边冒出一团气呼呼的白烟。 抱着手臂鼓起腮帮子，气呼呼地瞪人 生气 抱臂 鼓腮 气呼呼 瞪人 真的有点生气时 想表示强烈不满时 angry",
+      "preview": "previews/paopao-short/抱臂鼓腮.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E6%8A%B1%E8%87%82%E9%BC%93%E8%85%AE.jpg"
+    },
+    {
+      "id": "paopao-short/memes/angry/泡泡表情-套8-04-生气-站着鼓腮.png",
+      "pack": "paopao-short",
+      "name": "站着鼓腮",
+      "file": "站着鼓腮.jpg",
+      "tag": "angry",
+      "description": "泡泡站在地上双手握拳，鼓着腮帮子一脸恼怒，头顶冒出一小簇红色怒气符号。",
+      "text": "",
+      "keywords": [
+        "生气",
+        "鼓腮",
+        "冒火",
+        "站着",
+        "恼怒"
+      ],
+      "useWhen": [
+        "被惹毛时",
+        "想凶一下对方时"
+      ],
+      "path": "memes/angry/泡泡表情-套8-04-生气-站着鼓腮.png",
+      "caption": "站着鼓起腮帮子，头顶冒火",
+      "search": "站着鼓腮 泡泡站在地上双手握拳，鼓着腮帮子一脸恼怒，头顶冒出一小簇红色怒气符号。 站着鼓起腮帮子，头顶冒火 生气 鼓腮 冒火 站着 恼怒 被惹毛时 想凶一下对方时 angry",
+      "preview": "previews/paopao-short/站着鼓腮.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E7%AB%99%E7%9D%80%E9%BC%93%E8%85%AE.jpg"
+    },
+    {
+      "id": "paopao-short/memes/angry/泡泡表情-套9-07-生气-闭眼鼓腮.png",
+      "pack": "paopao-short",
+      "name": "闭眼鼓腮",
+      "file": "闭眼鼓腮.jpg",
+      "tag": "angry",
+      "description": "泡泡闭着眼睛鼓起腮帮子，双手垂在身前，身旁飘着花朵形状的怒气团。",
+      "text": "",
+      "keywords": [
+        "生气",
+        "鼓腮",
+        "闭眼",
+        "气鼓鼓",
+        "站着"
+      ],
+      "useWhen": [
+        "气到不想理人时",
+        "假装没看见时"
+      ],
+      "path": "memes/angry/泡泡表情-套9-07-生气-闭眼鼓腮.png",
+      "caption": "闭着眼睛鼓起腮帮子，气鼓鼓地站着",
+      "search": "闭眼鼓腮 泡泡闭着眼睛鼓起腮帮子，双手垂在身前，身旁飘着花朵形状的怒气团。 闭着眼睛鼓起腮帮子，气鼓鼓地站着 生气 鼓腮 闭眼 气鼓鼓 站着 气到不想理人时 假装没看见时 angry",
+      "preview": "previews/paopao-short/闭眼鼓腮.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E9%97%AD%E7%9C%BC%E9%BC%93%E8%85%AE.jpg"
+    },
+    {
+      "id": "paopao-short/memes/confused/泡泡表情-套10-01-困惑-一团乱麻.png",
+      "pack": "paopao-short",
+      "name": "一团乱麻",
+      "file": "一团乱麻.jpg",
+      "tag": "confused",
+      "description": "泡泡趴在地上托着脸，眉头微皱，头顶飘着一团黑蓝色的乱麻线，表示脑子很乱。",
+      "text": "",
+      "keywords": [
+        "困惑",
+        "乱麻",
+        "头疼",
+        "趴着",
+        "想不通"
+      ],
+      "useWhen": [
+        "遇到复杂问题想不通时",
+        "被需求绕晕时"
+      ],
+      "path": "memes/confused/泡泡表情-套10-01-困惑-一团乱麻.png",
+      "caption": "趴在地上，头顶缠着一团乱麻",
+      "search": "一团乱麻 泡泡趴在地上托着脸，眉头微皱，头顶飘着一团黑蓝色的乱麻线，表示脑子很乱。 趴在地上，头顶缠着一团乱麻 困惑 乱麻 头疼 趴着 想不通 遇到复杂问题想不通时 被需求绕晕时 confused",
+      "preview": "previews/paopao-short/一团乱麻.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E4%B8%80%E5%9B%A2%E4%B9%B1%E9%BA%BB.jpg"
+    },
+    {
+      "id": "paopao-short/memes/confused/泡泡表情-套10-02-晕-转晕了.png",
+      "pack": "paopao-short",
+      "name": "转晕圈圈",
+      "file": "转晕圈圈.jpg",
+      "tag": "confused",
+      "description": "泡泡站着摇晃，双眼变成螺旋蚊香圈，头顶冒出星星和晕眩线。",
+      "text": "",
+      "keywords": [
+        "头晕",
+        "晕圈",
+        "螺旋眼",
+        "困惑",
+        "转晕"
+      ],
+      "useWhen": [
+        "信息量太大时",
+        "被绕晕时"
+      ],
+      "path": "memes/confused/泡泡表情-套10-02-晕-转晕了.png",
+      "caption": "转得头晕，眼睛变成蚊香圈",
+      "search": "转晕圈圈 泡泡站着摇晃，双眼变成螺旋蚊香圈，头顶冒出星星和晕眩线。 转得头晕，眼睛变成蚊香圈 头晕 晕圈 螺旋眼 困惑 转晕 信息量太大时 被绕晕时 confused",
+      "preview": "previews/paopao-short/转晕圈圈.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E8%BD%AC%E6%99%95%E5%9C%88%E5%9C%88.jpg"
+    },
+    {
+      "id": "paopao-short/memes/confused/泡泡表情-套10-03-无语-冷淡.png",
+      "pack": "paopao-short",
+      "name": "冷淡斜眼",
+      "file": "冷淡斜眼.jpg",
+      "tag": "confused",
+      "description": "泡泡侧身坐着，半眯着眼睛斜视，嘴角平直，周围飘着几个气泡，显得无语又冷淡。",
+      "text": "",
+      "keywords": [
+        "无语",
+        "冷淡",
+        "斜眼",
+        "半眯眼",
+        "侧坐"
+      ],
+      "useWhen": [
+        "对离谱发言表示无语时",
+        "懒得回应时"
+      ],
+      "path": "memes/confused/泡泡表情-套10-03-无语-冷淡.png",
+      "caption": "半眯着眼斜看，一脸冷淡",
+      "search": "冷淡斜眼 泡泡侧身坐着，半眯着眼睛斜视，嘴角平直，周围飘着几个气泡，显得无语又冷淡。 半眯着眼斜看，一脸冷淡 无语 冷淡 斜眼 半眯眼 侧坐 对离谱发言表示无语时 懒得回应时 confused",
+      "preview": "previews/paopao-short/冷淡斜眼.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E5%86%B7%E6%B7%A1%E6%96%9C%E7%9C%BC.jpg"
+    },
+    {
+      "id": "paopao-short/memes/confused/泡泡表情-套10-05-无语-趴着不动.png",
+      "pack": "paopao-short",
+      "name": "趴着不动",
+      "file": "趴着不动.jpg",
+      "tag": "confused",
+      "description": "泡泡整个人趴在地上，眼睛半睁半闭，脸颊贴着地面，像是不想再动了。",
+      "text": "",
+      "keywords": [
+        "无语",
+        "趴着",
+        "摆烂",
+        "生无可恋",
+        "没力气"
+      ],
+      "useWhen": [
+        "累到不想动时",
+        "不想接话时"
+      ],
+      "path": "memes/confused/泡泡表情-套10-05-无语-趴着不动.png",
+      "caption": "趴在地上一动不动，一脸生无可恋",
+      "search": "趴着不动 泡泡整个人趴在地上，眼睛半睁半闭，脸颊贴着地面，像是不想再动了。 趴在地上一动不动，一脸生无可恋 无语 趴着 摆烂 生无可恋 没力气 累到不想动时 不想接话时 confused",
+      "preview": "previews/paopao-short/趴着不动.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E8%B6%B4%E7%9D%80%E4%B8%8D%E5%8A%A8.jpg"
+    },
+    {
+      "id": "paopao-short/memes/confused/泡泡表情-套10-08-晕-躺平转圈.png",
+      "pack": "paopao-short",
+      "name": "躺平转圈",
+      "file": "躺平转圈.jpg",
+      "tag": "confused",
+      "description": "泡泡仰面躺平，眼睛变成螺旋圈，头顶飘着一个小幽灵，整个人晕乎乎的。",
+      "text": "",
+      "keywords": [
+        "晕",
+        "躺平",
+        "螺旋眼",
+        "幽灵",
+        "困惑"
+      ],
+      "useWhen": [
+        "彻底晕头转向时",
+        "摆烂式困惑时"
+      ],
+      "path": "memes/confused/泡泡表情-套10-08-晕-躺平转圈.png",
+      "caption": "躺平翻白眼，灵魂都快转出来了",
+      "search": "躺平转圈 泡泡仰面躺平，眼睛变成螺旋圈，头顶飘着一个小幽灵，整个人晕乎乎的。 躺平翻白眼，灵魂都快转出来了 晕 躺平 螺旋眼 幽灵 困惑 彻底晕头转向时 摆烂式困惑时 confused",
+      "preview": "previews/paopao-short/躺平转圈.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E8%BA%BA%E5%B9%B3%E8%BD%AC%E5%9C%88.jpg"
+    },
+    {
+      "id": "paopao-short/memes/confused/泡泡表情-套10-09-惊讶-趴着瞪眼.png",
+      "pack": "paopao-short",
+      "name": "趴着瞪眼",
+      "file": "趴着瞪眼.jpg",
+      "tag": "confused",
+      "description": "泡泡趴在地上撑着手，眼睛瞪得圆圆的，旁边飘着感叹号，一脸震惊。",
+      "text": "",
+      "keywords": [
+        "惊讶",
+        "震惊",
+        "瞪眼",
+        "趴着",
+        "感叹号"
+      ],
+      "useWhen": [
+        "听到离谱消息时",
+        "被惊到说不出话时"
+      ],
+      "path": "memes/confused/泡泡表情-套10-09-惊讶-趴着瞪眼.png",
+      "caption": "趴着瞪大眼睛，被惊到说不出话",
+      "search": "趴着瞪眼 泡泡趴在地上撑着手，眼睛瞪得圆圆的，旁边飘着感叹号，一脸震惊。 趴着瞪大眼睛，被惊到说不出话 惊讶 震惊 瞪眼 趴着 感叹号 听到离谱消息时 被惊到说不出话时 confused",
+      "preview": "previews/paopao-short/趴着瞪眼.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E8%B6%B4%E7%9D%80%E7%9E%AA%E7%9C%BC.jpg"
+    },
+    {
+      "id": "paopao-short/memes/confused/泡泡表情-套6-06-惊讶-感叹号.png",
+      "pack": "paopao-short",
+      "name": "惊讶感叹号",
+      "file": "惊讶感叹号.jpg",
+      "tag": "confused",
+      "description": "泡泡双手握拳放在胸前，张大嘴巴瞪圆眼睛，头顶冒出两个黄色感叹号。",
+      "text": "",
+      "keywords": [
+        "惊讶",
+        "震惊",
+        "感叹号",
+        "张嘴",
+        "握拳"
+      ],
+      "useWhen": [
+        "大吃一惊时",
+        "被突然点名时"
+      ],
+      "path": "memes/confused/泡泡表情-套6-06-惊讶-感叹号.png",
+      "caption": "双手握拳张大嘴，头顶蹦出感叹号",
+      "search": "惊讶感叹号 泡泡双手握拳放在胸前，张大嘴巴瞪圆眼睛，头顶冒出两个黄色感叹号。 双手握拳张大嘴，头顶蹦出感叹号 惊讶 震惊 感叹号 张嘴 握拳 大吃一惊时 被突然点名时 confused",
+      "preview": "previews/paopao-short/惊讶感叹号.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E6%83%8A%E8%AE%B6%E6%84%9F%E5%8F%B9%E5%8F%B7.jpg"
+    },
+    {
+      "id": "paopao-short/memes/confused/泡泡表情-套7-04-困惑-歪头问号.png",
+      "pack": "paopao-short",
+      "name": "歪头问号",
+      "file": "歪头问号.jpg",
+      "tag": "confused",
+      "description": "泡泡坐在地上歪着头，眼睛睁圆，头顶浮着一个大问号，一脸不明白。",
+      "text": "",
+      "keywords": [
+        "困惑",
+        "问号",
+        "歪头",
+        "不明白",
+        "思考"
+      ],
+      "useWhen": [
+        "没听懂对方在说什么时",
+        "想追问时"
+      ],
+      "path": "memes/confused/泡泡表情-套7-04-困惑-歪头问号.png",
+      "caption": "歪着脑袋，头顶冒出一个大问号",
+      "search": "歪头问号 泡泡坐在地上歪着头，眼睛睁圆，头顶浮着一个大问号，一脸不明白。 歪着脑袋，头顶冒出一个大问号 困惑 问号 歪头 不明白 思考 没听懂对方在说什么时 想追问时 confused",
+      "preview": "previews/paopao-short/歪头问号.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E6%AD%AA%E5%A4%B4%E9%97%AE%E5%8F%B7.jpg"
+    },
+    {
+      "id": "paopao-short/memes/confused/泡泡表情-套8-05-惊讶-张嘴.png",
+      "pack": "paopao-short",
+      "name": "张嘴惊讶",
+      "file": "张嘴惊讶.jpg",
+      "tag": "confused",
+      "description": "泡泡坐在地上双手撑地，嘴巴张成圆形，眼睛瞪大，旁边冒出黄色感叹号。",
+      "text": "",
+      "keywords": [
+        "惊讶",
+        "张嘴",
+        "愣住",
+        "感叹号",
+        "震惊"
+      ],
+      "useWhen": [
+        "突然被惊到张口结舌时",
+        "看到意外情况时"
+      ],
+      "path": "memes/confused/泡泡表情-套8-05-惊讶-张嘴.png",
+      "caption": "张着嘴愣住，头顶蹦出感叹号",
+      "search": "张嘴惊讶 泡泡坐在地上双手撑地，嘴巴张成圆形，眼睛瞪大，旁边冒出黄色感叹号。 张着嘴愣住，头顶蹦出感叹号 惊讶 张嘴 愣住 感叹号 震惊 突然被惊到张口结舌时 看到意外情况时 confused",
+      "preview": "previews/paopao-short/张嘴惊讶.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E5%BC%A0%E5%98%B4%E6%83%8A%E8%AE%B6.jpg"
+    },
+    {
+      "id": "paopao-short/memes/confused/泡泡表情-套9-02-晕-螺旋眼.png",
+      "pack": "paopao-short",
+      "name": "螺旋眼晕",
+      "file": "螺旋眼晕.jpg",
+      "tag": "confused",
+      "description": "泡泡坐在地上，双眼变成螺旋纹，嘴巴微张，头顶飘着一个吐舌头的小幽灵。",
+      "text": "",
+      "keywords": [
+        "晕",
+        "螺旋眼",
+        "幽灵",
+        "困惑",
+        "眼花"
+      ],
+      "useWhen": [
+        "看晕了时",
+        "脑子转不动时"
+      ],
+      "path": "memes/confused/泡泡表情-套9-02-晕-螺旋眼.png",
+      "caption": "眼睛转成螺旋，头顶飘着小幽灵",
+      "search": "螺旋眼晕 泡泡坐在地上，双眼变成螺旋纹，嘴巴微张，头顶飘着一个吐舌头的小幽灵。 眼睛转成螺旋，头顶飘着小幽灵 晕 螺旋眼 幽灵 困惑 眼花 看晕了时 脑子转不动时 confused",
+      "preview": "previews/paopao-short/螺旋眼晕.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E8%9E%BA%E6%97%8B%E7%9C%BC%E6%99%95.jpg"
+    },
+    {
+      "id": "paopao-short/memes/confused/泡泡表情-套9-06-无语-侧躺.png",
+      "pack": "paopao-short",
+      "name": "侧身无语",
+      "file": "侧身无语.jpg",
+      "tag": "confused",
+      "description": "泡泡侧身坐着，半眯着眼睛看向一边，嘴角下压，身边飘着气泡，满脸无语。",
+      "text": "",
+      "keywords": [
+        "无语",
+        "嫌弃",
+        "侧身",
+        "半眯眼",
+        "冷淡"
+      ],
+      "useWhen": [
+        "对某人的操作表示嫌弃时",
+        "不想评价时"
+      ],
+      "path": "memes/confused/泡泡表情-套9-06-无语-侧躺.png",
+      "caption": "侧着身子半眯眼，一脸嫌弃",
+      "search": "侧身无语 泡泡侧身坐着，半眯着眼睛看向一边，嘴角下压，身边飘着气泡，满脸无语。 侧着身子半眯眼，一脸嫌弃 无语 嫌弃 侧身 半眯眼 冷淡 对某人的操作表示嫌弃时 不想评价时 confused",
+      "preview": "previews/paopao-short/侧身无语.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E4%BE%A7%E8%BA%AB%E6%97%A0%E8%AF%AD.jpg"
+    },
+    {
+      "id": "paopao-short/memes/daily/泡泡表情-套6-05-困-坐着打盹.png",
+      "pack": "paopao-short",
+      "name": "揉眼犯困",
+      "file": "揉眼犯困.jpg",
+      "tag": "daily",
+      "description": "泡泡坐在地上，一只手揉着眼睛，另一只手撑地，半睁着眼一副没睡醒的样子。",
+      "text": "",
+      "keywords": [
+        "困",
+        "揉眼",
+        "打盹",
+        "没睡醒",
+        "日常"
+      ],
+      "useWhen": [
+        "早上刚醒时",
+        "熬夜犯困时"
+      ],
+      "path": "memes/daily/泡泡表情-套6-05-困-坐着打盹.png",
+      "caption": "坐着揉眼睛，困得直迷糊",
+      "search": "揉眼犯困 泡泡坐在地上，一只手揉着眼睛，另一只手撑地，半睁着眼一副没睡醒的样子。 坐着揉眼睛，困得直迷糊 困 揉眼 打盹 没睡醒 日常 早上刚醒时 熬夜犯困时 daily",
+      "preview": "previews/paopao-short/揉眼犯困.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E6%8F%89%E7%9C%BC%E7%8A%AF%E5%9B%B0.jpg"
+    },
+    {
+      "id": "paopao-short/memes/daily/泡泡表情-套6-09-日常-捧着喝.png",
+      "pack": "paopao-short",
+      "name": "眨眼打招呼",
+      "file": "眨眼打招呼.jpg",
+      "tag": "daily",
+      "description": "泡泡坐在地上，眨着一只眼睛，另一只手抬起来打招呼，身后有一颗蓝色大珍珠。",
+      "text": "",
+      "keywords": [
+        "打招呼",
+        "眨眼",
+        "日常",
+        "坐着",
+        "元气"
+      ],
+      "useWhen": [
+        "轻松问候时",
+        "想显得俏皮时"
+      ],
+      "path": "memes/daily/泡泡表情-套6-09-日常-捧着喝.png",
+      "caption": "坐着眨单眼，抬手打招呼",
+      "search": "眨眼打招呼 泡泡坐在地上，眨着一只眼睛，另一只手抬起来打招呼，身后有一颗蓝色大珍珠。 坐着眨单眼，抬手打招呼 打招呼 眨眼 日常 坐着 元气 轻松问候时 想显得俏皮时 daily",
+      "preview": "previews/paopao-short/眨眼打招呼.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E7%9C%A8%E7%9C%BC%E6%89%93%E6%8B%9B%E5%91%BC.jpg"
+    },
+    {
+      "id": "paopao-short/memes/daily/泡泡表情-套7-08-放松-趴云朵.png",
+      "pack": "paopao-short",
+      "name": "趴云朵",
+      "file": "趴云朵.jpg",
+      "tag": "daily",
+      "description": "泡泡趴在一团白色云朵上，双手抓着云边，只露出半张脸和一双眼睛，看起来很放松。",
+      "text": "",
+      "keywords": [
+        "放松",
+        "云朵",
+        "趴着",
+        "困",
+        "日常"
+      ],
+      "useWhen": [
+        "想躺平时",
+        "周末放松时"
+      ],
+      "path": "memes/daily/泡泡表情-套7-08-放松-趴云朵.png",
+      "caption": "趴在云朵上，只露出半张脸",
+      "search": "趴云朵 泡泡趴在一团白色云朵上，双手抓着云边，只露出半张脸和一双眼睛，看起来很放松。 趴在云朵上，只露出半张脸 放松 云朵 趴着 困 日常 想躺平时 周末放松时 daily",
+      "preview": "previews/paopao-short/趴云朵.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E8%B6%B4%E4%BA%91%E6%9C%B5.jpg"
+    },
+    {
+      "id": "paopao-short/memes/daily/泡泡表情-套7-09-困-趴鲸鱼枕睡着.png",
+      "pack": "paopao-short",
+      "name": "趴鲸鱼枕睡着",
+      "file": "趴鲸鱼枕睡着.jpg",
+      "tag": "daily",
+      "description": "泡泡趴在一只蓝色鲸鱼抱枕上闭眼熟睡，脸颊贴着抱枕，身边飘着气泡。",
+      "text": "",
+      "keywords": [
+        "睡觉",
+        "鲸鱼枕",
+        "困",
+        "趴着",
+        "晚安"
+      ],
+      "useWhen": [
+        "说晚安时",
+        "困得不行时"
+      ],
+      "path": "memes/daily/泡泡表情-套7-09-困-趴鲸鱼枕睡着.png",
+      "caption": "趴在鲸鱼枕上睡得正香",
+      "search": "趴鲸鱼枕睡着 泡泡趴在一只蓝色鲸鱼抱枕上闭眼熟睡，脸颊贴着抱枕，身边飘着气泡。 趴在鲸鱼枕上睡得正香 睡觉 鲸鱼枕 困 趴着 晚安 说晚安时 困得不行时 daily",
+      "preview": "previews/paopao-short/趴鲸鱼枕睡着.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E8%B6%B4%E9%B2%B8%E9%B1%BC%E6%9E%95%E7%9D%A1%E7%9D%80.jpg"
+    },
+    {
+      "id": "paopao-short/memes/daily/泡泡表情-套8-08-困-趴着睡着.png",
+      "pack": "paopao-short",
+      "name": "抱鲸鱼睡着",
+      "file": "抱鲸鱼睡着.jpg",
+      "tag": "daily",
+      "description": "泡泡坐着打瞌睡，怀里抱着一只小蓝鲸玩偶，头顶冒着 Z 字和鼻涕泡。",
+      "text": "",
+      "keywords": [
+        "睡着",
+        "抱鲸鱼",
+        "打盹",
+        "困",
+        "日常"
+      ],
+      "useWhen": [
+        "聊着聊着困了时",
+        "说晚安时"
+      ],
+      "path": "memes/daily/泡泡表情-套8-08-困-趴着睡着.png",
+      "caption": "抱着鲸鱼玩偶坐着睡着，还冒着鼻涕泡",
+      "search": "抱鲸鱼睡着 泡泡坐着打瞌睡，怀里抱着一只小蓝鲸玩偶，头顶冒着 Z 字和鼻涕泡。 抱着鲸鱼玩偶坐着睡着，还冒着鼻涕泡 睡着 抱鲸鱼 打盹 困 日常 聊着聊着困了时 说晚安时 daily",
+      "preview": "previews/paopao-short/抱鲸鱼睡着.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E6%8A%B1%E9%B2%B8%E9%B1%BC%E7%9D%A1%E7%9D%80.jpg"
+    },
+    {
+      "id": "paopao-short/memes/happy/泡泡表情-套10-06-开心-坐着笑.png",
+      "pack": "paopao-short",
+      "name": "坐着笑",
+      "file": "坐着笑.jpg",
+      "tag": "happy",
+      "description": "泡泡坐在地上双手收在身前，眯着眼睛开心大笑，周围闪着黄色星星。",
+      "text": "",
+      "keywords": [
+        "开心",
+        "笑",
+        "坐着",
+        "星星",
+        "满足"
+      ],
+      "useWhen": [
+        "心情很好时",
+        "收到好消息时"
+      ],
+      "path": "memes/happy/泡泡表情-套10-06-开心-坐着笑.png",
+      "caption": "坐在地上眯眼笑，旁边闪着星星",
+      "search": "坐着笑 泡泡坐在地上双手收在身前，眯着眼睛开心大笑，周围闪着黄色星星。 坐在地上眯眼笑，旁边闪着星星 开心 笑 坐着 星星 满足 心情很好时 收到好消息时 happy",
+      "preview": "previews/paopao-short/坐着笑.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E5%9D%90%E7%9D%80%E7%AC%91.jpg"
+    },
+    {
+      "id": "paopao-short/memes/happy/泡泡表情-套6-01-开心-爱心泡泡.png",
+      "pack": "paopao-short",
+      "name": "爱心包围",
+      "file": "爱心包围.jpg",
+      "tag": "happy",
+      "description": "泡泡张开双手大笑，眼睛弯成月牙，周围飘着好几颗粉色爱心。",
+      "text": "",
+      "keywords": [
+        "开心",
+        "爱心",
+        "大笑",
+        "张开手",
+        "喜欢"
+      ],
+      "useWhen": [
+        "表达喜欢时",
+        "开心到冒泡时"
+      ],
+      "path": "memes/happy/泡泡表情-套6-01-开心-爱心泡泡.png",
+      "caption": "张开双手大笑，被粉色爱心包围",
+      "search": "爱心包围 泡泡张开双手大笑，眼睛弯成月牙，周围飘着好几颗粉色爱心。 张开双手大笑，被粉色爱心包围 开心 爱心 大笑 张开手 喜欢 表达喜欢时 开心到冒泡时 happy",
+      "preview": "previews/paopao-short/爱心包围.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E7%88%B1%E5%BF%83%E5%8C%85%E5%9B%B4.jpg"
+    },
+    {
+      "id": "paopao-short/memes/happy/泡泡表情-套6-02-期待-抬头星星眼.png",
+      "pack": "paopao-short",
+      "name": "星星眼期待",
+      "file": "星星眼期待.jpg",
+      "tag": "happy",
+      "description": "泡泡双手交握在胸前，眼睛闪着星星光，周围飘着气泡和光点，一脸期待。",
+      "text": "",
+      "keywords": [
+        "期待",
+        "星星眼",
+        "双手交握",
+        "开心",
+        "请求"
+      ],
+      "useWhen": [
+        "期待对方答应时",
+        "想要什么东西时"
+      ],
+      "path": "memes/happy/泡泡表情-套6-02-期待-抬头星星眼.png",
+      "caption": "双手交握，眼睛亮晶晶地期待",
+      "search": "星星眼期待 泡泡双手交握在胸前，眼睛闪着星星光，周围飘着气泡和光点，一脸期待。 双手交握，眼睛亮晶晶地期待 期待 星星眼 双手交握 开心 请求 期待对方答应时 想要什么东西时 happy",
+      "preview": "previews/paopao-short/星星眼期待.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E6%98%9F%E6%98%9F%E7%9C%BC%E6%9C%9F%E5%BE%85.jpg"
+    },
+    {
+      "id": "paopao-short/memes/happy/泡泡表情-套6-07-开心-趴水边.png",
+      "pack": "paopao-short",
+      "name": "趴水边",
+      "file": "趴水边.jpg",
+      "tag": "happy",
+      "description": "泡泡趴在一滩水里，闭眼张嘴大笑，周围溅起一圈水花和气泡。",
+      "text": "",
+      "keywords": [
+        "开心",
+        "水边",
+        "趴着",
+        "大笑",
+        "玩水"
+      ],
+      "useWhen": [
+        "玩得很开心时",
+        "想显得清爽时"
+      ],
+      "path": "memes/happy/泡泡表情-套6-07-开心-趴水边.png",
+      "caption": "趴在水边笑得眯起眼，水花四溅",
+      "search": "趴水边 泡泡趴在一滩水里，闭眼张嘴大笑，周围溅起一圈水花和气泡。 趴在水边笑得眯起眼，水花四溅 开心 水边 趴着 大笑 玩水 玩得很开心时 想显得清爽时 happy",
+      "preview": "previews/paopao-short/趴水边.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E8%B6%B4%E6%B0%B4%E8%BE%B9.jpg"
+    },
+    {
+      "id": "paopao-short/memes/happy/泡泡表情-套6-08-开心-开心到发光.png",
+      "pack": "paopao-short",
+      "name": "开心到发光",
+      "file": "开心到发光.jpg",
+      "tag": "happy",
+      "description": "泡泡双手交握站着，闭眼甜笑，身体周围散着黄色星光和亮片。",
+      "text": "",
+      "keywords": [
+        "开心",
+        "发光",
+        "甜笑",
+        "星星",
+        "满足"
+      ],
+      "useWhen": [
+        "心情超好时",
+        "被夸了时"
+      ],
+      "path": "memes/happy/泡泡表情-套6-08-开心-开心到发光.png",
+      "caption": "站着眯眼笑，整个人都在发光",
+      "search": "开心到发光 泡泡双手交握站着，闭眼甜笑，身体周围散着黄色星光和亮片。 站着眯眼笑，整个人都在发光 开心 发光 甜笑 星星 满足 心情超好时 被夸了时 happy",
+      "preview": "previews/paopao-short/开心到发光.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E5%BC%80%E5%BF%83%E5%88%B0%E5%8F%91%E5%85%89.jpg"
+    },
+    {
+      "id": "paopao-short/memes/happy/泡泡表情-套7-01-开心-举泡泡.png",
+      "pack": "paopao-short",
+      "name": "举泡泡",
+      "file": "举泡泡.jpg",
+      "tag": "happy",
+      "description": "泡泡双手举着一颗透明泡泡，歪头闭眼笑，身边飘着蓝色气泡。",
+      "text": "",
+      "keywords": [
+        "开心",
+        "举泡泡",
+        "泡泡",
+        "笑",
+        "玩耍"
+      ],
+      "useWhen": [
+        "分享快乐时",
+        "想卖萌时"
+      ],
+      "path": "memes/happy/泡泡表情-套7-01-开心-举泡泡.png",
+      "caption": "举着一个大泡泡，笑得眼睛弯弯",
+      "search": "举泡泡 泡泡双手举着一颗透明泡泡，歪头闭眼笑，身边飘着蓝色气泡。 举着一个大泡泡，笑得眼睛弯弯 开心 举泡泡 泡泡 笑 玩耍 分享快乐时 想卖萌时 happy",
+      "preview": "previews/paopao-short/举泡泡.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E4%B8%BE%E6%B3%A1%E6%B3%A1.jpg"
+    },
+    {
+      "id": "paopao-short/memes/happy/泡泡表情-套7-03-开心-抱爱心.png",
+      "pack": "paopao-short",
+      "name": "抱爱心",
+      "file": "抱爱心.jpg",
+      "tag": "happy",
+      "description": "泡泡双手抱着一颗爱心形状的透明泡泡，闭眼甜笑，身边飘着蓝色爱心气泡。",
+      "text": "",
+      "keywords": [
+        "开心",
+        "抱爱心",
+        "爱心",
+        "甜笑",
+        "喜欢"
+      ],
+      "useWhen": [
+        "表达爱意时",
+        "收到礼物时"
+      ],
+      "path": "memes/happy/泡泡表情-套7-03-开心-抱爱心.png",
+      "caption": "抱住一颗爱心泡泡，笑得甜甜的",
+      "search": "抱爱心 泡泡双手抱着一颗爱心形状的透明泡泡，闭眼甜笑，身边飘着蓝色爱心气泡。 抱住一颗爱心泡泡，笑得甜甜的 开心 抱爱心 爱心 甜笑 喜欢 表达爱意时 收到礼物时 happy",
+      "preview": "previews/paopao-short/抱爱心.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E6%8A%B1%E7%88%B1%E5%BF%83.jpg"
+    },
+    {
+      "id": "paopao-short/memes/happy/泡泡表情-套7-06-开心-星星闪闪.png",
+      "pack": "paopao-short",
+      "name": "星星眼捧泡泡",
+      "file": "星星眼捧泡泡.jpg",
+      "tag": "happy",
+      "description": "泡泡坐在地上双手捧着一颗发光泡泡，眼睛亮晶晶的，周围闪着金色星星。",
+      "text": "",
+      "keywords": [
+        "开心",
+        "星星眼",
+        "泡泡",
+        "坐着",
+        "期待"
+      ],
+      "useWhen": [
+        "看到喜欢的东西时",
+        "心情闪亮时"
+      ],
+      "path": "memes/happy/泡泡表情-套7-06-开心-星星闪闪.png",
+      "caption": "坐在星星中间，捧着泡泡眼睛发亮",
+      "search": "星星眼捧泡泡 泡泡坐在地上双手捧着一颗发光泡泡，眼睛亮晶晶的，周围闪着金色星星。 坐在星星中间，捧着泡泡眼睛发亮 开心 星星眼 泡泡 坐着 期待 看到喜欢的东西时 心情闪亮时 happy",
+      "preview": "previews/paopao-short/星星眼捧泡泡.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E6%98%9F%E6%98%9F%E7%9C%BC%E6%8D%A7%E6%B3%A1%E6%B3%A1.jpg"
+    },
+    {
+      "id": "paopao-short/memes/happy/泡泡表情-套7-07-期待-乖乖坐着.png",
+      "pack": "paopao-short",
+      "name": "乖乖坐着",
+      "file": "乖乖坐着.jpg",
+      "tag": "happy",
+      "description": "泡泡坐在地上双手交握放在身前，睁着大眼睛，安安静静地等人回应。",
+      "text": "",
+      "keywords": [
+        "期待",
+        "乖乖坐着",
+        "双手交握",
+        "日常",
+        "等待"
+      ],
+      "useWhen": [
+        "乖乖等回复时",
+        "请求对方时"
+      ],
+      "path": "memes/happy/泡泡表情-套7-07-期待-乖乖坐着.png",
+      "caption": "双手交握乖乖坐着，一脸期待",
+      "search": "乖乖坐着 泡泡坐在地上双手交握放在身前，睁着大眼睛，安安静静地等人回应。 双手交握乖乖坐着，一脸期待 期待 乖乖坐着 双手交握 日常 等待 乖乖等回复时 请求对方时 happy",
+      "preview": "previews/paopao-short/乖乖坐着.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E4%B9%96%E4%B9%96%E5%9D%90%E7%9D%80.jpg"
+    },
+    {
+      "id": "paopao-short/memes/happy/泡泡表情-套8-01-打招呼-挥手.png",
+      "pack": "paopao-short",
+      "name": "挥手打招呼",
+      "file": "挥手打招呼.jpg",
+      "tag": "happy",
+      "description": "泡泡坐在地上抬起一只手挥动，眯眼笑着，身边飘着气泡和感叹号。",
+      "text": "",
+      "keywords": [
+        "打招呼",
+        "挥手",
+        "笑",
+        "坐地",
+        "元气"
+      ],
+      "useWhen": [
+        "打招呼时",
+        "想显得热情时"
+      ],
+      "path": "memes/happy/泡泡表情-套8-01-打招呼-挥手.png",
+      "caption": "坐着抬手挥手，笑着打招呼",
+      "search": "挥手打招呼 泡泡坐在地上抬起一只手挥动，眯眼笑着，身边飘着气泡和感叹号。 坐着抬手挥手，笑着打招呼 打招呼 挥手 笑 坐地 元气 打招呼时 想显得热情时 happy",
+      "preview": "previews/paopao-short/挥手打招呼.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E6%8C%A5%E6%89%8B%E6%89%93%E6%8B%9B%E5%91%BC.jpg"
+    },
+    {
+      "id": "paopao-short/memes/happy/泡泡表情-套8-02-卖萌-趴着看你.png",
+      "pack": "paopao-short",
+      "name": "趴着看你",
+      "file": "趴着看你.jpg",
+      "tag": "happy",
+      "description": "泡泡趴在地上双手托着脸颊，睁着大眼抬头看你，一脸乖巧。",
+      "text": "",
+      "keywords": [
+        "卖萌",
+        "趴着",
+        "托腮",
+        "看",
+        "可爱"
+      ],
+      "useWhen": [
+        "想让对方心软时",
+        "撒娇时"
+      ],
+      "path": "memes/happy/泡泡表情-套8-02-卖萌-趴着看你.png",
+      "caption": "趴着托腮看你，软乎乎地卖萌",
+      "search": "趴着看你 泡泡趴在地上双手托着脸颊，睁着大眼抬头看你，一脸乖巧。 趴着托腮看你，软乎乎地卖萌 卖萌 趴着 托腮 看 可爱 想让对方心软时 撒娇时 happy",
+      "preview": "previews/paopao-short/趴着看你.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E8%B6%B4%E7%9D%80%E7%9C%8B%E4%BD%A0.jpg"
+    },
+    {
+      "id": "paopao-short/memes/happy/泡泡表情-套8-03-开心-张开手.png",
+      "pack": "paopao-short",
+      "name": "欢呼雀跃",
+      "file": "欢呼雀跃.jpg",
+      "tag": "happy",
+      "description": "泡泡坐着举起双拳，闭眼张嘴大笑，周围闪着黄色星星，一副欢呼的样子。",
+      "text": "",
+      "keywords": [
+        "开心",
+        "欢呼",
+        "举拳",
+        "大笑",
+        "星星"
+      ],
+      "useWhen": [
+        "庆祝成功时",
+        "听到好消息时"
+      ],
+      "path": "memes/happy/泡泡表情-套8-03-开心-张开手.png",
+      "caption": "举起双拳欢呼，笑到眼睛弯弯",
+      "search": "欢呼雀跃 泡泡坐着举起双拳，闭眼张嘴大笑，周围闪着黄色星星，一副欢呼的样子。 举起双拳欢呼，笑到眼睛弯弯 开心 欢呼 举拳 大笑 星星 庆祝成功时 听到好消息时 happy",
+      "preview": "previews/paopao-short/欢呼雀跃.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E6%AC%A2%E5%91%BC%E9%9B%80%E8%B7%83.jpg"
+    },
+    {
+      "id": "paopao-short/memes/happy/泡泡表情-套8-06-开心-抱鲸鱼玩偶.png",
+      "pack": "paopao-short",
+      "name": "抱鲸鱼玩偶",
+      "file": "抱鲸鱼玩偶.jpg",
+      "tag": "happy",
+      "description": "泡泡坐着把蓝色鲸鱼玩偶抱在怀里蹭脸，闭眼微笑，旁边飘着粉色爱心。",
+      "text": "",
+      "keywords": [
+        "开心",
+        "抱鲸鱼",
+        "玩偶",
+        "爱心",
+        "撒娇"
+      ],
+      "useWhen": [
+        "表达满足时",
+        "想贴贴时"
+      ],
+      "path": "memes/happy/泡泡表情-套8-06-开心-抱鲸鱼玩偶.png",
+      "caption": "抱着鲸鱼玩偶蹭脸，旁边飘着爱心",
+      "search": "抱鲸鱼玩偶 泡泡坐着把蓝色鲸鱼玩偶抱在怀里蹭脸，闭眼微笑，旁边飘着粉色爱心。 抱着鲸鱼玩偶蹭脸，旁边飘着爱心 开心 抱鲸鱼 玩偶 爱心 撒娇 表达满足时 想贴贴时 happy",
+      "preview": "previews/paopao-short/抱鲸鱼玩偶.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E6%8A%B1%E9%B2%B8%E9%B1%BC%E7%8E%A9%E5%81%B6.jpg"
+    },
+    {
+      "id": "paopao-short/memes/happy/泡泡表情-套8-09-帅气-墨镜.png",
+      "pack": "paopao-short",
+      "name": "墨镜耍帅",
+      "file": "墨镜耍帅.jpg",
+      "tag": "happy",
+      "description": "泡泡戴着黑色墨镜，抬手扶着镜框，嘴角上扬，周围闪着黄色星星。",
+      "text": "",
+      "keywords": [
+        "帅气",
+        "墨镜",
+        "得意",
+        "耍帅",
+        "自信"
+      ],
+      "useWhen": [
+        "装酷时",
+        "自夸时"
+      ],
+      "path": "memes/happy/泡泡表情-套8-09-帅气-墨镜.png",
+      "caption": "戴着墨镜扶镜框，一脸得意",
+      "search": "墨镜耍帅 泡泡戴着黑色墨镜，抬手扶着镜框，嘴角上扬，周围闪着黄色星星。 戴着墨镜扶镜框，一脸得意 帅气 墨镜 得意 耍帅 自信 装酷时 自夸时 happy",
+      "preview": "previews/paopao-short/墨镜耍帅.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E5%A2%A8%E9%95%9C%E8%80%8D%E5%B8%85.jpg"
+    },
+    {
+      "id": "paopao-short/memes/happy/泡泡表情-套9-09-帅气-墨镜摆拍.png",
+      "pack": "paopao-short",
+      "name": "墨镜比耶",
+      "file": "墨镜比耶.jpg",
+      "tag": "happy",
+      "description": "泡泡戴着黑色墨镜，双手比耶，吐着舌头笑，周围闪着星星。",
+      "text": "",
+      "keywords": [
+        "帅气",
+        "墨镜",
+        "比耶",
+        "卖萌",
+        "自拍"
+      ],
+      "useWhen": [
+        "拍照时",
+        "想耍帅卖萌时"
+      ],
+      "path": "memes/happy/泡泡表情-套9-09-帅气-墨镜摆拍.png",
+      "caption": "戴墨镜双手比耶，吐舌头卖萌",
+      "search": "墨镜比耶 泡泡戴着黑色墨镜，双手比耶，吐着舌头笑，周围闪着星星。 戴墨镜双手比耶，吐舌头卖萌 帅气 墨镜 比耶 卖萌 自拍 拍照时 想耍帅卖萌时 happy",
+      "preview": "previews/paopao-short/墨镜比耶.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E5%A2%A8%E9%95%9C%E6%AF%94%E8%80%B6.jpg"
+    },
+    {
+      "id": "paopao-short/memes/sad/泡泡表情-套10-04-委屈-瀑布泪.png",
+      "pack": "paopao-short",
+      "name": "瀑布泪",
+      "file": "瀑布泪.jpg",
+      "tag": "sad",
+      "description": "泡泡坐在地上闭眼张嘴大哭，两道泪水像瀑布一样从眼睛两边喷出来。",
+      "text": "",
+      "keywords": [
+        "委屈",
+        "大哭",
+        "瀑布泪",
+        "坐地",
+        "难过"
+      ],
+      "useWhen": [
+        "受了天大委屈时",
+        "夸张地哭诉时"
+      ],
+      "path": "memes/sad/泡泡表情-套10-04-委屈-瀑布泪.png",
+      "caption": "坐在地上放声大哭，眼泪像瀑布",
+      "search": "瀑布泪 泡泡坐在地上闭眼张嘴大哭，两道泪水像瀑布一样从眼睛两边喷出来。 坐在地上放声大哭，眼泪像瀑布 委屈 大哭 瀑布泪 坐地 难过 受了天大委屈时 夸张地哭诉时 sad",
+      "preview": "previews/paopao-short/瀑布泪.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E7%80%91%E5%B8%83%E6%B3%AA.jpg"
+    },
+    {
+      "id": "paopao-short/memes/sad/泡泡表情-套9-01-委屈-低着头.png",
+      "pack": "paopao-short",
+      "name": "低头委屈",
+      "file": "低头委屈.jpg",
+      "tag": "sad",
+      "description": "泡泡趴在地上撑着胳膊，低着头半垂着眼，一副委屈又不服气的样子。",
+      "text": "",
+      "keywords": [
+        "委屈",
+        "低头",
+        "趴着",
+        "难过",
+        "不服气"
+      ],
+      "useWhen": [
+        "被批评后委屈时",
+        "小声抗议时"
+      ],
+      "path": "memes/sad/泡泡表情-套9-01-委屈-低着头.png",
+      "caption": "趴着低下头，眼眶红红地委屈",
+      "search": "低头委屈 泡泡趴在地上撑着胳膊，低着头半垂着眼，一副委屈又不服气的样子。 趴着低下头，眼眶红红地委屈 委屈 低头 趴着 难过 不服气 被批评后委屈时 小声抗议时 sad",
+      "preview": "previews/paopao-short/低头委屈.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E4%BD%8E%E5%A4%B4%E5%A7%94%E5%B1%88.jpg"
+    },
+    {
+      "id": "paopao-short/memes/sad/泡泡表情-套9-03-委屈-趴着.png",
+      "pack": "paopao-short",
+      "name": "趴着委屈",
+      "file": "趴着委屈.jpg",
+      "tag": "sad",
+      "description": "泡泡趴在地上，双手撑着地面，半眯着眼睛扁着嘴，情绪低落。",
+      "text": "",
+      "keywords": [
+        "委屈",
+        "趴着",
+        "低落",
+        "难过",
+        "扁嘴"
+      ],
+      "useWhen": [
+        "不高兴又不想说时",
+        "情绪低落时"
+      ],
+      "path": "memes/sad/泡泡表情-套9-03-委屈-趴着.png",
+      "caption": "趴在地上，扁着嘴一脸委屈",
+      "search": "趴着委屈 泡泡趴在地上，双手撑着地面，半眯着眼睛扁着嘴，情绪低落。 趴在地上，扁着嘴一脸委屈 委屈 趴着 低落 难过 扁嘴 不高兴又不想说时 情绪低落时 sad",
+      "preview": "previews/paopao-short/趴着委屈.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E8%B6%B4%E7%9D%80%E5%A7%94%E5%B1%88.jpg"
+    },
+    {
+      "id": "paopao-short/memes/sad/泡泡表情-套9-04-委屈-大哭.png",
+      "pack": "paopao-short",
+      "name": "趴着大哭",
+      "file": "趴着大哭.jpg",
+      "tag": "sad",
+      "description": "泡泡趴在地上闭眼张嘴大哭，巨大的泪水从两边涌出，在地上汇成水花。",
+      "text": "",
+      "keywords": [
+        "委屈",
+        "大哭",
+        "趴着",
+        "眼泪",
+        "难过"
+      ],
+      "useWhen": [
+        "崩溃大哭时",
+        "撒娇式哭诉时"
+      ],
+      "path": "memes/sad/泡泡表情-套9-04-委屈-大哭.png",
+      "caption": "趴在地上嚎啕大哭，眼泪流成河",
+      "search": "趴着大哭 泡泡趴在地上闭眼张嘴大哭，巨大的泪水从两边涌出，在地上汇成水花。 趴在地上嚎啕大哭，眼泪流成河 委屈 大哭 趴着 眼泪 难过 崩溃大哭时 撒娇式哭诉时 sad",
+      "preview": "previews/paopao-short/趴着大哭.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E8%B6%B4%E7%9D%80%E5%A4%A7%E5%93%AD.jpg"
+    },
+    {
+      "id": "paopao-short/memes/sad/泡泡表情-套9-05-委屈-快哭了.png",
+      "pack": "paopao-short",
+      "name": "趴着丧气",
+      "file": "趴着丧气.jpg",
+      "tag": "sad",
+      "description": "泡泡整个人趴平在地上，眼睛眯成一条线，脸颊贴着地面，一副没力气的样子。",
+      "text": "",
+      "keywords": [
+        "丧气",
+        "趴着",
+        "低落",
+        "没力气",
+        "难过"
+      ],
+      "useWhen": [
+        "累到不想说话时",
+        "emo 时"
+      ],
+      "path": "memes/sad/泡泡表情-套9-05-委屈-快哭了.png",
+      "caption": "趴在地上一动不动，丧到不想说话",
+      "search": "趴着丧气 泡泡整个人趴平在地上，眼睛眯成一条线，脸颊贴着地面，一副没力气的样子。 趴在地上一动不动，丧到不想说话 丧气 趴着 低落 没力气 难过 累到不想说话时 emo 时 sad",
+      "preview": "previews/paopao-short/趴着丧气.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E8%B6%B4%E7%9D%80%E4%B8%A7%E6%B0%94.jpg"
+    },
+    {
+      "id": "paopao-short/memes/sad/泡泡表情-套9-08-崩溃-灵魂出窍.png",
+      "pack": "paopao-short",
+      "name": "灵魂出窍",
+      "file": "灵魂出窍.jpg",
+      "tag": "sad",
+      "description": "泡泡仰面躺在地上，眼睛翻白，头顶飘出一个戴光环的小幽灵，整个人已经崩溃。",
+      "text": "",
+      "keywords": [
+        "崩溃",
+        "灵魂出窍",
+        "躺平",
+        "幽灵",
+        "绝望"
+      ],
+      "useWhen": [
+        "被工作或作业击垮时",
+        "彻底崩溃时"
+      ],
+      "path": "memes/sad/泡泡表情-套9-08-崩溃-灵魂出窍.png",
+      "caption": "躺平翻白眼，灵魂从头顶飘走",
+      "search": "灵魂出窍 泡泡仰面躺在地上，眼睛翻白，头顶飘出一个戴光环的小幽灵，整个人已经崩溃。 躺平翻白眼，灵魂从头顶飘走 崩溃 灵魂出窍 躺平 幽灵 绝望 被工作或作业击垮时 彻底崩溃时 sad",
+      "preview": "previews/paopao-short/灵魂出窍.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E7%81%B5%E9%AD%82%E5%87%BA%E7%AA%8D.jpg"
+    },
+    {
+      "id": "paopao-short/memes/shy/泡泡表情-套6-04-害羞-蹲着抱团.png",
+      "pack": "paopao-short",
+      "name": "站着害羞",
+      "file": "站着害羞.jpg",
+      "tag": "shy",
+      "description": "泡泡站着双手交握在身前，脸颊泛红，眼神躲闪，旁边冒着害羞的小汗滴和爱心。",
+      "text": "",
+      "keywords": [
+        "害羞",
+        "脸红",
+        "双手交握",
+        "站着",
+        "不好意思"
+      ],
+      "useWhen": [
+        "被夸得不好意思时",
+        "害羞时"
+      ],
+      "path": "memes/shy/泡泡表情-套6-04-害羞-蹲着抱团.png",
+      "caption": "双手交握站在那，脸红到冒汗",
+      "search": "站着害羞 泡泡站着双手交握在身前，脸颊泛红，眼神躲闪，旁边冒着害羞的小汗滴和爱心。 双手交握站在那，脸红到冒汗 害羞 脸红 双手交握 站着 不好意思 被夸得不好意思时 害羞时 shy",
+      "preview": "previews/paopao-short/站着害羞.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E7%AB%99%E7%9D%80%E5%AE%B3%E7%BE%9E.jpg"
+    },
+    {
+      "id": "paopao-short/memes/shy/泡泡表情-套7-02-害羞-躲贝壳后.png",
+      "pack": "paopao-short",
+      "name": "躲贝壳后",
+      "file": "躲贝壳后.jpg",
+      "tag": "shy",
+      "description": "泡泡躲在一颗巨大的珍珠贝后面，双手扒着边缘，只露出上半张脸偷偷看人。",
+      "text": "",
+      "keywords": [
+        "害羞",
+        "躲藏",
+        "贝壳",
+        "偷看",
+        "脸红"
+      ],
+      "useWhen": [
+        "不好意思露面时",
+        "想偷偷观察时"
+      ],
+      "path": "memes/shy/泡泡表情-套7-02-害羞-躲贝壳后.png",
+      "caption": "躲在大贝壳后面，只露出眼睛偷看",
+      "search": "躲贝壳后 泡泡躲在一颗巨大的珍珠贝后面，双手扒着边缘，只露出上半张脸偷偷看人。 躲在大贝壳后面，只露出眼睛偷看 害羞 躲藏 贝壳 偷看 脸红 不好意思露面时 想偷偷观察时 shy",
+      "preview": "previews/paopao-short/躲贝壳后.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E8%BA%B2%E8%B4%9D%E5%A3%B3%E5%90%8E.jpg"
+    },
+    {
+      "id": "paopao-short/memes/shy/泡泡表情-套8-07-撒娇-托腮趴着.png",
+      "pack": "paopao-short",
+      "name": "托腮趴着",
+      "file": "托腮趴着.jpg",
+      "tag": "shy",
+      "description": "泡泡趴在地上双手托着脸颊，睁着水汪汪的眼睛，身边飘着气泡，一脸撒娇。",
+      "text": "",
+      "keywords": [
+        "撒娇",
+        "托腮",
+        "趴着",
+        "可爱",
+        "看你"
+      ],
+      "useWhen": [
+        "想让对方答应时",
+        "撒娇卖萌时"
+      ],
+      "path": "memes/shy/泡泡表情-套8-07-撒娇-托腮趴着.png",
+      "caption": "趴着托腮看你，软软地撒娇",
+      "search": "托腮趴着 泡泡趴在地上双手托着脸颊，睁着水汪汪的眼睛，身边飘着气泡，一脸撒娇。 趴着托腮看你，软软地撒娇 撒娇 托腮 趴着 可爱 看你 想让对方答应时 撒娇卖萌时 shy",
+      "preview": "previews/paopao-short/托腮趴着.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E6%89%98%E8%85%AE%E8%B6%B4%E7%9D%80.jpg"
     }
   ]
 }
