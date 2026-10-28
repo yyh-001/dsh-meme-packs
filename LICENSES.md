@@ -71,3 +71,12 @@
 - 上游：基于开源形象「鲸鱼娘」资产库 [treapgogo.github.io/deepseek-whale-girl](https://treapgogo.github.io/deepseek-whale-girl/)（设计者 **ZipZipPipe**）的二次创作；图像由 AI 生成，经投稿者挑选、切分与命名。非官方作品。
 - 许可标记：`CC-BY-NC-SA-4.0`（按投稿者声明；署名、非商业、相同方式共享）。
 - 维护说明：保留投稿声明的 45 张透明底 PNG 原文件；与仓库内现有 8 个图库（含 deepseek-chan 热链图）逐字节比对，无重复收录。补齐 maintainer/license/source，按画面校订 13 条短名/caption（原「鼓腮冒火」「侧躺」「捧着喝」「趴着睡着」「蹲着抱团」等描述与画面不符），情绪 tag 均已在插件支持的六个桶内。
+
+## deepseek-chan-emotes
+
+- 名称：DeepSeek娘动态表情包
+- 上游：[`BrickAZ/deepseek-chan-emotes`](https://github.com/BrickAZ/deepseek-chan-emotes)（v1.0.0，161 个 GIF）
+- 角色来源：[蓝色大肥鱼 — Steam 创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3807575879)，工坊条目作者 **飞天豆之助**；制作工具及内置动画资源：[EmoteLab](https://emotelab.app/)
+- 许可标记：`noncommercial-fan`（非商业同人向；角色形象、模型与 EmoteLab 内置动画的权利归各自权利人，本仓库不额外授权；权利人如不希望作品在此分发，可提 issue 要求下架）
+- 维护说明：上游原包为 500×500 / 30fps，ZIP 约 593MB，超过 dsh-meme 远程包 100MB 上限；本市场版本转码为 256×256 / 15fps / 128 色 GIF（87,271,781 bytes），保留全部 161 个动作与原始文件名。逐张核对画面后补齐中文短名、caption、关键词与情绪桶；需要原画质请下载上游 v1.0.0。
+- 使用条件：请遵守上游 README 与 [EmoteLab EULA](https://emotelab.app/eula/)，保留角色来源和 EmoteLab 制作说明，不要将原始角色设计或内置动画宣称为独立创作。

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-28T13:13:33Z",
+  "updatedAt": "2026-10-28T16:08:10Z",
   "packs": [
     {
       "id": "official-001",
@@ -478,6 +478,56 @@
         "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E7%AB%99%E7%9D%80%E5%AE%B3%E7%BE%9E.jpg",
         "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E8%BA%B2%E8%B4%9D%E5%A3%B3%E5%90%8E.jpg",
         "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E6%89%98%E8%85%AE%E8%B6%B4%E7%9D%80.jpg"
+      ]
+    },
+    {
+      "id": "deepseek-chan-emotes",
+      "name": "DeepSeek娘动态表情包",
+      "version": "1.0.0",
+      "description": "DeepSeek 娘（蓝色大肥鱼）GIF 动图 161 张：点赞、打游戏、思考、哭、害羞、上班摸鱼、干饭喝咖啡等情绪与日常动作；由 BrickAZ 用 EmoteLab 从 Steam 创意工坊角色导出。为适配插件 100MB 上限，已转码为 256×256 / 15fps。",
+      "maintainer": "BrickAZ",
+      "license": "noncommercial-fan",
+      "count": 161,
+      "bytes": 87271781,
+      "sha256": "12f73347fc4e6c21f93a35a979bccf1482937a4e3b84fdadc457a7bf9e408145",
+      "archiveUrl": "https://github.com/yyh-001/dsh-meme-packs/releases/download/deepseek-chan-emotes-v1.0.0/deepseek-chan-emotes-v1.0.0.zip",
+      "homepage": "https://github.com/BrickAZ/deepseek-chan-emotes",
+      "source": "https://github.com/BrickAZ/deepseek-chan-emotes",
+      "preview": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes.jpg",
+      "keywords": [
+        "DeepSeek娘",
+        "蓝色大肥鱼",
+        "鲸鱼娘",
+        "GIF",
+        "动图",
+        "EmoteLab",
+        "表情包"
+      ],
+      "previews": [
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%8A%A0%E8%BD%BD%E4%B8%AD.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E7%81%B5%E5%85%89%E4%B8%80%E9%97%AA.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E7%9C%BC%E5%86%9267.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/Popcat%E5%BC%A0%E5%98%B4.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E4%B8%BE%E5%88%80%E5%BE%AE%E7%AC%91.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%B8%A6%E5%8B%BA%E5%88%B0%E8%BE%BE.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%8F%8D%E5%90%91%E7%82%B9%E8%B5%9E.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%90%83%E7%88%86%E7%B1%B3%E8%8A%B1.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%BC%B9%E5%90%89%E4%BB%96.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%94%B1%E6%AD%8C.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%AE%B3%E6%80%95.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%AE%B3%E7%BE%9E.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%B0%8F%E4%B8%91%E7%AB%9F%E6%98%AF%E6%88%91%E8%87%AA%E5%B7%B1.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E4%B8%8A%E7%8F%AD%E5%B0%8F%E7%9D%A1.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%B9%B2%E6%9D%AF.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%92%92%E8%8A%B1%E5%BA%86%E7%A5%9D.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%90%93%E4%B8%80%E8%B7%B3.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%89%93%E6%B8%B8%E6%88%8F.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%91%B8%E5%A4%B4%C2%B7%E7%88%B1%E5%BF%83.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%9C%9F%E5%BE%85%C2%B7%E5%A4%A7%E7%9C%BC.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%8D%A7%E7%88%B1%E5%BF%83.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%B0%94%E9%BC%93%E9%BC%93.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E7%9D%A1%E7%9D%80%E4%BA%86.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%AF%94%E8%80%B6.jpg"
       ]
     }
   ]

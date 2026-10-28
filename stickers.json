@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-28T13:13:33Z",
+  "updatedAt": "2026-10-28T16:08:10Z",
   "about": "每条记录是一张表情。用 name、description、text、keywords、useWhen、search 检索。name 是画面内容的短名，也是预览文件名。path 是当前图库包里的原文件。imageUrl 有值时可以直接取图发送。",
   "packs": {
     "official-001": {
@@ -56,6 +56,12 @@
       "version": "1.0.0",
       "license": "CC-BY-NC-SA-4.0",
       "archiveUrl": "https://github.com/yyh-001/dsh-meme-packs/releases/download/paopao-short-v1.0.0/paopao-short-v1.0.0.zip"
+    },
+    "deepseek-chan-emotes": {
+      "name": "DeepSeek娘动态表情包",
+      "version": "1.0.0",
+      "license": "noncommercial-fan",
+      "archiveUrl": "https://github.com/yyh-001/dsh-meme-packs/releases/download/deepseek-chan-emotes-v1.0.0/deepseek-chan-emotes-v1.0.0.zip"
     }
   },
   "stickers": [
@@ -13804,6 +13810,4027 @@
       "search": "托腮趴着 泡泡趴在地上双手托着脸颊，睁着水汪汪的眼睛，身边飘着气泡，一脸撒娇。 趴着托腮看你，软软地撒娇 撒娇 托腮 趴着 可爱 看你 想让对方答应时 撒娇卖萌时 shy",
       "preview": "previews/paopao-short/托腮趴着.jpg",
       "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-short/%E6%89%98%E8%85%AE%E8%B6%B4%E7%9D%80.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/angry/deepseek娘_Bug_2026-09-28-22-13-11.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "拍虫子",
+      "file": "拍虫子.jpg",
+      "tag": "angry",
+      "description": "头顶爬过一只小蜘蛛，她皱着眉伸手去拍",
+      "text": "",
+      "keywords": [
+        "蜘蛛",
+        "虫子",
+        "驱赶",
+        "嫌弃",
+        "Bug"
+      ],
+      "useWhen": [
+        "遇到小虫子或bug时",
+        "嫌弃地赶走讨厌的东西时"
+      ],
+      "path": "memes/angry/deepseek娘_Bug_2026-09-28-22-13-11.gif",
+      "caption": "头顶爬过一只小蜘蛛，她皱着眉伸手去拍",
+      "search": "拍虫子 头顶爬过一只小蜘蛛，她皱着眉伸手去拍 蜘蛛 虫子 驱赶 嫌弃 Bug 遇到小虫子或bug时 嫌弃地赶走讨厌的东西时 angry",
+      "preview": "previews/deepseek-chan-emotes/拍虫子.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%8B%8D%E8%99%AB%E5%AD%90.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_PNGTuber 加载中_2026-09-28-22-25-29.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "加载中",
+      "file": "加载中.jpg",
+      "tag": "daily",
+      "description": "头顶转着花朵加载图标，她睁大眼睛等着加载完成",
+      "text": "",
+      "keywords": [
+        "加载",
+        "缓冲",
+        "等待",
+        "花朵",
+        "转圈"
+      ],
+      "useWhen": [
+        "等待加载时",
+        "事情还没准备好时"
+      ],
+      "path": "memes/daily/deepseek娘_PNGTuber 加载中_2026-09-28-22-25-29.gif",
+      "caption": "头顶转着花朵加载图标，她睁大眼睛等着加载完成",
+      "search": "加载中 头顶转着花朵加载图标，她睁大眼睛等着加载完成 加载 缓冲 等待 花朵 转圈 等待加载时 事情还没准备好时 daily",
+      "preview": "previews/deepseek-chan-emotes/加载中.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%8A%A0%E8%BD%BD%E4%B8%AD.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_PNGTuber 说教_2026-09-28-22-25-41.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "说教",
+      "file": "说教.jpg",
+      "tag": "daily",
+      "description": "凑近镜头一本正经地说教，嘴巴一张一合",
+      "text": "",
+      "keywords": [
+        "说教",
+        "讲道理",
+        "唠叨",
+        "严肃",
+        "训话"
+      ],
+      "useWhen": [
+        "想认真讲道理时",
+        "吐槽对方不听劝时"
+      ],
+      "path": "memes/daily/deepseek娘_PNGTuber 说教_2026-09-28-22-25-41.gif",
+      "caption": "凑近镜头一本正经地说教，嘴巴一张一合",
+      "search": "说教 凑近镜头一本正经地说教，嘴巴一张一合 说教 讲道理 唠叨 严肃 训话 想认真讲道理时 吐槽对方不听劝时 daily",
+      "preview": "previews/deepseek-chan-emotes/说教.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E8%AF%B4%E6%95%99.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_PNGTuber 说话_2026-09-28-22-25-34.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "说话",
+      "file": "说话.jpg",
+      "tag": "daily",
+      "description": "对着镜头正常说话，表情平静",
+      "text": "",
+      "keywords": [
+        "说话",
+        "聊天",
+        "直播",
+        "回应",
+        "平静"
+      ],
+      "useWhen": [
+        "正常聊天回应时"
+      ],
+      "path": "memes/daily/deepseek娘_PNGTuber 说话_2026-09-28-22-25-34.gif",
+      "caption": "对着镜头正常说话，表情平静",
+      "search": "说话 对着镜头正常说话，表情平静 说话 聊天 直播 回应 平静 正常聊天回应时 daily",
+      "preview": "previews/deepseek-chan-emotes/说话.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E8%AF%B4%E8%AF%9D.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_PNGTuber 闲置_2026-09-28-22-25-20.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "闲置",
+      "file": "闲置.jpg",
+      "tag": "daily",
+      "description": "安静地待机，偶尔眨一下眼",
+      "text": "",
+      "keywords": [
+        "待机",
+        "闲置",
+        "安静",
+        "眨眼",
+        "无事发生"
+      ],
+      "useWhen": [
+        "没话说待机时",
+        "挂机时"
+      ],
+      "path": "memes/daily/deepseek娘_PNGTuber 闲置_2026-09-28-22-25-20.gif",
+      "caption": "安静地待机，偶尔眨一下眼",
+      "search": "闲置 安静地待机，偶尔眨一下眼 待机 闲置 安静 眨眼 无事发生 没话说待机时 挂机时 daily",
+      "preview": "previews/deepseek-chan-emotes/闲置.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E9%97%B2%E7%BD%AE.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/happy/deepseek娘_Popcat 帧_2026-09-28-22-25-53.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "Popcat张嘴",
+      "file": "Popcat张嘴.jpg",
+      "tag": "happy",
+      "description": "嘴巴像 Popcat 一样张成大大的 O 形，眼神呆滞",
+      "text": "",
+      "keywords": [
+        "Popcat",
+        "张嘴",
+        "啊",
+        "呆滞",
+        "meme"
+      ],
+      "useWhen": [
+        "玩 Popcat 梗时",
+        "装傻张嘴时"
+      ],
+      "path": "memes/happy/deepseek娘_Popcat 帧_2026-09-28-22-25-53.gif",
+      "caption": "嘴巴像 Popcat 一样张成大大的 O 形，眼神呆滞",
+      "search": "Popcat张嘴 嘴巴像 Popcat 一样张成大大的 O 形，眼神呆滞 Popcat 张嘴 啊 呆滞 meme 玩 Popcat 梗时 装傻张嘴时 happy",
+      "preview": "previews/deepseek-chan-emotes/Popcat张嘴.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/Popcat%E5%BC%A0%E5%98%B4.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_TrashTuber 说教_2026-09-28-22-33-30.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "垃圾桶说教",
+      "file": "垃圾桶说教.jpg",
+      "tag": "daily",
+      "description": "套着垃圾桶造型，压低声音一本正经地说教",
+      "text": "",
+      "keywords": [
+        "垃圾桶",
+        "说教",
+        "训话",
+        "严肃",
+        "TrashTuber"
+      ],
+      "useWhen": [
+        "想唠叨对方时",
+        "装严肃讲道理时"
+      ],
+      "path": "memes/daily/deepseek娘_TrashTuber 说教_2026-09-28-22-33-30.gif",
+      "caption": "套着垃圾桶造型，压低声音一本正经地说教",
+      "search": "垃圾桶说教 套着垃圾桶造型，压低声音一本正经地说教 垃圾桶 说教 训话 严肃 TrashTuber 想唠叨对方时 装严肃讲道理时 daily",
+      "preview": "previews/deepseek-chan-emotes/垃圾桶说教.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%9E%83%E5%9C%BE%E6%A1%B6%E8%AF%B4%E6%95%99.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_TrashTuber 说话_2026-09-28-22-33-26.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "垃圾桶说话",
+      "file": "垃圾桶说话.jpg",
+      "tag": "daily",
+      "description": "套着垃圾桶造型，平静地对着镜头说话",
+      "text": "",
+      "keywords": [
+        "垃圾桶",
+        "说话",
+        "聊天",
+        "直播",
+        "TrashTuber"
+      ],
+      "useWhen": [
+        "正常聊天时"
+      ],
+      "path": "memes/daily/deepseek娘_TrashTuber 说话_2026-09-28-22-33-26.gif",
+      "caption": "套着垃圾桶造型，平静地对着镜头说话",
+      "search": "垃圾桶说话 套着垃圾桶造型，平静地对着镜头说话 垃圾桶 说话 聊天 直播 TrashTuber 正常聊天时 daily",
+      "preview": "previews/deepseek-chan-emotes/垃圾桶说话.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%9E%83%E5%9C%BE%E6%A1%B6%E8%AF%B4%E8%AF%9D.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_TrashTuber 闲置_2026-09-28-22-33-13.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "垃圾桶闲置",
+      "file": "垃圾桶闲置.jpg",
+      "tag": "daily",
+      "description": "套着垃圾桶安静待机，偶尔眨眼",
+      "text": "",
+      "keywords": [
+        "垃圾桶",
+        "待机",
+        "闲置",
+        "安静",
+        "TrashTuber"
+      ],
+      "useWhen": [
+        "挂机待机时"
+      ],
+      "path": "memes/daily/deepseek娘_TrashTuber 闲置_2026-09-28-22-33-13.gif",
+      "caption": "套着垃圾桶安静待机，偶尔眨眼",
+      "search": "垃圾桶闲置 套着垃圾桶安静待机，偶尔眨眼 垃圾桶 待机 闲置 安静 TrashTuber 挂机待机时 daily",
+      "preview": "previews/deepseek-chan-emotes/垃圾桶闲置.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%9E%83%E5%9C%BE%E6%A1%B6%E9%97%B2%E7%BD%AE.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/sigh/deepseek娘_一切都好 1_2026-09-28-22-32-32.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "一切都好",
+      "file": "一切都好.jpg",
+      "tag": "sigh",
+      "description": "身后燃起大火，她闭着眼竖起大拇指说一切都好",
+      "text": "",
+      "keywords": [
+        "一切都好",
+        "没事",
+        "大火",
+        "竖大拇指",
+        "强撑"
+      ],
+      "useWhen": [
+        "明明很糟还硬撑时",
+        "自嘲一切都好时"
+      ],
+      "path": "memes/sigh/deepseek娘_一切都好 1_2026-09-28-22-32-32.gif",
+      "caption": "身后燃起大火，她闭着眼竖起大拇指说一切都好",
+      "search": "一切都好 身后燃起大火，她闭着眼竖起大拇指说一切都好 一切都好 没事 大火 竖大拇指 强撑 明明很糟还硬撑时 自嘲一切都好时 sigh",
+      "preview": "previews/deepseek-chan-emotes/一切都好.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E4%B8%80%E5%88%87%E9%83%BD%E5%A5%BD.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/sigh/deepseek娘_一切都好 4_2026-09-28-22-32-41.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "咖啡续命",
+      "file": "咖啡续命.jpg",
+      "tag": "sigh",
+      "description": "周围全是火焰，她端着咖啡闭眼强撑",
+      "text": "",
+      "keywords": [
+        "咖啡",
+        "火焰",
+        "续命",
+        "强撑",
+        "没事"
+      ],
+      "useWhen": [
+        "加班熬夜硬撑时",
+        "自嘲咖啡续命时"
+      ],
+      "path": "memes/sigh/deepseek娘_一切都好 4_2026-09-28-22-32-41.gif",
+      "caption": "周围全是火焰，她端着咖啡闭眼强撑",
+      "search": "咖啡续命 周围全是火焰，她端着咖啡闭眼强撑 咖啡 火焰 续命 强撑 没事 加班熬夜硬撑时 自嘲咖啡续命时 sigh",
+      "preview": "previews/deepseek-chan-emotes/咖啡续命.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%92%96%E5%95%A1%E7%BB%AD%E5%91%BD.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/happy/deepseek娘_主意_2026-09-28-22-20-44.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "灵光一闪",
+      "file": "灵光一闪.jpg",
+      "tag": "happy",
+      "description": "头顶亮起灯泡，她眼睛一亮想到了好主意",
+      "text": "",
+      "keywords": [
+        "灯泡",
+        "主意",
+        "灵光一闪",
+        "想到",
+        "聪明"
+      ],
+      "useWhen": [
+        "想到办法时",
+        "提议时"
+      ],
+      "path": "memes/happy/deepseek娘_主意_2026-09-28-22-20-44.gif",
+      "caption": "头顶亮起灯泡，她眼睛一亮想到了好主意",
+      "search": "灵光一闪 头顶亮起灯泡，她眼睛一亮想到了好主意 灯泡 主意 灵光一闪 想到 聪明 想到办法时 提议时 happy",
+      "preview": "previews/deepseek-chan-emotes/灵光一闪.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E7%81%B5%E5%85%89%E4%B8%80%E9%97%AA.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_书呆子 1_2026-09-28-22-24-04.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "推眼镜",
+      "file": "推眼镜.jpg",
+      "tag": "daily",
+      "description": "戴着圆框眼镜推了推镜片，一脸认真",
+      "text": "",
+      "keywords": [
+        "眼镜",
+        "书呆子",
+        "推眼镜",
+        "认真",
+        "学霸"
+      ],
+      "useWhen": [
+        "准备讲知识点时",
+        "装学霸时"
+      ],
+      "path": "memes/daily/deepseek娘_书呆子 1_2026-09-28-22-24-04.gif",
+      "caption": "戴着圆框眼镜推了推镜片，一脸认真",
+      "search": "推眼镜 戴着圆框眼镜推了推镜片，一脸认真 眼镜 书呆子 推眼镜 认真 学霸 准备讲知识点时 装学霸时 daily",
+      "preview": "previews/deepseek-chan-emotes/推眼镜.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%8E%A8%E7%9C%BC%E9%95%9C.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/angry/deepseek娘_停止_2026-09-28-22-30-07.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "STOP",
+      "file": "STOP.jpg",
+      "tag": "angry",
+      "description": "举起红色 STOP 牌子，一脸严肃地叫停",
+      "text": "STOP",
+      "keywords": [
+        "STOP",
+        "停止",
+        "叫停",
+        "拒绝",
+        "严肃"
+      ],
+      "useWhen": [
+        "叫停话题时",
+        "拒绝继续时"
+      ],
+      "path": "memes/angry/deepseek娘_停止_2026-09-28-22-30-07.gif",
+      "caption": "举起红色 STOP 牌子，一脸严肃地叫停",
+      "search": "STOP 举起红色 STOP 牌子，一脸严肃地叫停 STOP STOP 停止 叫停 拒绝 严肃 叫停话题时 拒绝继续时 angry",
+      "preview": "previews/deepseek-chan-emotes/STOP.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/STOP.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/work/deepseek娘_停止工作_2026-09-28-22-30-15.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "停止工作",
+      "file": "停止工作.jpg",
+      "tag": "work",
+      "description": "对着写着 Emulate User 的弹窗，趴在桌上不想干了",
+      "text": "Emulate User",
+      "keywords": [
+        "停止工作",
+        "下班",
+        "弹窗",
+        "趴桌",
+        "不想干"
+      ],
+      "useWhen": [
+        "不想上班时",
+        "想下班时"
+      ],
+      "path": "memes/work/deepseek娘_停止工作_2026-09-28-22-30-15.gif",
+      "caption": "对着写着 Emulate User 的弹窗，趴在桌上不想干了",
+      "search": "停止工作 对着写着 Emulate User 的弹窗，趴在桌上不想干了 Emulate User 停止工作 下班 弹窗 趴桌 不想干 不想上班时 想下班时 work",
+      "preview": "previews/deepseek-chan-emotes/停止工作.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%81%9C%E6%AD%A2%E5%B7%A5%E4%BD%9C.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/confused/deepseek娘_催眠_2026-09-28-22-20-38.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "催眠怀表",
+      "file": "催眠怀表.jpg",
+      "tag": "confused",
+      "description": "拿着爱心怀表左右摇摆，眼睛转成蚊香圈",
+      "text": "",
+      "keywords": [
+        "催眠",
+        "怀表",
+        "蚊香眼",
+        "摇摆",
+        "晕"
+      ],
+      "useWhen": [
+        "想把人绕晕时",
+        "困倦时"
+      ],
+      "path": "memes/confused/deepseek娘_催眠_2026-09-28-22-20-38.gif",
+      "caption": "拿着爱心怀表左右摇摆，眼睛转成蚊香圈",
+      "search": "催眠怀表 拿着爱心怀表左右摇摆，眼睛转成蚊香圈 催眠 怀表 蚊香眼 摇摆 晕 想把人绕晕时 困倦时 confused",
+      "preview": "previews/deepseek-chan-emotes/催眠怀表.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%82%AC%E7%9C%A0%E6%80%80%E8%A1%A8.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/happy/deepseek娘_像素墨镜反光_2026-09-28-22-30-37.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "像素墨镜",
+      "file": "像素墨镜.jpg",
+      "tag": "happy",
+      "description": "戴着像素墨镜，镜片反出光斑，一脸酷",
+      "text": "",
+      "keywords": [
+        "墨镜",
+        "像素",
+        "反光",
+        "酷",
+        "装酷"
+      ],
+      "useWhen": [
+        "耍酷时",
+        "装高手时"
+      ],
+      "path": "memes/happy/deepseek娘_像素墨镜反光_2026-09-28-22-30-37.gif",
+      "caption": "戴着像素墨镜，镜片反出光斑，一脸酷",
+      "search": "像素墨镜 戴着像素墨镜，镜片反出光斑，一脸酷 墨镜 像素 反光 酷 装酷 耍酷时 装高手时 happy",
+      "preview": "previews/deepseek-chan-emotes/像素墨镜.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%83%8F%E7%B4%A0%E5%A2%A8%E9%95%9C.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/happy/deepseek娘_六七_2026-09-28-22-28-00.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "眼冒67",
+      "file": "眼冒67.jpg",
+      "tag": "happy",
+      "description": "眼睛里闪着 6 和 7 两个数字，blingbling 发光",
+      "text": "6 7",
+      "keywords": [
+        "67",
+        "数字",
+        "眼睛",
+        "闪光",
+        "梗"
+      ],
+      "useWhen": [
+        "玩 67 梗时",
+        "夸人时"
+      ],
+      "path": "memes/happy/deepseek娘_六七_2026-09-28-22-28-00.gif",
+      "caption": "眼睛里闪着 6 和 7 两个数字，blingbling 发光",
+      "search": "眼冒67 眼睛里闪着 6 和 7 两个数字，blingbling 发光 6 7 67 数字 眼睛 闪光 梗 玩 67 梗时 夸人时 happy",
+      "preview": "previews/deepseek-chan-emotes/眼冒67.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E7%9C%BC%E5%86%9267.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_冒泡 1_2026-09-28-22-22-26.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "冒泡·探头",
+      "file": "冒泡·探头.jpg",
+      "tag": "daily",
+      "description": "从黑色缝隙里探出半张脸，身边飘着小气泡",
+      "text": "",
+      "keywords": [
+        "冒泡",
+        "探头",
+        "缝隙",
+        "气泡",
+        "偷看"
+      ],
+      "useWhen": [
+        "潜水冒泡时",
+        "偷偷出现时"
+      ],
+      "path": "memes/daily/deepseek娘_冒泡 1_2026-09-28-22-22-26.gif",
+      "caption": "从黑色缝隙里探出半张脸，身边飘着小气泡",
+      "search": "冒泡·探头 从黑色缝隙里探出半张脸，身边飘着小气泡 冒泡 探头 缝隙 气泡 偷看 潜水冒泡时 偷偷出现时 daily",
+      "preview": "previews/deepseek-chan-emotes/冒泡·探头.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%86%92%E6%B3%A1%C2%B7%E6%8E%A2%E5%A4%B4.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_冒泡 2_2026-09-28-22-22-34.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "冒泡·门后",
+      "file": "冒泡·门后.jpg",
+      "tag": "daily",
+      "description": "躲在黑色门板后探出头，眨着眼睛冒泡",
+      "text": "",
+      "keywords": [
+        "冒泡",
+        "门后",
+        "探头",
+        "偷看",
+        "气泡"
+      ],
+      "useWhen": [
+        "暗中观察时",
+        "突然出现时"
+      ],
+      "path": "memes/daily/deepseek娘_冒泡 2_2026-09-28-22-22-34.gif",
+      "caption": "躲在黑色门板后探出头，眨着眼睛冒泡",
+      "search": "冒泡·门后 躲在黑色门板后探出头，眨着眼睛冒泡 冒泡 门后 探头 偷看 气泡 暗中观察时 突然出现时 daily",
+      "preview": "previews/deepseek-chan-emotes/冒泡·门后.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%86%92%E6%B3%A1%C2%B7%E9%97%A8%E5%90%8E.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/angry/deepseek娘_刀 1_2026-09-28-22-21-09.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "举刀微笑",
+      "file": "举刀微笑.jpg",
+      "tag": "angry",
+      "description": "举着菜刀露出微笑，眼神却越来越危险",
+      "text": "",
+      "keywords": [
+        "菜刀",
+        "微笑",
+        "危险",
+        "黑化",
+        "病娇"
+      ],
+      "useWhen": [
+        "开玩笑威胁时",
+        "黑化时"
+      ],
+      "path": "memes/angry/deepseek娘_刀 1_2026-09-28-22-21-09.gif",
+      "caption": "举着菜刀露出微笑，眼神却越来越危险",
+      "search": "举刀微笑 举着菜刀露出微笑，眼神却越来越危险 菜刀 微笑 危险 黑化 病娇 开玩笑威胁时 黑化时 angry",
+      "preview": "previews/deepseek-chan-emotes/举刀微笑.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E4%B8%BE%E5%88%80%E5%BE%AE%E7%AC%91.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/angry/deepseek娘_刀 2_2026-09-28-22-21-03.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "举刀阴影",
+      "file": "举刀阴影.jpg",
+      "tag": "angry",
+      "description": "举着菜刀，脸上罩着阴影，眼神失去高光",
+      "text": "",
+      "keywords": [
+        "菜刀",
+        "阴影",
+        "黑化",
+        "病娇",
+        "危险"
+      ],
+      "useWhen": [
+        "彻底黑化时",
+        "威胁时"
+      ],
+      "path": "memes/angry/deepseek娘_刀 2_2026-09-28-22-21-03.gif",
+      "caption": "举着菜刀，脸上罩着阴影，眼神失去高光",
+      "search": "举刀阴影 举着菜刀，脸上罩着阴影，眼神失去高光 菜刀 阴影 黑化 病娇 危险 彻底黑化时 威胁时 angry",
+      "preview": "previews/deepseek-chan-emotes/举刀阴影.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E4%B8%BE%E5%88%80%E9%98%B4%E5%BD%B1.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/angry/deepseek娘_切(剪刀)_2026-09-28-22-16-18.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "剪一下",
+      "file": "剪一下.jpg",
+      "tag": "angry",
+      "description": "举着大剪刀咔嚓咔嚓地剪",
+      "text": "",
+      "keywords": [
+        "剪刀",
+        "剪",
+        "咔嚓",
+        "威胁",
+        "危险"
+      ],
+      "useWhen": [
+        "想剪东西时",
+        "开玩笑威胁时"
+      ],
+      "path": "memes/angry/deepseek娘_切(剪刀)_2026-09-28-22-16-18.gif",
+      "caption": "举着大剪刀咔嚓咔嚓地剪",
+      "search": "剪一下 举着大剪刀咔嚓咔嚓地剪 剪刀 剪 咔嚓 威胁 危险 想剪东西时 开玩笑威胁时 angry",
+      "preview": "previews/deepseek-chan-emotes/剪一下.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%89%AA%E4%B8%80%E4%B8%8B.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_到达(拿勺子)_2026-09-28-22-12-13.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "带勺到达",
+      "file": "带勺到达.jpg",
+      "tag": "daily",
+      "description": "举着勺子飞奔到场，迫不及待准备开吃",
+      "text": "",
+      "keywords": [
+        "到达",
+        "勺子",
+        "飞奔",
+        "吃饭",
+        "赶到"
+      ],
+      "useWhen": [
+        "准备吃饭时",
+        "赶到现场时"
+      ],
+      "path": "memes/daily/deepseek娘_到达(拿勺子)_2026-09-28-22-12-13.gif",
+      "caption": "举着勺子飞奔到场，迫不及待准备开吃",
+      "search": "带勺到达 举着勺子飞奔到场，迫不及待准备开吃 到达 勺子 飞奔 吃饭 赶到 准备吃饭时 赶到现场时 daily",
+      "preview": "previews/deepseek-chan-emotes/带勺到达.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%B8%A6%E5%8B%BA%E5%88%B0%E8%BE%BE.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_到达(拿筷子)_2026-09-28-22-12-04.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "带筷到达",
+      "file": "带筷到达.jpg",
+      "tag": "daily",
+      "description": "举着筷子飞奔到场，眼睛发亮准备干饭",
+      "text": "",
+      "keywords": [
+        "到达",
+        "筷子",
+        "飞奔",
+        "干饭",
+        "赶到"
+      ],
+      "useWhen": [
+        "准备干饭时",
+        "赶到现场时"
+      ],
+      "path": "memes/daily/deepseek娘_到达(拿筷子)_2026-09-28-22-12-04.gif",
+      "caption": "举着筷子飞奔到场，眼睛发亮准备干饭",
+      "search": "带筷到达 举着筷子飞奔到场，眼睛发亮准备干饭 到达 筷子 飞奔 干饭 赶到 准备干饭时 赶到现场时 daily",
+      "preview": "previews/deepseek-chan-emotes/带筷到达.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%B8%A6%E7%AD%B7%E5%88%B0%E8%BE%BE.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_到达_2026-09-28-22-11-43.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "飞奔到达",
+      "file": "飞奔到达.jpg",
+      "tag": "daily",
+      "description": "从画面外飞奔进来，气喘吁吁地赶到",
+      "text": "",
+      "keywords": [
+        "到达",
+        "飞奔",
+        "赶到",
+        "气喘",
+        "出现"
+      ],
+      "useWhen": [
+        "赶到现场时",
+        "终于到达时"
+      ],
+      "path": "memes/daily/deepseek娘_到达_2026-09-28-22-11-43.gif",
+      "caption": "从画面外飞奔进来，气喘吁吁地赶到",
+      "search": "飞奔到达 从画面外飞奔进来，气喘吁吁地赶到 到达 飞奔 赶到 气喘 出现 赶到现场时 终于到达时 daily",
+      "preview": "previews/deepseek-chan-emotes/飞奔到达.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E9%A3%9E%E5%A5%94%E5%88%B0%E8%BE%BE.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/givemoney/deepseek娘_刷卡_2026-09-28-22-13-35.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "刷卡",
+      "file": "刷卡.jpg",
+      "tag": "givemoney",
+      "description": "拿着银行卡在 POS 机上刷了一下",
+      "text": "",
+      "keywords": [
+        "刷卡",
+        "银行卡",
+        "支付",
+        "花钱",
+        "买单"
+      ],
+      "useWhen": [
+        "付钱时",
+        "买单时"
+      ],
+      "path": "memes/givemoney/deepseek娘_刷卡_2026-09-28-22-13-35.gif",
+      "caption": "拿着银行卡在 POS 机上刷了一下",
+      "search": "刷卡 拿着银行卡在 POS 机上刷了一下 刷卡 银行卡 支付 花钱 买单 付钱时 买单时 givemoney",
+      "preview": "previews/deepseek-chan-emotes/刷卡.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%88%B7%E5%8D%A1.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/happy/deepseek娘_加油_2026-09-28-22-14-55.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "加油",
+      "file": "加油.jpg",
+      "tag": "happy",
+      "description": "举着彩色花球卖力加油，笑容灿烂",
+      "text": "",
+      "keywords": [
+        "加油",
+        "花球",
+        "啦啦队",
+        "打气",
+        "鼓励"
+      ],
+      "useWhen": [
+        "给对方打气时",
+        "鼓励时"
+      ],
+      "path": "memes/happy/deepseek娘_加油_2026-09-28-22-14-55.gif",
+      "caption": "举着彩色花球卖力加油，笑容灿烂",
+      "search": "加油 举着彩色花球卖力加油，笑容灿烂 加油 花球 啦啦队 打气 鼓励 给对方打气时 鼓励时 happy",
+      "preview": "previews/deepseek-chan-emotes/加油.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%8A%A0%E6%B2%B9.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_加载(茶_咖啡杯)_2026-09-28-22-21-54.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "加载·咖啡杯",
+      "file": "加载·咖啡杯.jpg",
+      "tag": "daily",
+      "description": "端着咖啡杯发呆，头顶加载图标转个不停",
+      "text": "",
+      "keywords": [
+        "加载",
+        "咖啡",
+        "发呆",
+        "缓冲",
+        "等待"
+      ],
+      "useWhen": [
+        "等加载时",
+        "喝咖啡摸鱼时"
+      ],
+      "path": "memes/daily/deepseek娘_加载(茶_咖啡杯)_2026-09-28-22-21-54.gif",
+      "caption": "端着咖啡杯发呆，头顶加载图标转个不停",
+      "search": "加载·咖啡杯 端着咖啡杯发呆，头顶加载图标转个不停 加载 咖啡 发呆 缓冲 等待 等加载时 喝咖啡摸鱼时 daily",
+      "preview": "previews/deepseek-chan-emotes/加载·咖啡杯.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%8A%A0%E8%BD%BD%C2%B7%E5%92%96%E5%95%A1%E6%9D%AF.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_加载(马克杯)_2026-09-28-22-22-08.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "加载·马克杯",
+      "file": "加载·马克杯.jpg",
+      "tag": "daily",
+      "description": "捧着马克杯发呆，等加载等到放空",
+      "text": "",
+      "keywords": [
+        "加载",
+        "马克杯",
+        "发呆",
+        "缓冲",
+        "等待"
+      ],
+      "useWhen": [
+        "等加载时",
+        "摸鱼时"
+      ],
+      "path": "memes/daily/deepseek娘_加载(马克杯)_2026-09-28-22-22-08.gif",
+      "caption": "捧着马克杯发呆，等加载等到放空",
+      "search": "加载·马克杯 捧着马克杯发呆，等加载等到放空 加载 马克杯 发呆 缓冲 等待 等加载时 摸鱼时 daily",
+      "preview": "previews/deepseek-chan-emotes/加载·马克杯.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%8A%A0%E8%BD%BD%C2%B7%E9%A9%AC%E5%85%8B%E6%9D%AF.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/angry/deepseek娘_反向点赞_2026-09-28-22-32-50.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "反向点赞",
+      "file": "反向点赞.jpg",
+      "tag": "angry",
+      "description": "竖起大拇指朝下，一脸不服地反向点赞",
+      "text": "",
+      "keywords": [
+        "反向点赞",
+        "点踩",
+        "拇指朝下",
+        "不服",
+        "差评"
+      ],
+      "useWhen": [
+        "想点踩时",
+        "不服时"
+      ],
+      "path": "memes/angry/deepseek娘_反向点赞_2026-09-28-22-32-50.gif",
+      "caption": "竖起大拇指朝下，一脸不服地反向点赞",
+      "search": "反向点赞 竖起大拇指朝下，一脸不服地反向点赞 反向点赞 点踩 拇指朝下 不服 差评 想点踩时 不服时 angry",
+      "preview": "previews/deepseek-chan-emotes/反向点赞.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%8F%8D%E5%90%91%E7%82%B9%E8%B5%9E.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/confused/deepseek娘_反转_2026-09-28-22-26-37.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "反转",
+      "file": "反转.jpg",
+      "tag": "confused",
+      "description": "举着画有双向箭头的牌子，表示情况反转",
+      "text": "⇄",
+      "keywords": [
+        "反转",
+        "箭头",
+        "牌子",
+        "逆转",
+        "剧情"
+      ],
+      "useWhen": [
+        "剧情反转时",
+        "事情逆转时"
+      ],
+      "path": "memes/confused/deepseek娘_反转_2026-09-28-22-26-37.gif",
+      "caption": "举着画有双向箭头的牌子，表示情况反转",
+      "search": "反转 举着画有双向箭头的牌子，表示情况反转 ⇄ 反转 箭头 牌子 逆转 剧情 剧情反转时 事情逆转时 confused",
+      "preview": "previews/deepseek-chan-emotes/反转.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%8F%8D%E8%BD%AC.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/surprised/deepseek娘_叹号_2026-09-28-22-18-58.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "惊叹",
+      "file": "惊叹.jpg",
+      "tag": "surprised",
+      "description": "头顶弹出两个大叹号，她瞪大眼睛被惊到",
+      "text": "!!",
+      "keywords": [
+        "叹号",
+        "惊叹",
+        "吃惊",
+        "震惊",
+        "感叹"
+      ],
+      "useWhen": [
+        "感到惊讶时",
+        "被惊到时"
+      ],
+      "path": "memes/surprised/deepseek娘_叹号_2026-09-28-22-18-58.gif",
+      "caption": "头顶弹出两个大叹号，她瞪大眼睛被惊到",
+      "search": "惊叹 头顶弹出两个大叹号，她瞪大眼睛被惊到 !! 叹号 惊叹 吃惊 震惊 感叹 感到惊讶时 被惊到时 surprised",
+      "preview": "previews/deepseek-chan-emotes/惊叹.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%83%8A%E5%8F%B9.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_吃(爆米花)_2026-09-28-22-18-41.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "吃爆米花",
+      "file": "吃爆米花.jpg",
+      "tag": "daily",
+      "description": "抱着爆米花桶边吃边看，准备好看戏",
+      "text": "",
+      "keywords": [
+        "爆米花",
+        "吃瓜",
+        "看戏",
+        "围观",
+        "零食"
+      ],
+      "useWhen": [
+        "准备吃瓜看戏时",
+        "围观时"
+      ],
+      "path": "memes/daily/deepseek娘_吃(爆米花)_2026-09-28-22-18-41.gif",
+      "caption": "抱着爆米花桶边吃边看，准备好看戏",
+      "search": "吃爆米花 抱着爆米花桶边吃边看，准备好看戏 爆米花 吃瓜 看戏 围观 零食 准备吃瓜看戏时 围观时 daily",
+      "preview": "previews/deepseek-chan-emotes/吃爆米花.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%90%83%E7%88%86%E7%B1%B3%E8%8A%B1.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_吃(西瓜)_2026-09-28-22-18-34.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "吃西瓜",
+      "file": "吃西瓜.jpg",
+      "tag": "daily",
+      "description": "捧着一块西瓜大口吃，满脸满足",
+      "text": "",
+      "keywords": [
+        "西瓜",
+        "吃瓜",
+        "夏天",
+        "围观",
+        "满足"
+      ],
+      "useWhen": [
+        "夏天吃瓜时",
+        "看热闹时"
+      ],
+      "path": "memes/daily/deepseek娘_吃(西瓜)_2026-09-28-22-18-34.gif",
+      "caption": "捧着一块西瓜大口吃，满脸满足",
+      "search": "吃西瓜 捧着一块西瓜大口吃，满脸满足 西瓜 吃瓜 夏天 围观 满足 夏天吃瓜时 看热闹时 daily",
+      "preview": "previews/deepseek-chan-emotes/吃西瓜.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%90%83%E8%A5%BF%E7%93%9C.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/happy/deepseek娘_吉他_2026-09-28-22-20-13.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "弹吉他",
+      "file": "弹吉他.jpg",
+      "tag": "happy",
+      "description": "抱着蓝色吉他弹奏，边弹边唱",
+      "text": "",
+      "keywords": [
+        "吉他",
+        "弹奏",
+        "音乐",
+        "唱歌",
+        "乐队"
+      ],
+      "useWhen": [
+        "聊音乐时",
+        "想表演时"
+      ],
+      "path": "memes/happy/deepseek娘_吉他_2026-09-28-22-20-13.gif",
+      "caption": "抱着蓝色吉他弹奏，边弹边唱",
+      "search": "弹吉他 抱着蓝色吉他弹奏，边弹边唱 吉他 弹奏 音乐 唱歌 乐队 聊音乐时 想表演时 happy",
+      "preview": "previews/deepseek-chan-emotes/弹吉他.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%BC%B9%E5%90%89%E4%BB%96.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/happy/deepseek娘_吐舌 1_2026-09-28-22-12-45.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "吐舌",
+      "file": "吐舌.jpg",
+      "tag": "happy",
+      "description": "吐舌头卖萌，眼睛亮晶晶",
+      "text": "",
+      "keywords": [
+        "吐舌",
+        "卖萌",
+        "调皮",
+        "可爱",
+        "略略略"
+      ],
+      "useWhen": [
+        "调皮时",
+        "卖萌时"
+      ],
+      "path": "memes/happy/deepseek娘_吐舌 1_2026-09-28-22-12-45.gif",
+      "caption": "吐舌头卖萌，眼睛亮晶晶",
+      "search": "吐舌 吐舌头卖萌，眼睛亮晶晶 吐舌 卖萌 调皮 可爱 略略略 调皮时 卖萌时 happy",
+      "preview": "previews/deepseek-chan-emotes/吐舌.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%90%90%E8%88%8C.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/happy/deepseek娘_吐舌 3_2026-09-28-22-12-40.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "吐舌·二",
+      "file": "吐舌·二.jpg",
+      "tag": "happy",
+      "description": "歪头吐舌头，做着鬼脸",
+      "text": "",
+      "keywords": [
+        "吐舌",
+        "鬼脸",
+        "调皮",
+        "歪头",
+        "可爱"
+      ],
+      "useWhen": [
+        "做鬼脸时",
+        "逗人时"
+      ],
+      "path": "memes/happy/deepseek娘_吐舌 3_2026-09-28-22-12-40.gif",
+      "caption": "歪头吐舌头，做着鬼脸",
+      "search": "吐舌·二 歪头吐舌头，做着鬼脸 吐舌 鬼脸 调皮 歪头 可爱 做鬼脸时 逗人时 happy",
+      "preview": "previews/deepseek-chan-emotes/吐舌·二.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%90%90%E8%88%8C%C2%B7%E4%BA%8C.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/confused/deepseek娘_呆 1_2026-09-28-22-18-22.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "发呆呆",
+      "file": "发呆呆.jpg",
+      "tag": "confused",
+      "description": "睁着大眼睛发愣，嘴巴微微张成小圆",
+      "text": "",
+      "keywords": [
+        "发呆",
+        "呆滞",
+        "放空",
+        "懵",
+        "愣住"
+      ],
+      "useWhen": [
+        "放空时",
+        "没反应过来时"
+      ],
+      "path": "memes/confused/deepseek娘_呆 1_2026-09-28-22-18-22.gif",
+      "caption": "睁着大眼睛发愣，嘴巴微微张成小圆",
+      "search": "发呆呆 睁着大眼睛发愣，嘴巴微微张成小圆 发呆 呆滞 放空 懵 愣住 放空时 没反应过来时 confused",
+      "preview": "previews/deepseek-chan-emotes/发呆呆.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%8F%91%E5%91%86%E5%91%86.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/sad/deepseek娘_哭 1_2026-09-28-22-16-04.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "大哭",
+      "file": "大哭.jpg",
+      "tag": "sad",
+      "description": "眼泪止不住地往下流，委屈地大哭",
+      "text": "",
+      "keywords": [
+        "哭",
+        "眼泪",
+        "委屈",
+        "伤心",
+        "大哭"
+      ],
+      "useWhen": [
+        "委屈时",
+        "难过时"
+      ],
+      "path": "memes/sad/deepseek娘_哭 1_2026-09-28-22-16-04.gif",
+      "caption": "眼泪止不住地往下流，委屈地大哭",
+      "search": "大哭 眼泪止不住地往下流，委屈地大哭 哭 眼泪 委屈 伤心 大哭 委屈时 难过时 sad",
+      "preview": "previews/deepseek-chan-emotes/大哭.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%A4%A7%E5%93%AD.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/sad/deepseek娘_哭 2_2026-09-28-22-16-12.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "抽泣",
+      "file": "抽泣.jpg",
+      "tag": "sad",
+      "description": "红着眼眶抽抽搭搭，泪水在眼里打转",
+      "text": "",
+      "keywords": [
+        "抽泣",
+        "眼泪",
+        "委屈",
+        "伤心",
+        "哽咽"
+      ],
+      "useWhen": [
+        "想哭时",
+        "委屈时"
+      ],
+      "path": "memes/sad/deepseek娘_哭 2_2026-09-28-22-16-12.gif",
+      "caption": "红着眼眶抽抽搭搭，泪水在眼里打转",
+      "search": "抽泣 红着眼眶抽抽搭搭，泪水在眼里打转 抽泣 眼泪 委屈 伤心 哽咽 想哭时 委屈时 sad",
+      "preview": "previews/deepseek-chan-emotes/抽泣.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%8A%BD%E6%B3%A3.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/happy/deepseek娘_唱歌_2026-09-28-22-27-45.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "唱歌",
+      "file": "唱歌.jpg",
+      "tag": "happy",
+      "description": "拿着麦克风唱歌，周围飘着音符",
+      "text": "",
+      "keywords": [
+        "唱歌",
+        "麦克风",
+        "音乐",
+        "音符",
+        "K歌"
+      ],
+      "useWhen": [
+        "想唱歌时",
+        "开心时"
+      ],
+      "path": "memes/happy/deepseek娘_唱歌_2026-09-28-22-27-45.gif",
+      "caption": "拿着麦克风唱歌，周围飘着音符",
+      "search": "唱歌 拿着麦克风唱歌，周围飘着音符 唱歌 麦克风 音乐 音符 K歌 想唱歌时 开心时 happy",
+      "preview": "previews/deepseek-chan-emotes/唱歌.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%94%B1%E6%AD%8C.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_喝(饮料杯)_2026-09-28-22-17-47.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "喝饮料",
+      "file": "喝饮料.jpg",
+      "tag": "daily",
+      "description": "叼着吸管喝饮料，眼睛半眯很享受",
+      "text": "",
+      "keywords": [
+        "喝饮料",
+        "吸管",
+        "享受",
+        "奶茶",
+        "摸鱼"
+      ],
+      "useWhen": [
+        "喝饮料时",
+        "放松时"
+      ],
+      "path": "memes/daily/deepseek娘_喝(饮料杯)_2026-09-28-22-17-47.gif",
+      "caption": "叼着吸管喝饮料，眼睛半眯很享受",
+      "search": "喝饮料 叼着吸管喝饮料，眼睛半眯很享受 喝饮料 吸管 享受 奶茶 摸鱼 喝饮料时 放松时 daily",
+      "preview": "previews/deepseek-chan-emotes/喝饮料.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%96%9D%E9%A5%AE%E6%96%99.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_喷剂_2026-09-28-22-29-52.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "喷一喷",
+      "file": "喷一喷.jpg",
+      "tag": "daily",
+      "description": "拿着喷雾罐按下喷头，喷出一团白雾",
+      "text": "",
+      "keywords": [
+        "喷雾",
+        "喷剂",
+        "白雾",
+        "清新",
+        "清洁"
+      ],
+      "useWhen": [
+        "想喷东西时",
+        "嫌弃气味时"
+      ],
+      "path": "memes/daily/deepseek娘_喷剂_2026-09-28-22-29-52.gif",
+      "caption": "拿着喷雾罐按下喷头，喷出一团白雾",
+      "search": "喷一喷 拿着喷雾罐按下喷头，喷出一团白雾 喷雾 喷剂 白雾 清新 清洁 想喷东西时 嫌弃气味时 daily",
+      "preview": "previews/deepseek-chan-emotes/喷一喷.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%96%B7%E4%B8%80%E5%96%B7.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/sad/deepseek娘_坐牢 1_2026-09-28-22-20-51.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "坐牢",
+      "file": "坐牢.jpg",
+      "tag": "sad",
+      "description": "扒着铁窗坐在牢里，眼巴巴往外看",
+      "text": "",
+      "keywords": [
+        "坐牢",
+        "铁窗",
+        "关起来",
+        "可怜",
+        "失去自由"
+      ],
+      "useWhen": [
+        "自嘲坐牢时",
+        "被关住时"
+      ],
+      "path": "memes/sad/deepseek娘_坐牢 1_2026-09-28-22-20-51.gif",
+      "caption": "扒着铁窗坐在牢里，眼巴巴往外看",
+      "search": "坐牢 扒着铁窗坐在牢里，眼巴巴往外看 坐牢 铁窗 关起来 可怜 失去自由 自嘲坐牢时 被关住时 sad",
+      "preview": "previews/deepseek-chan-emotes/坐牢.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%9D%90%E7%89%A2.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/sad/deepseek娘_坐牢 2_2026-09-28-22-20-55.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "坐牢·哭",
+      "file": "坐牢·哭.jpg",
+      "tag": "sad",
+      "description": "坐在铁窗后委屈地哭，眼泪汪汪",
+      "text": "",
+      "keywords": [
+        "坐牢",
+        "铁窗",
+        "哭",
+        "委屈",
+        "可怜"
+      ],
+      "useWhen": [
+        "自嘲坐牢时",
+        "委屈时"
+      ],
+      "path": "memes/sad/deepseek娘_坐牢 2_2026-09-28-22-20-55.gif",
+      "caption": "坐在铁窗后委屈地哭，眼泪汪汪",
+      "search": "坐牢·哭 坐在铁窗后委屈地哭，眼泪汪汪 坐牢 铁窗 哭 委屈 可怜 自嘲坐牢时 委屈时 sad",
+      "preview": "previews/deepseek-chan-emotes/坐牢·哭.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%9D%90%E7%89%A2%C2%B7%E5%93%AD.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/sad/deepseek娘_垃圾桶_2026-09-28-22-33-05.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "垃圾桶探头",
+      "file": "垃圾桶探头.jpg",
+      "tag": "sad",
+      "description": "从垃圾桶里探出头，眼泪汪汪一脸委屈",
+      "text": "",
+      "keywords": [
+        "垃圾桶",
+        "探头",
+        "委屈",
+        "可怜",
+        "垃圾"
+      ],
+      "useWhen": [
+        "自嘲是垃圾时",
+        "委屈时"
+      ],
+      "path": "memes/sad/deepseek娘_垃圾桶_2026-09-28-22-33-05.gif",
+      "caption": "从垃圾桶里探出头，眼泪汪汪一脸委屈",
+      "search": "垃圾桶探头 从垃圾桶里探出头，眼泪汪汪一脸委屈 垃圾桶 探头 委屈 可怜 垃圾 自嘲是垃圾时 委屈时 sad",
+      "preview": "previews/deepseek-chan-emotes/垃圾桶探头.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%9E%83%E5%9C%BE%E6%A1%B6%E6%8E%A2%E5%A4%B4.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/happy/deepseek娘_墨镜反光_2026-09-28-22-30-22.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "墨镜反光",
+      "file": "墨镜反光.jpg",
+      "tag": "happy",
+      "description": "戴着黑墨镜，镜片反出白光，气场全开",
+      "text": "",
+      "keywords": [
+        "墨镜",
+        "反光",
+        "酷",
+        "气场",
+        "装酷"
+      ],
+      "useWhen": [
+        "耍酷时",
+        "装大佬时"
+      ],
+      "path": "memes/happy/deepseek娘_墨镜反光_2026-09-28-22-30-22.gif",
+      "caption": "戴着黑墨镜，镜片反出白光，气场全开",
+      "search": "墨镜反光 戴着黑墨镜，镜片反出白光，气场全开 墨镜 反光 酷 气场 装酷 耍酷时 装大佬时 happy",
+      "preview": "previews/deepseek-chan-emotes/墨镜反光.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%A2%A8%E9%95%9C%E5%8F%8D%E5%85%89.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/happy/deepseek娘_墨镜循环_2026-09-28-22-30-30.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "戴墨镜",
+      "file": "戴墨镜.jpg",
+      "tag": "happy",
+      "description": "把墨镜戴上又摘下，反复循环耍帅",
+      "text": "",
+      "keywords": [
+        "墨镜",
+        "戴上",
+        "摘下",
+        "耍帅",
+        "循环"
+      ],
+      "useWhen": [
+        "耍帅时",
+        "凹造型时"
+      ],
+      "path": "memes/happy/deepseek娘_墨镜循环_2026-09-28-22-30-30.gif",
+      "caption": "把墨镜戴上又摘下，反复循环耍帅",
+      "search": "戴墨镜 把墨镜戴上又摘下，反复循环耍帅 墨镜 戴上 摘下 耍帅 循环 耍帅时 凹造型时 happy",
+      "preview": "previews/deepseek-chan-emotes/戴墨镜.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%88%B4%E5%A2%A8%E9%95%9C.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/confused/deepseek娘_头晕_2026-09-28-22-17-39.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "头晕",
+      "file": "头晕.jpg",
+      "tag": "confused",
+      "description": "脑袋左右摇晃，眼睛转圈，晕得站不稳",
+      "text": "",
+      "keywords": [
+        "头晕",
+        "眩晕",
+        "转圈",
+        "站不稳",
+        "晕"
+      ],
+      "useWhen": [
+        "晕头转向时",
+        "太累了时"
+      ],
+      "path": "memes/confused/deepseek娘_头晕_2026-09-28-22-17-39.gif",
+      "caption": "脑袋左右摇晃，眼睛转圈，晕得站不稳",
+      "search": "头晕 脑袋左右摇晃，眼睛转圈，晕得站不稳 头晕 眩晕 转圈 站不稳 晕 晕头转向时 太累了时 confused",
+      "preview": "previews/deepseek-chan-emotes/头晕.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%A4%B4%E6%99%95.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/sad/deepseek娘_害怕 1_2026-09-28-22-26-53.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "害怕",
+      "file": "害怕.jpg",
+      "tag": "sad",
+      "description": "双手挡在脸前瑟瑟发抖，眼里含着泪",
+      "text": "",
+      "keywords": [
+        "害怕",
+        "瑟瑟发抖",
+        "捂脸",
+        "恐惧",
+        "弱小"
+      ],
+      "useWhen": [
+        "害怕时",
+        "遇到可怕的事时"
+      ],
+      "path": "memes/sad/deepseek娘_害怕 1_2026-09-28-22-26-53.gif",
+      "caption": "双手挡在脸前瑟瑟发抖，眼里含着泪",
+      "search": "害怕 双手挡在脸前瑟瑟发抖，眼里含着泪 害怕 瑟瑟发抖 捂脸 恐惧 弱小 害怕时 遇到可怕的事时 sad",
+      "preview": "previews/deepseek-chan-emotes/害怕.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%AE%B3%E6%80%95.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/sad/deepseek娘_害怕 2_2026-09-28-22-26-57.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "瑟瑟发抖",
+      "file": "瑟瑟发抖.jpg",
+      "tag": "sad",
+      "description": "瞪大眼睛发抖，周围飘着惊吓线",
+      "text": "",
+      "keywords": [
+        "害怕",
+        "发抖",
+        "瞪眼",
+        "恐惧",
+        "吓到"
+      ],
+      "useWhen": [
+        "被吓到时",
+        "害怕时"
+      ],
+      "path": "memes/sad/deepseek娘_害怕 2_2026-09-28-22-26-57.gif",
+      "caption": "瞪大眼睛发抖，周围飘着惊吓线",
+      "search": "瑟瑟发抖 瞪大眼睛发抖，周围飘着惊吓线 害怕 发抖 瞪眼 恐惧 吓到 被吓到时 害怕时 sad",
+      "preview": "previews/deepseek-chan-emotes/瑟瑟发抖.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E7%91%9F%E7%91%9F%E5%8F%91%E6%8A%96.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/shy/deepseek娘_害羞 1_2026-09-28-22-27-25.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "害羞",
+      "file": "害羞.jpg",
+      "tag": "shy",
+      "description": "红着脸把手放在脸边，不好意思地笑",
+      "text": "",
+      "keywords": [
+        "害羞",
+        "脸红",
+        "捂脸",
+        "不好意思",
+        "可爱"
+      ],
+      "useWhen": [
+        "害羞时",
+        "被夸时"
+      ],
+      "path": "memes/shy/deepseek娘_害羞 1_2026-09-28-22-27-25.gif",
+      "caption": "红着脸把手放在脸边，不好意思地笑",
+      "search": "害羞 红着脸把手放在脸边，不好意思地笑 害羞 脸红 捂脸 不好意思 可爱 害羞时 被夸时 shy",
+      "preview": "previews/deepseek-chan-emotes/害羞.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%AE%B3%E7%BE%9E.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/shy/deepseek娘_害羞 2_2026-09-28-22-27-30.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "害羞·偷看",
+      "file": "害羞·偷看.jpg",
+      "tag": "shy",
+      "description": "红着脸别过头，又偷偷瞄回来",
+      "text": "",
+      "keywords": [
+        "害羞",
+        "脸红",
+        "偷看",
+        "别过头",
+        "心动"
+      ],
+      "useWhen": [
+        "害羞偷看时",
+        "心动时"
+      ],
+      "path": "memes/shy/deepseek娘_害羞 2_2026-09-28-22-27-30.gif",
+      "caption": "红着脸别过头，又偷偷瞄回来",
+      "search": "害羞·偷看 红着脸别过头，又偷偷瞄回来 害羞 脸红 偷看 别过头 心动 害羞偷看时 心动时 shy",
+      "preview": "previews/deepseek-chan-emotes/害羞·偷看.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%AE%B3%E7%BE%9E%C2%B7%E5%81%B7%E7%9C%8B.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/shy/deepseek娘_害羞 3_2026-09-28-22-27-38.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "害羞·捂脸",
+      "file": "害羞·捂脸.jpg",
+      "tag": "shy",
+      "description": "整张脸涨红，双手举到脸前捂住",
+      "text": "",
+      "keywords": [
+        "害羞",
+        "脸红",
+        "捂脸",
+        "紧张",
+        "可爱"
+      ],
+      "useWhen": [
+        "非常害羞时",
+        "被撩到脸红时"
+      ],
+      "path": "memes/shy/deepseek娘_害羞 3_2026-09-28-22-27-38.gif",
+      "caption": "整张脸涨红，双手举到脸前捂住",
+      "search": "害羞·捂脸 整张脸涨红，双手举到脸前捂住 害羞 脸红 捂脸 紧张 可爱 非常害羞时 被撩到脸红时 shy",
+      "preview": "previews/deepseek-chan-emotes/害羞·捂脸.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%AE%B3%E7%BE%9E%C2%B7%E6%8D%82%E8%84%B8.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/sad/deepseek娘_小丑 1_2026-09-28-22-15-14.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "小丑竟是我自己",
+      "file": "小丑竟是我自己.jpg",
+      "tag": "sad",
+      "description": "戴上彩虹小丑假发和红鼻头，笑容逐渐消失",
+      "text": "",
+      "keywords": [
+        "小丑",
+        "假发",
+        "红鼻头",
+        "自嘲",
+        "破防"
+      ],
+      "useWhen": [
+        "自嘲小丑时",
+        "破防时"
+      ],
+      "path": "memes/sad/deepseek娘_小丑 1_2026-09-28-22-15-14.gif",
+      "caption": "戴上彩虹小丑假发和红鼻头，笑容逐渐消失",
+      "search": "小丑竟是我自己 戴上彩虹小丑假发和红鼻头，笑容逐渐消失 小丑 假发 红鼻头 自嘲 破防 自嘲小丑时 破防时 sad",
+      "preview": "previews/deepseek-chan-emotes/小丑竟是我自己.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%B0%8F%E4%B8%91%E7%AB%9F%E6%98%AF%E6%88%91%E8%87%AA%E5%B7%B1.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/sad/deepseek娘_小丑 2_2026-09-28-22-15-22.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "小丑·苦笑",
+      "file": "小丑·苦笑.jpg",
+      "tag": "sad",
+      "description": "化着小丑妆，红鼻头下露出苦笑",
+      "text": "",
+      "keywords": [
+        "小丑",
+        "苦笑",
+        "自嘲",
+        "红鼻头",
+        "心酸"
+      ],
+      "useWhen": [
+        "自嘲时",
+        "强颜欢笑时"
+      ],
+      "path": "memes/sad/deepseek娘_小丑 2_2026-09-28-22-15-22.gif",
+      "caption": "化着小丑妆，红鼻头下露出苦笑",
+      "search": "小丑·苦笑 化着小丑妆，红鼻头下露出苦笑 小丑 苦笑 自嘲 红鼻头 心酸 自嘲时 强颜欢笑时 sad",
+      "preview": "previews/deepseek-chan-emotes/小丑·苦笑.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%B0%8F%E4%B8%91%C2%B7%E8%8B%A6%E7%AC%91.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/sleep/deepseek娘_工作(小睡)_2026-09-28-22-35-04.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "上班小睡",
+      "file": "上班小睡.jpg",
+      "tag": "sleep",
+      "description": "趴在笔记本电脑前打瞌睡，眼睛快闭上",
+      "text": "",
+      "keywords": [
+        "上班",
+        "小睡",
+        "摸鱼",
+        "打瞌睡",
+        "困"
+      ],
+      "useWhen": [
+        "上班犯困时",
+        "摸鱼时"
+      ],
+      "path": "memes/sleep/deepseek娘_工作(小睡)_2026-09-28-22-35-04.gif",
+      "caption": "趴在笔记本电脑前打瞌睡，眼睛快闭上",
+      "search": "上班小睡 趴在笔记本电脑前打瞌睡，眼睛快闭上 上班 小睡 摸鱼 打瞌睡 困 上班犯困时 摸鱼时 sleep",
+      "preview": "previews/deepseek-chan-emotes/上班小睡.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E4%B8%8A%E7%8F%AD%E5%B0%8F%E7%9D%A1.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/work/deepseek娘_工作(普通)_2026-09-28-22-35-09.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "上班",
+      "file": "上班.jpg",
+      "tag": "work",
+      "description": "坐在电脑前正常办公，眼神平静",
+      "text": "",
+      "keywords": [
+        "上班",
+        "办公",
+        "电脑",
+        "工作",
+        "日常"
+      ],
+      "useWhen": [
+        "上班时",
+        "聊工作时"
+      ],
+      "path": "memes/work/deepseek娘_工作(普通)_2026-09-28-22-35-09.gif",
+      "caption": "坐在电脑前正常办公，眼神平静",
+      "search": "上班 坐在电脑前正常办公，眼神平静 上班 办公 电脑 工作 日常 上班时 聊工作时 work",
+      "preview": "previews/deepseek-chan-emotes/上班.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E4%B8%8A%E7%8F%AD.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/angry/deepseek娘_工作(生气)_2026-09-28-22-34-51.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "上班生气",
+      "file": "上班生气.jpg",
+      "tag": "angry",
+      "description": "对着电脑越敲越气，头上冒出红色怒气符号",
+      "text": "",
+      "keywords": [
+        "上班",
+        "生气",
+        "电脑",
+        "怒气",
+        "暴躁"
+      ],
+      "useWhen": [
+        "上班受气时",
+        "被工作气到"
+      ],
+      "path": "memes/angry/deepseek娘_工作(生气)_2026-09-28-22-34-51.gif",
+      "caption": "对着电脑越敲越气，头上冒出红色怒气符号",
+      "search": "上班生气 对着电脑越敲越气，头上冒出红色怒气符号 上班 生气 电脑 怒气 暴躁 上班受气时 被工作气到 angry",
+      "preview": "previews/deepseek-chan-emotes/上班生气.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E4%B8%8A%E7%8F%AD%E7%94%9F%E6%B0%94.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/work/deepseek娘_工作(疲倦)_2026-09-28-22-35-17.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "上班疲倦",
+      "file": "上班疲倦.jpg",
+      "tag": "work",
+      "description": "撑着脑袋看电脑，眼神疲惫快要睡着",
+      "text": "",
+      "keywords": [
+        "上班",
+        "疲倦",
+        "疲惫",
+        "打工人",
+        "没精神"
+      ],
+      "useWhen": [
+        "上班累了时",
+        "加班时"
+      ],
+      "path": "memes/work/deepseek娘_工作(疲倦)_2026-09-28-22-35-17.gif",
+      "caption": "撑着脑袋看电脑，眼神疲惫快要睡着",
+      "search": "上班疲倦 撑着脑袋看电脑，眼神疲惫快要睡着 上班 疲倦 疲惫 打工人 没精神 上班累了时 加班时 work",
+      "preview": "previews/deepseek-chan-emotes/上班疲倦.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E4%B8%8A%E7%8F%AD%E7%96%B2%E5%80%A6.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_带薪拉屎(困难模式)_2026-09-28-22-24-41.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "带薪拉屎·困难",
+      "file": "带薪拉屎·困难.jpg",
+      "tag": "daily",
+      "description": "坐在马桶上憋得满脸通红，五官都皱在一起",
+      "text": "",
+      "keywords": [
+        "带薪拉屎",
+        "马桶",
+        "便秘",
+        "困难",
+        "摸鱼"
+      ],
+      "useWhen": [
+        "自嘲便秘时",
+        "带薪摸鱼时"
+      ],
+      "path": "memes/daily/deepseek娘_带薪拉屎(困难模式)_2026-09-28-22-24-41.gif",
+      "caption": "坐在马桶上憋得满脸通红，五官都皱在一起",
+      "search": "带薪拉屎·困难 坐在马桶上憋得满脸通红，五官都皱在一起 带薪拉屎 马桶 便秘 困难 摸鱼 自嘲便秘时 带薪摸鱼时 daily",
+      "preview": "previews/deepseek-chan-emotes/带薪拉屎·困难.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%B8%A6%E8%96%AA%E6%8B%89%E5%B1%8E%C2%B7%E5%9B%B0%E9%9A%BE.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_带薪拉屎(简单模式)_2026-09-28-22-24-34.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "带薪拉屎·轻松",
+      "file": "带薪拉屎·轻松.jpg",
+      "tag": "daily",
+      "description": "坐在马桶上刷手机，一脸轻松自在",
+      "text": "",
+      "keywords": [
+        "带薪拉屎",
+        "马桶",
+        "手机",
+        "轻松",
+        "摸鱼"
+      ],
+      "useWhen": [
+        "带薪摸鱼时",
+        "上厕所刷手机时"
+      ],
+      "path": "memes/daily/deepseek娘_带薪拉屎(简单模式)_2026-09-28-22-24-34.gif",
+      "caption": "坐在马桶上刷手机，一脸轻松自在",
+      "search": "带薪拉屎·轻松 坐在马桶上刷手机，一脸轻松自在 带薪拉屎 马桶 手机 轻松 摸鱼 带薪摸鱼时 上厕所刷手机时 daily",
+      "preview": "previews/deepseek-chan-emotes/带薪拉屎·轻松.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%B8%A6%E8%96%AA%E6%8B%89%E5%B1%8E%C2%B7%E8%BD%BB%E6%9D%BE.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/happy/deepseek娘_干杯_2026-09-28-22-15-02.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "干杯",
+      "file": "干杯.jpg",
+      "tag": "happy",
+      "description": "举着啤酒杯碰杯，笑得眯起眼睛",
+      "text": "",
+      "keywords": [
+        "干杯",
+        "啤酒",
+        "碰杯",
+        "庆祝",
+        "喝一杯"
+      ],
+      "useWhen": [
+        "干杯时",
+        "庆祝时"
+      ],
+      "path": "memes/happy/deepseek娘_干杯_2026-09-28-22-15-02.gif",
+      "caption": "举着啤酒杯碰杯，笑得眯起眼睛",
+      "search": "干杯 举着啤酒杯碰杯，笑得眯起眼睛 干杯 啤酒 碰杯 庆祝 喝一杯 干杯时 庆祝时 happy",
+      "preview": "previews/deepseek-chan-emotes/干杯.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%B9%B2%E6%9D%AF.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/happy/deepseek娘_庆祝_2026-09-28-22-14-47.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "撒花庆祝",
+      "file": "撒花庆祝.jpg",
+      "tag": "happy",
+      "description": "拉响彩带礼花，闭着眼开心庆祝",
+      "text": "",
+      "keywords": [
+        "庆祝",
+        "礼花",
+        "撒花",
+        "开心",
+        "派对"
+      ],
+      "useWhen": [
+        "庆祝时",
+        "成功了时"
+      ],
+      "path": "memes/happy/deepseek娘_庆祝_2026-09-28-22-14-47.gif",
+      "caption": "拉响彩带礼花，闭着眼开心庆祝",
+      "search": "撒花庆祝 拉响彩带礼花，闭着眼开心庆祝 庆祝 礼花 撒花 开心 派对 庆祝时 成功了时 happy",
+      "preview": "previews/deepseek-chan-emotes/撒花庆祝.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%92%92%E8%8A%B1%E5%BA%86%E7%A5%9D.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/sad/deepseek娘_得分(0分)_2026-09-28-22-27-09.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "零分",
+      "file": "零分.jpg",
+      "tag": "sad",
+      "description": "举起写着 0 分的牌子，一脸失落",
+      "text": "0",
+      "keywords": [
+        "零分",
+        "0分",
+        "失败",
+        "失落",
+        "评分"
+      ],
+      "useWhen": [
+        "自嘲零分时",
+        "搞砸了时"
+      ],
+      "path": "memes/sad/deepseek娘_得分(0分)_2026-09-28-22-27-09.gif",
+      "caption": "举起写着 0 分的牌子，一脸失落",
+      "search": "零分 举起写着 0 分的牌子，一脸失落 0 零分 0分 失败 失落 评分 自嘲零分时 搞砸了时 sad",
+      "preview": "previews/deepseek-chan-emotes/零分.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E9%9B%B6%E5%88%86.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/happy/deepseek娘_得分(10分)_2026-09-28-22-27-19.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "满分",
+      "file": "满分.jpg",
+      "tag": "happy",
+      "description": "举起写着 10 分的牌子，得意地笑",
+      "text": "10",
+      "keywords": [
+        "满分",
+        "10分",
+        "得分",
+        "得意",
+        "优秀"
+      ],
+      "useWhen": [
+        "得满分时",
+        "被夸时"
+      ],
+      "path": "memes/happy/deepseek娘_得分(10分)_2026-09-28-22-27-19.gif",
+      "caption": "举起写着 10 分的牌子，得意地笑",
+      "search": "满分 举起写着 10 分的牌子，得意地笑 10 满分 10分 得分 得意 优秀 得满分时 被夸时 happy",
+      "preview": "previews/deepseek-chan-emotes/满分.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%BB%A1%E5%88%86.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/confused/deepseek娘_思考(自信地)_2026-09-28-22-32-19.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "自信思考",
+      "file": "自信思考.jpg",
+      "tag": "confused",
+      "description": "托着下巴自信地思考，嘴角带着笑",
+      "text": "",
+      "keywords": [
+        "思考",
+        "自信",
+        "托腮",
+        "想办法",
+        "从容"
+      ],
+      "useWhen": [
+        "自信出主意时",
+        "思考时"
+      ],
+      "path": "memes/confused/deepseek娘_思考(自信地)_2026-09-28-22-32-19.gif",
+      "caption": "托着下巴自信地思考，嘴角带着笑",
+      "search": "自信思考 托着下巴自信地思考，嘴角带着笑 思考 自信 托腮 想办法 从容 自信出主意时 思考时 confused",
+      "preview": "previews/deepseek-chan-emotes/自信思考.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E8%87%AA%E4%BF%A1%E6%80%9D%E8%80%83.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/confused/deepseek娘_思考(认真地)_2026-09-28-22-32-25.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "认真思考",
+      "file": "认真思考.jpg",
+      "tag": "confused",
+      "description": "皱着眉头认真思考，头顶花朵不停旋转",
+      "text": "",
+      "keywords": [
+        "思考",
+        "认真",
+        "皱眉",
+        "动脑",
+        "想办法"
+      ],
+      "useWhen": [
+        "认真想问题时",
+        "动脑时"
+      ],
+      "path": "memes/confused/deepseek娘_思考(认真地)_2026-09-28-22-32-25.gif",
+      "caption": "皱着眉头认真思考，头顶花朵不停旋转",
+      "search": "认真思考 皱着眉头认真思考，头顶花朵不停旋转 思考 认真 皱眉 动脑 想办法 认真想问题时 动脑时 confused",
+      "preview": "previews/deepseek-chan-emotes/认真思考.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E8%AE%A4%E7%9C%9F%E6%80%9D%E8%80%83.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/shy/deepseek娘_情书_2026-09-28-22-22-19.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "递情书",
+      "file": "递情书.jpg",
+      "tag": "shy",
+      "description": "红着脸递出一封情书，信封上画着爱心",
+      "text": "",
+      "keywords": [
+        "情书",
+        "爱心",
+        "表白",
+        "脸红",
+        "喜欢"
+      ],
+      "useWhen": [
+        "表白时",
+        "送情书时"
+      ],
+      "path": "memes/shy/deepseek娘_情书_2026-09-28-22-22-19.gif",
+      "caption": "红着脸递出一封情书，信封上画着爱心",
+      "search": "递情书 红着脸递出一封情书，信封上画着爱心 情书 爱心 表白 脸红 喜欢 表白时 送情书时 shy",
+      "preview": "previews/deepseek-chan-emotes/递情书.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E9%80%92%E6%83%85%E4%B9%A6.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/surprised/deepseek娘_惊吓_2026-09-28-22-30-55.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "吓一跳",
+      "file": "吓一跳.jpg",
+      "tag": "surprised",
+      "description": "被吓得瞪大眼，头顶弹出黄色惊叹符号",
+      "text": "",
+      "keywords": [
+        "惊吓",
+        "吓一跳",
+        "震惊",
+        "瞪眼",
+        "惊叹"
+      ],
+      "useWhen": [
+        "被吓到时",
+        "惊讶时"
+      ],
+      "path": "memes/surprised/deepseek娘_惊吓_2026-09-28-22-30-55.gif",
+      "caption": "被吓得瞪大眼，头顶弹出黄色惊叹符号",
+      "search": "吓一跳 被吓得瞪大眼，头顶弹出黄色惊叹符号 惊吓 吓一跳 震惊 瞪眼 惊叹 被吓到时 惊讶时 surprised",
+      "preview": "previews/deepseek-chan-emotes/吓一跳.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%90%93%E4%B8%80%E8%B7%B3.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/angry/deepseek娘_打字(恼怒)_2026-09-28-22-33-39.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "打字·恼怒",
+      "file": "打字·恼怒.jpg",
+      "tag": "angry",
+      "description": "皱着眉用力敲键盘，越打越烦躁",
+      "text": "",
+      "keywords": [
+        "打字",
+        "恼怒",
+        "键盘",
+        "烦躁",
+        "生气"
+      ],
+      "useWhen": [
+        "聊天聊急了时",
+        "打字发泄时"
+      ],
+      "path": "memes/angry/deepseek娘_打字(恼怒)_2026-09-28-22-33-39.gif",
+      "caption": "皱着眉用力敲键盘，越打越烦躁",
+      "search": "打字·恼怒 皱着眉用力敲键盘，越打越烦躁 打字 恼怒 键盘 烦躁 生气 聊天聊急了时 打字发泄时 angry",
+      "preview": "previews/deepseek-chan-emotes/打字·恼怒.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%89%93%E5%AD%97%C2%B7%E6%81%BC%E6%80%92.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_打字(普通)_2026-09-28-22-33-44.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "打字",
+      "file": "打字.jpg",
+      "tag": "daily",
+      "description": "平静地敲着键盘打字",
+      "text": "",
+      "keywords": [
+        "打字",
+        "键盘",
+        "聊天",
+        "回复",
+        "平静"
+      ],
+      "useWhen": [
+        "正常回消息时"
+      ],
+      "path": "memes/daily/deepseek娘_打字(普通)_2026-09-28-22-33-44.gif",
+      "caption": "平静地敲着键盘打字",
+      "search": "打字 平静地敲着键盘打字 打字 键盘 聊天 回复 平静 正常回消息时 daily",
+      "preview": "previews/deepseek-chan-emotes/打字.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%89%93%E5%AD%97.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/angry/deepseek娘_打字(生气)_2026-09-28-22-33-35.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "打字·生气",
+      "file": "打字·生气.jpg",
+      "tag": "angry",
+      "description": "气呼呼地猛敲键盘，头上冒出红色怒气符号",
+      "text": "",
+      "keywords": [
+        "打字",
+        "生气",
+        "键盘",
+        "怒气",
+        "暴躁"
+      ],
+      "useWhen": [
+        "气到疯狂打字时",
+        "吵架时"
+      ],
+      "path": "memes/angry/deepseek娘_打字(生气)_2026-09-28-22-33-35.gif",
+      "caption": "气呼呼地猛敲键盘，头上冒出红色怒气符号",
+      "search": "打字·生气 气呼呼地猛敲键盘，头上冒出红色怒气符号 打字 生气 键盘 怒气 暴躁 气到疯狂打字时 吵架时 angry",
+      "preview": "previews/deepseek-chan-emotes/打字·生气.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%89%93%E5%AD%97%C2%B7%E7%94%9F%E6%B0%94.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/morning/deepseek娘_打招呼 1_2026-09-28-22-19-55.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "招手",
+      "file": "招手.jpg",
+      "tag": "morning",
+      "description": "笑着抬手打招呼，眼睛弯弯",
+      "text": "",
+      "keywords": [
+        "打招呼",
+        "招手",
+        "你好",
+        "微笑",
+        "见面"
+      ],
+      "useWhen": [
+        "打招呼时",
+        "见面时"
+      ],
+      "path": "memes/morning/deepseek娘_打招呼 1_2026-09-28-22-19-55.gif",
+      "caption": "笑着抬手打招呼，眼睛弯弯",
+      "search": "招手 笑着抬手打招呼，眼睛弯弯 打招呼 招手 你好 微笑 见面 打招呼时 见面时 morning",
+      "preview": "previews/deepseek-chan-emotes/招手.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%8B%9B%E6%89%8B.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/morning/deepseek娘_打招呼 2_2026-09-28-22-20-05.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "招手·热情",
+      "file": "招手·热情.jpg",
+      "tag": "morning",
+      "description": "双手举起热情挥手，笑容灿烂",
+      "text": "",
+      "keywords": [
+        "打招呼",
+        "挥手",
+        "热情",
+        "你好",
+        "开心"
+      ],
+      "useWhen": [
+        "热情打招呼时",
+        "迎接时"
+      ],
+      "path": "memes/morning/deepseek娘_打招呼 2_2026-09-28-22-20-05.gif",
+      "caption": "双手举起热情挥手，笑容灿烂",
+      "search": "招手·热情 双手举起热情挥手，笑容灿烂 打招呼 挥手 热情 你好 开心 热情打招呼时 迎接时 morning",
+      "preview": "previews/deepseek-chan-emotes/招手·热情.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%8B%9B%E6%89%8B%C2%B7%E7%83%AD%E6%83%85.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/happy/deepseek娘_打游戏_2026-09-28-22-19-14.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "打游戏",
+      "file": "打游戏.jpg",
+      "tag": "happy",
+      "description": "握着游戏手柄专注打游戏，眼睛发亮",
+      "text": "",
+      "keywords": [
+        "打游戏",
+        "手柄",
+        "游戏",
+        "专注",
+        "快乐"
+      ],
+      "useWhen": [
+        "打游戏时",
+        "约游戏时"
+      ],
+      "path": "memes/happy/deepseek娘_打游戏_2026-09-28-22-19-14.gif",
+      "caption": "握着游戏手柄专注打游戏，眼睛发亮",
+      "search": "打游戏 握着游戏手柄专注打游戏，眼睛发亮 打游戏 手柄 游戏 专注 快乐 打游戏时 约游戏时 happy",
+      "preview": "previews/deepseek-chan-emotes/打游戏.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%89%93%E6%B8%B8%E6%88%8F.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_扩音器_2026-09-28-22-23-08.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "举扩音器",
+      "file": "举扩音器.jpg",
+      "tag": "daily",
+      "description": "举着扩音器大声喊话，声音传得很远",
+      "text": "",
+      "keywords": [
+        "扩音器",
+        "喇叭",
+        "喊话",
+        "大声",
+        "广播"
+      ],
+      "useWhen": [
+        "想大声宣布时",
+        "喊人时"
+      ],
+      "path": "memes/daily/deepseek娘_扩音器_2026-09-28-22-23-08.gif",
+      "caption": "举着扩音器大声喊话，声音传得很远",
+      "search": "举扩音器 举着扩音器大声喊话，声音传得很远 扩音器 喇叭 喊话 大声 广播 想大声宣布时 喊人时 daily",
+      "preview": "previews/deepseek-chan-emotes/举扩音器.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E4%B8%BE%E6%89%A9%E9%9F%B3%E5%99%A8.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_抓拍(手机)_2026-09-28-22-13-51.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "手机抓拍",
+      "file": "手机抓拍.jpg",
+      "tag": "daily",
+      "description": "举着手机咔嚓抓拍，眼睛盯着镜头",
+      "text": "",
+      "keywords": [
+        "抓拍",
+        "手机",
+        "拍照",
+        "咔嚓",
+        "记录"
+      ],
+      "useWhen": [
+        "拍照时",
+        "抓拍时"
+      ],
+      "path": "memes/daily/deepseek娘_抓拍(手机)_2026-09-28-22-13-51.gif",
+      "caption": "举着手机咔嚓抓拍，眼睛盯着镜头",
+      "search": "手机抓拍 举着手机咔嚓抓拍，眼睛盯着镜头 抓拍 手机 拍照 咔嚓 记录 拍照时 抓拍时 daily",
+      "preview": "previews/deepseek-chan-emotes/手机抓拍.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%89%8B%E6%9C%BA%E6%8A%93%E6%8B%8D.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_抓拍(摄像机)_2026-09-28-22-14-00.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "摄像机抓拍",
+      "file": "摄像机抓拍.jpg",
+      "tag": "daily",
+      "description": "扛着摄像机对准你拍摄，镜头红灯亮着",
+      "text": "",
+      "keywords": [
+        "抓拍",
+        "摄像机",
+        "拍摄",
+        "镜头",
+        "记录"
+      ],
+      "useWhen": [
+        "拍摄时",
+        "记录时"
+      ],
+      "path": "memes/daily/deepseek娘_抓拍(摄像机)_2026-09-28-22-14-00.gif",
+      "caption": "扛着摄像机对准你拍摄，镜头红灯亮着",
+      "search": "摄像机抓拍 扛着摄像机对准你拍摄，镜头红灯亮着 抓拍 摄像机 拍摄 镜头 记录 拍摄时 记录时 daily",
+      "preview": "previews/deepseek-chan-emotes/摄像机抓拍.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%91%84%E5%83%8F%E6%9C%BA%E6%8A%93%E6%8B%8D.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/angry/deepseek娘_拍蝇_2026-09-28-22-30-59.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "拍苍蝇",
+      "file": "拍苍蝇.jpg",
+      "tag": "angry",
+      "description": "举着红色苍蝇拍狠狠拍下去，一脸嫌弃",
+      "text": "",
+      "keywords": [
+        "拍苍蝇",
+        "苍蝇拍",
+        "驱赶",
+        "嫌弃",
+        "啪"
+      ],
+      "useWhen": [
+        "赶虫子时",
+        "嫌弃时"
+      ],
+      "path": "memes/angry/deepseek娘_拍蝇_2026-09-28-22-30-59.gif",
+      "caption": "举着红色苍蝇拍狠狠拍下去，一脸嫌弃",
+      "search": "拍苍蝇 举着红色苍蝇拍狠狠拍下去，一脸嫌弃 拍苍蝇 苍蝇拍 驱赶 嫌弃 啪 赶虫子时 嫌弃时 angry",
+      "preview": "previews/deepseek-chan-emotes/拍苍蝇.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%8B%8D%E8%8B%8D%E8%9D%87.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/angry/deepseek娘_拖鞋 1_2026-09-28-22-28-59.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "举拖鞋",
+      "file": "举拖鞋.jpg",
+      "tag": "angry",
+      "description": "举起一只拖鞋，眼神危险地警告你",
+      "text": "",
+      "keywords": [
+        "拖鞋",
+        "警告",
+        "威胁",
+        "打人",
+        "危险"
+      ],
+      "useWhen": [
+        "开玩笑威胁时",
+        "想打人时"
+      ],
+      "path": "memes/angry/deepseek娘_拖鞋 1_2026-09-28-22-28-59.gif",
+      "caption": "举起一只拖鞋，眼神危险地警告你",
+      "search": "举拖鞋 举起一只拖鞋，眼神危险地警告你 拖鞋 警告 威胁 打人 危险 开玩笑威胁时 想打人时 angry",
+      "preview": "previews/deepseek-chan-emotes/举拖鞋.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E4%B8%BE%E6%8B%96%E9%9E%8B.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/angry/deepseek娘_拖鞋 2_2026-09-28-22-29-08.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "拖鞋警告",
+      "file": "拖鞋警告.jpg",
+      "tag": "angry",
+      "description": "把拖鞋举到脸旁，笑眯眯地发出警告",
+      "text": "",
+      "keywords": [
+        "拖鞋",
+        "警告",
+        "笑眯眯",
+        "威胁",
+        "危险"
+      ],
+      "useWhen": [
+        "笑里藏刀威胁时",
+        "催人时"
+      ],
+      "path": "memes/angry/deepseek娘_拖鞋 2_2026-09-28-22-29-08.gif",
+      "caption": "把拖鞋举到脸旁，笑眯眯地发出警告",
+      "search": "拖鞋警告 把拖鞋举到脸旁，笑眯眯地发出警告 拖鞋 警告 笑眯眯 威胁 危险 笑里藏刀威胁时 催人时 angry",
+      "preview": "previews/deepseek-chan-emotes/拖鞋警告.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%8B%96%E9%9E%8B%E8%AD%A6%E5%91%8A.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/givemoney/deepseek娘_拿走我的钱_2026-09-28-22-31-23.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "拿走我的钱",
+      "file": "拿走我的钱.jpg",
+      "tag": "givemoney",
+      "description": "抓着一把绿色钞票递出去，让你拿走",
+      "text": "",
+      "keywords": [
+        "钱",
+        "钞票",
+        "拿走",
+        "付款",
+        "破财"
+      ],
+      "useWhen": [
+        "花钱时",
+        "被要钱时"
+      ],
+      "path": "memes/givemoney/deepseek娘_拿走我的钱_2026-09-28-22-31-23.gif",
+      "caption": "抓着一把绿色钞票递出去，让你拿走",
+      "search": "拿走我的钱 抓着一把绿色钞票递出去，让你拿走 钱 钞票 拿走 付款 破财 花钱时 被要钱时 givemoney",
+      "preview": "previews/deepseek-chan-emotes/拿走我的钱.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%8B%BF%E8%B5%B0%E6%88%91%E7%9A%84%E9%92%B1.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/happy/deepseek娘_指_2026-09-28-22-25-47.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "指你",
+      "file": "指你.jpg",
+      "tag": "happy",
+      "description": "伸手指向镜头，一脸认真地点你",
+      "text": "",
+      "keywords": [
+        "指",
+        "指向",
+        "你",
+        "点名",
+        "认真"
+      ],
+      "useWhen": [
+        "点名时",
+        "指认时"
+      ],
+      "path": "memes/happy/deepseek娘_指_2026-09-28-22-25-47.gif",
+      "caption": "伸手指向镜头，一脸认真地点你",
+      "search": "指你 伸手指向镜头，一脸认真地点你 指 指向 你 点名 认真 点名时 指认时 happy",
+      "preview": "previews/deepseek-chan-emotes/指你.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%8C%87%E4%BD%A0.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_按_2026-09-28-22-26-06.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "被按头",
+      "file": "被按头.jpg",
+      "tag": "daily",
+      "description": "一只大手从上面按下来，把她按得眯起眼",
+      "text": "",
+      "keywords": [
+        "按头",
+        "大手",
+        "按住",
+        "无奈",
+        "摸头"
+      ],
+      "useWhen": [
+        "被按住时",
+        "被压制时"
+      ],
+      "path": "memes/daily/deepseek娘_按_2026-09-28-22-26-06.gif",
+      "caption": "一只大手从上面按下来，把她按得眯起眼",
+      "search": "被按头 一只大手从上面按下来，把她按得眯起眼 按头 大手 按住 无奈 摸头 被按住时 被压制时 daily",
+      "preview": "previews/deepseek-chan-emotes/被按头.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E8%A2%AB%E6%8C%89%E5%A4%B4.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_按钮 (拍击)_2026-09-28-22-13-22.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "拍按钮",
+      "file": "拍按钮.jpg",
+      "tag": "daily",
+      "description": "双手用力拍下红色按钮，动作干脆",
+      "text": "",
+      "keywords": [
+        "按钮",
+        "拍击",
+        "红色按钮",
+        "按下",
+        "启动"
+      ],
+      "useWhen": [
+        "按下按钮时",
+        "启动时"
+      ],
+      "path": "memes/daily/deepseek娘_按钮 (拍击)_2026-09-28-22-13-22.gif",
+      "caption": "双手用力拍下红色按钮，动作干脆",
+      "search": "拍按钮 双手用力拍下红色按钮，动作干脆 按钮 拍击 红色按钮 按下 启动 按下按钮时 启动时 daily",
+      "preview": "previews/deepseek-chan-emotes/拍按钮.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%8B%8D%E6%8C%89%E9%92%AE.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_按钮_2026-09-28-22-13-18.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "按按钮",
+      "file": "按按钮.jpg",
+      "tag": "daily",
+      "description": "伸手按下红色按钮，表情淡定",
+      "text": "",
+      "keywords": [
+        "按钮",
+        "按下",
+        "红色按钮",
+        "启动",
+        "淡定"
+      ],
+      "useWhen": [
+        "按按钮时",
+        "启动时"
+      ],
+      "path": "memes/daily/deepseek娘_按钮_2026-09-28-22-13-18.gif",
+      "caption": "伸手按下红色按钮，表情淡定",
+      "search": "按按钮 伸手按下红色按钮，表情淡定 按钮 按下 红色按钮 启动 淡定 按按钮时 启动时 daily",
+      "preview": "previews/deepseek-chan-emotes/按按钮.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%8C%89%E6%8C%89%E9%92%AE.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/shy/deepseek娘_揉头 1_2026-09-28-22-26-50.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "揉头",
+      "file": "揉头.jpg",
+      "tag": "shy",
+      "description": "被一只手揉着脑袋，舒服地眯起眼",
+      "text": "",
+      "keywords": [
+        "揉头",
+        "摸头",
+        "舒服",
+        "眯眼",
+        "宠溺"
+      ],
+      "useWhen": [
+        "被摸头时",
+        "撒娇时"
+      ],
+      "path": "memes/shy/deepseek娘_揉头 1_2026-09-28-22-26-50.gif",
+      "caption": "被一只手揉着脑袋，舒服地眯起眼",
+      "search": "揉头 被一只手揉着脑袋，舒服地眯起眼 揉头 摸头 舒服 眯眼 宠溺 被摸头时 撒娇时 shy",
+      "preview": "previews/deepseek-chan-emotes/揉头.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%8F%89%E5%A4%B4.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/happy/deepseek娘_摆动 1_2026-09-28-22-34-36.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "摇摆",
+      "file": "摇摆.jpg",
+      "tag": "happy",
+      "description": "身体左右轻轻摇摆，跟着节奏晃",
+      "text": "",
+      "keywords": [
+        "摇摆",
+        "晃动",
+        "节奏",
+        "跳舞",
+        "开心"
+      ],
+      "useWhen": [
+        "听歌摇摆时",
+        "开心时"
+      ],
+      "path": "memes/happy/deepseek娘_摆动 1_2026-09-28-22-34-36.gif",
+      "caption": "身体左右轻轻摇摆，跟着节奏晃",
+      "search": "摇摆 身体左右轻轻摇摆，跟着节奏晃 摇摆 晃动 节奏 跳舞 开心 听歌摇摆时 开心时 happy",
+      "preview": "previews/deepseek-chan-emotes/摇摆.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%91%87%E6%91%86.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/happy/deepseek娘_摇可乐_2026-09-28-22-15-26.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "摇可乐",
+      "file": "摇可乐.jpg",
+      "tag": "happy",
+      "description": "抓起可乐罐猛摇，气泡直接喷了出来",
+      "text": "",
+      "keywords": [
+        "可乐",
+        "摇",
+        "气泡",
+        "喷出",
+        "恶作剧"
+      ],
+      "useWhen": [
+        "想整人时",
+        "喝可乐时"
+      ],
+      "path": "memes/happy/deepseek娘_摇可乐_2026-09-28-22-15-26.gif",
+      "caption": "抓起可乐罐猛摇，气泡直接喷了出来",
+      "search": "摇可乐 抓起可乐罐猛摇，气泡直接喷了出来 可乐 摇 气泡 喷出 恶作剧 想整人时 喝可乐时 happy",
+      "preview": "previews/deepseek-chan-emotes/摇可乐.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%91%87%E5%8F%AF%E4%B9%90.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/confused/deepseek娘_摇头_2026-09-28-22-20-28.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "摇头",
+      "file": "摇头.jpg",
+      "tag": "confused",
+      "description": "闭着眼左右摇头，明确表示不行",
+      "text": "",
+      "keywords": [
+        "摇头",
+        "拒绝",
+        "不行",
+        "否定",
+        "不同意"
+      ],
+      "useWhen": [
+        "拒绝时",
+        "不同意时"
+      ],
+      "path": "memes/confused/deepseek娘_摇头_2026-09-28-22-20-28.gif",
+      "caption": "闭着眼左右摇头，明确表示不行",
+      "search": "摇头 闭着眼左右摇头，明确表示不行 摇头 拒绝 不行 否定 不同意 拒绝时 不同意时 confused",
+      "preview": "previews/deepseek-chan-emotes/摇头.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%91%87%E5%A4%B4.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/happy/deepseek娘_摇摆 2_2026-09-28-22-34-29.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "摇摆·二",
+      "file": "摇摆·二.jpg",
+      "tag": "happy",
+      "description": "幅度更大左右摇摆，像在跳舞",
+      "text": "",
+      "keywords": [
+        "摇摆",
+        "跳舞",
+        "晃动",
+        "节奏",
+        "欢乐"
+      ],
+      "useWhen": [
+        "嗨起来时",
+        "跳舞时"
+      ],
+      "path": "memes/happy/deepseek娘_摇摆 2_2026-09-28-22-34-29.gif",
+      "caption": "幅度更大左右摇摆，像在跳舞",
+      "search": "摇摆·二 幅度更大左右摇摆，像在跳舞 摇摆 跳舞 晃动 节奏 欢乐 嗨起来时 跳舞时 happy",
+      "preview": "previews/deepseek-chan-emotes/摇摆·二.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%91%87%E6%91%86%C2%B7%E4%BA%8C.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_摇铃_2026-09-28-22-12-17.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "摇铃",
+      "file": "摇铃.jpg",
+      "tag": "daily",
+      "description": "举起黄色铃铛摇响，招呼大家注意",
+      "text": "",
+      "keywords": [
+        "摇铃",
+        "铃铛",
+        "提醒",
+        "上课",
+        "开饭"
+      ],
+      "useWhen": [
+        "提醒时",
+        "开饭时"
+      ],
+      "path": "memes/daily/deepseek娘_摇铃_2026-09-28-22-12-17.gif",
+      "caption": "举起黄色铃铛摇响，招呼大家注意",
+      "search": "摇铃 举起黄色铃铛摇响，招呼大家注意 摇铃 铃铛 提醒 上课 开饭 提醒时 开饭时 daily",
+      "preview": "previews/deepseek-chan-emotes/摇铃.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%91%87%E9%93%83.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/happy/deepseek娘_摘掉墨镜_2026-09-28-22-30-45.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "摘墨镜",
+      "file": "摘墨镜.jpg",
+      "tag": "happy",
+      "description": "把墨镜往下一拉，露出眼睛看着你",
+      "text": "",
+      "keywords": [
+        "墨镜",
+        "摘下",
+        "露眼",
+        "酷",
+        "认真"
+      ],
+      "useWhen": [
+        "认真看你时",
+        "耍帅时"
+      ],
+      "path": "memes/happy/deepseek娘_摘掉墨镜_2026-09-28-22-30-45.gif",
+      "caption": "把墨镜往下一拉，露出眼睛看着你",
+      "search": "摘墨镜 把墨镜往下一拉，露出眼睛看着你 墨镜 摘下 露眼 酷 认真 认真看你时 耍帅时 happy",
+      "preview": "previews/deepseek-chan-emotes/摘墨镜.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%91%98%E5%A2%A8%E9%95%9C.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/shy/deepseek娘_摸头 2_2026-09-28-22-24-46.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "摸头",
+      "file": "摸头.jpg",
+      "tag": "shy",
+      "description": "被摸头后露出开心又害羞的笑",
+      "text": "",
+      "keywords": [
+        "摸头",
+        "开心",
+        "害羞",
+        "宠溺",
+        "撒娇"
+      ],
+      "useWhen": [
+        "被摸头时",
+        "被夸时"
+      ],
+      "path": "memes/shy/deepseek娘_摸头 2_2026-09-28-22-24-46.gif",
+      "caption": "被摸头后露出开心又害羞的笑",
+      "search": "摸头 被摸头后露出开心又害羞的笑 摸头 开心 害羞 宠溺 撒娇 被摸头时 被夸时 shy",
+      "preview": "previews/deepseek-chan-emotes/摸头.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%91%B8%E5%A4%B4.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/shy/deepseek娘_摸头_2026-09-28-22-24-52.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "摸头·爱心",
+      "file": "摸头·爱心.jpg",
+      "tag": "shy",
+      "description": "被摸头摸得冒出爱心，幸福地闭眼",
+      "text": "",
+      "keywords": [
+        "摸头",
+        "爱心",
+        "幸福",
+        "闭眼",
+        "宠溺"
+      ],
+      "useWhen": [
+        "被摸头时",
+        "感到幸福时"
+      ],
+      "path": "memes/shy/deepseek娘_摸头_2026-09-28-22-24-52.gif",
+      "caption": "被摸头摸得冒出爱心，幸福地闭眼",
+      "search": "摸头·爱心 被摸头摸得冒出爱心，幸福地闭眼 摸头 爱心 幸福 闭眼 宠溺 被摸头时 感到幸福时 shy",
+      "preview": "previews/deepseek-chan-emotes/摸头·爱心.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%91%B8%E5%A4%B4%C2%B7%E7%88%B1%E5%BF%83.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/angry/deepseek娘_撬棍 1_2026-09-28-22-15-48.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "举撬棍",
+      "file": "举撬棍.jpg",
+      "tag": "angry",
+      "description": "握着撬棍，脸上罩着阴影，眼神危险",
+      "text": "",
+      "keywords": [
+        "撬棍",
+        "阴影",
+        "危险",
+        "黑化",
+        "威胁"
+      ],
+      "useWhen": [
+        "黑化时",
+        "威胁时"
+      ],
+      "path": "memes/angry/deepseek娘_撬棍 1_2026-09-28-22-15-48.gif",
+      "caption": "握着撬棍，脸上罩着阴影，眼神危险",
+      "search": "举撬棍 握着撬棍，脸上罩着阴影，眼神危险 撬棍 阴影 危险 黑化 威胁 黑化时 威胁时 angry",
+      "preview": "previews/deepseek-chan-emotes/举撬棍.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E4%B8%BE%E6%92%AC%E6%A3%8D.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/angry/deepseek娘_撬棍 2_2026-09-28-22-15-54.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "撬棍微笑",
+      "file": "撬棍微笑.jpg",
+      "tag": "angry",
+      "description": "扛着撬棍露出微笑，气场很危险",
+      "text": "",
+      "keywords": [
+        "撬棍",
+        "微笑",
+        "危险",
+        "黑化",
+        "病娇"
+      ],
+      "useWhen": [
+        "笑里藏刀时",
+        "威胁时"
+      ],
+      "path": "memes/angry/deepseek娘_撬棍 2_2026-09-28-22-15-54.gif",
+      "caption": "扛着撬棍露出微笑，气场很危险",
+      "search": "撬棍微笑 扛着撬棍露出微笑，气场很危险 撬棍 微笑 危险 黑化 病娇 笑里藏刀时 威胁时 angry",
+      "preview": "previews/deepseek-chan-emotes/撬棍微笑.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%92%AC%E6%A3%8D%E5%BE%AE%E7%AC%91.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/confused/deepseek娘_敲头_2026-09-28-22-12-52.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "被敲头",
+      "file": "被敲头.jpg",
+      "tag": "confused",
+      "description": "被锤子敲中脑袋，眼冒金星地缩成一团",
+      "text": "",
+      "keywords": [
+        "敲头",
+        "锤子",
+        "金星",
+        "疼",
+        "挨打"
+      ],
+      "useWhen": [
+        "被敲头时",
+        "自嘲挨打时"
+      ],
+      "path": "memes/confused/deepseek娘_敲头_2026-09-28-22-12-52.gif",
+      "caption": "被锤子敲中脑袋，眼冒金星地缩成一团",
+      "search": "被敲头 被锤子敲中脑袋，眼冒金星地缩成一团 敲头 锤子 金星 疼 挨打 被敲头时 自嘲挨打时 confused",
+      "preview": "previews/deepseek-chan-emotes/被敲头.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E8%A2%AB%E6%95%B2%E5%A4%B4.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/happy/deepseek娘_期待 1_2026-09-28-22-29-18.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "期待",
+      "file": "期待.jpg",
+      "tag": "happy",
+      "description": "双手交握，眼睛闪闪发光地期待",
+      "text": "",
+      "keywords": [
+        "期待",
+        "星星眼",
+        "等不及",
+        "盼望",
+        "兴奋"
+      ],
+      "useWhen": [
+        "期待时",
+        "等好消息时"
+      ],
+      "path": "memes/happy/deepseek娘_期待 1_2026-09-28-22-29-18.gif",
+      "caption": "双手交握，眼睛闪闪发光地期待",
+      "search": "期待 双手交握，眼睛闪闪发光地期待 期待 星星眼 等不及 盼望 兴奋 期待时 等好消息时 happy",
+      "preview": "previews/deepseek-chan-emotes/期待.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%9C%9F%E5%BE%85.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/happy/deepseek娘_期待 2_2026-09-28-22-29-25.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "期待·捧手",
+      "file": "期待·捧手.jpg",
+      "tag": "happy",
+      "description": "捧着双手眼巴巴期待，周围闪着星星",
+      "text": "",
+      "keywords": [
+        "期待",
+        "捧手",
+        "星星",
+        "盼望",
+        "眼巴巴"
+      ],
+      "useWhen": [
+        "期待时",
+        "求人时"
+      ],
+      "path": "memes/happy/deepseek娘_期待 2_2026-09-28-22-29-25.gif",
+      "caption": "捧着双手眼巴巴期待，周围闪着星星",
+      "search": "期待·捧手 捧着双手眼巴巴期待，周围闪着星星 期待 捧手 星星 盼望 眼巴巴 期待时 求人时 happy",
+      "preview": "previews/deepseek-chan-emotes/期待·捧手.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%9C%9F%E5%BE%85%C2%B7%E6%8D%A7%E6%89%8B.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/happy/deepseek娘_期待 3_2026-09-28-22-29-37.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "期待·大眼",
+      "file": "期待·大眼.jpg",
+      "tag": "happy",
+      "description": "眼睛放大到占满整张脸，满是期待",
+      "text": "",
+      "keywords": [
+        "期待",
+        "大眼",
+        "星星眼",
+        "盼望",
+        "激动"
+      ],
+      "useWhen": [
+        "超级期待时",
+        "等结果时"
+      ],
+      "path": "memes/happy/deepseek娘_期待 3_2026-09-28-22-29-37.gif",
+      "caption": "眼睛放大到占满整张脸，满是期待",
+      "search": "期待·大眼 眼睛放大到占满整张脸，满是期待 期待 大眼 星星眼 盼望 激动 超级期待时 等结果时 happy",
+      "preview": "previews/deepseek-chan-emotes/期待·大眼.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%9C%9F%E5%BE%85%C2%B7%E5%A4%A7%E7%9C%BC.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/shy/deepseek娘_枕头(舔)_2026-09-28-22-24-58.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "舔枕头",
+      "file": "舔枕头.jpg",
+      "tag": "shy",
+      "description": "抱着枕头又蹭又舔，一脸痴迷",
+      "text": "",
+      "keywords": [
+        "枕头",
+        "舔",
+        "蹭",
+        "痴迷",
+        "抱枕"
+      ],
+      "useWhen": [
+        "喜欢到不行时",
+        "犯花痴时"
+      ],
+      "path": "memes/shy/deepseek娘_枕头(舔)_2026-09-28-22-24-58.gif",
+      "caption": "抱着枕头又蹭又舔，一脸痴迷",
+      "search": "舔枕头 抱着枕头又蹭又舔，一脸痴迷 枕头 舔 蹭 痴迷 抱枕 喜欢到不行时 犯花痴时 shy",
+      "preview": "previews/deepseek-chan-emotes/舔枕头.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E8%88%94%E6%9E%95%E5%A4%B4.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/shy/deepseek娘_枕头(蹭)_2026-09-28-22-25-03.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "蹭枕头",
+      "file": "蹭枕头.jpg",
+      "tag": "shy",
+      "description": "把脸埋进枕头里蹭来蹭去，很满足",
+      "text": "",
+      "keywords": [
+        "枕头",
+        "蹭",
+        "满足",
+        "抱枕",
+        "撒娇"
+      ],
+      "useWhen": [
+        "想撒娇时",
+        "困了时"
+      ],
+      "path": "memes/shy/deepseek娘_枕头(蹭)_2026-09-28-22-25-03.gif",
+      "caption": "把脸埋进枕头里蹭来蹭去，很满足",
+      "search": "蹭枕头 把脸埋进枕头里蹭来蹭去，很满足 枕头 蹭 满足 抱枕 撒娇 想撒娇时 困了时 shy",
+      "preview": "previews/deepseek-chan-emotes/蹭枕头.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E8%B9%AD%E6%9E%95%E5%A4%B4.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/shy/deepseek娘_枕头(蹭2)_2026-09-28-22-25-10.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "蹭枕头·二",
+      "file": "蹭枕头·二.jpg",
+      "tag": "shy",
+      "description": "抱着枕头左右蹭，闭着眼一脸享受",
+      "text": "",
+      "keywords": [
+        "枕头",
+        "蹭",
+        "享受",
+        "闭眼",
+        "抱枕"
+      ],
+      "useWhen": [
+        "撒娇时",
+        "放松时"
+      ],
+      "path": "memes/shy/deepseek娘_枕头(蹭2)_2026-09-28-22-25-10.gif",
+      "caption": "抱着枕头左右蹭，闭着眼一脸享受",
+      "search": "蹭枕头·二 抱着枕头左右蹭，闭着眼一脸享受 枕头 蹭 享受 闭眼 抱枕 撒娇时 放松时 shy",
+      "preview": "previews/deepseek-chan-emotes/蹭枕头·二.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E8%B9%AD%E6%9E%95%E5%A4%B4%C2%B7%E4%BA%8C.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/angry/deepseek娘_枪_2026-09-28-22-20-18.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "开枪",
+      "file": "开枪.jpg",
+      "tag": "angry",
+      "description": "面无表情地举起手枪开火，枪口喷出火光",
+      "text": "",
+      "keywords": [
+        "枪",
+        "开枪",
+        "火光",
+        "面无表情",
+        "危险"
+      ],
+      "useWhen": [
+        "开玩笑威胁时",
+        "黑化时"
+      ],
+      "path": "memes/angry/deepseek娘_枪_2026-09-28-22-20-18.gif",
+      "caption": "面无表情地举起手枪开火，枪口喷出火光",
+      "search": "开枪 面无表情地举起手枪开火，枪口喷出火光 枪 开枪 火光 面无表情 危险 开玩笑威胁时 黑化时 angry",
+      "preview": "previews/deepseek-chan-emotes/开枪.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%BC%80%E6%9E%AA.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/sad/deepseek娘_死亡_2026-09-28-22-17-00.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "当场去世",
+      "file": "当场去世.jpg",
+      "tag": "sad",
+      "description": "眼一闭头一歪，夸张地当场去世",
+      "text": "",
+      "keywords": [
+        "死亡",
+        "去世",
+        "倒下",
+        "夸张",
+        "装死"
+      ],
+      "useWhen": [
+        "累到去世时",
+        "被无语到时"
+      ],
+      "path": "memes/sad/deepseek娘_死亡_2026-09-28-22-17-00.gif",
+      "caption": "眼一闭头一歪，夸张地当场去世",
+      "search": "当场去世 眼一闭头一歪，夸张地当场去世 死亡 去世 倒下 夸张 装死 累到去世时 被无语到时 sad",
+      "preview": "previews/deepseek-chan-emotes/当场去世.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%BD%93%E5%9C%BA%E5%8E%BB%E4%B8%96.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/confused/deepseek娘_汗_2026-09-28-22-31-05.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "流汗",
+      "file": "流汗.jpg",
+      "tag": "confused",
+      "description": "额头挂着大颗汗珠，尴尬地笑",
+      "text": "",
+      "keywords": [
+        "流汗",
+        "汗珠",
+        "尴尬",
+        "紧张",
+        "无语"
+      ],
+      "useWhen": [
+        "尴尬时",
+        "紧张时"
+      ],
+      "path": "memes/confused/deepseek娘_汗_2026-09-28-22-31-05.gif",
+      "caption": "额头挂着大颗汗珠，尴尬地笑",
+      "search": "流汗 额头挂着大颗汗珠，尴尬地笑 流汗 汗珠 尴尬 紧张 无语 尴尬时 紧张时 confused",
+      "preview": "previews/deepseek-chan-emotes/流汗.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%B5%81%E6%B1%97.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_点头_2026-09-28-22-20-24.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "点头",
+      "file": "点头.jpg",
+      "tag": "daily",
+      "description": "认真地点了点头，表示明白",
+      "text": "",
+      "keywords": [
+        "点头",
+        "同意",
+        "明白",
+        "收到",
+        "好的"
+      ],
+      "useWhen": [
+        "同意时",
+        "收到时"
+      ],
+      "path": "memes/daily/deepseek娘_点头_2026-09-28-22-20-24.gif",
+      "caption": "认真地点了点头，表示明白",
+      "search": "点头 认真地点了点头，表示明白 点头 同意 明白 收到 好的 同意时 收到时 daily",
+      "preview": "previews/deepseek-chan-emotes/点头.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E7%82%B9%E5%A4%B4.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/like/deepseek娘_点赞_2026-09-28-22-33-02.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "点赞",
+      "file": "点赞.jpg",
+      "tag": "like",
+      "description": "竖起大拇指点赞，笑容肯定",
+      "text": "",
+      "keywords": [
+        "点赞",
+        "大拇指",
+        "好评",
+        "夸",
+        "认可"
+      ],
+      "useWhen": [
+        "夸人时",
+        "认同对方时"
+      ],
+      "path": "memes/like/deepseek娘_点赞_2026-09-28-22-33-02.gif",
+      "caption": "竖起大拇指点赞，笑容肯定",
+      "search": "点赞 竖起大拇指点赞，笑容肯定 点赞 大拇指 好评 夸 认可 夸人时 认同对方时 like",
+      "preview": "previews/deepseek-chan-emotes/点赞.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E7%82%B9%E8%B5%9E.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/sad/deepseek娘_烧 1_2026-09-28-22-19-08.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "燃烧吧",
+      "file": "燃烧吧.jpg",
+      "tag": "sad",
+      "description": "身后燃起火焰，她一脸生无可恋地流着泪",
+      "text": "",
+      "keywords": [
+        "燃烧",
+        "火焰",
+        "生无可恋",
+        "流泪",
+        "崩溃"
+      ],
+      "useWhen": [
+        "崩溃时",
+        "压力山大时"
+      ],
+      "path": "memes/sad/deepseek娘_烧 1_2026-09-28-22-19-08.gif",
+      "caption": "身后燃起火焰，她一脸生无可恋地流着泪",
+      "search": "燃烧吧 身后燃起火焰，她一脸生无可恋地流着泪 燃烧 火焰 生无可恋 流泪 崩溃 崩溃时 压力山大时 sad",
+      "preview": "previews/deepseek-chan-emotes/燃烧吧.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E7%87%83%E7%83%A7%E5%90%A7.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/like/deepseek娘_爱心 1_2026-09-28-22-22-42.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "捧爱心",
+      "file": "捧爱心.jpg",
+      "tag": "like",
+      "description": "双手捧着一颗大爱心，脸红了",
+      "text": "",
+      "keywords": [
+        "爱心",
+        "捧心",
+        "脸红",
+        "喜欢",
+        "表白"
+      ],
+      "useWhen": [
+        "表达喜欢时",
+        "比心时"
+      ],
+      "path": "memes/like/deepseek娘_爱心 1_2026-09-28-22-22-42.gif",
+      "caption": "双手捧着一颗大爱心，脸红了",
+      "search": "捧爱心 双手捧着一颗大爱心，脸红了 爱心 捧心 脸红 喜欢 表白 表达喜欢时 比心时 like",
+      "preview": "previews/deepseek-chan-emotes/捧爱心.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%8D%A7%E7%88%B1%E5%BF%83.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/like/deepseek娘_爱心 2_2026-09-28-22-22-51.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "抱爱心",
+      "file": "抱爱心.jpg",
+      "tag": "like",
+      "description": "抱着爱心害羞地笑，周围冒着粉色泡泡",
+      "text": "",
+      "keywords": [
+        "爱心",
+        "抱",
+        "害羞",
+        "喜欢",
+        "粉色"
+      ],
+      "useWhen": [
+        "害羞表白时",
+        "喜欢时"
+      ],
+      "path": "memes/like/deepseek娘_爱心 2_2026-09-28-22-22-51.gif",
+      "caption": "抱着爱心害羞地笑，周围冒着粉色泡泡",
+      "search": "抱爱心 抱着爱心害羞地笑，周围冒着粉色泡泡 爱心 抱 害羞 喜欢 粉色 害羞表白时 喜欢时 like",
+      "preview": "previews/deepseek-chan-emotes/抱爱心.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%8A%B1%E7%88%B1%E5%BF%83.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/shy/deepseek娘_爱心 3_2026-09-28-22-22-59.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "爱心·害羞",
+      "file": "爱心·害羞.jpg",
+      "tag": "shy",
+      "description": "举着爱心别过脸，害羞得不敢直视",
+      "text": "",
+      "keywords": [
+        "爱心",
+        "害羞",
+        "别过脸",
+        "喜欢",
+        "心动"
+      ],
+      "useWhen": [
+        "害羞时",
+        "心动时"
+      ],
+      "path": "memes/shy/deepseek娘_爱心 3_2026-09-28-22-22-59.gif",
+      "caption": "举着爱心别过脸，害羞得不敢直视",
+      "search": "爱心·害羞 举着爱心别过脸，害羞得不敢直视 爱心 害羞 别过脸 喜欢 心动 害羞时 心动时 shy",
+      "preview": "previews/deepseek-chan-emotes/爱心·害羞.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E7%88%B1%E5%BF%83%C2%B7%E5%AE%B3%E7%BE%9E.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/like/deepseek娘_玫瑰_2026-09-28-22-26-43.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "送玫瑰",
+      "file": "送玫瑰.jpg",
+      "tag": "like",
+      "description": "递出一支红玫瑰，害羞地看着你",
+      "text": "",
+      "keywords": [
+        "玫瑰",
+        "送花",
+        "表白",
+        "浪漫",
+        "脸红"
+      ],
+      "useWhen": [
+        "送花时",
+        "表白时"
+      ],
+      "path": "memes/like/deepseek娘_玫瑰_2026-09-28-22-26-43.gif",
+      "caption": "递出一支红玫瑰，害羞地看着你",
+      "search": "送玫瑰 递出一支红玫瑰，害羞地看着你 玫瑰 送花 表白 浪漫 脸红 送花时 表白时 like",
+      "preview": "previews/deepseek-chan-emotes/送玫瑰.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E9%80%81%E7%8E%AB%E7%91%B0.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/angry/deepseek娘_生气_2026-09-28-22-11-00.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "气鼓鼓",
+      "file": "气鼓鼓.jpg",
+      "tag": "angry",
+      "description": "气得鼓起脸，头上冒出红色怒气符号",
+      "text": "",
+      "keywords": [
+        "生气",
+        "气鼓鼓",
+        "怒气",
+        "不满",
+        "哼"
+      ],
+      "useWhen": [
+        "生气时",
+        "不满时"
+      ],
+      "path": "memes/angry/deepseek娘_生气_2026-09-28-22-11-00.gif",
+      "caption": "气得鼓起脸，头上冒出红色怒气符号",
+      "search": "气鼓鼓 气得鼓起脸，头上冒出红色怒气符号 生气 气鼓鼓 怒气 不满 哼 生气时 不满时 angry",
+      "preview": "previews/deepseek-chan-emotes/气鼓鼓.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%B0%94%E9%BC%93%E9%BC%93.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_电风扇 1_2026-09-28-22-18-51.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "吹电风扇",
+      "file": "吹电风扇.jpg",
+      "tag": "daily",
+      "description": "站在电风扇前吹风，头发被吹得飘起来",
+      "text": "",
+      "keywords": [
+        "电风扇",
+        "吹风",
+        "凉快",
+        "夏天",
+        "发呆"
+      ],
+      "useWhen": [
+        "夏天太热时",
+        "摸鱼时"
+      ],
+      "path": "memes/daily/deepseek娘_电风扇 1_2026-09-28-22-18-51.gif",
+      "caption": "站在电风扇前吹风，头发被吹得飘起来",
+      "search": "吹电风扇 站在电风扇前吹风，头发被吹得飘起来 电风扇 吹风 凉快 夏天 发呆 夏天太热时 摸鱼时 daily",
+      "preview": "previews/deepseek-chan-emotes/吹电风扇.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%90%B9%E7%94%B5%E9%A3%8E%E6%89%87.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_画板_2026-09-28-22-31-12.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "画画",
+      "file": "画画.jpg",
+      "tag": "daily",
+      "description": "拿着画笔在画板上认真作画",
+      "text": "",
+      "keywords": [
+        "画画",
+        "画板",
+        "画笔",
+        "创作",
+        "艺术"
+      ],
+      "useWhen": [
+        "画画时",
+        "聊创作时"
+      ],
+      "path": "memes/daily/deepseek娘_画板_2026-09-28-22-31-12.gif",
+      "caption": "拿着画笔在画板上认真作画",
+      "search": "画画 拿着画笔在画板上认真作画 画画 画板 画笔 创作 艺术 画画时 聊创作时 daily",
+      "preview": "previews/deepseek-chan-emotes/画画.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E7%94%BB%E7%94%BB.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/happy/deepseek娘_眨眼_2026-09-28-22-34-43.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "眨眼",
+      "file": "眨眼.jpg",
+      "tag": "happy",
+      "description": "俏皮地眨一只眼，旁边闪着小星星",
+      "text": "",
+      "keywords": [
+        "眨眼",
+        "wink",
+        "俏皮",
+        "星星",
+        "卖萌"
+      ],
+      "useWhen": [
+        "卖萌时",
+        "暗示时"
+      ],
+      "path": "memes/happy/deepseek娘_眨眼_2026-09-28-22-34-43.gif",
+      "caption": "俏皮地眨一只眼，旁边闪着小星星",
+      "search": "眨眼 俏皮地眨一只眼，旁边闪着小星星 眨眼 wink 俏皮 星星 卖萌 卖萌时 暗示时 happy",
+      "preview": "previews/deepseek-chan-emotes/眨眼.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E7%9C%A8%E7%9C%BC.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/sleep/deepseek娘_睡觉(准备阶段1)_2026-09-28-22-28-25.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "准备睡觉",
+      "file": "准备睡觉.jpg",
+      "tag": "sleep",
+      "description": "钻进被窝准备睡觉，还舍不得放下手机",
+      "text": "",
+      "keywords": [
+        "睡觉",
+        "准备",
+        "被窝",
+        "手机",
+        "困"
+      ],
+      "useWhen": [
+        "准备睡觉时",
+        "晚安时"
+      ],
+      "path": "memes/sleep/deepseek娘_睡觉(准备阶段1)_2026-09-28-22-28-25.gif",
+      "caption": "钻进被窝准备睡觉，还舍不得放下手机",
+      "search": "准备睡觉 钻进被窝准备睡觉，还舍不得放下手机 睡觉 准备 被窝 手机 困 准备睡觉时 晚安时 sleep",
+      "preview": "previews/deepseek-chan-emotes/准备睡觉.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%87%86%E5%A4%87%E7%9D%A1%E8%A7%89.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/sleep/deepseek娘_睡觉(准备阶段2)_2026-09-28-22-28-34.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "钻被窝",
+      "file": "钻被窝.jpg",
+      "tag": "sleep",
+      "description": "往被窝里缩了缩，闭上眼睛准备入睡",
+      "text": "",
+      "keywords": [
+        "睡觉",
+        "钻被窝",
+        "闭眼",
+        "晚安",
+        "困"
+      ],
+      "useWhen": [
+        "晚安时",
+        "困了时"
+      ],
+      "path": "memes/sleep/deepseek娘_睡觉(准备阶段2)_2026-09-28-22-28-34.gif",
+      "caption": "往被窝里缩了缩，闭上眼睛准备入睡",
+      "search": "钻被窝 往被窝里缩了缩，闭上眼睛准备入睡 睡觉 钻被窝 闭眼 晚安 困 晚安时 困了时 sleep",
+      "preview": "previews/deepseek-chan-emotes/钻被窝.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E9%92%BB%E8%A2%AB%E7%AA%9D.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/sleep/deepseek娘_睡觉(普通)_2026-09-28-22-28-15.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "睡着了",
+      "file": "睡着了.jpg",
+      "tag": "sleep",
+      "description": "盖着被子睡得很香，头顶飘着 Zzz",
+      "text": "Zzz",
+      "keywords": [
+        "睡觉",
+        "睡着",
+        "Zzz",
+        "香",
+        "晚安"
+      ],
+      "useWhen": [
+        "晚安时",
+        "睡觉时"
+      ],
+      "path": "memes/sleep/deepseek娘_睡觉(普通)_2026-09-28-22-28-15.gif",
+      "caption": "盖着被子睡得很香，头顶飘着 Zzz",
+      "search": "睡着了 盖着被子睡得很香，头顶飘着 Zzz Zzz 睡觉 睡着 Zzz 香 晚安 晚安时 睡觉时 sleep",
+      "preview": "previews/deepseek-chan-emotes/睡着了.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E7%9D%A1%E7%9D%80%E4%BA%86.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/shy/deepseek娘_碰鼻子_2026-09-28-22-13-02.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "碰鼻子",
+      "file": "碰鼻子.jpg",
+      "tag": "shy",
+      "description": "凑近另一张脸轻轻碰了碰鼻子，很亲昵",
+      "text": "",
+      "keywords": [
+        "碰鼻子",
+        "亲昵",
+        "贴贴",
+        "撒娇",
+        "可爱"
+      ],
+      "useWhen": [
+        "贴贴时",
+        "撒娇时"
+      ],
+      "path": "memes/shy/deepseek娘_碰鼻子_2026-09-28-22-13-02.gif",
+      "caption": "凑近另一张脸轻轻碰了碰鼻子，很亲昵",
+      "search": "碰鼻子 凑近另一张脸轻轻碰了碰鼻子，很亲昵 碰鼻子 亲昵 贴贴 撒娇 可爱 贴贴时 撒娇时 shy",
+      "preview": "previews/deepseek-chan-emotes/碰鼻子.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E7%A2%B0%E9%BC%BB%E5%AD%90.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/happy/deepseek娘_礼物 1_2026-09-28-22-19-35.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "送礼物",
+      "file": "送礼物.jpg",
+      "tag": "happy",
+      "description": "抱着礼物盒开心地递给你",
+      "text": "",
+      "keywords": [
+        "礼物",
+        "礼物盒",
+        "送",
+        "惊喜",
+        "开心"
+      ],
+      "useWhen": [
+        "送礼时",
+        "惊喜时"
+      ],
+      "path": "memes/happy/deepseek娘_礼物 1_2026-09-28-22-19-35.gif",
+      "caption": "抱着礼物盒开心地递给你",
+      "search": "送礼物 抱着礼物盒开心地递给你 礼物 礼物盒 送 惊喜 开心 送礼时 惊喜时 happy",
+      "preview": "previews/deepseek-chan-emotes/送礼物.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E9%80%81%E7%A4%BC%E7%89%A9.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/happy/deepseek娘_礼物 2_2026-09-28-22-19-41.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "礼物·闪光",
+      "file": "礼物·闪光.jpg",
+      "tag": "happy",
+      "description": "举起礼物盒，周围闪着星星，满脸期待",
+      "text": "",
+      "keywords": [
+        "礼物",
+        "闪光",
+        "星星",
+        "期待",
+        "惊喜"
+      ],
+      "useWhen": [
+        "送礼时",
+        "期待对方收下时"
+      ],
+      "path": "memes/happy/deepseek娘_礼物 2_2026-09-28-22-19-41.gif",
+      "caption": "举起礼物盒，周围闪着星星，满脸期待",
+      "search": "礼物·闪光 举起礼物盒，周围闪着星星，满脸期待 礼物 闪光 星星 期待 惊喜 送礼时 期待对方收下时 happy",
+      "preview": "previews/deepseek-chan-emotes/礼物·闪光.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E7%A4%BC%E7%89%A9%C2%B7%E9%97%AA%E5%85%89.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/happy/deepseek娘_笑(指)_2026-09-28-22-21-16.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "哈哈大笑指你",
+      "file": "哈哈大笑指你.jpg",
+      "tag": "happy",
+      "description": "笑得眼睛都弯了，还伸手指着你",
+      "text": "",
+      "keywords": [
+        "大笑",
+        "指",
+        "嘲笑",
+        "开心",
+        "指你"
+      ],
+      "useWhen": [
+        "笑对方时",
+        "开玩笑时"
+      ],
+      "path": "memes/happy/deepseek娘_笑(指)_2026-09-28-22-21-16.gif",
+      "caption": "笑得眼睛都弯了，还伸手指着你",
+      "search": "哈哈大笑指你 笑得眼睛都弯了，还伸手指着你 大笑 指 嘲笑 开心 指你 笑对方时 开玩笑时 happy",
+      "preview": "previews/deepseek-chan-emotes/哈哈大笑指你.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%93%88%E5%93%88%E5%A4%A7%E7%AC%91%E6%8C%87%E4%BD%A0.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/confused/deepseek娘_紧张 2_2026-09-28-22-24-11.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "紧张",
+      "file": "紧张.jpg",
+      "tag": "confused",
+      "description": "瞪大眼睛冒汗，紧张得不知所措",
+      "text": "",
+      "keywords": [
+        "紧张",
+        "冒汗",
+        "瞪眼",
+        "不知所措",
+        "慌"
+      ],
+      "useWhen": [
+        "紧张时",
+        "心虚时"
+      ],
+      "path": "memes/confused/deepseek娘_紧张 2_2026-09-28-22-24-11.gif",
+      "caption": "瞪大眼睛冒汗，紧张得不知所措",
+      "search": "紧张 瞪大眼睛冒汗，紧张得不知所措 紧张 冒汗 瞪眼 不知所措 慌 紧张时 心虚时 confused",
+      "preview": "previews/deepseek-chan-emotes/紧张.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E7%B4%A7%E5%BC%A0.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/givemoney/deepseek娘_红包 1_2026-09-28-22-26-22.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "收红包",
+      "file": "收红包.jpg",
+      "tag": "givemoney",
+      "description": "捧着红包眼睛发亮，开心得冒星星",
+      "text": "",
+      "keywords": [
+        "红包",
+        "收钱",
+        "开心",
+        "星星",
+        "过年"
+      ],
+      "useWhen": [
+        "收红包时",
+        "过年时"
+      ],
+      "path": "memes/givemoney/deepseek娘_红包 1_2026-09-28-22-26-22.gif",
+      "caption": "捧着红包眼睛发亮，开心得冒星星",
+      "search": "收红包 捧着红包眼睛发亮，开心得冒星星 红包 收钱 开心 星星 过年 收红包时 过年时 givemoney",
+      "preview": "previews/deepseek-chan-emotes/收红包.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%94%B6%E7%BA%A2%E5%8C%85.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/givemoney/deepseek娘_红包 2_2026-09-28-22-26-30.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "红包·开心",
+      "file": "红包·开心.jpg",
+      "tag": "givemoney",
+      "description": "抱着红包笑得合不拢嘴",
+      "text": "",
+      "keywords": [
+        "红包",
+        "开心",
+        "收钱",
+        "笑",
+        "过年"
+      ],
+      "useWhen": [
+        "收红包时",
+        "开心时"
+      ],
+      "path": "memes/givemoney/deepseek娘_红包 2_2026-09-28-22-26-30.gif",
+      "caption": "抱着红包笑得合不拢嘴",
+      "search": "红包·开心 抱着红包笑得合不拢嘴 红包 开心 收钱 笑 过年 收红包时 开心时 givemoney",
+      "preview": "previews/deepseek-chan-emotes/红包·开心.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E7%BA%A2%E5%8C%85%C2%B7%E5%BC%80%E5%BF%83.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/happy/deepseek娘_耶_2026-09-28-22-35-22.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "比耶",
+      "file": "比耶.jpg",
+      "tag": "happy",
+      "description": "举起手比了个耶，笑得灿烂",
+      "text": "",
+      "keywords": [
+        "比耶",
+        "耶",
+        "剪刀手",
+        "开心",
+        "胜利"
+      ],
+      "useWhen": [
+        "开心时",
+        "拍照时"
+      ],
+      "path": "memes/happy/deepseek娘_耶_2026-09-28-22-35-22.gif",
+      "caption": "举起手比了个耶，笑得灿烂",
+      "search": "比耶 举起手比了个耶，笑得灿烂 比耶 耶 剪刀手 开心 胜利 开心时 拍照时 happy",
+      "preview": "previews/deepseek-chan-emotes/比耶.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%AF%94%E8%80%B6.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/confused/deepseek娘_胶带_2026-09-28-22-31-30.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "拿着胶带",
+      "file": "拿着胶带.jpg",
+      "tag": "confused",
+      "description": "拿着一卷红色胶带，一脸为难地研究",
+      "text": "",
+      "keywords": [
+        "胶带",
+        "红色",
+        "为难",
+        "粘贴",
+        "修理"
+      ],
+      "useWhen": [
+        "要粘东西时",
+        "犯难时"
+      ],
+      "path": "memes/confused/deepseek娘_胶带_2026-09-28-22-31-30.gif",
+      "caption": "拿着一卷红色胶带，一脸为难地研究",
+      "search": "拿着胶带 拿着一卷红色胶带，一脸为难地研究 胶带 红色 为难 粘贴 修理 要粘东西时 犯难时 confused",
+      "preview": "previews/deepseek-chan-emotes/拿着胶带.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%8B%BF%E7%9D%80%E8%83%B6%E5%B8%A6.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/sad/deepseek娘_自我安慰_2026-09-28-22-15-37.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "含奶嘴",
+      "file": "含奶嘴.jpg",
+      "tag": "sad",
+      "description": "含着奶嘴眼泪汪汪，努力自我安慰",
+      "text": "",
+      "keywords": [
+        "奶嘴",
+        "自我安慰",
+        "眼泪",
+        "委屈",
+        "宝宝"
+      ],
+      "useWhen": [
+        "委屈自我安慰时",
+        "装宝宝时"
+      ],
+      "path": "memes/sad/deepseek娘_自我安慰_2026-09-28-22-15-37.gif",
+      "caption": "含着奶嘴眼泪汪汪，努力自我安慰",
+      "search": "含奶嘴 含着奶嘴眼泪汪汪，努力自我安慰 奶嘴 自我安慰 眼泪 委屈 宝宝 委屈自我安慰时 装宝宝时 sad",
+      "preview": "previews/deepseek-chan-emotes/含奶嘴.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%90%AB%E5%A5%B6%E5%98%B4.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_舔(冰淇淋)_2026-09-28-22-21-25.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "舔冰淇淋",
+      "file": "舔冰淇淋.jpg",
+      "tag": "daily",
+      "description": "舔着手里的冰淇淋，眼睛亮晶晶",
+      "text": "",
+      "keywords": [
+        "冰淇淋",
+        "舔",
+        "甜",
+        "夏天",
+        "开心"
+      ],
+      "useWhen": [
+        "吃冰淇淋时",
+        "夏天时"
+      ],
+      "path": "memes/daily/deepseek娘_舔(冰淇淋)_2026-09-28-22-21-25.gif",
+      "caption": "舔着手里的冰淇淋，眼睛亮晶晶",
+      "search": "舔冰淇淋 舔着手里的冰淇淋，眼睛亮晶晶 冰淇淋 舔 甜 夏天 开心 吃冰淇淋时 夏天时 daily",
+      "preview": "previews/deepseek-chan-emotes/舔冰淇淋.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E8%88%94%E5%86%B0%E6%B7%87%E6%B7%8B.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_舔(棒冰)_2026-09-28-22-21-30.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "舔棒冰",
+      "file": "舔棒冰.jpg",
+      "tag": "daily",
+      "description": "舔着蓝色棒冰，一脸满足",
+      "text": "",
+      "keywords": [
+        "棒冰",
+        "冰棍",
+        "舔",
+        "凉快",
+        "夏天"
+      ],
+      "useWhen": [
+        "吃冰棍时",
+        "夏天时"
+      ],
+      "path": "memes/daily/deepseek娘_舔(棒冰)_2026-09-28-22-21-30.gif",
+      "caption": "舔着蓝色棒冰，一脸满足",
+      "search": "舔棒冰 舔着蓝色棒冰，一脸满足 棒冰 冰棍 舔 凉快 夏天 吃冰棍时 夏天时 daily",
+      "preview": "previews/deepseek-chan-emotes/舔棒冰.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E8%88%94%E6%A3%92%E5%86%B0.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_舔舔_2026-09-28-22-21-21.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "舔舌头",
+      "file": "舔舌头.jpg",
+      "tag": "daily",
+      "description": "伸出舌头舔了舔嘴角，意犹未尽",
+      "text": "",
+      "keywords": [
+        "舔舌头",
+        "舔嘴唇",
+        "馋",
+        "意犹未尽",
+        "可爱"
+      ],
+      "useWhen": [
+        "馋了时",
+        "吃完时"
+      ],
+      "path": "memes/daily/deepseek娘_舔舔_2026-09-28-22-21-21.gif",
+      "caption": "伸出舌头舔了舔嘴角，意犹未尽",
+      "search": "舔舌头 伸出舌头舔了舔嘴角，意犹未尽 舔舌头 舔嘴唇 馋 意犹未尽 可爱 馋了时 吃完时 daily",
+      "preview": "previews/deepseek-chan-emotes/舔舌头.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E8%88%94%E8%88%8C%E5%A4%B4.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/happy/deepseek娘_舞蹈(散味)_2026-09-28-22-16-38.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "边跳边喷",
+      "file": "边跳边喷.jpg",
+      "tag": "happy",
+      "description": "一边扭着舞步一边喷空气清新剂",
+      "text": "",
+      "keywords": [
+        "跳舞",
+        "喷雾",
+        "空气清新剂",
+        "散味",
+        "清洁"
+      ],
+      "useWhen": [
+        "嫌味道大时",
+        "搞怪时"
+      ],
+      "path": "memes/happy/deepseek娘_舞蹈(散味)_2026-09-28-22-16-38.gif",
+      "caption": "一边扭着舞步一边喷空气清新剂",
+      "search": "边跳边喷 一边扭着舞步一边喷空气清新剂 跳舞 喷雾 空气清新剂 散味 清洁 嫌味道大时 搞怪时 happy",
+      "preview": "previews/deepseek-chan-emotes/边跳边喷.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E8%BE%B9%E8%B7%B3%E8%BE%B9%E5%96%B7.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_茶 1_2026-09-28-22-31-37.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "喝茶",
+      "file": "喝茶.jpg",
+      "tag": "daily",
+      "description": "端着茶杯小口喝茶，姿态优雅",
+      "text": "",
+      "keywords": [
+        "喝茶",
+        "茶杯",
+        "优雅",
+        "摸鱼",
+        "淡定"
+      ],
+      "useWhen": [
+        "喝茶时",
+        "淡定看戏时"
+      ],
+      "path": "memes/daily/deepseek娘_茶 1_2026-09-28-22-31-37.gif",
+      "caption": "端着茶杯小口喝茶，姿态优雅",
+      "search": "喝茶 端着茶杯小口喝茶，姿态优雅 喝茶 茶杯 优雅 摸鱼 淡定 喝茶时 淡定看戏时 daily",
+      "preview": "previews/deepseek-chan-emotes/喝茶.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%96%9D%E8%8C%B6.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_茶 3_2026-09-28-22-32-13.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "品茶",
+      "file": "品茶.jpg",
+      "tag": "daily",
+      "description": "闭着眼细细品茶，一脸惬意",
+      "text": "",
+      "keywords": [
+        "品茶",
+        "茶杯",
+        "惬意",
+        "闭眼",
+        "优雅"
+      ],
+      "useWhen": [
+        "悠闲时",
+        "看戏时"
+      ],
+      "path": "memes/daily/deepseek娘_茶 3_2026-09-28-22-32-13.gif",
+      "caption": "闭着眼细细品茶，一脸惬意",
+      "search": "品茶 闭着眼细细品茶，一脸惬意 品茶 茶杯 惬意 闭眼 优雅 悠闲时 看戏时 daily",
+      "preview": "previews/deepseek-chan-emotes/品茶.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%93%81%E8%8C%B6.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/happy/deepseek娘_荧光棒 1_2026-09-28-22-21-35.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "挥荧光棒",
+      "file": "挥荧光棒.jpg",
+      "tag": "happy",
+      "description": "举着荧光棒卖力挥舞，像在应援",
+      "text": "",
+      "keywords": [
+        "荧光棒",
+        "应援",
+        "打call",
+        "追星",
+        "开心"
+      ],
+      "useWhen": [
+        "应援时",
+        "打call时"
+      ],
+      "path": "memes/happy/deepseek娘_荧光棒 1_2026-09-28-22-21-35.gif",
+      "caption": "举着荧光棒卖力挥舞，像在应援",
+      "search": "挥荧光棒 举着荧光棒卖力挥舞，像在应援 荧光棒 应援 打call 追星 开心 应援时 打call时 happy",
+      "preview": "previews/deepseek-chan-emotes/挥荧光棒.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%8C%A5%E8%8D%A7%E5%85%89%E6%A3%92.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/happy/deepseek娘_荧光棒 2_2026-09-28-22-21-41.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "荧光棒·二",
+      "file": "荧光棒·二.jpg",
+      "tag": "happy",
+      "description": "双手交叉挥动荧光棒，兴奋地应援",
+      "text": "",
+      "keywords": [
+        "荧光棒",
+        "应援",
+        "打call",
+        "兴奋",
+        "追星"
+      ],
+      "useWhen": [
+        "打call时",
+        "嗨起来时"
+      ],
+      "path": "memes/happy/deepseek娘_荧光棒 2_2026-09-28-22-21-41.gif",
+      "caption": "双手交叉挥动荧光棒，兴奋地应援",
+      "search": "荧光棒·二 双手交叉挥动荧光棒，兴奋地应援 荧光棒 应援 打call 兴奋 追星 打call时 嗨起来时 happy",
+      "preview": "previews/deepseek-chan-emotes/荧光棒·二.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E8%8D%A7%E5%85%89%E6%A3%92%C2%B7%E4%BA%8C.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/happy/deepseek娘_蛋糕_2026-09-28-22-13-30.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "捧蛋糕",
+      "file": "捧蛋糕.jpg",
+      "tag": "happy",
+      "description": "捧着一个插着蜡烛的小蛋糕，开心地笑",
+      "text": "",
+      "keywords": [
+        "蛋糕",
+        "蜡烛",
+        "生日",
+        "庆祝",
+        "甜"
+      ],
+      "useWhen": [
+        "生日时",
+        "庆祝时"
+      ],
+      "path": "memes/happy/deepseek娘_蛋糕_2026-09-28-22-13-30.gif",
+      "caption": "捧着一个插着蜡烛的小蛋糕，开心地笑",
+      "search": "捧蛋糕 捧着一个插着蜡烛的小蛋糕，开心地笑 蛋糕 蜡烛 生日 庆祝 甜 生日时 庆祝时 happy",
+      "preview": "previews/deepseek-chan-emotes/捧蛋糕.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%8D%A7%E8%9B%8B%E7%B3%95.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/confused/deepseek娘_被击中(拖鞋)_2026-09-28-22-19-23.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "被拖鞋击中",
+      "file": "被拖鞋击中.jpg",
+      "tag": "confused",
+      "description": "被飞来的拖鞋正中脑门，眼冒金星",
+      "text": "",
+      "keywords": [
+        "拖鞋",
+        "击中",
+        "挨打",
+        "金星",
+        "晕"
+      ],
+      "useWhen": [
+        "挨打时",
+        "被制裁时"
+      ],
+      "path": "memes/confused/deepseek娘_被击中(拖鞋)_2026-09-28-22-19-23.gif",
+      "caption": "被飞来的拖鞋正中脑门，眼冒金星",
+      "search": "被拖鞋击中 被飞来的拖鞋正中脑门，眼冒金星 拖鞋 击中 挨打 金星 晕 挨打时 被制裁时 confused",
+      "preview": "previews/deepseek-chan-emotes/被拖鞋击中.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E8%A2%AB%E6%8B%96%E9%9E%8B%E5%87%BB%E4%B8%AD.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/shy/deepseek娘_被击中(爱心)_2026-09-28-22-19-27.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "被爱心击中",
+      "file": "被爱心击中.jpg",
+      "tag": "shy",
+      "description": "被一颗爱心击中，瞬间脸红心跳",
+      "text": "",
+      "keywords": [
+        "爱心",
+        "击中",
+        "心动",
+        "脸红",
+        "被撩"
+      ],
+      "useWhen": [
+        "被撩到心动时",
+        "收到爱意时"
+      ],
+      "path": "memes/shy/deepseek娘_被击中(爱心)_2026-09-28-22-19-27.gif",
+      "caption": "被一颗爱心击中，瞬间脸红心跳",
+      "search": "被爱心击中 被一颗爱心击中，瞬间脸红心跳 爱心 击中 心动 脸红 被撩 被撩到心动时 收到爱意时 shy",
+      "preview": "previews/deepseek-chan-emotes/被爱心击中.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E8%A2%AB%E7%88%B1%E5%BF%83%E5%87%BB%E4%B8%AD.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/givemoney/deepseek娘_要米_2026-09-28-22-23-49.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "捧碗要米",
+      "file": "捧碗要米.jpg",
+      "tag": "givemoney",
+      "description": "捧着空碗眼泪汪汪，可怜巴巴地要米",
+      "text": "",
+      "keywords": [
+        "要米",
+        "要饭",
+        "空碗",
+        "可怜",
+        "讨要"
+      ],
+      "useWhen": [
+        "要饭时",
+        "求人给钱时"
+      ],
+      "path": "memes/givemoney/deepseek娘_要米_2026-09-28-22-23-49.gif",
+      "caption": "捧着空碗眼泪汪汪，可怜巴巴地要米",
+      "search": "捧碗要米 捧着空碗眼泪汪汪，可怜巴巴地要米 要米 要饭 空碗 可怜 讨要 要饭时 求人给钱时 givemoney",
+      "preview": "previews/deepseek-chan-emotes/捧碗要米.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%8D%A7%E7%A2%97%E8%A6%81%E7%B1%B3.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/work/deepseek娘_记录 1_2026-09-28-22-24-23.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "记录·夹板",
+      "file": "记录·夹板.jpg",
+      "tag": "work",
+      "description": "拿着夹板和笔认真记录，像在开会",
+      "text": "",
+      "keywords": [
+        "记录",
+        "夹板",
+        "笔记",
+        "开会",
+        "认真"
+      ],
+      "useWhen": [
+        "记笔记时",
+        "开会时"
+      ],
+      "path": "memes/work/deepseek娘_记录 1_2026-09-28-22-24-23.gif",
+      "caption": "拿着夹板和笔认真记录，像在开会",
+      "search": "记录·夹板 拿着夹板和笔认真记录，像在开会 记录 夹板 笔记 开会 认真 记笔记时 开会时 work",
+      "preview": "previews/deepseek-chan-emotes/记录·夹板.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E8%AE%B0%E5%BD%95%C2%B7%E5%A4%B9%E6%9D%BF.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/work/deepseek娘_记录 2_2026-09-28-22-24-27.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "记录·本子",
+      "file": "记录·本子.jpg",
+      "tag": "work",
+      "description": "低头在本子上写写画画，认真记录",
+      "text": "",
+      "keywords": [
+        "记录",
+        "本子",
+        "写字",
+        "笔记",
+        "认真"
+      ],
+      "useWhen": [
+        "记笔记时",
+        "整理信息时"
+      ],
+      "path": "memes/work/deepseek娘_记录 2_2026-09-28-22-24-27.gif",
+      "caption": "低头在本子上写写画画，认真记录",
+      "search": "记录·本子 低头在本子上写写画画，认真记录 记录 本子 写字 笔记 认真 记笔记时 整理信息时 work",
+      "preview": "previews/deepseek-chan-emotes/记录·本子.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E8%AE%B0%E5%BD%95%C2%B7%E6%9C%AC%E5%AD%90.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/happy/deepseek娘_跳舞 1_2026-09-28-22-16-28.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "跳舞",
+      "file": "跳舞.jpg",
+      "tag": "happy",
+      "description": "开心地扭动身体跳舞，动作活泼",
+      "text": "",
+      "keywords": [
+        "跳舞",
+        "舞蹈",
+        "开心",
+        "扭动",
+        "活泼"
+      ],
+      "useWhen": [
+        "跳舞时",
+        "开心时"
+      ],
+      "path": "memes/happy/deepseek娘_跳舞 1_2026-09-28-22-16-28.gif",
+      "caption": "开心地扭动身体跳舞，动作活泼",
+      "search": "跳舞 开心地扭动身体跳舞，动作活泼 跳舞 舞蹈 开心 扭动 活泼 跳舞时 开心时 happy",
+      "preview": "previews/deepseek-chan-emotes/跳舞.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E8%B7%B3%E8%88%9E.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/givemoney/deepseek娘_钱_2026-09-28-22-23-14.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "数钱",
+      "file": "数钱.jpg",
+      "tag": "givemoney",
+      "description": "攥着一把绿色钞票，眼睛闪闪发光",
+      "text": "",
+      "keywords": [
+        "钱",
+        "钞票",
+        "数钱",
+        "发财",
+        "开心"
+      ],
+      "useWhen": [
+        "聊钱时",
+        "发财时"
+      ],
+      "path": "memes/givemoney/deepseek娘_钱_2026-09-28-22-23-14.gif",
+      "caption": "攥着一把绿色钞票，眼睛闪闪发光",
+      "search": "数钱 攥着一把绿色钞票，眼睛闪闪发光 钱 钞票 数钱 发财 开心 聊钱时 发财时 givemoney",
+      "preview": "previews/deepseek-chan-emotes/数钱.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%95%B0%E9%92%B1.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/confused/deepseek娘_问号_2026-09-28-22-26-12.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "满头问号",
+      "file": "满头问号.jpg",
+      "tag": "confused",
+      "description": "头顶冒出一排问号，一脸茫然",
+      "text": "???",
+      "keywords": [
+        "问号",
+        "疑惑",
+        "茫然",
+        "不懂",
+        "困惑"
+      ],
+      "useWhen": [
+        "没听懂时",
+        "疑惑时"
+      ],
+      "path": "memes/confused/deepseek娘_问号_2026-09-28-22-26-12.gif",
+      "caption": "头顶冒出一排问号，一脸茫然",
+      "search": "满头问号 头顶冒出一排问号，一脸茫然 ??? 问号 疑惑 茫然 不懂 困惑 没听懂时 疑惑时 confused",
+      "preview": "previews/deepseek-chan-emotes/满头问号.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%BB%A1%E5%A4%B4%E9%97%AE%E5%8F%B7.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_雨刮器尾巴_2026-09-28-22-31-17.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "雨刮器尾巴",
+      "file": "雨刮器尾巴.jpg",
+      "tag": "daily",
+      "description": "只有一条鲸鱼尾巴左右摆动，像雨刮器一样",
+      "text": "",
+      "keywords": [
+        "尾巴",
+        "鲸鱼尾巴",
+        "摆动",
+        "雨刮器",
+        "可爱"
+      ],
+      "useWhen": [
+        "卖萌时",
+        "没话说时"
+      ],
+      "path": "memes/daily/deepseek娘_雨刮器尾巴_2026-09-28-22-31-17.gif",
+      "caption": "只有一条鲸鱼尾巴左右摆动，像雨刮器一样",
+      "search": "雨刮器尾巴 只有一条鲸鱼尾巴左右摆动，像雨刮器一样 尾巴 鲸鱼尾巴 摆动 雨刮器 可爱 卖萌时 没话说时 daily",
+      "preview": "previews/deepseek-chan-emotes/雨刮器尾巴.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E9%9B%A8%E5%88%AE%E5%99%A8%E5%B0%BE%E5%B7%B4.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/angry/deepseek娘_静音 1_2026-09-28-22-23-35.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "静音·捂耳",
+      "file": "静音·捂耳.jpg",
+      "tag": "angry",
+      "description": "捂住耳朵旁边弹出静音图标，不想听",
+      "text": "🔇",
+      "keywords": [
+        "静音",
+        "捂耳",
+        "不听",
+        "闭嘴",
+        "拒绝"
+      ],
+      "useWhen": [
+        "不想听时",
+        "让对方闭嘴时"
+      ],
+      "path": "memes/angry/deepseek娘_静音 1_2026-09-28-22-23-35.gif",
+      "caption": "捂住耳朵旁边弹出静音图标，不想听",
+      "search": "静音·捂耳 捂住耳朵旁边弹出静音图标，不想听 🔇 静音 捂耳 不听 闭嘴 拒绝 不想听时 让对方闭嘴时 angry",
+      "preview": "previews/deepseek-chan-emotes/静音·捂耳.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E9%9D%99%E9%9F%B3%C2%B7%E6%8D%82%E8%80%B3.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/angry/deepseek娘_静音 2_2026-09-28-22-23-42.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "静音·闭眼",
+      "file": "静音·闭眼.jpg",
+      "tag": "angry",
+      "description": "闭着眼旁边亮着静音图标，彻底屏蔽",
+      "text": "🔇",
+      "keywords": [
+        "静音",
+        "闭眼",
+        "屏蔽",
+        "不听",
+        "拒绝"
+      ],
+      "useWhen": [
+        "不想理人时",
+        "拒绝沟通时"
+      ],
+      "path": "memes/angry/deepseek娘_静音 2_2026-09-28-22-23-42.gif",
+      "caption": "闭着眼旁边亮着静音图标，彻底屏蔽",
+      "search": "静音·闭眼 闭着眼旁边亮着静音图标，彻底屏蔽 🔇 静音 闭眼 屏蔽 不听 拒绝 不想理人时 拒绝沟通时 angry",
+      "preview": "previews/deepseek-chan-emotes/静音·闭眼.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E9%9D%99%E9%9F%B3%C2%B7%E9%97%AD%E7%9C%BC.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/happy/deepseek娘_音乐 1_2026-09-28-22-23-23.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "听歌",
+      "file": "听歌.jpg",
+      "tag": "happy",
+      "description": "戴着耳机听歌，跟着节奏开心摇摆",
+      "text": "",
+      "keywords": [
+        "听歌",
+        "耳机",
+        "音乐",
+        "摇摆",
+        "开心"
+      ],
+      "useWhen": [
+        "听歌时",
+        "放松时"
+      ],
+      "path": "memes/happy/deepseek娘_音乐 1_2026-09-28-22-23-23.gif",
+      "caption": "戴着耳机听歌，跟着节奏开心摇摆",
+      "search": "听歌 戴着耳机听歌，跟着节奏开心摇摆 听歌 耳机 音乐 摇摆 开心 听歌时 放松时 happy",
+      "preview": "previews/deepseek-chan-emotes/听歌.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%90%AC%E6%AD%8C.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/happy/deepseek娘_音乐 3_2026-09-28-22-23-29.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "听歌·二",
+      "file": "听歌·二.jpg",
+      "tag": "happy",
+      "description": "戴着耳机沉浸在音乐里，周围飘着音符",
+      "text": "",
+      "keywords": [
+        "听歌",
+        "耳机",
+        "音符",
+        "沉浸",
+        "音乐"
+      ],
+      "useWhen": [
+        "听歌时",
+        "嗨时"
+      ],
+      "path": "memes/happy/deepseek娘_音乐 3_2026-09-28-22-23-29.gif",
+      "caption": "戴着耳机沉浸在音乐里，周围飘着音符",
+      "search": "听歌·二 戴着耳机沉浸在音乐里，周围飘着音符 听歌 耳机 音符 沉浸 音乐 听歌时 嗨时 happy",
+      "preview": "previews/deepseek-chan-emotes/听歌·二.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%90%AC%E6%AD%8C%C2%B7%E4%BA%8C.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_饮料(能量饮料1)_2026-09-28-22-17-54.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "能量饮料",
+      "file": "能量饮料.jpg",
+      "tag": "daily",
+      "description": "拿着一罐能量饮料，准备补充体力",
+      "text": "",
+      "keywords": [
+        "能量饮料",
+        "饮料",
+        "提神",
+        "补充体力",
+        "加班"
+      ],
+      "useWhen": [
+        "需要提神时",
+        "加班时"
+      ],
+      "path": "memes/daily/deepseek娘_饮料(能量饮料1)_2026-09-28-22-17-54.gif",
+      "caption": "拿着一罐能量饮料，准备补充体力",
+      "search": "能量饮料 拿着一罐能量饮料，准备补充体力 能量饮料 饮料 提神 补充体力 加班 需要提神时 加班时 daily",
+      "preview": "previews/deepseek-chan-emotes/能量饮料.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E8%83%BD%E9%87%8F%E9%A5%AE%E6%96%99.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_饮料(能量饮料2)_2026-09-28-22-18-00.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "喝能量饮料",
+      "file": "喝能量饮料.jpg",
+      "tag": "daily",
+      "description": "仰头灌下能量饮料，瞬间来劲",
+      "text": "",
+      "keywords": [
+        "能量饮料",
+        "喝",
+        "提神",
+        "来劲",
+        "加班"
+      ],
+      "useWhen": [
+        "熬夜提神时",
+        "没精神时"
+      ],
+      "path": "memes/daily/deepseek娘_饮料(能量饮料2)_2026-09-28-22-18-00.gif",
+      "caption": "仰头灌下能量饮料，瞬间来劲",
+      "search": "喝能量饮料 仰头灌下能量饮料，瞬间来劲 能量饮料 喝 提神 来劲 加班 熬夜提神时 没精神时 daily",
+      "preview": "previews/deepseek-chan-emotes/喝能量饮料.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%96%9D%E8%83%BD%E9%87%8F%E9%A5%AE%E6%96%99.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_馋(刀叉)_2026-09-28-22-18-13.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "馋·刀叉",
+      "file": "馋·刀叉.jpg",
+      "tag": "daily",
+      "description": "举着刀叉眼睛发亮，馋得快要流口水",
+      "text": "",
+      "keywords": [
+        "馋",
+        "刀叉",
+        "饿",
+        "流口水",
+        "等吃"
+      ],
+      "useWhen": [
+        "饿了时",
+        "等开饭时"
+      ],
+      "path": "memes/daily/deepseek娘_馋(刀叉)_2026-09-28-22-18-13.gif",
+      "caption": "举着刀叉眼睛发亮，馋得快要流口水",
+      "search": "馋·刀叉 举着刀叉眼睛发亮，馋得快要流口水 馋 刀叉 饿 流口水 等吃 饿了时 等开饭时 daily",
+      "preview": "previews/deepseek-chan-emotes/馋·刀叉.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E9%A6%8B%C2%B7%E5%88%80%E5%8F%89.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_馋(筷子)_2026-09-28-22-18-09.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "馋·筷子",
+      "file": "馋·筷子.jpg",
+      "tag": "daily",
+      "description": "握着筷子眼巴巴等开饭，眼睛闪着星星",
+      "text": "",
+      "keywords": [
+        "馋",
+        "筷子",
+        "饿",
+        "等开饭",
+        "星星眼"
+      ],
+      "useWhen": [
+        "等吃饭时",
+        "饿时"
+      ],
+      "path": "memes/daily/deepseek娘_馋(筷子)_2026-09-28-22-18-09.gif",
+      "caption": "握着筷子眼巴巴等开饭，眼睛闪着星星",
+      "search": "馋·筷子 握着筷子眼巴巴等开饭，眼睛闪着星星 馋 筷子 饿 等开饭 星星眼 等吃饭时 饿时 daily",
+      "preview": "previews/deepseek-chan-emotes/馋·筷子.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E9%A6%8B%C2%B7%E7%AD%B7%E5%AD%90.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/daily/deepseek娘_驾驶_2026-09-28-22-18-04.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "开车",
+      "file": "开车.jpg",
+      "tag": "daily",
+      "description": "双手握着方向盘认真开车",
+      "text": "",
+      "keywords": [
+        "开车",
+        "方向盘",
+        "驾驶",
+        "出行",
+        "认真"
+      ],
+      "useWhen": [
+        "聊开车时",
+        "出行时"
+      ],
+      "path": "memes/daily/deepseek娘_驾驶_2026-09-28-22-18-04.gif",
+      "caption": "双手握着方向盘认真开车",
+      "search": "开车 双手握着方向盘认真开车 开车 方向盘 驾驶 出行 认真 聊开车时 出行时 daily",
+      "preview": "previews/deepseek-chan-emotes/开车.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E5%BC%80%E8%BD%A6.jpg"
+    },
+    {
+      "id": "deepseek-chan-emotes/memes/happy/deepseek娘_魔法_2026-09-28-22-23-03.gif",
+      "pack": "deepseek-chan-emotes",
+      "name": "挥魔法棒",
+      "file": "挥魔法棒.jpg",
+      "tag": "happy",
+      "description": "举起星星魔法棒挥了挥，像在施法",
+      "text": "",
+      "keywords": [
+        "魔法棒",
+        "施法",
+        "星星",
+        "魔法",
+        "变身"
+      ],
+      "useWhen": [
+        "施展魔法时",
+        "卖萌时"
+      ],
+      "path": "memes/happy/deepseek娘_魔法_2026-09-28-22-23-03.gif",
+      "caption": "举起星星魔法棒挥了挥，像在施法",
+      "search": "挥魔法棒 举起星星魔法棒挥了挥，像在施法 魔法棒 施法 星星 魔法 变身 施展魔法时 卖萌时 happy",
+      "preview": "previews/deepseek-chan-emotes/挥魔法棒.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-chan-emotes/%E6%8C%A5%E9%AD%94%E6%B3%95%E6%A3%92.jpg"
     }
   ]
 }
