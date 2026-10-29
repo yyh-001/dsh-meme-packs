@@ -105,3 +105,12 @@
 - 许可标记：`noncommercial-fan`（非商业同人向；角色形象与 EmoteLab 内置动画的权利归各自权利人，本仓库不额外授权；权利人如不希望作品在此分发，可提 issue 要求下架）
 - 维护说明：EmoteLab 导出的 157 个 GIF（原包 157 GIF，500×500 / 50fps，ZIP 482,796,351 bytes）。为适配远程包 200MB 上限，用 ffmpeg 转码为 400×400 / 15fps / 128 色 / Bayer 抖动并保留透明背景，ZIP 133,213,413 bytes。逐张按动画名匹配中文短名、caption、关键词与情绪桶；与 `dafeiyu-2-emotes` 为同一角色的不同画风，157 件均无重复。
 - 使用条件：请遵守 [EmoteLab EULA](https://emotelab.app/eula/) 与工坊页面的使用说明，保留角色来源和 EmoteLab 制作说明，不要将原始角色设计或内置动画宣称为独立创作。
+
+## paopao-eyi
+
+- 名称：傲娇恶役鲸鱼表情包
+- 投稿与署名：[Bolumaile](https://github.com/Bolumaile)（Ayhhbin，[issue #10](https://github.com/yyh-001/dsh-meme-packs/issues/10)）
+- 上游：基于开源形象「鲸鱼娘」资产库 [treapgogo.github.io/deepseek-whale-girl](https://treapgogo.github.io/deepseek-whale-girl/)（设计者 **ZipZipPipe**）的二次创作；表情图由 AI 生成（阿亮出题与提示词），经投稿者切分、清残留并统一为 512×512 透明底单张。非官方作品。
+- 许可标记：`CC-BY-NC-SA-4.0`（按投稿者声明；署名、非商业、相同方式共享）。
+- 维护说明：保留投稿 ZIP 的 20 张 512×512 RGBA 透明底 PNG 原文件；与仓库内现有图库（含两个泡泡包、dafeiyu-blue-emotes 等共 1702 张）逐字节 + dHash 比对，无重复收录。按投稿 metadata 补齐 name/text/useWhen 与情绪桶（happy 6 / shy 6 / angry 6 / confused 2），caption 按画面校对；重建 index.db/manifest 并重新打包，ZIP 6,467,450 bytes。
+- 说明：角色形象为鲸鱼娘二创；如权利人有不同意见可提 issue 要求下架。

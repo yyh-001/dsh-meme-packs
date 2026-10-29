@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-29T12:26:47Z",
+  "updatedAt": "2026-10-29T13:35:30Z",
   "packs": [
     {
       "id": "official-001",
@@ -680,6 +680,53 @@
         "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-blue-emotes/%E7%BA%A2%E5%8C%85%E4%B8%80.jpg",
         "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-blue-emotes/%E9%97%AE%E5%8F%B7.jpg",
         "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-blue-emotes/%E6%91%B8%E5%A4%B4.jpg"
+      ]
+    },
+    {
+      "id": "paopao-eyi",
+      "name": "傲娇恶役鲸鱼表情包",
+      "version": "1.0.0",
+      "description": "泡泡，阿亮家的鲸鱼娘，恶役大小姐版。20 张透明底方形表情（512×512，RGBA）：胜负已分、才没做呢、这就是你的极限、轮到本小姐出手、才不是帮你、这不算、又被我算到了、这次不算数、不许看等。傲娇嘴硬向，适合斗图、贴纸和视频花字。",
+      "maintainer": "Bolumaile",
+      "license": "CC-BY-NC-SA-4.0",
+      "count": 20,
+      "bytes": 6467450,
+      "sha256": "7272c25a9589468502dda37225ef0d1e470055724e87aa18da29aefd31593849",
+      "archiveUrl": "https://github.com/yyh-001/dsh-meme-packs/releases/download/paopao-eyi-v1.0.0/paopao-eyi-v1.0.0.zip",
+      "homepage": "https://treapgogo.github.io/deepseek-whale-girl/",
+      "source": "https://github.com/yyh-001/dsh-meme-packs/issues/10",
+      "preview": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-eyi.jpg",
+      "keywords": [
+        "泡泡",
+        "鲸鱼娘",
+        "恶役",
+        "傲娇",
+        "大小姐",
+        "Q版",
+        "透明底",
+        "斗图"
+      ],
+      "previews": [
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-eyi/%E8%83%9C%E8%B4%9F%E5%B7%B2%E5%88%86.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-eyi/%E6%AD%A3%E4%B8%AD%E4%B8%8B%E6%80%80.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-eyi/%E8%AE%A1%E5%88%92%E9%80%9A.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-eyi/%E8%AE%A1%E5%88%92%E9%80%9A%C2%B7%E5%B0%8F%E5%B9%BD%E7%81%B5.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-eyi/%E6%9C%AC%E5%B0%8F%E5%A7%90%E7%9A%84%E6%9D%B0%E4%BD%9C.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-eyi/%E5%8F%88%E8%A2%AB%E6%88%91%E7%AE%97%E5%88%B0.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-eyi/%E6%89%8D%E6%B2%A1%E5%81%9A%E5%91%A2.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-eyi/%E6%B1%82%E6%9C%AC%E5%B0%8F%E5%A7%90%E5%91%80.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-eyi/%E6%89%8D%E4%B8%8D%E6%98%AF%E5%B8%AE%E4%BD%A0.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-eyi/%E6%89%8D%E4%B8%8D%E5%BF%83%E8%99%9A.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-eyi/%E9%A1%BA%E6%89%8B%E8%80%8C%E5%B7%B2.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-eyi/%E4%B8%8D%E8%AE%B8%E7%9C%8B.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-eyi/%E4%BD%A0%E7%9A%84%E6%9E%81%E9%99%90.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-eyi/%E7%9C%9F%E7%9A%84%E7%94%9F%E6%B0%94%E4%BA%86.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-eyi/%E4%B8%8D%E8%AE%B8%E7%AC%91.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-eyi/%E8%BD%AE%E5%88%B0%E6%9C%AC%E5%B0%8F%E5%A7%90%E5%87%BA%E6%89%8B.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-eyi/%E5%86%8D%E7%BB%83%E7%BB%83%E5%90%A7.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-eyi/%E5%B0%B1%E8%BF%99%E7%82%B9%E6%9C%AC%E4%BA%8B.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-eyi/%E8%BF%99%E4%B8%8D%E7%AE%97.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-eyi/%E8%BF%99%E6%AC%A1%E4%B8%8D%E7%AE%97%E6%95%B0.jpg"
       ]
     }
   ]

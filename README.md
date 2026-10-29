@@ -21,6 +21,7 @@
 | 猫鲸表情包 | 1.0.0 | 64 张 | CC0-1.0 | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/deepseek-maojing-v1.0.0/deepseek-maojing-v1.0.0.zip)（上游专题 65 件，去重 1 件） |
 | 大肥鱼2.0 动态表情包 | 1.0.0 | 239 张 | noncommercial-fan | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/dafeiyu-2-emotes-v1.0.0/dafeiyu-2-emotes-v1.0.0.zip)（300px/16fps，162.8MB，需 dsh-meme ≥0.1.69） |
 | 蓝色大肥鱼动态表情包 | 1.0.0 | 157 张 | noncommercial-fan | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/dafeiyu-blue-emotes-v1.0.0/dafeiyu-blue-emotes-v1.0.0.zip)（原包 500px/50fps，转码 400px/15fps，133.2MB，需 dsh-meme ≥0.1.69） |
+| 傲娇恶役鲸鱼表情包 | 1.0.0 | 20 张 | CC-BY-NC-SA-4.0 | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/paopao-eyi-v1.0.0/paopao-eyi-v1.0.0.zip)（512px 透明底 PNG，6.2MB） |
 
 ## 导入方法
 
