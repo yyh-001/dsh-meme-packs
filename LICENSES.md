@@ -97,3 +97,11 @@
 - 许可标记：`noncommercial-fan`（非商业同人向；角色形象、模型与 EmoteLab 内置动画的权利归各自权利人，本仓库不额外授权；权利人如不希望作品在此分发，可提 issue 要求下架）
 - 维护说明：使用 EmoteLab 的「场景列表 / 导出所有场景」批量导出 239 个动画（300×300 / 16fps GIF，原始字节，ZIP 170,699,011 bytes）。逐张按动画名匹配中文短名、caption、关键词与情绪桶；未做重编码。因超过旧版 100MB 上限，本包要求 **dsh-meme ≥0.1.69**（远程包上限 200MB）。
 - 使用条件：请遵守 [EmoteLab EULA](https://emotelab.app/eula/) 与工坊页面的使用说明，保留角色来源、模型作者和 EmoteLab 制作说明，不要将原始角色设计或内置动画宣称为独立创作。
+
+## dafeiyu-blue-emotes
+
+- 名称：蓝色大肥鱼动态表情包
+- 角色与模型：Steam 创意工坊角色 [大肥鱼deepseek](https://steamcommunity.com/sharedfiles/filedetails/?id=3811197171) 的粗描边 chibi 版本（描述署名 **上善无形、ZipZipPipe**）；导出工具：[EmoteLab](https://emotelab.app/)
+- 许可标记：`noncommercial-fan`（非商业同人向；角色形象与 EmoteLab 内置动画的权利归各自权利人，本仓库不额外授权；权利人如不希望作品在此分发，可提 issue 要求下架）
+- 维护说明：EmoteLab 导出的 157 个 GIF（原包 157 GIF，500×500 / 50fps，ZIP 482,796,351 bytes）。为适配远程包 200MB 上限，用 ffmpeg 转码为 400×400 / 15fps / 128 色 / Bayer 抖动并保留透明背景，ZIP 133,213,413 bytes。逐张按动画名匹配中文短名、caption、关键词与情绪桶；与 `dafeiyu-2-emotes` 为同一角色的不同画风，157 件均无重复。
+- 使用条件：请遵守 [EmoteLab EULA](https://emotelab.app/eula/) 与工坊页面的使用说明，保留角色来源和 EmoteLab 制作说明，不要将原始角色设计或内置动画宣称为独立创作。

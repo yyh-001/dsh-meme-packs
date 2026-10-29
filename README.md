@@ -20,6 +20,7 @@
 | DeepSeek娘动态表情包 | 1.0.0 | 161 张 | noncommercial-fan | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/deepseek-chan-emotes-v1.0.0/deepseek-chan-emotes-v1.0.0.zip)（256px 转码，原包见[上游](https://github.com/BrickAZ/deepseek-chan-emotes)） |
 | 猫鲸表情包 | 1.0.0 | 64 张 | CC0-1.0 | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/deepseek-maojing-v1.0.0/deepseek-maojing-v1.0.0.zip)（上游专题 65 件，去重 1 件） |
 | 大肥鱼2.0 动态表情包 | 1.0.0 | 239 张 | noncommercial-fan | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/dafeiyu-2-emotes-v1.0.0/dafeiyu-2-emotes-v1.0.0.zip)（300px/16fps，162.8MB，需 dsh-meme ≥0.1.69） |
+| 蓝色大肥鱼动态表情包 | 1.0.0 | 157 张 | noncommercial-fan | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/dafeiyu-blue-emotes-v1.0.0/dafeiyu-blue-emotes-v1.0.0.zip)（原包 500px/50fps，转码 400px/15fps，133.2MB，需 dsh-meme ≥0.1.69） |
 
 ## 导入方法
 

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-29T10:21:49Z",
+  "updatedAt": "2026-10-29T12:26:47Z",
   "packs": [
     {
       "id": "official-001",
@@ -639,6 +639,47 @@
         "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-2-emotes/%E7%82%B9%E8%B5%9E.jpg",
         "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-2-emotes/%E4%B8%8A%E7%8F%AD.jpg",
         "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-2-emotes/%E6%AF%94%E8%80%B6.jpg"
+      ]
+    },
+    {
+      "id": "dafeiyu-blue-emotes",
+      "name": "蓝色大肥鱼动态表情包",
+      "version": "1.0.0",
+      "description": "蓝色大肥鱼（大肥鱼deepseek 工坊角色的粗描边 chibi 版本）EmoteLab 导出的 157 个 GIF 动作：通知提示、生气、到达、吃、喝、害羞、哭、上班摸鱼、睡觉、比心等。原包 500×500 / 50fps，为满足 200MB 远程包上限转码为 400×400 / 15fps（128 色，Bayer 抖动，保留透明背景）。需要 dsh-meme ≥0.1.69（远程包上限 200MB）。",
+      "maintainer": "yyh-001",
+      "license": "noncommercial-fan",
+      "count": 157,
+      "bytes": 133213413,
+      "sha256": "39a3a287db2cab3c35b06223dbf4647d16c2c104a75bd7f6198660056803bdb9",
+      "archiveUrl": "https://github.com/yyh-001/dsh-meme-packs/releases/download/dafeiyu-blue-emotes-v1.0.0/dafeiyu-blue-emotes-v1.0.0.zip",
+      "homepage": "https://emotelab.app/",
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3811197171",
+      "preview": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-blue-emotes.jpg",
+      "keywords": [
+        "蓝色大肥鱼",
+        "大肥鱼",
+        "DeepSeek娘",
+        "GIF",
+        "动图",
+        "EmoteLab"
+      ],
+      "previews": [
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-blue-emotes/%E9%80%9A%E7%9F%A5%E6%8F%90%E7%A4%BA.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-blue-emotes/%E7%94%9F%E6%B0%94.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-blue-emotes/%E6%8B%BF%E5%8B%BA%E5%AD%90%E5%88%B0%E8%BE%BE.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-blue-emotes/%E5%90%83%E7%88%86%E7%B1%B3%E8%8A%B1.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-blue-emotes/%E5%AE%B3%E7%BE%9E%E4%B8%80.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-blue-emotes/%E5%A4%A7%E5%93%AD.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-blue-emotes/%E7%88%B1%E5%BF%83%E4%BA%8C.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-blue-emotes/%E7%82%B9%E8%B5%9E.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-blue-emotes/%E5%A4%A7%E7%AC%91.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-blue-emotes/%E7%9C%A8%E7%9C%BC%E5%8D%96%E8%90%8C.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-blue-emotes/%E5%9C%B0%E7%8B%B1%E6%91%87.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-blue-emotes/%E4%B8%8A%E7%8F%AD.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-blue-emotes/%E7%9D%A1%E7%9D%80%E4%BA%86.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-blue-emotes/%E7%BA%A2%E5%8C%85%E4%B8%80.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-blue-emotes/%E9%97%AE%E5%8F%B7.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-blue-emotes/%E6%91%B8%E5%A4%B4.jpg"
       ]
     }
   ]
