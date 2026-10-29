@@ -78,7 +78,7 @@
 - 上游：[`BrickAZ/deepseek-chan-emotes`](https://github.com/BrickAZ/deepseek-chan-emotes)（v1.0.0，161 个 GIF）
 - 角色来源：[蓝色大肥鱼 — Steam 创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3807575879)，工坊条目作者 **飞天豆之助**；制作工具及内置动画资源：[EmoteLab](https://emotelab.app/)
 - 许可标记：`noncommercial-fan`（非商业同人向；角色形象、模型与 EmoteLab 内置动画的权利归各自权利人，本仓库不额外授权；权利人如不希望作品在此分发，可提 issue 要求下架）
-- 维护说明：上游原包为 500×500 / 30fps，ZIP 约 593MB，超过 dsh-meme 远程包 100MB 上限；本市场版本转码为 256×256 / 15fps / 128 色 GIF（87,271,781 bytes），保留全部 161 个动作与原始文件名。逐张核对画面后补齐中文短名、caption、关键词与情绪桶；需要原画质请下载上游 v1.0.0。
+- 维护说明：上游原包为 500×500 / 30fps，ZIP 约 593MB，超过 dsh-meme 远程包上限（当时 100MB，现 200MB）；本市场版本转码为 256×256 / 15fps / 128 色 GIF（87,271,781 bytes），保留全部 161 个动作与原始文件名。逐张核对画面后补齐中文短名、caption、关键词与情绪桶；需要原画质请下载上游 v1.0.0。
 - 使用条件：请遵守上游 README 与 [EmoteLab EULA](https://emotelab.app/eula/)，保留角色来源和 EmoteLab 制作说明，不要将原始角色设计或内置动画宣称为独立创作。
 
 ## deepseek-maojing
@@ -89,3 +89,11 @@
 - 许可标记：`CC0-1.0`（专题页与投稿记录标注 CC0 公共领域；本仓库按 CC0 收录，作者与来源信息保留作致谢）
 - 维护说明：上游专题共 65 件（54 WEBP + 11 GIF）。其中「尾巴立了」与 whale-girl-emoji 已有作品为同一图的不同分辨率版本（dHash 距离 0，480px），按去重规则未重复收录；本包含 64 件（53 WEBP + 11 GIF）。原图字节未改动，按画面内容重命名；逐张补齐中文短名、caption、关键词与插件支持的情绪桶。
 - 说明：角色形象为 DeepSeek娘 / 蓝色大肥鱼的二创；CC0 标注以上游投稿记录为准，如权利人有不同意见可提 issue 要求下架。
+
+## dafeiyu-2-emotes
+
+- 名称：大肥鱼2.0 动态表情包
+- 角色与模型：Steam 创意工坊角色 [大肥鱼deepseek](https://steamcommunity.com/sharedfiles/filedetails/?id=3811197171)（`大肥鱼2.0|CoffeeBean`，描述署名 **上善无形、ZipZipPipe**）；模型 **CoffeeBean** 由 **0x4682B4 (Model Artist)** 制作；导出工具：[EmoteLab](https://emotelab.app/)
+- 许可标记：`noncommercial-fan`（非商业同人向；角色形象、模型与 EmoteLab 内置动画的权利归各自权利人，本仓库不额外授权；权利人如不希望作品在此分发，可提 issue 要求下架）
+- 维护说明：使用 EmoteLab 的「场景列表 / 导出所有场景」批量导出 239 个动画（300×300 / 16fps GIF，原始字节，ZIP 170,699,011 bytes）。逐张按动画名匹配中文短名、caption、关键词与情绪桶；未做重编码。因超过旧版 100MB 上限，本包要求 **dsh-meme ≥0.1.69**（远程包上限 200MB）。
+- 使用条件：请遵守 [EmoteLab EULA](https://emotelab.app/eula/) 与工坊页面的使用说明，保留角色来源、模型作者和 EmoteLab 制作说明，不要将原始角色设计或内置动画宣称为独立创作。

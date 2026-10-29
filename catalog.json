@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-28T16:29:34Z",
+  "updatedAt": "2026-10-29T10:21:49Z",
   "packs": [
     {
       "id": "official-001",
@@ -580,6 +580,65 @@
         "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-maojing/%E8%B9%AD%E8%B9%AD%E6%89%8B.jpg",
         "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-maojing/%E4%BA%B2%E4%BA%B2.jpg",
         "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/deepseek-maojing/%E7%A2%8E%E7%A2%8E%E5%BF%B5.jpg"
+      ]
+    },
+    {
+      "id": "dafeiyu-2-emotes",
+      "name": "大肥鱼2.0 动态表情包",
+      "version": "1.0.0",
+      "description": "大肥鱼2.0（CoffeeBean 模型 + 大肥鱼deepseek 工坊角色）EmoteLab 导出的 239 个 GIF 动作：通知提示、生气、到达、吃、喝、害羞、哭、上班摸鱼、睡觉、比心等。300×300 / 16fps，原始字节。需要 dsh-meme ≥0.1.69（远程包上限 200MB）。",
+      "maintainer": "0x4682B4 (Model Artist)",
+      "license": "noncommercial-fan",
+      "count": 239,
+      "bytes": 170699011,
+      "sha256": "fec3d7c61106f5db4a9b5e42561169834a627404326d5fd8b3c7ec34165ab07f",
+      "archiveUrl": "https://github.com/yyh-001/dsh-meme-packs/releases/download/dafeiyu-2-emotes-v1.0.0/dafeiyu-2-emotes-v1.0.0.zip",
+      "homepage": "https://emotelab.app/",
+      "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3811197171",
+      "preview": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-2-emotes.jpg",
+      "keywords": [
+        "大肥鱼2.0",
+        "大肥鱼",
+        "DeepSeek娘",
+        "GIF",
+        "动图",
+        "EmoteLab"
+      ],
+      "previews": [
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-2-emotes/%E9%80%9A%E7%9F%A5%E6%8F%90%E7%A4%BA.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-2-emotes/%E7%94%9F%E6%B0%94.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-2-emotes/%E5%88%B0%E8%BE%BE.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-2-emotes/%E5%90%90%E8%88%8C%E4%B8%80.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-2-emotes/%E8%84%B8%E7%BA%A2%E4%B8%80.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-2-emotes/%E7%9C%8B%E5%B0%8F%E9%BB%84%E4%B9%A6.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-2-emotes/%E5%B0%8F%E8%9B%8B%E7%B3%95.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-2-emotes/%E5%BA%86%E7%A5%9D.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-2-emotes/%E5%B9%B2%E6%9D%AF.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-2-emotes/%E5%B0%8F%E4%B8%91%E4%B8%80.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-2-emotes/%E5%A4%A7%E5%93%AD.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-2-emotes/%E5%9C%B0%E7%8B%B1%E6%91%87.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-2-emotes/%E5%BD%93%E5%9C%BA%E5%8E%BB%E4%B8%96.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-2-emotes/%E5%A4%B4%E6%99%95.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-2-emotes/%E5%90%83%E7%88%86%E7%B1%B3%E8%8A%B1.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-2-emotes/%E6%89%93%E6%B8%B8%E6%88%8F.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-2-emotes/%E7%A4%BC%E7%89%A9%E4%B8%80.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-2-emotes/%E6%8B%9B%E6%89%8B.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-2-emotes/%E7%81%B5%E5%85%89%E4%B8%80%E9%97%AA.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-2-emotes/%E5%A4%A7%E7%AC%91.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-2-emotes/%E9%80%92%E6%83%85%E4%B9%A6.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-2-emotes/%E7%88%B1%E5%BF%83%E4%BA%8C.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-2-emotes/%E6%8C%A5%E9%AD%94%E6%B3%95%E6%A3%92.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-2-emotes/%E6%95%B0%E9%92%B1.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-2-emotes/%E5%90%AC%E6%AD%8C%E4%B8%80.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-2-emotes/%E6%91%B8%E5%A4%B4.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-2-emotes/%E5%8A%A0%E8%BD%BD%E4%B8%AD.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-2-emotes/Popcat%E5%BC%A0%E5%98%B4.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-2-emotes/%E5%AE%B3%E7%BE%9E%E4%B8%80.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-2-emotes/%E7%9D%A1%E7%9D%80%E4%BA%86.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-2-emotes/%E4%B8%80%E5%88%87%E9%83%BD%E5%A5%BD%E4%B8%89.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-2-emotes/%E7%82%B9%E8%B5%9E.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-2-emotes/%E4%B8%8A%E7%8F%AD.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-2-emotes/%E6%AF%94%E8%80%B6.jpg"
       ]
     }
   ]
