@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-01T11:53:14Z",
+  "updatedAt": "2026-11-01T14:49:43Z",
   "about": "每条记录是一张表情。用 name、description、text、keywords、useWhen、search 检索。name 是画面内容的短名，也是预览文件名。path 是当前图库包里的原文件。imageUrl 有值时可以直接取图发送。",
   "packs": {
     "official-001": {
@@ -86,6 +86,12 @@
       "version": "1.0.0",
       "license": "CC-BY-NC-SA-4.0",
       "archiveUrl": "https://github.com/yyh-001/dsh-meme-packs/releases/download/paopao-eyi-v1.0.0/paopao-eyi-v1.0.0.zip"
+    },
+    "yu-001": {
+      "name": "鱼·Q版",
+      "version": "1.1.0",
+      "license": "personal",
+      "archiveUrl": "https://github.com/yyh-001/dsh-meme-packs/releases/download/yu-001-v1.1.0/yu-001-v1.1.0.zip"
     }
   },
   "stickers": [
@@ -32798,6 +32804,497 @@
       "search": "这次不算数 慌张：抬手拦住，这次不算数 这次不算数 这次不算数 慌张 恶役 不算数 耍赖 拦手 泡泡 鲸鱼娘 傲娇 大小姐 Q版 透明底 斗图 贴纸 耍赖不认账时 输不起时 confused",
       "preview": "previews/paopao-eyi/这次不算数.jpg",
       "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-eyi/%E8%BF%99%E6%AC%A1%E4%B8%8D%E7%AE%97%E6%95%B0.jpg"
+    },
+    {
+      "id": "yu-001/memes/happy/lol.png",
+      "pack": "yu-001",
+      "name": "笑死",
+      "file": "笑死.jpg",
+      "tag": "happy",
+      "description": "闭眼大笑，笑到停不下来",
+      "text": "笑死",
+      "keywords": [
+        "笑死",
+        "笑",
+        "哈哈",
+        "好笑",
+        "绷不住",
+        "鱼",
+        "鲸鱼娘",
+        "Q版",
+        "白底",
+        "表情包"
+      ],
+      "useWhen": [
+        "看到好笑内容时",
+        "附和玩笑时"
+      ],
+      "path": "memes/happy/lol.png",
+      "caption": "闭眼大笑，笑到停不下来",
+      "search": "笑死 闭眼大笑，笑到停不下来 笑死 笑死 笑 哈哈 好笑 绷不住 鱼 鲸鱼娘 Q版 白底 表情包 看到好笑内容时 附和玩笑时 happy",
+      "preview": "previews/yu-001/笑死.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/yu-001/%E7%AC%91%E6%AD%BB.jpg"
+    },
+    {
+      "id": "yu-001/memes/happy/thanks.png",
+      "pack": "yu-001",
+      "name": "谢谢",
+      "file": "谢谢.jpg",
+      "tag": "happy",
+      "description": "闭眼微笑，耳朵旁冒爱心",
+      "text": "谢谢",
+      "keywords": [
+        "谢谢",
+        "感谢",
+        "被夸",
+        "爱心",
+        "鱼",
+        "鲸鱼娘",
+        "Q版",
+        "白底",
+        "表情包"
+      ],
+      "useWhen": [
+        "道谢时",
+        "被夸时"
+      ],
+      "path": "memes/happy/thanks.png",
+      "caption": "闭眼微笑，耳朵旁冒爱心",
+      "search": "谢谢 闭眼微笑，耳朵旁冒爱心 谢谢 谢谢 感谢 被夸 爱心 鱼 鲸鱼娘 Q版 白底 表情包 道谢时 被夸时 happy",
+      "preview": "previews/yu-001/谢谢.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/yu-001/%E8%B0%A2%E8%B0%A2.jpg"
+    },
+    {
+      "id": "yu-001/memes/happy/yay.png",
+      "pack": "yu-001",
+      "name": "好耶",
+      "file": "好耶.jpg",
+      "tag": "happy",
+      "description": "闭眼欢呼，头顶冒爱心",
+      "text": "好耶",
+      "keywords": [
+        "好耶",
+        "开心",
+        "高兴",
+        "庆祝",
+        "爱心",
+        "鱼",
+        "鲸鱼娘",
+        "Q版",
+        "白底",
+        "表情包"
+      ],
+      "useWhen": [
+        "开心时",
+        "庆祝好消息时"
+      ],
+      "path": "memes/happy/yay.png",
+      "caption": "闭眼欢呼，头顶冒爱心",
+      "search": "好耶 闭眼欢呼，头顶冒爱心 好耶 好耶 开心 高兴 庆祝 爱心 鱼 鲸鱼娘 Q版 白底 表情包 开心时 庆祝好消息时 happy",
+      "preview": "previews/yu-001/好耶.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/yu-001/%E5%A5%BD%E8%80%B6.jpg"
+    },
+    {
+      "id": "yu-001/memes/happy/yay_anim.gif",
+      "pack": "yu-001",
+      "name": "好耶·晃动",
+      "file": "好耶·晃动.jpg",
+      "tag": "happy",
+      "description": "闭眼欢呼，爱心轻轻晃",
+      "text": "好耶",
+      "keywords": [
+        "好耶·晃动",
+        "好耶",
+        "开心",
+        "高兴",
+        "庆祝",
+        "爱心",
+        "动图",
+        "晃",
+        "鱼",
+        "鲸鱼娘",
+        "Q版",
+        "白底",
+        "表情包"
+      ],
+      "useWhen": [
+        "开心时",
+        "庆祝好消息时"
+      ],
+      "path": "memes/happy/yay_anim.gif",
+      "caption": "闭眼欢呼，爱心轻轻晃",
+      "search": "好耶·晃动 闭眼欢呼，爱心轻轻晃 好耶 好耶·晃动 好耶 开心 高兴 庆祝 爱心 动图 晃 鱼 鲸鱼娘 Q版 白底 表情包 开心时 庆祝好消息时 happy",
+      "preview": "previews/yu-001/好耶·晃动.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/yu-001/%E5%A5%BD%E8%80%B6%C2%B7%E6%99%83%E5%8A%A8.jpg"
+    },
+    {
+      "id": "yu-001/memes/angry/angry.png",
+      "pack": "yu-001",
+      "name": "别吵",
+      "file": "别吵.jpg",
+      "tag": "angry",
+      "description": "皱眉瞪眼，板着脸喝止",
+      "text": "别吵",
+      "keywords": [
+        "别吵",
+        "安静",
+        "闭嘴",
+        "生气",
+        "喝止",
+        "鱼",
+        "鲸鱼娘",
+        "Q版",
+        "白底",
+        "表情包"
+      ],
+      "useWhen": [
+        "对方太吵时",
+        "想让人闭嘴时"
+      ],
+      "path": "memes/angry/angry.png",
+      "caption": "皱眉瞪眼，板着脸喝止",
+      "search": "别吵 皱眉瞪眼，板着脸喝止 别吵 别吵 安静 闭嘴 生气 喝止 鱼 鲸鱼娘 Q版 白底 表情包 对方太吵时 想让人闭嘴时 angry",
+      "preview": "previews/yu-001/别吵.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/yu-001/%E5%88%AB%E5%90%B5.jpg"
+    },
+    {
+      "id": "yu-001/memes/angry/angry_anim.gif",
+      "pack": "yu-001",
+      "name": "别吵·眨眼",
+      "file": "别吵·眨眼.jpg",
+      "tag": "angry",
+      "description": "皱眉瞪眼，眨两下眼睛继续瞪",
+      "text": "别吵",
+      "keywords": [
+        "别吵·眨眼",
+        "别吵",
+        "安静",
+        "闭嘴",
+        "生气",
+        "眨眼",
+        "动图",
+        "鱼",
+        "鲸鱼娘",
+        "Q版",
+        "白底",
+        "表情包"
+      ],
+      "useWhen": [
+        "对方太吵时",
+        "想让人闭嘴时"
+      ],
+      "path": "memes/angry/angry_anim.gif",
+      "caption": "皱眉瞪眼，眨两下眼睛继续瞪",
+      "search": "别吵·眨眼 皱眉瞪眼，眨两下眼睛继续瞪 别吵 别吵·眨眼 别吵 安静 闭嘴 生气 眨眼 动图 鱼 鲸鱼娘 Q版 白底 表情包 对方太吵时 想让人闭嘴时 angry",
+      "preview": "previews/yu-001/别吵·眨眼.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/yu-001/%E5%88%AB%E5%90%B5%C2%B7%E7%9C%A8%E7%9C%BC.jpg"
+    },
+    {
+      "id": "yu-001/memes/angry/hmph.png",
+      "pack": "yu-001",
+      "name": "哼",
+      "file": "哼.jpg",
+      "tag": "angry",
+      "description": "撇嘴扭头，一脸不服气",
+      "text": "哼",
+      "keywords": [
+        "哼",
+        "不服",
+        "生气",
+        "小脾气",
+        "傲娇",
+        "鱼",
+        "鲸鱼娘",
+        "Q版",
+        "白底",
+        "表情包"
+      ],
+      "useWhen": [
+        "不服气时",
+        "闹小脾气时"
+      ],
+      "path": "memes/angry/hmph.png",
+      "caption": "撇嘴扭头，一脸不服气",
+      "search": "哼 撇嘴扭头，一脸不服气 哼 哼 不服 生气 小脾气 傲娇 鱼 鲸鱼娘 Q版 白底 表情包 不服气时 闹小脾气时 angry",
+      "preview": "previews/yu-001/哼.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/yu-001/%E5%93%BC.jpg"
+    },
+    {
+      "id": "yu-001/memes/sad/cry.png",
+      "pack": "yu-001",
+      "name": "呜呜",
+      "file": "呜呜.jpg",
+      "tag": "sad",
+      "description": "闭眼流泪，脸上挂着泪痕",
+      "text": "呜呜",
+      "keywords": [
+        "呜呜",
+        "哭",
+        "委屈",
+        "难过",
+        "眼泪",
+        "鱼",
+        "鲸鱼娘",
+        "Q版",
+        "白底",
+        "表情包"
+      ],
+      "useWhen": [
+        "委屈时",
+        "想撒娇求安慰时"
+      ],
+      "path": "memes/sad/cry.png",
+      "caption": "闭眼流泪，脸上挂着泪痕",
+      "search": "呜呜 闭眼流泪，脸上挂着泪痕 呜呜 呜呜 哭 委屈 难过 眼泪 鱼 鲸鱼娘 Q版 白底 表情包 委屈时 想撒娇求安慰时 sad",
+      "preview": "previews/yu-001/呜呜.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/yu-001/%E5%91%9C%E5%91%9C.jpg"
+    },
+    {
+      "id": "yu-001/memes/sad/cry_anim.gif",
+      "pack": "yu-001",
+      "name": "呜呜·掉眼泪",
+      "file": "呜呜·掉眼泪.jpg",
+      "tag": "sad",
+      "description": "闭眼抽泣，泪珠一颗颗掉",
+      "text": "呜呜",
+      "keywords": [
+        "呜呜·掉眼泪",
+        "呜呜",
+        "哭",
+        "委屈",
+        "掉泪",
+        "动图",
+        "鱼",
+        "鲸鱼娘",
+        "Q版",
+        "白底",
+        "表情包"
+      ],
+      "useWhen": [
+        "委屈时",
+        "想撒娇求安慰时"
+      ],
+      "path": "memes/sad/cry_anim.gif",
+      "caption": "闭眼抽泣，泪珠一颗颗掉",
+      "search": "呜呜·掉眼泪 闭眼抽泣，泪珠一颗颗掉 呜呜 呜呜·掉眼泪 呜呜 哭 委屈 掉泪 动图 鱼 鲸鱼娘 Q版 白底 表情包 委屈时 想撒娇求安慰时 sad",
+      "preview": "previews/yu-001/呜呜·掉眼泪.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/yu-001/%E5%91%9C%E5%91%9C%C2%B7%E6%8E%89%E7%9C%BC%E6%B3%AA.jpg"
+    },
+    {
+      "id": "yu-001/memes/sad/silent.png",
+      "pack": "yu-001",
+      "name": "无语",
+      "file": "无语.jpg",
+      "tag": "sigh",
+      "description": "面无表情，头顶一排省略号",
+      "text": "......",
+      "keywords": [
+        "无语",
+        "......",
+        "沉默",
+        "省略号",
+        "不知道说什么",
+        "鱼",
+        "鲸鱼娘",
+        "Q版",
+        "白底",
+        "表情包"
+      ],
+      "useWhen": [
+        "无话可说时",
+        "看到离谱内容时"
+      ],
+      "path": "memes/sad/silent.png",
+      "caption": "面无表情，头顶一排省略号",
+      "search": "无语 面无表情，头顶一排省略号 ...... 无语 ...... 沉默 省略号 不知道说什么 鱼 鲸鱼娘 Q版 白底 表情包 无话可说时 看到离谱内容时 sigh",
+      "preview": "previews/yu-001/无语.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/yu-001/%E6%97%A0%E8%AF%AD.jpg"
+    },
+    {
+      "id": "yu-001/memes/confused/sure.png",
+      "pack": "yu-001",
+      "name": "你确定？",
+      "file": "你确定？.jpg",
+      "tag": "confused",
+      "description": "瞪大眼睛，旁边飘着问号",
+      "text": "你确定?",
+      "keywords": [
+        "你确定？",
+        "你确定?",
+        "你确定",
+        "疑问",
+        "问号",
+        "真的吗",
+        "怀疑",
+        "鱼",
+        "鲸鱼娘",
+        "Q版",
+        "白底",
+        "表情包"
+      ],
+      "useWhen": [
+        "反问对方时",
+        "不敢相信时"
+      ],
+      "path": "memes/confused/sure.png",
+      "caption": "瞪大眼睛，旁边飘着问号",
+      "search": "你确定？ 瞪大眼睛，旁边飘着问号 你确定? 你确定？ 你确定? 你确定 疑问 问号 真的吗 怀疑 鱼 鲸鱼娘 Q版 白底 表情包 反问对方时 不敢相信时 confused",
+      "preview": "previews/yu-001/你确定？.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/yu-001/%E4%BD%A0%E7%A1%AE%E5%AE%9A%EF%BC%9F.jpg"
+    },
+    {
+      "id": "yu-001/memes/daily/bail.png",
+      "pack": "yu-001",
+      "name": "先撤了",
+      "file": "先撤了.jpg",
+      "tag": "daily",
+      "description": "冒汗开溜，身边带速度线",
+      "text": "先撤了",
+      "keywords": [
+        "先撤了",
+        "撤",
+        "溜",
+        "走了",
+        "下班",
+        "逃",
+        "冒汗",
+        "鱼",
+        "鲸鱼娘",
+        "Q版",
+        "白底",
+        "表情包"
+      ],
+      "useWhen": [
+        "想开溜时",
+        "结束话题时"
+      ],
+      "path": "memes/daily/bail.png",
+      "caption": "冒汗开溜，身边带速度线",
+      "search": "先撤了 冒汗开溜，身边带速度线 先撤了 先撤了 撤 溜 走了 下班 逃 冒汗 鱼 鲸鱼娘 Q版 白底 表情包 想开溜时 结束话题时 daily",
+      "preview": "previews/yu-001/先撤了.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/yu-001/%E5%85%88%E6%92%A4%E4%BA%86.jpg"
+    },
+    {
+      "id": "yu-001/memes/daily/hi.png",
+      "pack": "yu-001",
+      "name": "嗨",
+      "file": "嗨.jpg",
+      "tag": "daily",
+      "description": "眯眼笑着打招呼",
+      "text": "嗨",
+      "keywords": [
+        "嗨",
+        "你好",
+        "打招呼",
+        "挥手",
+        "鱼",
+        "鲸鱼娘",
+        "Q版",
+        "白底",
+        "表情包"
+      ],
+      "useWhen": [
+        "打招呼时",
+        "刚上线时"
+      ],
+      "path": "memes/daily/hi.png",
+      "caption": "眯眼笑着打招呼",
+      "search": "嗨 眯眼笑着打招呼 嗨 嗨 你好 打招呼 挥手 鱼 鲸鱼娘 Q版 白底 表情包 打招呼时 刚上线时 daily",
+      "preview": "previews/yu-001/嗨.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/yu-001/%E5%97%A8.jpg"
+    },
+    {
+      "id": "yu-001/memes/daily/hi_anim.gif",
+      "pack": "yu-001",
+      "name": "嗨·点头",
+      "file": "嗨·点头.jpg",
+      "tag": "daily",
+      "description": "眯眼点头打招呼，眨两下眼",
+      "text": "嗨",
+      "keywords": [
+        "嗨·点头",
+        "嗨",
+        "你好",
+        "打招呼",
+        "点头",
+        "眨眼",
+        "动图",
+        "鱼",
+        "鲸鱼娘",
+        "Q版",
+        "白底",
+        "表情包"
+      ],
+      "useWhen": [
+        "打招呼时",
+        "刚上线时"
+      ],
+      "path": "memes/daily/hi_anim.gif",
+      "caption": "眯眼点头打招呼，眨两下眼",
+      "search": "嗨·点头 眯眼点头打招呼，眨两下眼 嗨 嗨·点头 嗨 你好 打招呼 点头 眨眼 动图 鱼 鲸鱼娘 Q版 白底 表情包 打招呼时 刚上线时 daily",
+      "preview": "previews/yu-001/嗨·点头.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/yu-001/%E5%97%A8%C2%B7%E7%82%B9%E5%A4%B4.jpg"
+    },
+    {
+      "id": "yu-001/memes/daily/ok.png",
+      "pack": "yu-001",
+      "name": "好",
+      "file": "好.jpg",
+      "tag": "daily",
+      "description": "微笑答应，像在点头",
+      "text": "好",
+      "keywords": [
+        "好",
+        "好的",
+        "收到",
+        "ok",
+        "同意",
+        "点头",
+        "鱼",
+        "鲸鱼娘",
+        "Q版",
+        "白底",
+        "表情包"
+      ],
+      "useWhen": [
+        "答应帮忙时",
+        "收到消息时"
+      ],
+      "path": "memes/daily/ok.png",
+      "caption": "微笑答应，像在点头",
+      "search": "好 微笑答应，像在点头 好 好 好的 收到 ok 同意 点头 鱼 鲸鱼娘 Q版 白底 表情包 答应帮忙时 收到消息时 daily",
+      "preview": "previews/yu-001/好.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/yu-001/%E5%A5%BD.jpg"
+    },
+    {
+      "id": "yu-001/memes/sleep/sleep.png",
+      "pack": "yu-001",
+      "name": "困了",
+      "file": "困了.jpg",
+      "tag": "sleep",
+      "description": "闭眼打哈欠，头顶飘着 Z",
+      "text": "困了",
+      "keywords": [
+        "困了",
+        "困",
+        "睡觉",
+        "晚安",
+        "打哈欠",
+        "鱼",
+        "鲸鱼娘",
+        "Q版",
+        "白底",
+        "表情包"
+      ],
+      "useWhen": [
+        "犯困时",
+        "准备睡觉时"
+      ],
+      "path": "memes/sleep/sleep.png",
+      "caption": "闭眼打哈欠，头顶飘着 Z",
+      "search": "困了 闭眼打哈欠，头顶飘着 Z 困了 困了 困 睡觉 晚安 打哈欠 鱼 鲸鱼娘 Q版 白底 表情包 犯困时 准备睡觉时 sleep",
+      "preview": "previews/yu-001/困了.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/yu-001/%E5%9B%B0%E4%BA%86.jpg"
     }
   ]
 }

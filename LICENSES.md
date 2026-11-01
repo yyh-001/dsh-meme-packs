@@ -114,3 +114,12 @@
 - 许可标记：`CC-BY-NC-SA-4.0`（按投稿者声明；署名、非商业、相同方式共享）。
 - 维护说明：保留投稿 ZIP 的 20 张 512×512 RGBA 透明底 PNG 原文件；与仓库内现有图库（含两个泡泡包、dafeiyu-blue-emotes 等共 1702 张）逐字节 + dHash 比对，无重复收录。按投稿 metadata 补齐 name/text/useWhen 与情绪桶（happy 6 / shy 6 / angry 6 / confused 2），caption 按画面校对；重建 index.db/manifest 并重新打包，ZIP 6,467,450 bytes。
 - 说明：角色形象为鲸鱼娘二创；如权利人有不同意见可提 issue 要求下架。
+
+## yu-001
+
+- 名称：鱼·Q版
+- 投稿与署名：[daocaodeyu](https://github.com/daocaodeyu)（鱼，[issue #13](https://github.com/yyh-001/dsh-meme-packs/issues/13)）
+- 上游：作者原创，用脚本矢量绘制（[`whale-persona/draw-set6.py`](https://github.com/daocaodeyu/yu-stickers)），无第三方素材；投稿 ZIP 为 dsh-meme 导出格式（v1.1.0）。
+- 许可标记：`personal`（按投稿声明：仅个人使用，可自由转载但需注明来源「鱼 / daocaodeyu」；本仓库未获商业授权）。
+- 维护说明：收录 v1.1.0 的 12 张 480×480 白底 PNG + 4 张 480×480 / 8 帧 GIF，图片保持原始字节。与仓库内现有图库（本地参考 3834 张）逐字节 + dHash 比对，无重复收录。将 `laugh`/`question`/`bye`/`speechless`/`thanks` 等桶外 tag 归入插件支持的六个情绪桶（happy / confused / daily / sigh），同步移动索引路径；按画面补齐中文短名、caption、关键词与 useWhen；重建 index.db/manifest 并重新打包，ZIP 725,104 bytes。GIF 为整帧、白底（254,254,254）、无实际透明像素，不存在 QQ 闪屏问题。
+- 说明：角色为投稿者自绘的鲸鱼娘 Q 版；如权利人有不同意见可提 issue 要求下架。

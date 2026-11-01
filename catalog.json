@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-01T11:53:14Z",
+  "updatedAt": "2026-11-01T14:49:43Z",
   "packs": [
     {
       "id": "official-001",
@@ -727,6 +727,49 @@
         "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-eyi/%E5%B0%B1%E8%BF%99%E7%82%B9%E6%9C%AC%E4%BA%8B.jpg",
         "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-eyi/%E8%BF%99%E4%B8%8D%E7%AE%97.jpg",
         "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/paopao-eyi/%E8%BF%99%E6%AC%A1%E4%B8%8D%E7%AE%97%E6%95%B0.jpg"
+      ]
+    },
+    {
+      "id": "yu-001",
+      "name": "鱼·Q版",
+      "version": "1.1.0",
+      "description": "自绘鲸鱼娘 Q 版表情，12 张静态 + 4 张动态 GIF：嗨、好、笑死、呜呜、无语、你确定？、哼、困了、先撤了、谢谢、好耶、别吵。480×480 白底、粗线、大脸，每张配一句口语短句；动图另有眨眼、点头、掉泪和晃动。适合日常聊天接话、斗图和表情包收藏。",
+      "maintainer": "daocaodeyu",
+      "license": "personal",
+      "count": 16,
+      "bytes": 725104,
+      "sha256": "59ce4b9f99c4d6b449e8b8e8dee51fba0f76781e2f15f06e7a528ff06dc67a8c",
+      "archiveUrl": "https://github.com/yyh-001/dsh-meme-packs/releases/download/yu-001-v1.1.0/yu-001-v1.1.0.zip",
+      "homepage": "https://github.com/daocaodeyu/yu-stickers",
+      "source": "https://github.com/yyh-001/dsh-meme-packs/issues/13",
+      "preview": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/yu-001.jpg",
+      "keywords": [
+        "鱼",
+        "鲸鱼娘",
+        "Q版",
+        "白底",
+        "原创",
+        "日常",
+        "动图",
+        "斗图"
+      ],
+      "previews": [
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/yu-001/%E7%AC%91%E6%AD%BB.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/yu-001/%E8%B0%A2%E8%B0%A2.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/yu-001/%E5%A5%BD%E8%80%B6.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/yu-001/%E5%A5%BD%E8%80%B6%C2%B7%E6%99%83%E5%8A%A8.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/yu-001/%E5%88%AB%E5%90%B5.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/yu-001/%E5%88%AB%E5%90%B5%C2%B7%E7%9C%A8%E7%9C%BC.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/yu-001/%E5%93%BC.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/yu-001/%E5%91%9C%E5%91%9C.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/yu-001/%E5%91%9C%E5%91%9C%C2%B7%E6%8E%89%E7%9C%BC%E6%B3%AA.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/yu-001/%E6%97%A0%E8%AF%AD.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/yu-001/%E4%BD%A0%E7%A1%AE%E5%AE%9A%EF%BC%9F.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/yu-001/%E5%85%88%E6%92%A4%E4%BA%86.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/yu-001/%E5%97%A8.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/yu-001/%E5%97%A8%C2%B7%E7%82%B9%E5%A4%B4.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/yu-001/%E5%A5%BD.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/yu-001/%E5%9B%B0%E4%BA%86.jpg"
       ]
     }
   ]
