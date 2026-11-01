@@ -78,7 +78,7 @@
 - 上游：[`BrickAZ/deepseek-chan-emotes`](https://github.com/BrickAZ/deepseek-chan-emotes)（v1.0.0，161 个 GIF）
 - 角色来源：[蓝色大肥鱼 — Steam 创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3807575879)，工坊条目作者 **飞天豆之助**；制作工具及内置动画资源：[EmoteLab](https://emotelab.app/)
 - 许可标记：`noncommercial-fan`（非商业同人向；角色形象、模型与 EmoteLab 内置动画的权利归各自权利人，本仓库不额外授权；权利人如不希望作品在此分发，可提 issue 要求下架）
-- 维护说明：上游原包为 500×500 / 30fps，ZIP 约 593MB，超过 dsh-meme 远程包上限（当时 100MB，现 200MB）；本市场版本转码为 256×256 / 15fps / 128 色 GIF（87,271,781 bytes），保留全部 161 个动作与原始文件名。逐张核对画面后补齐中文短名、caption、关键词与情绪桶；需要原画质请下载上游 v1.0.0。
+- 维护说明：上游原包为 500×500 / 30fps，ZIP 约 593MB，超过 dsh-meme 远程包上限（当时 100MB，现 200MB）；本市场版本转码为 256×256 / 15fps / 128 色 GIF（88,306,375 bytes），保留全部 161 个动作与原始文件名。v1.0.1 改为整帧 + 无全局调色板（`-gifflags -offsetting-transdiff -global_palette false`），去掉逻辑屏幕的绿色背景色索引，修复 QQ 等客户端在帧间还原背景时闪绿/闪屏的问题。逐张核对画面后补齐中文短名、caption、关键词与情绪桶；需要原画质请下载上游 v1.0.0。
 - 使用条件：请遵守上游 README 与 [EmoteLab EULA](https://emotelab.app/eula/)，保留角色来源和 EmoteLab 制作说明，不要将原始角色设计或内置动画宣称为独立创作。
 
 ## deepseek-maojing
@@ -103,7 +103,7 @@
 - 名称：蓝色大肥鱼动态表情包
 - 角色与模型：Steam 创意工坊角色 [大肥鱼deepseek](https://steamcommunity.com/sharedfiles/filedetails/?id=3811197171) 的粗描边 chibi 版本（描述署名 **上善无形、ZipZipPipe**）；导出工具：[EmoteLab](https://emotelab.app/)
 - 许可标记：`noncommercial-fan`（非商业同人向；角色形象与 EmoteLab 内置动画的权利归各自权利人，本仓库不额外授权；权利人如不希望作品在此分发，可提 issue 要求下架）
-- 维护说明：EmoteLab 导出的 157 个 GIF（原包 157 GIF，500×500 / 50fps，ZIP 482,796,351 bytes）。为适配远程包 200MB 上限，用 ffmpeg 转码为 400×400 / 15fps / 128 色 / Bayer 抖动并保留透明背景，ZIP 133,213,413 bytes。逐张按动画名匹配中文短名、caption、关键词与情绪桶；与 `dafeiyu-2-emotes` 为同一角色的不同画风，157 件均无重复。
+- 维护说明：EmoteLab 导出的 157 个 GIF（原包 157 GIF，500×500 / 50fps，ZIP 482,796,351 bytes）。为适配远程包 200MB 上限，用 ffmpeg 转码为 400×400 / 15fps / 128 色 / Bayer 抖动并保留透明背景，ZIP 135,559,054 bytes。v1.0.1 改为整帧 + 无全局调色板（`-gifflags -offsetting-transdiff -global_palette false`），去掉逻辑屏幕的绿色背景色索引，修复 QQ 等客户端在帧间还原背景时闪绿/闪屏的问题。逐张按动画名匹配中文短名、caption、关键词与情绪桶；与 `dafeiyu-2-emotes` 为同一角色的不同画风，157 件均无重复。
 - 使用条件：请遵守 [EmoteLab EULA](https://emotelab.app/eula/) 与工坊页面的使用说明，保留角色来源和 EmoteLab 制作说明，不要将原始角色设计或内置动画宣称为独立创作。
 
 ## paopao-eyi

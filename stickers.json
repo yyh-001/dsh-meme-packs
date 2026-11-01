@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-29T13:35:30Z",
+  "updatedAt": "2026-11-01T11:53:14Z",
   "about": "每条记录是一张表情。用 name、description、text、keywords、useWhen、search 检索。name 是画面内容的短名，也是预览文件名。path 是当前图库包里的原文件。imageUrl 有值时可以直接取图发送。",
   "packs": {
     "official-001": {
@@ -59,9 +59,9 @@
     },
     "deepseek-chan-emotes": {
       "name": "DeepSeek娘动态表情包",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "license": "noncommercial-fan",
-      "archiveUrl": "https://github.com/yyh-001/dsh-meme-packs/releases/download/deepseek-chan-emotes-v1.0.0/deepseek-chan-emotes-v1.0.0.zip"
+      "archiveUrl": "https://github.com/yyh-001/dsh-meme-packs/releases/download/deepseek-chan-emotes-v1.0.1/deepseek-chan-emotes-v1.0.1.zip"
     },
     "deepseek-maojing": {
       "name": "猫鲸表情包",
@@ -77,9 +77,9 @@
     },
     "dafeiyu-blue-emotes": {
       "name": "蓝色大肥鱼动态表情包",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "license": "noncommercial-fan",
-      "archiveUrl": "https://github.com/yyh-001/dsh-meme-packs/releases/download/dafeiyu-blue-emotes-v1.0.0/dafeiyu-blue-emotes-v1.0.0.zip"
+      "archiveUrl": "https://github.com/yyh-001/dsh-meme-packs/releases/download/dafeiyu-blue-emotes-v1.0.1/dafeiyu-blue-emotes-v1.0.1.zip"
     },
     "paopao-eyi": {
       "name": "傲娇恶役鲸鱼表情包",
