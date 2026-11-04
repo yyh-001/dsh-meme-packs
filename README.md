@@ -23,6 +23,7 @@
 | 蓝色大肥鱼动态表情包 | 1.0.1 | 157 张 | noncommercial-fan | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/dafeiyu-blue-emotes-v1.0.1/dafeiyu-blue-emotes-v1.0.1.zip)（原包 500px/50fps，转码 400px/15fps 整帧，135.6MB，需 dsh-meme ≥0.1.69） |
 | 傲娇恶役鲸鱼表情包 | 1.0.0 | 20 张 | CC-BY-NC-SA-4.0 | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/paopao-eyi-v1.0.0/paopao-eyi-v1.0.0.zip)（512px 透明底 PNG，6.2MB） |
 | 鱼·Q版 | 1.1.0 | 16 张 | personal | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/yu-001-v1.1.0/yu-001-v1.1.0.zip)（12 静态 + 4 动态 GIF，480px 白底） |
+| 大肥鱼·鲸鱼女仆 | 1.0.0 | 9 张 | CC-BY-NC-SA-4.0 | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/dafeiyu-emoji-v1.0.0/dafeiyu-emoji-v1.0.0.zip)（1024px 白底 JPG，5.1MB） |
 
 ## 导入方法
 

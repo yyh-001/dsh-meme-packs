@@ -123,3 +123,12 @@
 - 许可标记：`personal`（按投稿声明：仅个人使用，可自由转载但需注明来源「鱼 / daocaodeyu」；本仓库未获商业授权）。
 - 维护说明：收录 v1.1.0 的 12 张 480×480 白底 PNG + 4 张 480×480 / 8 帧 GIF，图片保持原始字节。与仓库内现有图库（本地参考 3834 张）逐字节 + dHash 比对，无重复收录。将 `laugh`/`question`/`bye`/`speechless`/`thanks` 等桶外 tag 归入插件支持的六个情绪桶（happy / confused / daily / sigh），同步移动索引路径；按画面补齐中文短名、caption、关键词与 useWhen；重建 index.db/manifest 并重新打包，ZIP 725,104 bytes。GIF 为整帧、白底（254,254,254）、无实际透明像素，不存在 QQ 闪屏问题。
 - 说明：角色为投稿者自绘的鲸鱼娘 Q 版；如权利人有不同意见可提 issue 要求下架。
+
+## dafeiyu-emoji
+
+- 名称：大肥鱼·鲸鱼女仆
+- 投稿与署名：[Kangkang8848](https://github.com/Kangkang8848)（[issue #14](https://github.com/yyh-001/dsh-meme-packs/issues/14)）
+- 上游：投稿者声明图片为原创，并按 **CC BY-NC-SA 4.0** 授权（署名、非商业、相同方式共享）。画面角色为「女仆鲸鱼娘」形象，原设计由 **ZipZipPipe** 创作、以 CC BY-NC-SA 4.0 授权；本包按同人二创收录，非官方作品。
+- 许可标记：`CC-BY-NC-SA-4.0`（与角色原设计许可一致；转载/再创作请保留投稿者与 ZipZipPipe 署名）。
+- 维护说明：保留投稿 ZIP 的 9 张 1024×1024 白底 JPG 原文件（5,062,042 bytes），仅重建 index.db/manifest 与预览。与仓库内现有图库（本地参考 971 张，含内置 dafeiyu-001、maid-emoji、whale-girl-emoji、paopao 系列与各动态包预览）逐字节 + dHash 比对，无重复收录（最近 dHash 距离 8）。按画面校订短名/caption/关键词，将「就这？」「拔网线警告」从 daily 归入 angry 情绪桶并同步移动索引路径；情绪分布 happy 2 / angry 2 / sad 2 / daily 2 / confused 1。发布 ZIP 5,076,838 bytes，sha256 `066c9b0bcebfe52916ba2daa79c7672507815af8c85acf1d826dfffb35f5df7c`。
+- 说明：投稿者填写的来源为「原创」；如图片使用 AI 生成工具或包含其他第三方素材，请投稿者在本 issue 补充说明，我们会同步更新署名。权利人对收录有异议可提 issue 要求下架。

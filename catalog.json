@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-01T14:49:43Z",
+  "updatedAt": "2026-11-04T08:00:54Z",
   "packs": [
     {
       "id": "official-001",
@@ -770,6 +770,42 @@
         "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/yu-001/%E5%97%A8%C2%B7%E7%82%B9%E5%A4%B4.jpg",
         "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/yu-001/%E5%A5%BD.jpg",
         "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/yu-001/%E5%9B%B0%E4%BA%86.jpg"
+      ]
+    },
+    {
+      "id": "dafeiyu-emoji",
+      "name": "大肥鱼·鲸鱼女仆",
+      "version": "1.0.0",
+      "description": "9 张 1024×1024 白底高清插画：深度思考中、听候吩咐、就这？、拔网线警告、请用茶？、开心出击！、搞定啦！、服务器繁忙、求求你了。蓝发鲸鱼女仆装、贴纸白边，适合日常聊天接梗、斗图和表情包收藏。",
+      "maintainer": "Kangkang8848",
+      "license": "CC-BY-NC-SA-4.0",
+      "count": 9,
+      "bytes": 5076838,
+      "sha256": "066c9b0bcebfe52916ba2daa79c7672507815af8c85acf1d826dfffb35f5df7c",
+      "archiveUrl": "https://github.com/yyh-001/dsh-meme-packs/releases/download/dafeiyu-emoji-v1.0.0/dafeiyu-emoji-v1.0.0.zip",
+      "source": "https://github.com/yyh-001/dsh-meme-packs/issues/14",
+      "preview": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-emoji.jpg",
+      "keywords": [
+        "大肥鱼",
+        "鲸鱼娘",
+        "女仆",
+        "白底",
+        "原创",
+        "高清",
+        "静态",
+        "日常",
+        "斗图"
+      ],
+      "previews": [
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-emoji/%E5%BC%80%E5%BF%83%E5%87%BA%E5%87%BB.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-emoji/%E6%90%9E%E5%AE%9A%E5%95%A6.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-emoji/%E5%B0%B1%E8%BF%99.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-emoji/%E6%8B%94%E7%BD%91%E7%BA%BF%E8%AD%A6%E5%91%8A.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-emoji/%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%B9%81%E5%BF%99.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-emoji/%E6%B1%82%E6%B1%82%E4%BD%A0%E4%BA%86.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-emoji/%E6%B7%B1%E5%BA%A6%E6%80%9D%E8%80%83%E4%B8%AD.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-emoji/%E5%90%AC%E5%80%99%E5%90%A9%E5%92%90.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-emoji/%E8%AF%B7%E7%94%A8%E8%8C%B6.jpg"
       ]
     }
   ]

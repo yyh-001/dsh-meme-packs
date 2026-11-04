@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-01T14:49:43Z",
+  "updatedAt": "2026-11-04T08:00:54Z",
   "about": "每条记录是一张表情。用 name、description、text、keywords、useWhen、search 检索。name 是画面内容的短名，也是预览文件名。path 是当前图库包里的原文件。imageUrl 有值时可以直接取图发送。",
   "packs": {
     "official-001": {
@@ -92,6 +92,12 @@
       "version": "1.1.0",
       "license": "personal",
       "archiveUrl": "https://github.com/yyh-001/dsh-meme-packs/releases/download/yu-001-v1.1.0/yu-001-v1.1.0.zip"
+    },
+    "dafeiyu-emoji": {
+      "name": "大肥鱼·鲸鱼女仆",
+      "version": "1.0.0",
+      "license": "CC-BY-NC-SA-4.0",
+      "archiveUrl": "https://github.com/yyh-001/dsh-meme-packs/releases/download/dafeiyu-emoji-v1.0.0/dafeiyu-emoji-v1.0.0.zip"
     }
   },
   "stickers": [
@@ -33295,6 +33301,291 @@
       "search": "困了 闭眼打哈欠，头顶飘着 Z 困了 困了 困 睡觉 晚安 打哈欠 鱼 鲸鱼娘 Q版 白底 表情包 犯困时 准备睡觉时 sleep",
       "preview": "previews/yu-001/困了.jpg",
       "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/yu-001/%E5%9B%B0%E4%BA%86.jpg"
+    },
+    {
+      "id": "dafeiyu-emoji/memes/happy/开心出击！.jpg",
+      "pack": "dafeiyu-emoji",
+      "name": "开心出击",
+      "file": "开心出击.jpg",
+      "tag": "happy",
+      "description": "笑着挥拳蹦起来，身边带起速度线",
+      "text": "开心出击！",
+      "keywords": [
+        "开心出击",
+        "开心出击！",
+        "开心",
+        "出击",
+        "冲",
+        "兴奋",
+        "应战",
+        "大肥鱼",
+        "鲸鱼娘",
+        "女仆",
+        "白底",
+        "表情包"
+      ],
+      "useWhen": [
+        "开心应战时",
+        "兴奋准备行动时"
+      ],
+      "path": "memes/happy/开心出击！.jpg",
+      "caption": "笑着挥拳蹦起来，身边带起速度线",
+      "search": "开心出击 笑着挥拳蹦起来，身边带起速度线 开心出击！ 开心出击 开心出击！ 开心 出击 冲 兴奋 应战 大肥鱼 鲸鱼娘 女仆 白底 表情包 开心应战时 兴奋准备行动时 happy",
+      "preview": "previews/dafeiyu-emoji/开心出击.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-emoji/%E5%BC%80%E5%BF%83%E5%87%BA%E5%87%BB.jpg"
+    },
+    {
+      "id": "dafeiyu-emoji/memes/happy/搞定啦.jpg",
+      "pack": "dafeiyu-emoji",
+      "name": "搞定啦",
+      "file": "搞定啦.jpg",
+      "tag": "happy",
+      "description": "双手高举欢呼，周围闪着庆祝的星星",
+      "text": "搞定啦！",
+      "keywords": [
+        "搞定啦",
+        "搞定啦！",
+        "搞定",
+        "完成",
+        "成功",
+        "办好了",
+        "庆祝",
+        "欢呼",
+        "大肥鱼",
+        "鲸鱼娘",
+        "女仆",
+        "白底",
+        "表情包"
+      ],
+      "useWhen": [
+        "完成任务时",
+        "报告好消息时"
+      ],
+      "path": "memes/happy/搞定啦.jpg",
+      "caption": "双手高举欢呼，周围闪着庆祝的星星",
+      "search": "搞定啦 双手高举欢呼，周围闪着庆祝的星星 搞定啦！ 搞定啦 搞定啦！ 搞定 完成 成功 办好了 庆祝 欢呼 大肥鱼 鲸鱼娘 女仆 白底 表情包 完成任务时 报告好消息时 happy",
+      "preview": "previews/dafeiyu-emoji/搞定啦.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-emoji/%E6%90%9E%E5%AE%9A%E5%95%A6.jpg"
+    },
+    {
+      "id": "dafeiyu-emoji/memes/angry/就这.jpg",
+      "pack": "dafeiyu-emoji",
+      "name": "就这",
+      "file": "就这.jpg",
+      "tag": "angry",
+      "description": "半眯着眼比出手指，一脸不屑地反问",
+      "text": "就这？",
+      "keywords": [
+        "就这",
+        "就这？",
+        "不屑",
+        "嘲讽",
+        "挑衅",
+        "看不起",
+        "嫌弃",
+        "大肥鱼",
+        "鲸鱼娘",
+        "女仆",
+        "白底",
+        "表情包"
+      ],
+      "useWhen": [
+        "觉得对方表现一般时",
+        "调侃挑衅时"
+      ],
+      "path": "memes/angry/就这.jpg",
+      "caption": "半眯着眼比出手指，一脸不屑地反问",
+      "search": "就这 半眯着眼比出手指，一脸不屑地反问 就这？ 就这 就这？ 不屑 嘲讽 挑衅 看不起 嫌弃 大肥鱼 鲸鱼娘 女仆 白底 表情包 觉得对方表现一般时 调侃挑衅时 angry",
+      "preview": "previews/dafeiyu-emoji/就这.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-emoji/%E5%B0%B1%E8%BF%99.jpg"
+    },
+    {
+      "id": "dafeiyu-emoji/memes/angry/拔网线警告.jpg",
+      "pack": "dafeiyu-emoji",
+      "name": "拔网线警告",
+      "file": "拔网线警告.jpg",
+      "tag": "angry",
+      "description": "拎着网线接头，旁边亮起警告三角和闪电",
+      "text": "",
+      "keywords": [
+        "拔网线警告",
+        "拔网线",
+        "断网",
+        "警告",
+        "威胁",
+        "网线",
+        "大肥鱼",
+        "鲸鱼娘",
+        "女仆",
+        "白底",
+        "表情包"
+      ],
+      "useWhen": [
+        "开玩笑威胁断网时",
+        "警告对方别乱来时"
+      ],
+      "path": "memes/angry/拔网线警告.jpg",
+      "caption": "拎着网线接头，旁边亮起警告三角和闪电",
+      "search": "拔网线警告 拎着网线接头，旁边亮起警告三角和闪电  拔网线警告 拔网线 断网 警告 威胁 网线 大肥鱼 鲸鱼娘 女仆 白底 表情包 开玩笑威胁断网时 警告对方别乱来时 angry",
+      "preview": "previews/dafeiyu-emoji/拔网线警告.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-emoji/%E6%8B%94%E7%BD%91%E7%BA%BF%E8%AD%A6%E5%91%8A.jpg"
+    },
+    {
+      "id": "dafeiyu-emoji/memes/sad/服务器繁忙.jpg",
+      "pack": "dafeiyu-emoji",
+      "name": "服务器繁忙",
+      "file": "服务器繁忙.jpg",
+      "tag": "sad",
+      "description": "抱着冒烟的服务器直冒汗，一脸慌张",
+      "text": "服务器繁忙",
+      "keywords": [
+        "服务器繁忙",
+        "宕机",
+        "冒烟",
+        "出错",
+        "排队",
+        "崩溃",
+        "大肥鱼",
+        "鲸鱼娘",
+        "女仆",
+        "白底",
+        "表情包"
+      ],
+      "useWhen": [
+        "服务出错或繁忙时",
+        "忙到冒烟时"
+      ],
+      "path": "memes/sad/服务器繁忙.jpg",
+      "caption": "抱着冒烟的服务器直冒汗，一脸慌张",
+      "search": "服务器繁忙 抱着冒烟的服务器直冒汗，一脸慌张 服务器繁忙 服务器繁忙 宕机 冒烟 出错 排队 崩溃 大肥鱼 鲸鱼娘 女仆 白底 表情包 服务出错或繁忙时 忙到冒烟时 sad",
+      "preview": "previews/dafeiyu-emoji/服务器繁忙.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-emoji/%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%B9%81%E5%BF%99.jpg"
+    },
+    {
+      "id": "dafeiyu-emoji/memes/sad/求求你了.jpg",
+      "pack": "dafeiyu-emoji",
+      "name": "求求你了",
+      "file": "求求你了.jpg",
+      "tag": "sad",
+      "description": "双手合十，眼泪汪汪地恳求",
+      "text": "求求你了",
+      "keywords": [
+        "求求你了",
+        "求求你",
+        "拜托",
+        "求饶",
+        "撒娇",
+        "眼泪",
+        "恳求",
+        "大肥鱼",
+        "鲸鱼娘",
+        "女仆",
+        "白底",
+        "表情包"
+      ],
+      "useWhen": [
+        "求人帮忙时",
+        "撒娇求原谅时"
+      ],
+      "path": "memes/sad/求求你了.jpg",
+      "caption": "双手合十，眼泪汪汪地恳求",
+      "search": "求求你了 双手合十，眼泪汪汪地恳求 求求你了 求求你了 求求你 拜托 求饶 撒娇 眼泪 恳求 大肥鱼 鲸鱼娘 女仆 白底 表情包 求人帮忙时 撒娇求原谅时 sad",
+      "preview": "previews/dafeiyu-emoji/求求你了.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-emoji/%E6%B1%82%E6%B1%82%E4%BD%A0%E4%BA%86.jpg"
+    },
+    {
+      "id": "dafeiyu-emoji/memes/confused/深度思考中.jpg",
+      "pack": "dafeiyu-emoji",
+      "name": "深度思考中",
+      "file": "深度思考中.jpg",
+      "tag": "confused",
+      "description": "低头托腮，头顶齿轮和问号转动，认真琢磨中",
+      "text": "深度思考中…",
+      "keywords": [
+        "深度思考中",
+        "深度思考中…",
+        "思考",
+        "想想",
+        "琢磨",
+        "推理",
+        "加载中",
+        "大肥鱼",
+        "鲸鱼娘",
+        "女仆",
+        "白底",
+        "表情包"
+      ],
+      "useWhen": [
+        "AI 正在思考/加载时",
+        "需要时间想问题时"
+      ],
+      "path": "memes/confused/深度思考中.jpg",
+      "caption": "低头托腮，头顶齿轮和问号转动，认真琢磨中",
+      "search": "深度思考中 低头托腮，头顶齿轮和问号转动，认真琢磨中 深度思考中… 深度思考中 深度思考中… 思考 想想 琢磨 推理 加载中 大肥鱼 鲸鱼娘 女仆 白底 表情包 AI 正在思考/加载时 需要时间想问题时 confused",
+      "preview": "previews/dafeiyu-emoji/深度思考中.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-emoji/%E6%B7%B1%E5%BA%A6%E6%80%9D%E8%80%83%E4%B8%AD.jpg"
+    },
+    {
+      "id": "dafeiyu-emoji/memes/daily/听候吩咐.jpg",
+      "pack": "dafeiyu-emoji",
+      "name": "听候吩咐",
+      "file": "听候吩咐.jpg",
+      "tag": "daily",
+      "description": "双手交叠站好，微微笑着等候指令",
+      "text": "",
+      "keywords": [
+        "听候吩咐",
+        "待命",
+        "等指令",
+        "随时",
+        "女仆",
+        "乖巧",
+        "大肥鱼",
+        "鲸鱼娘",
+        "白底",
+        "表情包"
+      ],
+      "useWhen": [
+        "等待对方安排时",
+        "表示随时可以开始时"
+      ],
+      "path": "memes/daily/听候吩咐.jpg",
+      "caption": "双手交叠站好，微微笑着等候指令",
+      "search": "听候吩咐 双手交叠站好，微微笑着等候指令  听候吩咐 待命 等指令 随时 女仆 乖巧 大肥鱼 鲸鱼娘 白底 表情包 等待对方安排时 表示随时可以开始时 daily",
+      "preview": "previews/dafeiyu-emoji/听候吩咐.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-emoji/%E5%90%AC%E5%80%99%E5%90%A9%E5%92%90.jpg"
+    },
+    {
+      "id": "dafeiyu-emoji/memes/daily/请用茶.jpg",
+      "pack": "dafeiyu-emoji",
+      "name": "请用茶",
+      "file": "请用茶.jpg",
+      "tag": "daily",
+      "description": "双手端着茶盘递过来，歪头询问",
+      "text": "请用茶？",
+      "keywords": [
+        "请用茶",
+        "请用茶？",
+        "茶",
+        "喝茶",
+        "端茶",
+        "招待",
+        "示好",
+        "大肥鱼",
+        "鲸鱼娘",
+        "女仆",
+        "白底",
+        "表情包"
+      ],
+      "useWhen": [
+        "请人喝茶时",
+        "招待或示好时"
+      ],
+      "path": "memes/daily/请用茶.jpg",
+      "caption": "双手端着茶盘递过来，歪头询问",
+      "search": "请用茶 双手端着茶盘递过来，歪头询问 请用茶？ 请用茶 请用茶？ 茶 喝茶 端茶 招待 示好 大肥鱼 鲸鱼娘 女仆 白底 表情包 请人喝茶时 招待或示好时 daily",
+      "preview": "previews/dafeiyu-emoji/请用茶.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-emoji/%E8%AF%B7%E7%94%A8%E8%8C%B6.jpg"
     }
   ]
 }
