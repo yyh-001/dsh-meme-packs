@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-04T08:00:54Z",
+  "updatedAt": "2026-11-08T08:30:41Z",
   "packs": [
     {
       "id": "official-001",
@@ -806,6 +806,84 @@
         "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-emoji/%E6%B7%B1%E5%BA%A6%E6%80%9D%E8%80%83%E4%B8%AD.jpg",
         "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-emoji/%E5%90%AC%E5%80%99%E5%90%A9%E5%92%90.jpg",
         "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/dafeiyu-emoji/%E8%AF%B7%E7%94%A8%E8%8C%B6.jpg"
+      ]
+    },
+    {
+      "id": "kupia-001",
+      "name": "库皮亚表情包",
+      "version": "1.0.0",
+      "description": "11 张 383×400 透明底方形表情：无语、尴尬、乖巧、嫌弃、开心、乖萌、委屈、脸红、害羞、叹气、惊讶。白色小天使、粉黄光环、额头螺旋纹与青绿蝴蝶结，软萌治愈；适合日常聊天、撒娇卖萌和斗图。",
+      "maintainer": "lix559376-boop",
+      "license": "personal",
+      "count": 11,
+      "bytes": 113578,
+      "sha256": "595c544a70248aa6c2fd493214ef92eea905e1325c921ec92a2129c978889a39",
+      "archiveUrl": "https://github.com/yyh-001/dsh-meme-packs/releases/download/kupia-001-v1.0.0/kupia-001-v1.0.0.zip",
+      "source": "https://github.com/yyh-001/dsh-meme-packs/issues/15",
+      "preview": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/kupia-001.jpg",
+      "keywords": [
+        "库皮亚",
+        "小天使",
+        "天使",
+        "光环",
+        "透明底",
+        "静态",
+        "软萌",
+        "日常",
+        "斗图"
+      ],
+      "previews": [
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/kupia-001/%E5%BC%80%E5%BF%83.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/kupia-001/%E4%B9%96%E8%90%8C.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/kupia-001/%E5%AB%8C%E5%BC%83.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/kupia-001/%E5%A7%94%E5%B1%88.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/kupia-001/%E5%8F%B9%E6%B0%94.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/kupia-001/%E6%97%A0%E8%AF%AD.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/kupia-001/%E5%AE%B3%E7%BE%9E.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/kupia-001/%E8%84%B8%E7%BA%A2.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/kupia-001/%E5%B0%B4%E5%B0%AC.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/kupia-001/%E6%83%8A%E8%AE%B6.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/kupia-001/%E4%B9%96%E5%B7%A7.jpg"
+      ]
+    },
+    {
+      "id": "debilun-001",
+      "name": "德比伦表情包",
+      "version": "1.0.0",
+      "description": "14 张 383×400 透明底方形表情：开心、气晕、大哭、看戏、害羞大叫、生气、懵圈、日常、睡懵、打盹、猫猫爬、贴贴、叹气、笨蛋。灰白小恶魔、异色瞳、粉色角与骷髅项圈，表情夸张；适合斗图、吐槽和日常接梗。",
+      "maintainer": "lix559376-boop",
+      "license": "personal",
+      "count": 14,
+      "bytes": 416024,
+      "sha256": "d5ef1fafacd4bb08aed54fdb3178c2b8d89e0321fd75694ea9ffe474fddd4538",
+      "archiveUrl": "https://github.com/yyh-001/dsh-meme-packs/releases/download/debilun-001-v1.0.0/debilun-001-v1.0.0.zip",
+      "source": "https://github.com/yyh-001/dsh-meme-packs/issues/16",
+      "preview": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/debilun-001.jpg",
+      "keywords": [
+        "德比伦",
+        "小恶魔",
+        "异色瞳",
+        "猫耳",
+        "透明底",
+        "静态",
+        "吐槽",
+        "斗图"
+      ],
+      "previews": [
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/debilun-001/%E5%BC%80%E5%BF%83.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/debilun-001/%E8%B4%B4%E8%B4%B4.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/debilun-001/%E7%8C%AB%E7%8C%AB%E7%88%AC.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/debilun-001/%E6%B0%94%E6%99%95.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/debilun-001/%E7%94%9F%E6%B0%94.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/debilun-001/%E7%AC%A8%E8%9B%8B.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/debilun-001/%E5%A4%A7%E5%93%AD.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/debilun-001/%E5%8F%B9%E6%B0%94.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/debilun-001/%E5%AE%B3%E7%BE%9E%E5%A4%A7%E5%8F%AB.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/debilun-001/%E6%87%B5%E5%9C%88.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/debilun-001/%E7%9C%8B%E6%88%8F.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/debilun-001/%E6%97%A5%E5%B8%B8.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/debilun-001/%E6%89%93%E7%9B%B9.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/debilun-001/%E7%9D%A1%E6%87%B5.jpg"
       ]
     }
   ]

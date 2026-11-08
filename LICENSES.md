@@ -132,3 +132,21 @@
 - 许可标记：`CC-BY-NC-SA-4.0`（与角色原设计许可一致；转载/再创作请保留投稿者与 ZipZipPipe 署名）。
 - 维护说明：保留投稿 ZIP 的 9 张 1024×1024 白底 JPG 原文件（5,062,042 bytes），仅重建 index.db/manifest 与预览。与仓库内现有图库（本地参考 971 张，含内置 dafeiyu-001、maid-emoji、whale-girl-emoji、paopao 系列与各动态包预览）逐字节 + dHash 比对，无重复收录（最近 dHash 距离 8）。按画面校订短名/caption/关键词，将「就这？」「拔网线警告」从 daily 归入 angry 情绪桶并同步移动索引路径；情绪分布 happy 2 / angry 2 / sad 2 / daily 2 / confused 1。发布 ZIP 5,076,838 bytes，sha256 `066c9b0bcebfe52916ba2daa79c7672507815af8c85acf1d826dfffb35f5df7c`。
 - 说明：投稿者填写的来源为「原创」；如图片使用 AI 生成工具或包含其他第三方素材，请投稿者在本 issue 补充说明，我们会同步更新署名。权利人对收录有异议可提 issue 要求下架。
+
+## kupia-001
+
+- 名称：库皮亚表情包
+- 投稿与署名：[lix559376-boop](https://github.com/lix559376-boop)（[issue #15](https://github.com/yyh-001/dsh-meme-packs/issues/15)）
+- 上游：投稿者标注图片来源为「游戏文件」，未注明具体游戏与角色版权方。角色与图片版权归原游戏权利人；本仓库按投稿者声明的「仅个人使用」作非商业归档分发，不额外授权。
+- 许可标记：`personal`（仅个人使用）。
+- 维护说明：投稿 ZIP 含 11 张 383×400 透明底 PNG（98,652 bytes 图片，ZIP 112,809 bytes），按投稿原始字节收录，仅重建 index.db / manifest 与预览（发布 ZIP 113,578 bytes，sha256 `595c544a70248aa6c2fd493214ef92eea905e1325c921ec92a2129c978889a39`）。原索引中一张图的情绪 tag 为「1」，按画面（无语）改为 `sigh` 并同步移动索引路径，其余保留投稿细 tag（`fool`、`meow` 等由插件归入情绪桶）。与本地参考语料 4,776 张（仓库预览、各动态包源包、大肥鱼/泡泡/鱼系列与内置 24 张）逐字节 + dHash 比对，无重复。
+- 说明：如投稿者能补充具体游戏名称与版权方（或图片实际为原创），请在本 issue 说明，我们会同步更新署名；权利人如不希望作品在此分发，可提 issue 要求下架。
+
+## debilun-001
+
+- 名称：德比伦表情包
+- 投稿与署名：[lix559376-boop](https://github.com/lix559376-boop)（[issue #16](https://github.com/yyh-001/dsh-meme-packs/issues/16)）
+- 上游：投稿者标注图片来源为「游戏文件」，未注明具体游戏与角色版权方。角色与图片版权归原游戏权利人；本仓库按投稿者声明的「仅个人使用」作非商业归档分发，不额外授权。
+- 许可标记：`personal`（仅个人使用）。
+- 维护说明：投稿 ZIP 含 14 张 383×400 透明底 PNG（392,528 bytes 图片，ZIP 407,107 bytes），按投稿原始字节收录，仅重建 index.db / manifest 与预览（发布 ZIP 416,024 bytes，sha256 `d5ef1fafacd4bb08aed54fdb3178c2b8d89e0321fd75694ea9ffe474fddd4538`）。按画面校订两处情绪：`angry/1794054922482_318.png` 原索引 tag 为 `shy`（画面是 XX 眼冒烟晕倒，路径本就在 angry），改为 `angry`；`1794055566589_227.png` 原 tag 为 `surprised`（画面是吹鼻涕泡睡着），改为 `sleep`。其余保留投稿细 tag。与本地参考语料 4,776 张（仓库预览、各动态包源包、大肥鱼/泡泡/鱼系列与内置 24 张）逐字节 + dHash 比对，无重复。
+- 说明：如投稿者能补充具体游戏名称与版权方（或图片实际为原创），请在本 issue 说明，我们会同步更新署名；权利人如不希望作品在此分发，可提 issue 要求下架。
