@@ -26,6 +26,8 @@
 | 大肥鱼·鲸鱼女仆 | 1.0.0 | 9 张 | CC-BY-NC-SA-4.0 | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/dafeiyu-emoji-v1.0.0/dafeiyu-emoji-v1.0.0.zip)（1024px 白底 JPG，5.1MB） |
 | 库皮亚表情包 | 1.0.0 | 11 张 | personal | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/kupia-001-v1.0.0/kupia-001-v1.0.0.zip)（383px 透明底 PNG，110.9KB） |
 | 德比伦表情包 | 1.0.0 | 14 张 | personal | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/debilun-001-v1.0.0/debilun-001-v1.0.0.zip)（383px 透明底 PNG，406.3KB） |
+| 喔鲸鲸 | 1.0.0 | 46 张 | personal | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/wojingjing-001-v1.0.0/wojingjing-001-v1.0.0.zip)（500px 白底 PNG，6.1MB） |
+| 鲸鱼娘·Q版全身 | 1.0.0 | 15 张 | personal | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/whale-girl-chibi-v1.0.0/whale-girl-chibi-v1.0.0.zip)（500px 透明底 PNG，3.3MB） |
 
 ## 导入方法
 
