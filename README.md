@@ -28,6 +28,7 @@
 | 德比伦表情包 | 1.0.0 | 14 张 | personal | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/debilun-001-v1.0.0/debilun-001-v1.0.0.zip)（383px 透明底 PNG，406.3KB） |
 | 喔鲸鲸 | 1.0.0 | 46 张 | personal | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/wojingjing-001-v1.0.0/wojingjing-001-v1.0.0.zip)（500px 白底 PNG，6.1MB） |
 | 鲸鱼娘·Q版全身 | 1.0.0 | 15 张 | personal | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/whale-girl-chibi-v1.0.0/whale-girl-chibi-v1.0.0.zip)（500px 透明底 PNG，3.3MB） |
+| AI娘化表情包 | 1.0.0 | 27 张 | CC-BY-NC-SA-4.0 | [下载 ZIP](https://github.com/yyh-001/dsh-meme-packs/releases/download/pack-mwlrubqa-v1.0.0/pack-mwlrubqa-v1.0.0.zip)（512px 透明底 WebP，1.6MB） |
 
 ## 导入方法
 

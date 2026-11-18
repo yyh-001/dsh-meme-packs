@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-09T14:29:15Z",
+  "updatedAt": "2026-11-18T12:40:52Z",
   "packs": [
     {
       "id": "official-001",
@@ -998,6 +998,60 @@
         "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/whale-girl-chibi/%E7%9C%BC%E5%89%8D%E4%B8%80%E4%BA%AE.jpg",
         "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/whale-girl-chibi/%E6%94%B6%E5%88%B0.jpg",
         "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/whale-girl-chibi/%E9%9E%A0%E8%BA%AC.jpg"
+      ]
+    },
+    {
+      "id": "pack-mwlrubqa",
+      "name": "AI娘化表情包",
+      "version": "1.0.0",
+      "description": "27 张 512×512 透明底插画，把 AI 助手画成娘：白毛龙娘（ChatGPT）、抱书橙发少女（Claude）与蓝发鲸鱼娘（DeepSeek）。收到、思考、让我想想、我再改改、优雅宕机、搞定、收工、开饭、笑死我了、委屈、暗中观察、晚安等；适合工作对话、斗图和日常接梗。",
+      "maintainer": "ppy-web",
+      "license": "CC-BY-NC-SA-4.0",
+      "count": 27,
+      "bytes": 1637605,
+      "sha256": "9356daabc5bfa461a7d9c72178c1e4e87abd3b8da916da4e8a36476b20bfc16c",
+      "archiveUrl": "https://github.com/yyh-001/dsh-meme-packs/releases/download/pack-mwlrubqa-v1.0.0/pack-mwlrubqa-v1.0.0.zip",
+      "source": "https://github.com/yyh-001/dsh-meme-packs/issues/19",
+      "preview": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa.jpg",
+      "keywords": [
+        "AI娘化",
+        "ChatGPT",
+        "Claude",
+        "鲸鱼娘",
+        "DeepSeek",
+        "透明底",
+        "静态",
+        "斗图",
+        "日常"
+      ],
+      "previews": [
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E6%90%9E%E5%AE%9A.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E6%94%B6%E5%B7%A5.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E5%BC%80%E9%A5%AD.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E7%AC%91%E6%AD%BB%E6%88%91%E4%BA%86.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E6%8A%B1%E6%8A%B1.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E5%86%8D%E8%AF%95%E4%B8%80%E6%AC%A1.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E7%94%9F%E9%97%B7%E6%B0%94.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E5%A7%94%E5%B1%88.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E6%88%91%E6%9F%A5%E4%B8%80%E4%B8%8B.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E4%BD%A0%E7%A1%AE%E5%AE%9A.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E4%BC%98%E9%9B%85%E5%AE%95%E6%9C%BA.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E6%9A%97%E4%B8%AD%E8%A7%82%E5%AF%9F.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E6%AD%AA%E5%A4%B4%E7%96%91%E6%83%91.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E5%90%93%E4%B8%80%E8%B7%B3.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E8%B0%A2%E8%B0%A2.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E5%85%88%E5%96%9D%E5%8F%A3%E8%8C%B6.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E5%88%86%E4%BD%A0%E4%B8%80%E5%8F%A3.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E6%9C%89%E9%81%93%E7%90%86.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E6%99%9A%E5%AE%89.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E9%B1%BC%E9%B1%BC%E6%B2%A1%E7%94%B5.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E6%94%B6%E5%88%B0.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E6%80%9D%E8%80%83.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E8%AF%B7%E8%AE%B2.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E8%AE%A9%E6%88%91%E6%83%B3%E6%83%B3.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E5%88%92%E9%87%8D%E7%82%B9.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E6%88%91%E5%86%8D%E6%94%B9%E6%94%B9.jpg",
+        "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E5%86%B2%E5%91%80.jpg"
       ]
     }
   ]

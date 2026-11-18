@@ -170,3 +170,12 @@
 - 许可标记：`personal`（仅个人使用）。
 - 维护说明：投稿 ZIP 含 15 张 500×500 透明底 PNG（3,497,151 bytes 图片，ZIP 3,511,542 bytes），按投稿原始字节收录，仅重建 index.db / manifest 与预览（发布 ZIP 3,512,835 bytes，sha256 `e122f7cb61636173bb6256681d9d58f3ca8ecbfa3684b3d1fbeffdbb0cd5bdf7`）。这是 issue #17「喔鲸鲸」同一角色的全身立绘版：15 张姿势/手势/文字均不同，逐张目检确认不是重复，只是同一角色同一站姿的系列变体（同系列 dHash 3~7，跨图库均在 8 以上）；沿用投稿情绪标签，未做改动。与本地参考语料 4,933 张逐字节 + dHash 比对，无重复。
 - 说明：如投稿者能补充创作方式与所用工具（或确认完全手绘），请在本 issue 说明，我们会同步更新；权利人如不希望作品在此分发，可提 issue 要求下架。
+
+## pack-mwlrubqa
+
+- 名称：AI娘化表情包
+- 投稿与署名：[ppy-web](https://github.com/ppy-web)（[issue #19](https://github.com/yyh-001/dsh-meme-packs/issues/19)）
+- 上游：投稿者说明图片「基于 pixiv 作者 **ZipZipPipe** 原画，由 AI 生成」，授权方式为「仅个人使用」。画面含 ChatGPT 龙娘、Claude 与鲸鱼娘三种 AI 助手拟人形象；鲸鱼娘原设计为 ZipZipPipe 创作、以 CC BY-NC-SA 4.0 授权的开源形象。
+- 许可标记：`CC-BY-NC-SA-4.0`（因基于 ZipZipPipe 的 CC BY-NC-SA 4.0 原画二创，按上游许可作署名、非商业、相同方式共享；投稿者另声明仅个人使用，本仓库仅作非商业归档分发，不额外授权）。
+- 维护说明：投稿 ZIP 含 27 张 512×512 透明底 WebP（1,611,840 bytes 图片，ZIP 1,636,523 bytes），按投稿原始字节收录，仅重建 index.db / manifest 与预览（发布 ZIP 1,637,605 bytes，sha256 `9356daabc5bfa461a7d9c72178c1e4e87abd3b8da916da4e8a36476b20bfc16c`）。短名、caption、关键词与 useWhen 按画面整理；情绪标签沿用投稿分类，仅将「优雅宕机」由 `fool`（插件归入 angry 桶）调整为 `confused` 并同步移动索引路径。与本地参考语料 2,874 张（仓库 20 个图库预览、各源包与内置 24 张）逐字节 + dHash 比对，无重复；包内最近 dHash 4~8 均为同角色不同表情，逐张目检确认不重复。
+- 说明：如投稿者能补充 ZipZipPipe 原画的 pixiv 链接与授权说明，我们会同步更新署名；原作者或权利人如不希望作品在此分发，可提 issue 要求下架。

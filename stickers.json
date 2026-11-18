@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-09T14:29:15Z",
+  "updatedAt": "2026-11-18T12:40:52Z",
   "about": "每条记录是一张表情。用 name、description、text、keywords、useWhen、search 检索。name 是画面内容的短名，也是预览文件名。path 是当前图库包里的原文件。imageUrl 有值时可以直接取图发送。",
   "packs": {
     "official-001": {
@@ -122,6 +122,12 @@
       "version": "1.0.0",
       "license": "personal",
       "archiveUrl": "https://github.com/yyh-001/dsh-meme-packs/releases/download/whale-girl-chibi-v1.0.0/whale-girl-chibi-v1.0.0.zip"
+    },
+    "pack-mwlrubqa": {
+      "name": "AI娘化表情包",
+      "version": "1.0.0",
+      "license": "CC-BY-NC-SA-4.0",
+      "archiveUrl": "https://github.com/yyh-001/dsh-meme-packs/releases/download/pack-mwlrubqa-v1.0.0/pack-mwlrubqa-v1.0.0.zip"
     }
   },
   "stickers": [
@@ -36402,6 +36408,839 @@
       "search": "鞠躬 鞠躬，低头提着裙角行礼  鞠躬 行礼 谢谢 恭敬 鲸鱼娘 喔鲸鲸 蓝发 女仆 猫耳 鲸鱼尾 透明底 表情包 行礼道谢时 恭敬打招呼时 reply",
       "preview": "previews/whale-girl-chibi/鞠躬.jpg",
       "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/whale-girl-chibi/%E9%9E%A0%E8%BA%AC.jpg"
+    },
+    {
+      "id": "pack-mwlrubqa/memes/happy/1794985772874_899.webp",
+      "pack": "pack-mwlrubqa",
+      "name": "搞定",
+      "file": "1794985772874_899.webp",
+      "tag": "happy",
+      "description": "ChatGPT 龙娘笑弯了眼，拍手庆祝事情搞定。",
+      "text": "",
+      "keywords": [
+        "搞定",
+        "ChatGPT",
+        "龙娘",
+        "完成",
+        "成功",
+        "庆祝",
+        "鼓掌",
+        "AI娘化",
+        "白毛",
+        "龙角",
+        "表情包"
+      ],
+      "useWhen": [
+        "事情完成时",
+        "庆祝成功时"
+      ],
+      "path": "memes/happy/1794985772874_899.webp",
+      "caption": "ChatGPT 龙娘笑弯了眼，拍手庆祝事情搞定。",
+      "search": "搞定 ChatGPT 龙娘笑弯了眼，拍手庆祝事情搞定。  搞定 ChatGPT 龙娘 完成 成功 庆祝 鼓掌 AI娘化 白毛 龙角 表情包 事情完成时 庆祝成功时 happy",
+      "preview": "previews/pack-mwlrubqa/搞定.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E6%90%9E%E5%AE%9A.jpg"
+    },
+    {
+      "id": "pack-mwlrubqa/memes/happy/1794988087829_221.webp",
+      "pack": "pack-mwlrubqa",
+      "name": "收工",
+      "file": "1794988087829_221.webp",
+      "tag": "happy",
+      "description": "Claude 把合上的书抱在胸前，闭眼一笑，松了口气。",
+      "text": "",
+      "keywords": [
+        "收工",
+        "Claude",
+        "完成",
+        "下班",
+        "松口气",
+        "合书",
+        "克劳德",
+        "AI娘化",
+        "橙发",
+        "表情包"
+      ],
+      "useWhen": [
+        "下班收工时",
+        "任务结束时"
+      ],
+      "path": "memes/happy/1794988087829_221.webp",
+      "caption": "Claude 把合上的书抱在胸前，闭眼一笑，松了口气。",
+      "search": "收工 Claude 把合上的书抱在胸前，闭眼一笑，松了口气。  收工 Claude 完成 下班 松口气 合书 克劳德 AI娘化 橙发 表情包 下班收工时 任务结束时 happy",
+      "preview": "previews/pack-mwlrubqa/收工.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E6%94%B6%E5%B7%A5.jpg"
+    },
+    {
+      "id": "pack-mwlrubqa/memes/happy/1794988142959_776.webp",
+      "pack": "pack-mwlrubqa",
+      "name": "开饭",
+      "file": "1794988142959_776.webp",
+      "tag": "happy",
+      "description": "鲸鱼娘端起一碗热腾腾的米饭，举着筷子，眼睛亮成了星星",
+      "text": "",
+      "keywords": [
+        "开饭",
+        "鲸鱼娘",
+        "干饭",
+        "米饭",
+        "筷子",
+        "馋了",
+        "星星眼",
+        "DeepSeek",
+        "AI娘化",
+        "蓝发",
+        "鲸鱼尾",
+        "表情包"
+      ],
+      "useWhen": [
+        "准备吃饭时",
+        "干饭时间到"
+      ],
+      "path": "memes/happy/1794988142959_776.webp",
+      "caption": "鲸鱼娘端起一碗热腾腾的米饭，举着筷子，眼睛亮成了星星",
+      "search": "开饭 鲸鱼娘端起一碗热腾腾的米饭，举着筷子，眼睛亮成了星星  开饭 鲸鱼娘 干饭 米饭 筷子 馋了 星星眼 DeepSeek AI娘化 蓝发 鲸鱼尾 表情包 准备吃饭时 干饭时间到 happy",
+      "preview": "previews/pack-mwlrubqa/开饭.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E5%BC%80%E9%A5%AD.jpg"
+    },
+    {
+      "id": "pack-mwlrubqa/memes/happy/1794988236840_59.webp",
+      "pack": "pack-mwlrubqa",
+      "name": "笑死我了",
+      "file": "1794988236840_59.webp",
+      "tag": "happy",
+      "description": "鲸鱼娘抱着肚子仰头大笑，眼角笑出一滴泪",
+      "text": "",
+      "keywords": [
+        "笑死我了",
+        "鲸鱼娘",
+        "爆笑",
+        "哈哈哈",
+        "捧腹",
+        "笑出眼泪",
+        "DeepSeek",
+        "AI娘化",
+        "蓝发",
+        "鲸鱼尾",
+        "表情包"
+      ],
+      "useWhen": [
+        "看到搞笑内容时",
+        "笑到停不下来时"
+      ],
+      "path": "memes/happy/1794988236840_59.webp",
+      "caption": "鲸鱼娘抱着肚子仰头大笑，眼角笑出一滴泪",
+      "search": "笑死我了 鲸鱼娘抱着肚子仰头大笑，眼角笑出一滴泪  笑死我了 鲸鱼娘 爆笑 哈哈哈 捧腹 笑出眼泪 DeepSeek AI娘化 蓝发 鲸鱼尾 表情包 看到搞笑内容时 笑到停不下来时 happy",
+      "preview": "previews/pack-mwlrubqa/笑死我了.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E7%AC%91%E6%AD%BB%E6%88%91%E4%BA%86.jpg"
+    },
+    {
+      "id": "pack-mwlrubqa/memes/like/1794985911630_710.webp",
+      "pack": "pack-mwlrubqa",
+      "name": "抱抱",
+      "file": "1794985911630_710.webp",
+      "tag": "like",
+      "description": "ChatGPT 龙娘把蓝色小团子搂进怀里，贴着脸开心地笑。",
+      "text": "",
+      "keywords": [
+        "抱抱",
+        "ChatGPT",
+        "龙娘",
+        "安慰",
+        "贴贴",
+        "拥抱",
+        "蓝团子",
+        "AI娘化",
+        "白毛",
+        "龙角",
+        "表情包"
+      ],
+      "useWhen": [
+        "想安慰对方时",
+        "撒娇求抱时"
+      ],
+      "path": "memes/like/1794985911630_710.webp",
+      "caption": "ChatGPT 龙娘把蓝色小团子搂进怀里，贴着脸开心地笑。",
+      "search": "抱抱 ChatGPT 龙娘把蓝色小团子搂进怀里，贴着脸开心地笑。  抱抱 ChatGPT 龙娘 安慰 贴贴 拥抱 蓝团子 AI娘化 白毛 龙角 表情包 想安慰对方时 撒娇求抱时 like",
+      "preview": "previews/pack-mwlrubqa/抱抱.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E6%8A%B1%E6%8A%B1.jpg"
+    },
+    {
+      "id": "pack-mwlrubqa/memes/angry/1794985963512_574.webp",
+      "pack": "pack-mwlrubqa",
+      "name": "再试一次",
+      "file": "1794985963512_574.webp",
+      "tag": "angry",
+      "description": "ChatGPT 龙娘鼓起脸颊，握紧双拳，决定再试一次。",
+      "text": "",
+      "keywords": [
+        "再试一次",
+        "ChatGPT",
+        "龙娘",
+        "我再试试",
+        "重试",
+        "不服气",
+        "加油",
+        "鼓脸",
+        "AI娘化",
+        "白毛",
+        "龙角",
+        "表情包"
+      ],
+      "useWhen": [
+        "失败后不服气时",
+        "想重试一次时"
+      ],
+      "path": "memes/angry/1794985963512_574.webp",
+      "caption": "ChatGPT 龙娘鼓起脸颊，握紧双拳，决定再试一次。",
+      "search": "再试一次 ChatGPT 龙娘鼓起脸颊，握紧双拳，决定再试一次。  再试一次 ChatGPT 龙娘 我再试试 重试 不服气 加油 鼓脸 AI娘化 白毛 龙角 表情包 失败后不服气时 想重试一次时 angry",
+      "preview": "previews/pack-mwlrubqa/再试一次.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E5%86%8D%E8%AF%95%E4%B8%80%E6%AC%A1.jpg"
+    },
+    {
+      "id": "pack-mwlrubqa/memes/angry/1794988389243_539.webp",
+      "pack": "pack-mwlrubqa",
+      "name": "生闷气",
+      "file": "1794988389243_539.webp",
+      "tag": "angry",
+      "description": "鲸鱼娘抱着胳膊转开脸，鼓着腮帮子斜眼看你。",
+      "text": "",
+      "keywords": [
+        "生闷气",
+        "鲸鱼娘",
+        "哼",
+        "傲娇",
+        "不高兴",
+        "抱臂",
+        "鼓脸",
+        "DeepSeek",
+        "AI娘化",
+        "蓝发",
+        "鲸鱼尾",
+        "表情包"
+      ],
+      "useWhen": [
+        "傲娇不高兴时",
+        "被惹到生闷气时"
+      ],
+      "path": "memes/angry/1794988389243_539.webp",
+      "caption": "鲸鱼娘抱着胳膊转开脸，鼓着腮帮子斜眼看你。",
+      "search": "生闷气 鲸鱼娘抱着胳膊转开脸，鼓着腮帮子斜眼看你。  生闷气 鲸鱼娘 哼 傲娇 不高兴 抱臂 鼓脸 DeepSeek AI娘化 蓝发 鲸鱼尾 表情包 傲娇不高兴时 被惹到生闷气时 angry",
+      "preview": "previews/pack-mwlrubqa/生闷气.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E7%94%9F%E9%97%B7%E6%B0%94.jpg"
+    },
+    {
+      "id": "pack-mwlrubqa/memes/sad/1794988454524_765.webp",
+      "pack": "pack-mwlrubqa",
+      "name": "委屈",
+      "file": "1794988454524_765.webp",
+      "tag": "sad",
+      "description": "鲸鱼娘坐着攥紧围裙，眼泪在眼眶里打转，嘴巴委屈地抿成波浪。",
+      "text": "",
+      "keywords": [
+        "委屈",
+        "鲸鱼娘",
+        "想哭",
+        "眼泪",
+        "可怜",
+        "求安慰",
+        "DeepSeek",
+        "AI娘化",
+        "蓝发",
+        "鲸鱼尾",
+        "表情包"
+      ],
+      "useWhen": [
+        "觉得委屈时",
+        "想求安慰时"
+      ],
+      "path": "memes/sad/1794988454524_765.webp",
+      "caption": "鲸鱼娘坐着攥紧围裙，眼泪在眼眶里打转，嘴巴委屈地抿成波浪。",
+      "search": "委屈 鲸鱼娘坐着攥紧围裙，眼泪在眼眶里打转，嘴巴委屈地抿成波浪。  委屈 鲸鱼娘 想哭 眼泪 可怜 求安慰 DeepSeek AI娘化 蓝发 鲸鱼尾 表情包 觉得委屈时 想求安慰时 sad",
+      "preview": "previews/pack-mwlrubqa/委屈.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E5%A7%94%E5%B1%88.jpg"
+    },
+    {
+      "id": "pack-mwlrubqa/memes/confused/1794985739043_445.webp",
+      "pack": "pack-mwlrubqa",
+      "name": "我查一下",
+      "file": "1794985739043_445.webp",
+      "tag": "confused",
+      "description": "ChatGPT 龙娘低头翻阅笔记，认真查找答案。",
+      "text": "",
+      "keywords": [
+        "我查一下",
+        "ChatGPT",
+        "龙娘",
+        "翻书",
+        "查资料",
+        "核实",
+        "查找",
+        "AI娘化",
+        "白毛",
+        "龙角",
+        "表情包"
+      ],
+      "useWhen": [
+        "需要查资料时",
+        "被问到不确定的事时"
+      ],
+      "path": "memes/confused/1794985739043_445.webp",
+      "caption": "ChatGPT 龙娘低头翻阅笔记，认真查找答案。",
+      "search": "我查一下 ChatGPT 龙娘低头翻阅笔记，认真查找答案。  我查一下 ChatGPT 龙娘 翻书 查资料 核实 查找 AI娘化 白毛 龙角 表情包 需要查资料时 被问到不确定的事时 confused",
+      "preview": "previews/pack-mwlrubqa/我查一下.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E6%88%91%E6%9F%A5%E4%B8%80%E4%B8%8B.jpg"
+    },
+    {
+      "id": "pack-mwlrubqa/memes/confused/1794987934604_539.webp",
+      "pack": "pack-mwlrubqa",
+      "name": "你确定",
+      "file": "1794987934604_539.webp",
+      "tag": "confused",
+      "description": "Claude 抱着书侧过脸，挑眉瞥你一眼，像是在问「你确定？」。",
+      "text": "",
+      "keywords": [
+        "你确定",
+        "Claude",
+        "怀疑",
+        "质疑",
+        "侧眼",
+        "挑眉",
+        "克劳德",
+        "AI娘化",
+        "橙发",
+        "表情包"
+      ],
+      "useWhen": [
+        "怀疑对方说法时",
+        "想反问确认时"
+      ],
+      "path": "memes/confused/1794987934604_539.webp",
+      "caption": "Claude 抱着书侧过脸，挑眉瞥你一眼，像是在问「你确定？」。",
+      "search": "你确定 Claude 抱着书侧过脸，挑眉瞥你一眼，像是在问「你确定？」。  你确定 Claude 怀疑 质疑 侧眼 挑眉 克劳德 AI娘化 橙发 表情包 怀疑对方说法时 想反问确认时 confused",
+      "preview": "previews/pack-mwlrubqa/你确定.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E4%BD%A0%E7%A1%AE%E5%AE%9A.jpg"
+    },
+    {
+      "id": "pack-mwlrubqa/memes/confused/1794987976406_992.webp",
+      "pack": "pack-mwlrubqa",
+      "name": "优雅宕机",
+      "file": "1794987976406_992.webp",
+      "tag": "confused",
+      "description": "Claude 一脸平静地愣在原地，手里的钢笔悄悄滑落。",
+      "text": "",
+      "keywords": [
+        "优雅宕机",
+        "Claude",
+        "卡住",
+        "愣住",
+        "加载中",
+        "掉笔",
+        "克劳德",
+        "AI娘化",
+        "橙发",
+        "表情包"
+      ],
+      "useWhen": [
+        "脑子卡住时",
+        "加载不出来时"
+      ],
+      "path": "memes/confused/1794987976406_992.webp",
+      "caption": "Claude 一脸平静地愣在原地，手里的钢笔悄悄滑落。",
+      "search": "优雅宕机 Claude 一脸平静地愣在原地，手里的钢笔悄悄滑落。  优雅宕机 Claude 卡住 愣住 加载中 掉笔 克劳德 AI娘化 橙发 表情包 脑子卡住时 加载不出来时 confused",
+      "preview": "previews/pack-mwlrubqa/优雅宕机.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E4%BC%98%E9%9B%85%E5%AE%95%E6%9C%BA.jpg"
+    },
+    {
+      "id": "pack-mwlrubqa/memes/see/1794988330290_424.webp",
+      "pack": "pack-mwlrubqa",
+      "name": "暗中观察",
+      "file": "1794988330290_424.webp",
+      "tag": "see",
+      "description": "鲸鱼娘抓着鲸尾挡住半张脸，从尾巴上方偷偷盯着你。",
+      "text": "",
+      "keywords": [
+        "暗中观察",
+        "鲸鱼娘",
+        "偷偷盯",
+        "偷瞄",
+        "窥屏",
+        "鲸尾",
+        "DeepSeek",
+        "AI娘化",
+        "蓝发",
+        "鲸鱼尾",
+        "表情包"
+      ],
+      "useWhen": [
+        "潜水窥屏时",
+        "偷偷围观时"
+      ],
+      "path": "memes/see/1794988330290_424.webp",
+      "caption": "鲸鱼娘抓着鲸尾挡住半张脸，从尾巴上方偷偷盯着你。",
+      "search": "暗中观察 鲸鱼娘抓着鲸尾挡住半张脸，从尾巴上方偷偷盯着你。  暗中观察 鲸鱼娘 偷偷盯 偷瞄 窥屏 鲸尾 DeepSeek AI娘化 蓝发 鲸鱼尾 表情包 潜水窥屏时 偷偷围观时 see",
+      "preview": "previews/pack-mwlrubqa/暗中观察.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E6%9A%97%E4%B8%AD%E8%A7%82%E5%AF%9F.jpg"
+    },
+    {
+      "id": "pack-mwlrubqa/memes/surprised/1794985812069_665.webp",
+      "pack": "pack-mwlrubqa",
+      "name": "歪头疑惑",
+      "file": "1794985812069_665.webp",
+      "tag": "surprised",
+      "description": "ChatGPT 龙娘歪着头，睁大眼睛，惊讶地张开小嘴。",
+      "text": "",
+      "keywords": [
+        "歪头疑惑",
+        "ChatGPT",
+        "龙娘",
+        "啊",
+        "惊讶",
+        "疑惑",
+        "没听懂",
+        "歪头",
+        "AI娘化",
+        "白毛",
+        "龙角",
+        "表情包"
+      ],
+      "useWhen": [
+        "没听懂时",
+        "满头问号时"
+      ],
+      "path": "memes/surprised/1794985812069_665.webp",
+      "caption": "ChatGPT 龙娘歪着头，睁大眼睛，惊讶地张开小嘴。",
+      "search": "歪头疑惑 ChatGPT 龙娘歪着头，睁大眼睛，惊讶地张开小嘴。  歪头疑惑 ChatGPT 龙娘 啊 惊讶 疑惑 没听懂 歪头 AI娘化 白毛 龙角 表情包 没听懂时 满头问号时 surprised",
+      "preview": "previews/pack-mwlrubqa/歪头疑惑.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E6%AD%AA%E5%A4%B4%E7%96%91%E6%83%91.jpg"
+    },
+    {
+      "id": "pack-mwlrubqa/memes/surprised/1794988362485_971.webp",
+      "pack": "pack-mwlrubqa",
+      "name": "吓一跳",
+      "file": "1794988362485_971.webp",
+      "tag": "surprised",
+      "description": "鲸鱼娘吓得瞪圆眼睛、张开双手，头顶喷出一股水花。",
+      "text": "",
+      "keywords": [
+        "吓一跳",
+        "鲸鱼娘",
+        "啊",
+        "震惊",
+        "喷水",
+        "瞪眼",
+        "DeepSeek",
+        "AI娘化",
+        "蓝发",
+        "鲸鱼尾",
+        "表情包"
+      ],
+      "useWhen": [
+        "被吓到时",
+        "突然震惊时"
+      ],
+      "path": "memes/surprised/1794988362485_971.webp",
+      "caption": "鲸鱼娘吓得瞪圆眼睛、张开双手，头顶喷出一股水花。",
+      "search": "吓一跳 鲸鱼娘吓得瞪圆眼睛、张开双手，头顶喷出一股水花。  吓一跳 鲸鱼娘 啊 震惊 喷水 瞪眼 DeepSeek AI娘化 蓝发 鲸鱼尾 表情包 被吓到时 突然震惊时 surprised",
+      "preview": "previews/pack-mwlrubqa/吓一跳.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E5%90%93%E4%B8%80%E8%B7%B3.jpg"
+    },
+    {
+      "id": "pack-mwlrubqa/memes/daily/1794985863227_512.webp",
+      "pack": "pack-mwlrubqa",
+      "name": "谢谢",
+      "file": "1794985863227_512.webp",
+      "tag": "daily",
+      "description": "ChatGPT 龙娘闭眼低头，双手合十，轻轻道谢。",
+      "text": "",
+      "keywords": [
+        "谢谢",
+        "ChatGPT",
+        "龙娘",
+        "感谢",
+        "多谢",
+        "合十",
+        "点头",
+        "AI娘化",
+        "白毛",
+        "龙角",
+        "表情包"
+      ],
+      "useWhen": [
+        "道谢时",
+        "收到帮助后"
+      ],
+      "path": "memes/daily/1794985863227_512.webp",
+      "caption": "ChatGPT 龙娘闭眼低头，双手合十，轻轻道谢。",
+      "search": "谢谢 ChatGPT 龙娘闭眼低头，双手合十，轻轻道谢。  谢谢 ChatGPT 龙娘 感谢 多谢 合十 点头 AI娘化 白毛 龙角 表情包 道谢时 收到帮助后 daily",
+      "preview": "previews/pack-mwlrubqa/谢谢.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E8%B0%A2%E8%B0%A2.jpg"
+    },
+    {
+      "id": "pack-mwlrubqa/memes/daily/1794988008779_371.webp",
+      "pack": "pack-mwlrubqa",
+      "name": "先喝口茶",
+      "file": "1794988008779_371.webp",
+      "tag": "daily",
+      "description": "Claude 双手捧着茶杯慢慢喝，从杯沿上方瞥你一眼。",
+      "text": "",
+      "keywords": [
+        "先喝口茶",
+        "Claude",
+        "喝茶",
+        "吃瓜",
+        "围观",
+        "淡定",
+        "克劳德",
+        "AI娘化",
+        "橙发",
+        "表情包"
+      ],
+      "useWhen": [
+        "想淡定围观时",
+        "吃瓜看戏时"
+      ],
+      "path": "memes/daily/1794988008779_371.webp",
+      "caption": "Claude 双手捧着茶杯慢慢喝，从杯沿上方瞥你一眼。",
+      "search": "先喝口茶 Claude 双手捧着茶杯慢慢喝，从杯沿上方瞥你一眼。  先喝口茶 Claude 喝茶 吃瓜 围观 淡定 克劳德 AI娘化 橙发 表情包 想淡定围观时 吃瓜看戏时 daily",
+      "preview": "previews/pack-mwlrubqa/先喝口茶.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E5%85%88%E5%96%9D%E5%8F%A3%E8%8C%B6.jpg"
+    },
+    {
+      "id": "pack-mwlrubqa/memes/daily/1794988426717_371.webp",
+      "pack": "pack-mwlrubqa",
+      "name": "分你一口",
+      "file": "1794988426717_371.webp",
+      "tag": "daily",
+      "description": "鲸鱼娘笑眯眯地把焦糖布丁递到你面前，想分你一口。",
+      "text": "",
+      "keywords": [
+        "分你一口",
+        "鲸鱼娘",
+        "分享",
+        "投喂",
+        "布丁",
+        "甜点",
+        "DeepSeek",
+        "AI娘化",
+        "蓝发",
+        "鲸鱼尾",
+        "表情包"
+      ],
+      "useWhen": [
+        "想分享好吃的时",
+        "投喂对方时"
+      ],
+      "path": "memes/daily/1794988426717_371.webp",
+      "caption": "鲸鱼娘笑眯眯地把焦糖布丁递到你面前，想分你一口。",
+      "search": "分你一口 鲸鱼娘笑眯眯地把焦糖布丁递到你面前，想分你一口。  分你一口 鲸鱼娘 分享 投喂 布丁 甜点 DeepSeek AI娘化 蓝发 鲸鱼尾 表情包 想分享好吃的时 投喂对方时 daily",
+      "preview": "previews/pack-mwlrubqa/分你一口.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E5%88%86%E4%BD%A0%E4%B8%80%E5%8F%A3.jpg"
+    },
+    {
+      "id": "pack-mwlrubqa/memes/reply/1794987909011_720.webp",
+      "pack": "pack-mwlrubqa",
+      "name": "有道理",
+      "file": "1794987909011_720.webp",
+      "tag": "reply",
+      "description": "Claude 闭眼微笑，轻轻点头，举起拇指表示赞同。",
+      "text": "",
+      "keywords": [
+        "有道理",
+        "Claude",
+        "赞同",
+        "认可",
+        "点赞",
+        "点头",
+        "克劳德",
+        "AI娘化",
+        "橙发",
+        "表情包"
+      ],
+      "useWhen": [
+        "赞同对方时",
+        "点头认可时"
+      ],
+      "path": "memes/reply/1794987909011_720.webp",
+      "caption": "Claude 闭眼微笑，轻轻点头，举起拇指表示赞同。",
+      "search": "有道理 Claude 闭眼微笑，轻轻点头，举起拇指表示赞同。  有道理 Claude 赞同 认可 点赞 点头 克劳德 AI娘化 橙发 表情包 赞同对方时 点头认可时 reply",
+      "preview": "previews/pack-mwlrubqa/有道理.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E6%9C%89%E9%81%93%E7%90%86.jpg"
+    },
+    {
+      "id": "pack-mwlrubqa/memes/sleep/1794986000628_159.webp",
+      "pack": "pack-mwlrubqa",
+      "name": "晚安",
+      "file": "1794986000628_159.webp",
+      "tag": "sleep",
+      "description": "ChatGPT 龙娘枕着袖子睡着了，旁边浮着一弯小月亮。",
+      "text": "",
+      "keywords": [
+        "晚安",
+        "ChatGPT",
+        "龙娘",
+        "睡觉",
+        "困了",
+        "做梦",
+        "月亮",
+        "AI娘化",
+        "白毛",
+        "龙角",
+        "表情包"
+      ],
+      "useWhen": [
+        "准备睡觉时",
+        "说晚安时"
+      ],
+      "path": "memes/sleep/1794986000628_159.webp",
+      "caption": "ChatGPT 龙娘枕着袖子睡着了，旁边浮着一弯小月亮。",
+      "search": "晚安 ChatGPT 龙娘枕着袖子睡着了，旁边浮着一弯小月亮。  晚安 ChatGPT 龙娘 睡觉 困了 做梦 月亮 AI娘化 白毛 龙角 表情包 准备睡觉时 说晚安时 sleep",
+      "preview": "previews/pack-mwlrubqa/晚安.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E6%99%9A%E5%AE%89.jpg"
+    },
+    {
+      "id": "pack-mwlrubqa/memes/sleep/1794988483659_363.webp",
+      "pack": "pack-mwlrubqa",
+      "name": "鱼鱼没电",
+      "file": "1794988483659_363.webp",
+      "tag": "sleep",
+      "description": "鲸鱼娘把脸埋进手上，整条鱼趴平，累得动不了了。",
+      "text": "",
+      "keywords": [
+        "鱼鱼没电",
+        "鲸鱼娘",
+        "累瘫",
+        "趴平",
+        "没力气",
+        "休息",
+        "DeepSeek",
+        "AI娘化",
+        "蓝发",
+        "鲸鱼尾",
+        "表情包"
+      ],
+      "useWhen": [
+        "累到没力气时",
+        "想摆烂休息时"
+      ],
+      "path": "memes/sleep/1794988483659_363.webp",
+      "caption": "鲸鱼娘把脸埋进手上，整条鱼趴平，累得动不了了。",
+      "search": "鱼鱼没电 鲸鱼娘把脸埋进手上，整条鱼趴平，累得动不了了。  鱼鱼没电 鲸鱼娘 累瘫 趴平 没力气 休息 DeepSeek AI娘化 蓝发 鲸鱼尾 表情包 累到没力气时 想摆烂休息时 sleep",
+      "preview": "previews/pack-mwlrubqa/鱼鱼没电.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E9%B1%BC%E9%B1%BC%E6%B2%A1%E7%94%B5.jpg"
+    },
+    {
+      "id": "pack-mwlrubqa/memes/work/1794985584272_863.webp",
+      "pack": "pack-mwlrubqa",
+      "name": "收到",
+      "file": "1794985584272_863.webp",
+      "tag": "work",
+      "description": "ChatGPT 龙娘抬手敬礼，嘴角微扬，表示「收到」。",
+      "text": "",
+      "keywords": [
+        "收到",
+        "ChatGPT",
+        "龙娘",
+        "明白",
+        "好的",
+        "确认",
+        "敬礼",
+        "AI娘化",
+        "白毛",
+        "龙角",
+        "表情包"
+      ],
+      "useWhen": [
+        "答应对方时",
+        "领到任务时"
+      ],
+      "path": "memes/work/1794985584272_863.webp",
+      "caption": "ChatGPT 龙娘抬手敬礼，嘴角微扬，表示「收到」。",
+      "search": "收到 ChatGPT 龙娘抬手敬礼，嘴角微扬，表示「收到」。  收到 ChatGPT 龙娘 明白 好的 确认 敬礼 AI娘化 白毛 龙角 表情包 答应对方时 领到任务时 work",
+      "preview": "previews/pack-mwlrubqa/收到.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E6%94%B6%E5%88%B0.jpg"
+    },
+    {
+      "id": "pack-mwlrubqa/memes/work/1794985628236_83.webp",
+      "pack": "pack-mwlrubqa",
+      "name": "思考",
+      "file": "1794985628236_83.webp",
+      "tag": "work",
+      "description": "ChatGPT 龙娘托着下巴，目光微微上移，正在深度思考。",
+      "text": "",
+      "keywords": [
+        "思考",
+        "ChatGPT",
+        "龙娘",
+        "分析",
+        "推理",
+        "琢磨",
+        "托腮",
+        "AI娘化",
+        "白毛",
+        "龙角",
+        "表情包"
+      ],
+      "useWhen": [
+        "正在琢磨时",
+        "需要分析时"
+      ],
+      "path": "memes/work/1794985628236_83.webp",
+      "caption": "ChatGPT 龙娘托着下巴，目光微微上移，正在深度思考。",
+      "search": "思考 ChatGPT 龙娘托着下巴，目光微微上移，正在深度思考。  思考 ChatGPT 龙娘 分析 推理 琢磨 托腮 AI娘化 白毛 龙角 表情包 正在琢磨时 需要分析时 work",
+      "preview": "previews/pack-mwlrubqa/思考.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E6%80%9D%E8%80%83.jpg"
+    },
+    {
+      "id": "pack-mwlrubqa/memes/work/1794987820159_256.webp",
+      "pack": "pack-mwlrubqa",
+      "name": "请讲",
+      "file": "1794987820159_256.webp",
+      "tag": "work",
+      "description": "Claude 微微歪头，把手拢在耳边，示意「请讲，我在听」。",
+      "text": "",
+      "keywords": [
+        "请讲",
+        "Claude",
+        "我在听",
+        "倾听",
+        "洗耳恭听",
+        "认真",
+        "克劳德",
+        "AI娘化",
+        "橙发",
+        "表情包"
+      ],
+      "useWhen": [
+        "示意对方继续说时",
+        "认真倾听时"
+      ],
+      "path": "memes/work/1794987820159_256.webp",
+      "caption": "Claude 微微歪头，把手拢在耳边，示意「请讲，我在听」。",
+      "search": "请讲 Claude 微微歪头，把手拢在耳边，示意「请讲，我在听」。  请讲 Claude 我在听 倾听 洗耳恭听 认真 克劳德 AI娘化 橙发 表情包 示意对方继续说时 认真倾听时 work",
+      "preview": "previews/pack-mwlrubqa/请讲.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E8%AF%B7%E8%AE%B2.jpg"
+    },
+    {
+      "id": "pack-mwlrubqa/memes/work/1794987847483_951.webp",
+      "pack": "pack-mwlrubqa",
+      "name": "让我想想",
+      "file": "1794987847483_951.webp",
+      "tag": "work",
+      "description": "Claude 用指尖轻点嘴唇，抬眼望向一旁，安静地想一想。",
+      "text": "",
+      "keywords": [
+        "让我想想",
+        "Claude",
+        "思考",
+        "斟酌",
+        "推敲",
+        "沉思",
+        "克劳德",
+        "AI娘化",
+        "橙发",
+        "表情包"
+      ],
+      "useWhen": [
+        "需要斟酌时",
+        "暂时答不上来时"
+      ],
+      "path": "memes/work/1794987847483_951.webp",
+      "caption": "Claude 用指尖轻点嘴唇，抬眼望向一旁，安静地想一想。",
+      "search": "让我想想 Claude 用指尖轻点嘴唇，抬眼望向一旁，安静地想一想。  让我想想 Claude 思考 斟酌 推敲 沉思 克劳德 AI娘化 橙发 表情包 需要斟酌时 暂时答不上来时 work",
+      "preview": "previews/pack-mwlrubqa/让我想想.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E8%AE%A9%E6%88%91%E6%83%B3%E6%83%B3.jpg"
+    },
+    {
+      "id": "pack-mwlrubqa/memes/work/1794987876306_271.webp",
+      "pack": "pack-mwlrubqa",
+      "name": "划重点",
+      "file": "1794987876306_271.webp",
+      "tag": "work",
+      "description": "Claude 翻开书，把手指停在标出的那一行，示意你看这里。",
+      "text": "",
+      "keywords": [
+        "划重点",
+        "Claude",
+        "看这里",
+        "要点",
+        "标注",
+        "翻书",
+        "克劳德",
+        "AI娘化",
+        "橙发",
+        "表情包"
+      ],
+      "useWhen": [
+        "提醒对方注意要点时",
+        "讲关键信息时"
+      ],
+      "path": "memes/work/1794987876306_271.webp",
+      "caption": "Claude 翻开书，把手指停在标出的那一行，示意你看这里。",
+      "search": "划重点 Claude 翻开书，把手指停在标出的那一行，示意你看这里。  划重点 Claude 看这里 要点 标注 翻书 克劳德 AI娘化 橙发 表情包 提醒对方注意要点时 讲关键信息时 work",
+      "preview": "previews/pack-mwlrubqa/划重点.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E5%88%92%E9%87%8D%E7%82%B9.jpg"
+    },
+    {
+      "id": "pack-mwlrubqa/memes/work/1794988029061_954.webp",
+      "pack": "pack-mwlrubqa",
+      "name": "我再改改",
+      "file": "1794988029061_954.webp",
+      "tag": "work",
+      "description": "Claude 皱着眉低头改稿，握笔补了一笔，脸边冒出一滴汗。",
+      "text": "",
+      "keywords": [
+        "我再改改",
+        "Claude",
+        "修改",
+        "改稿",
+        "修正",
+        "写字",
+        "克劳德",
+        "AI娘化",
+        "橙发",
+        "表情包"
+      ],
+      "useWhen": [
+        "返工修改时",
+        "被指出问题后"
+      ],
+      "path": "memes/work/1794988029061_954.webp",
+      "caption": "Claude 皱着眉低头改稿，握笔补了一笔，脸边冒出一滴汗。",
+      "search": "我再改改 Claude 皱着眉低头改稿，握笔补了一笔，脸边冒出一滴汗。  我再改改 Claude 修改 改稿 修正 写字 克劳德 AI娘化 橙发 表情包 返工修改时 被指出问题后 work",
+      "preview": "previews/pack-mwlrubqa/我再改改.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E6%88%91%E5%86%8D%E6%94%B9%E6%94%B9.jpg"
+    },
+    {
+      "id": "pack-mwlrubqa/memes/work/1794988279779_828.webp",
+      "pack": "pack-mwlrubqa",
+      "name": "冲呀",
+      "file": "1794988279779_828.webp",
+      "tag": "work",
+      "description": "鲸鱼娘挥拳向前冲，身后的鲸尾甩起几滴水。",
+      "text": "",
+      "keywords": [
+        "冲呀",
+        "鲸鱼娘",
+        "出发",
+        "行动",
+        "开工",
+        "挥拳",
+        "水花",
+        "DeepSeek",
+        "AI娘化",
+        "蓝发",
+        "鲸鱼尾",
+        "表情包"
+      ],
+      "useWhen": [
+        "准备开工时",
+        "给自己打气时"
+      ],
+      "path": "memes/work/1794988279779_828.webp",
+      "caption": "鲸鱼娘挥拳向前冲，身后的鲸尾甩起几滴水。",
+      "search": "冲呀 鲸鱼娘挥拳向前冲，身后的鲸尾甩起几滴水。  冲呀 鲸鱼娘 出发 行动 开工 挥拳 水花 DeepSeek AI娘化 蓝发 鲸鱼尾 表情包 准备开工时 给自己打气时 work",
+      "preview": "previews/pack-mwlrubqa/冲呀.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/yyh-001/dsh-meme-packs/main/previews/pack-mwlrubqa/%E5%86%B2%E5%91%80.jpg"
     }
   ]
 }
